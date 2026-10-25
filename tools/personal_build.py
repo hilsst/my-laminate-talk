@@ -62,9 +62,36 @@ rep('''  if(c==="session_expired") return "Oturum süresi dolmuş. claude.ai'ye 
   if(c==="upstream") return "Claude şu an yoğun. Birkaç saniye sonra tekrar gönder.";
   if(c==="too_large") return "Mesaj çok uzun. Kısaltıp tekrar gönder.";''')
 
+# --- phrase chips: the ones taken from the partner's reply sit under the reply, not under the learner's message ---
+rep('''- Pick 1-2 useful chunks (multi-word phrases) from your recast or reply that the learner should reuse, each with a short Turkish gloss.''',
+'''- Pick 1-2 useful chunks (multi-word phrases) from your recast, suggestion or reply that the learner should reuse, each with a short Turkish gloss. Mark where each comes from: "from": "recast" for your recast or suggestion, "from": "reply" for your own reply.''')
+rep('''"chunks": [{"en": string, "tr": string}]}`;''', '''"chunks": [{"en": string, "tr": string, "from": "recast" | "reply"}]}`;''')
+rep('''    const chunks=Array.isArray(out?.chunks)?out.chunks:[];
+    const mine=''', '''    const allChunks=Array.isArray(out?.chunks)?out.chunks:[];
+    const chunks=allChunks.filter(c=>c?.from!=="reply"), replyChunks=allChunks.filter(c=>c?.from==="reply");
+    const mine=''')
+rep('''    addMsg("them",reply);
+    turns.push({role:"assistant",content:reply});''', '''    const rb=addMsg("them",reply); if(replyChunks.length) rb.parentElement.append(chunkRow(replyChunks));
+    turns.push({role:"assistant",content:reply});''')
+rep('''    chunks.forEach(c=>c?.en&&savePhrase(''', '''    allChunks.forEach(c=>c?.en&&savePhrase(''')
+
 # --- name and badge, so the personal copy is never mistaken for the shared app ---
 rep('<b id="accName">Laminate Talk</b>', '<b id="accName">Laminate Talk</b> <span style="background:#5b3cc4;color:#fff;border-radius:6px;padding:1px 6px;font-size:.75em">KİŞİSEL</span>')
 h = h.replace('<meta name="theme-color" content="#0d7a69">', '<meta name="theme-color" content="#5b3cc4">', 1)
+
+if os.environ.get('LT_TEST') == '1':
+    # test copy at test/index.html: uses the live copy's files one folder up, no offline worker,
+    # every topic open so changes can be checked anywhere. Delete test/ after going live.
+    rep('<head>\n', '<head>\n<base href="../">\n')
+    assert h.count('location.href).href') == 3, 'asset URL pattern changed'
+    h = h.replace('location.href).href', 'document.baseURI).href')
+    rep('if("serviceWorker" in navigator) addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));', '')
+    rep('</body>', '<script>addEventListener("load",()=>{try{isOpen=()=>true;renderScenList()}catch(e){}})</script></body>')
+    rep('font-size:.75em">KİŞİSEL</span>', 'font-size:.75em">KİŞİSEL</span> <span style="background:#c0392b;color:#fff;border-radius:6px;padding:1px 6px;font-size:.75em">TEST</span>')
+    os.makedirs(os.path.join(OUT, 'test'), exist_ok=True)
+    open(os.path.join(OUT, 'test', 'index.html'), 'w', encoding='utf-8').write(h)
+    print('test copy written to test/index.html')
+    sys.exit()
 open(os.path.join(OUT, 'index.html'), 'w', encoding='utf-8').write(h)
 
 # --- service worker: own cache prefix (both apps share the hilsst.github.io origin, and the main
