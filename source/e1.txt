@@ -1,0 +1,269 @@
+## intro
+### 2
+title: Yeni ekip arkadaşıyla tanışma kahvesi
+brief: Açılış toplantısından sonra Fransa'dan gelen gerilme analizi mühendisiyle kahve içiyorsun. Bu kez soruları sen soruyorsun: onun geçmişini öğren, birlikte nasıl çalışacağınızı konuşun.
+role: a stress engineer from a partner company in France, new to composites and keen to learn from you
+ideas: Söyle: açılış toplantısından sonra Fransız ekipten Claire ile tanıştın ; Anlat: o metal yapılarda deneyimli, kompozitlerde yeni ; Açıkla: sen üretimden ve kür süreçlerinden sorumlusun, o ise analizden ; Öner: haftada bir kısa çevrim içi görüşme yapın ve ortak bir klasör kullanın ; Belirt: ilk konu kanat kaplamasındaki takviye panelleri olacak
+chunks: What's your background? = Geçmişin nedir? / Ne üzerine çalıştın? ; I mainly look after… = Ben daha çok …'e bakıyorum ; It would make sense to… = …mak mantıklı olur ; Let's keep in touch about… = … konusunda iletişimde kalalım ; If you have any questions, just… = Herhangi bir sorun olursa, sadece…
+T: That was a long meeting! I'm Claire, by the way. I'm in the stress team in Toulouse. | Uzun bir toplantıydı! Bu arada ben Claire. Toulouse'daki gerilme analizi ekibindeyim.
+Y: Nice to meet you, Claire. I'm Kemal. So what's your background? Have you always worked on aircraft? | Tanıştığıma memnun oldum Claire. Ben Kemal. Peki geçmişin nedir? Hep uçak üzerine mi çalıştın?
+T: Yes, but mostly metal structures. Composites are quite new for me, to be honest. | Evet ama çoğunlukla metal yapılar. Açıkçası kompozitler benim için oldukça yeni.
+Y: Don't worry, you'll learn fast. I mainly look after manufacturing, so prepreg layup and autoclave cure cycles. | Merak etme, hızlı öğrenirsin. Ben daha çok üretime bakıyorum, yani prepreg serimi ve otoklav kür çevrimleri.
+T: That's perfect, because I'll check your panels with finite element models. How should we work together? | Bu harika, çünkü ben sizin panelleri sonlu elemanlar modelleriyle kontrol edeceğim. Nasıl birlikte çalışalım?
+Y: It would make sense to have a short call every Tuesday, and to share one folder for drawings and test data. | Her salı kısa bir görüşme yapmak ve çizimler ile test verileri için tek bir klasör paylaşmak mantıklı olur.
+T: Good idea. The first topic is the stiffened skin panels, right? | İyi fikir. İlk konu takviyeli kaplama panelleri, değil mi?
+Y: Exactly. Let's keep in touch about them. If you have any questions, just send me a message. | Aynen öyle. Onlar hakkında iletişimde kalalım. Herhangi bir sorun olursa bana mesaj atman yeterli.
+### 3
+title: Yönlendirme kurulunda iş paketini istemek
+brief: Programın yönlendirme kurulunda RTM iş paketinin hangi ortağa verileceği tartışılıyor. Ekibinin deneyimini ve tesisini tanıtarak paketi sizin almanız için ikna et, kapasite itirazlarını yanıtla.
+role: the programme director of the partner company, polite but sceptical, who thinks your site is too small for the work
+ideas: Söyle: RTM iş paketini Türkiye'deki ekibin almak istiyor ; Anlat ekibin deneyimini: on iki mühendis, sekiz yıldır seri RTM üretimi, iki yüz binden fazla parça ; Açıkla tesisi: iki pres, kendi tasarladığınız kalıplar, ultrasonik muayene hücresi ; Yanıtla kapasite itirazını: ikinci vardiya ve gelecek yıl gelecek üçüncü pres ; Kabul et riski ve öner: altı aylık bir ilk parti ile kendinizi kanıtlamak ; Belirt ne istediğini: bu ay sonuna kadar karar ve kalıp verilerine erişim
+chunks: I'd like to make the case for… = … için gerekçelerimi ortaya koymak istiyorum ; We have a proven track record in… = … konusunda kanıtlanmış bir geçmişimiz var ; That's a fair concern = Bu haklı bir endişe ; To put your mind at rest, … = İçinizi rahatlatmak için… ; What we'd need from you is… = Sizden ihtiyacımız olan şey…
+T: Before we assign the RTM work package, I'd like each partner to say what they can bring. Kemal? | RTM iş paketini vermeden önce her ortağın neler katabileceğini söylemesini istiyorum. Kemal?
+Y: Thank you. I'd like to make the case for our site. We have a proven track record in RTM, with more than two hundred thousand parts delivered over eight years. | Teşekkürler. Tesisimiz için gerekçelerimi ortaya koymak istiyorum. RTM konusunda kanıtlanmış bir geçmişimiz var, sekiz yılda iki yüz binden fazla parça teslim ettik.
+T: Impressive numbers, but those were small automotive brackets. These are flight-critical frames, and your site is relatively small. | Etkileyici rakamlar ama bunlar küçük otomotiv braketleriydi. Bunlar uçuş için kritik çerçeveler ve tesisiniz görece küçük.
+Y: That's a fair concern. But the physics doesn't change much. We design our own tools, we monitor every injection, and we have our own ultrasonic inspection cell. | Bu haklı bir endişe. Ama fizik pek değişmiyor. Kalıplarımızı kendimiz tasarlıyoruz, her enjeksiyonu izliyoruz ve kendi ultrasonik muayene hücremiz var.
+T: And capacity? We'll need around four hundred frames a year from 2028. | Peki kapasite? 2028'den itibaren yılda yaklaşık dört yüz çerçeveye ihtiyacımız olacak.
+Y: To put your mind at rest, we'd add a second shift immediately, and a third press is already in next year's investment plan, so we'd have roughly forty per cent spare capacity. | İçinizi rahatlatmak için hemen ikinci vardiyayı ekleriz, üçüncü bir pres de zaten gelecek yılın yatırım planında, yani kabaca yüzde kırk yedek kapasitemiz olur.
+T: I still see a risk. Why should we take it? | Hâlâ bir risk görüyorum. Neden bu riski alalım?
+Y: Because we'd prove ourselves first. Give us a six-month initial batch. What we'd need from you is a decision by the end of the month and access to the tooling data. | Çünkü önce kendimizi kanıtlarız. Bize altı aylık bir ilk parti verin. Sizden ihtiyacımız olan şey ay sonuna kadar bir karar ve kalıp verilerine erişim.
+
+## videocall
+### 2
+title: Bir sonraki görüşmeyi daha iyi planlamak
+brief: Sorunlu görüşmeden sonra ABD'deki meslektaşınla bir sonraki toplantıyı planlıyorsun. Saat farkını, platformu ve büyük test dosyalarının paylaşımını konuşup net bir düzen öner.
+role: a colleague in Boston who is tired of bad calls and wants a simple, reliable routine
+ideas: Söyle: son görüşmede çok zaman kaybettiniz ; Açıkla saat farkını: Türkiye ile Boston arasında yedi saat var ; Öner saati: Türkiye saatiyle dörtte, Boston'da sabah dokuzda ; Öner büyük dosyaları toplantıdan önce paylaşmayı, C-scan dosyaları çok büyük ; Belirt: ilk görüşmeden önce on dakikalık bir bağlantı testi yapacaksın
+chunks: We lost a lot of time = Çok zaman kaybettik ; What time would suit you? = Size hangi saat uyar? ; That works for me = Bu bana uyar ; I'll upload … before the call = Görüşmeden önce …'i yükleyeceğim ; Just to be on the safe side, … = Ne olur ne olmaz diye…
+T: Hi Kemal. Sorry again about yesterday. My connection was awful. | Merhaba Kemal. Dün için tekrar özür dilerim. Bağlantım berbattı.
+Y: Don't worry, but we lost a lot of time. Let's plan the next call better. What time would suit you? | Merak etme ama çok zaman kaybettik. Bir sonraki görüşmeyi daha iyi planlayalım. Size hangi saat uyar?
+T: Mornings are better for me. What's the time difference again? | Sabahlar benim için daha iyi. Saat farkı neydi?
+Y: It's seven hours. So if we start at four in Turkey, it's nine in the morning in Boston. | Yedi saat. Yani Türkiye'de dörtte başlarsak Boston'da sabah dokuz olur.
+T: That works for me. And can you show the inspection results on screen? | Bu bana uyar. Muayene sonuçlarını ekranda gösterebilir misin?
+Y: I'd rather not, because the C-scan files are huge. I'll upload them before the call, so you can open them locally. | Pek istemem, çünkü C-scan dosyaları çok büyük. Görüşmeden önce yükleyeceğim, böylece siz kendi bilgisayarınızda açabilirsiniz.
+T: Great. Should we also use the company platform instead of the free one? | Harika. Ücretsiz olan yerine şirketin platformunu da kullanalım mı?
+Y: Yes. Just to be on the safe side, let's do a ten-minute test on Monday. | Evet. Ne olur ne olmaz diye pazartesi on dakikalık bir test yapalım.
+### 3
+title: Uzaktan ilk parça muayenesi tartışması
+brief: Müşteri, ilk parça muayenesine seyahat etmeden canlı video ile katılmak istiyor. Program yöneticisiyle bunun risklerini ve faydalarını tartış, karma bir çözüm öner ve onu ikna et.
+role: the customer's programme manager, who wants to save travel costs but must still sign off the first article inspection
+ideas: Söyle: tamamen uzaktan ilk parça muayenesine karşı değilsin ama endişelerin var ; Açıkla riski: kamera ile yüzey kusurları ve ölçümler güvenilir şekilde görülemez ; Öner karma çözüm: kalite temsilcisi yerinde, mühendislik ekibi canlı yayında ; Anlat teknik düzenlemeyi: iki sabit kamera, ultrasonik taramanın ekran paylaşımı, ölçüm verileri anında paylaşılır ; Belirt yedek planı: bağlantı koparsa kayıt alınır ve muayene durdurulur ; Sor: cuma gününe kadar katılımcı listesini onaylayıp onaylamayacağını
+chunks: I'm not against it in principle, but… = Prensipte karşı değilim ama… ; The risk is that… = Risk şu ki… ; a hybrid approach = karma bir yaklaşım ; That way, you get the best of both worlds = Böylece iki tarafın da avantajını alırsınız ; Could you confirm … by…? = …'e kadar …'i onaylayabilir misiniz?
+T: Kemal, travel budgets are tight this year. Can we witness the first article inspection fully by video? | Kemal, bu yıl seyahat bütçeleri kısıtlı. İlk parça muayenesini tamamen video ile izleyebilir miyiz?
+Y: I'm not against it in principle, but this is the first spar from a new mould, so it's not a typical inspection. | Prensipte karşı değilim ama bu yeni bir kalıptan çıkan ilk kiriş, yani sıradan bir muayene değil.
+T: What exactly worries you? Video quality is very good nowadays. | Seni tam olarak ne endişelendiriyor? Video kalitesi bugünlerde çok iyi.
+Y: The risk is that a camera won't show surface defects reliably, like dry spots or slight wrinkles, and your inspector can't touch or measure anything himself. | Risk şu ki kamera kuru bölgeler ya da hafif kırışıklıklar gibi yüzey kusurlarını güvenilir şekilde göstermez ve müfettişiniz hiçbir şeye kendisi dokunamaz ya da ölçemez.
+T: So you want our whole team to fly over? | Yani tüm ekibimizin uçakla gelmesini mi istiyorsun?
+Y: No, I'd suggest a hybrid approach. One quality representative on site, and your engineers join live. We'd stream the ultrasonic scan and share the measurement data in real time. | Hayır, karma bir yaklaşım öneririm. Sahada bir kalite temsilcisi, mühendisleriniz ise canlı katılır. Ultrasonik taramayı canlı yayınlar, ölçüm verilerini anında paylaşırız.
+T: And if the connection drops in the middle? | Ya bağlantı ortasında koparsa?
+Y: Then we pause and keep recording, so nothing is lost. That way, you get the best of both worlds. Could you confirm the attendee list by Friday? | O zaman ara verir ve kayda devam ederiz, böylece hiçbir şey kaybolmaz. Böylece iki tarafın da avantajını alırsınız. Katılımcı listesini cumaya kadar onaylayabilir misiniz?
+
+## sick
+### 2
+title: İşe dönüş ve devir teslim
+brief: Üç gün sonra işe döndün. Senin yerine müşteri toplantısını yöneten Ayşe'den neler olduğunu öğreniyorsun. Sorular sor, açık kalan işleri netleştir ve teşekkür et.
+role: your colleague Ayşe, who covered for you in the customer meeting and wants to hand everything back
+ideas: Söyle: üç gün yoktun ve artık daha iyisin ; Sor: müşteri toplantısı nasıl geçti ; Öğren: müşteri gözeneklilik raporunu ve yeni teslim tarihini istedi ; Açıkla: raporu çarşambaya kadar bitireceksin ; Teşekkür et Ayşe'ye ve ona bir iyilik borçlu olduğunu söyle
+chunks: I'm feeling much better = Kendimi çok daha iyi hissediyorum ; Could you fill me in on…? = Beni … hakkında bilgilendirebilir misin? ; Did they mention…? = …'den bahsettiler mi? ; I'll take it from here = Bundan sonrasını ben devralırım ; I owe you one = Sana bir iyilik borçluyum
+T: Welcome back, Kemal! How are you feeling? | Tekrar hoş geldin Kemal! Nasıl hissediyorsun?
+Y: Thanks, Ayşe. I'm feeling much better. Could you fill me in on the customer meeting? | Teşekkürler Ayşe. Kendimi çok daha iyi hissediyorum. Beni müşteri toplantısı hakkında bilgilendirebilir misin?
+T: Sure. It went well overall, but they asked a lot about the porosity on the last panels. | Tabii. Genel olarak iyi geçti ama son panellerdeki gözeneklilik hakkında çok soru sordular.
+Y: I expected that. Did they mention the report? I promised it two weeks ago. | Bunu bekliyordum. Rapordan bahsettiler mi? İki hafta önce söz vermiştim.
+T: Yes, they want it this week. And they'd like to move the delivery to the twentieth. | Evet, bu hafta istiyorlar. Bir de teslimatı ayın yirmisine almak istiyorlar.
+Y: OK. The test data is ready, so I can finish the report by Wednesday. The new date is fine too. | Tamam. Test verileri hazır, yani raporu çarşambaya kadar bitirebilirim. Yeni tarih de uygun.
+T: Great. Here are my notes from the meeting. | Harika. İşte toplantıdan notlarım.
+Y: Thank you so much. I'll take it from here. You really saved me, I owe you one. | Çok teşekkür ederim. Bundan sonrasını ben devralırım. Beni gerçekten kurtardın, sana bir iyilik borçluyum.
+### 3
+title: Yedekleme sistemi önerisi
+brief: Hastalığın, kür çevrimi dosyalarını ve otoklav programlarını sadece senin bildiğini gösterdi. Yöneticine bilgi paylaşımı ve yedek kişi sistemi öner, maliyet ve zaman itirazlarını yanıtla.
+role: your line manager, sympathetic but under budget pressure, who doubts that the team has time for extra training
+ideas: Söyle: yokluğun ekibin zayıf bir noktasını ortaya çıkardı ; Açıkla: otoklav kür programlarını ve müşteri özel gereksinimlerini sadece sen biliyorsun ; Öner: her kritik konu için bir yedek kişi ve kısa yazılı prosedürler ; Yanıtla zaman itirazını: ayda iki saat eğitim, altı ayda bitecek ; Belirt riski ve maliyeti: bir parti hurda yaklaşık kırk bin avro ; İste: bu ay Burak'ı yedek olarak atamasını
+chunks: It made me realise that… = Bu bana …'i fark ettirdi ; a single point of failure = tek bir zayıf halka ; In the long run, … = Uzun vadede… ; It's a small price to pay for… = … için ödenecek küçük bir bedel ; Would you be willing to…? = …meye razı olur musunuz?
+T: Good to have you back. Ayşe did well, but I heard she was calling you about the cure cycles. | Dönmene sevindim. Ayşe iyi iş çıkardı ama kür çevrimleri için seni aradığını duydum.
+Y: Yes, and honestly, it made me realise that I'm a single point of failure. Nobody else knows how the autoclave programs are set up for each customer. | Evet, açıkçası bu bana tek zayıf halka olduğumu fark ettirdi. Her müşteri için otoklav programlarının nasıl ayarlandığını benden başka kimse bilmiyor.
+T: That's not ideal. What do you suggest? | Bu pek iyi değil. Ne öneriyorsun?
+Y: I'd like to name a backup person for every critical process and write short procedures, especially for the cure profiles and the customer-specific requirements. | Her kritik süreç için bir yedek kişi belirlemek ve özellikle kür profilleri ile müşteriye özel gereksinimler için kısa prosedürler yazmak istiyorum.
+T: I like the idea, but everyone is already overloaded. Where would the time come from? | Fikri beğendim ama herkes zaten aşırı yüklü. Zaman nereden gelecek?
+Y: I understand. It's about two hours a month per person, spread over six months. In the long run, it saves far more time than it costs. | Anlıyorum. Kişi başı ayda yaklaşık iki saat, altı aya yayılmış. Uzun vadede harcadığından çok daha fazla zaman kazandırır.
+T: Still, it's time away from the customer projects. | Yine de müşteri projelerinden çalınan zaman.
+Y: True, but one wrong cure cycle can scrap a forty-thousand-euro batch. It's a small price to pay. Would you be willing to assign Burak as my backup? | Doğru ama tek bir yanlış kür çevrimi kırk bin avroluk bir partiyi hurdaya çıkarabilir. Ödenecek küçük bir bedel. Burak'ı yedeğim olarak atamaya razı olur musunuz?
+
+## event
+### 2
+title: Restoranla rezervasyon görüşmesi
+brief: Kutlama yemeği için göl kenarındaki restoranı arıyorsun. Kişi sayısını, menüyü, bütçeyi ve ses düzenini konuşup rezervasyonu netleştir.
+role: the events manager of a lakeside restaurant, helpful and keen to sell a bigger package
+ideas: Söyle: otuz beş kişilik bir ekip yemeği için yer ayırtmak istiyorsun ; Belirt tarihi ve saati: gelecek cuma, akşam yedi ; Sor menüyü: vejetaryen seçenekler ve kişi başı fiyat ; Belirt bütçeyi: kişi başı en fazla kırk avro ; Rica et: kısa konuşma için bir mikrofon ve onayın e-postayla gelmesi
+chunks: I'd like to book… = … ayırtmak istiyorum ; for around … people = yaklaşık … kişi için ; Is there an option for…? = … için bir seçenek var mı? ; Our budget is about… = Bütçemiz yaklaşık… ; Could you send me a confirmation? = Bana bir onay gönderebilir misiniz?
+T: Good afternoon, Lake House restaurant. How can I help you? | İyi günler, Lake House restoranı. Size nasıl yardımcı olabilirim?
+Y: Hello. I'd like to book a table for a team dinner next Friday, for around thirty-five people. | Merhaba. Gelecek cuma bir ekip yemeği için yaklaşık otuz beş kişilik yer ayırtmak istiyorum.
+T: Let me check. Yes, the terrace is free. What time would you like? | Bir bakayım. Evet, teras boş. Saat kaçta istersiniz?
+Y: At seven, please. Is there an option for vegetarians? A few colleagues don't eat meat. | Yedide lütfen. Vejetaryenler için bir seçenek var mı? Birkaç meslektaşım et yemiyor.
+T: Of course. Our set menu is fifty-five euros per person, with drinks. | Elbette. Fiks menümüz içeceklerle birlikte kişi başı elli beş avro.
+Y: That's a bit high. Our budget is about forty euros per person. Is there a simpler menu? | Bu biraz yüksek. Bütçemiz kişi başı yaklaşık kırk avro. Daha basit bir menü var mı?
+T: Yes, the three-course menu is thirty-eight, without wine. | Evet, üç çeşit menü şarapsız otuz sekiz avro.
+Y: Perfect, let's take that. We also need a microphone for a short speech. Could you send me a confirmation by email? | Mükemmel, onu alalım. Kısa bir konuşma için mikrofona da ihtiyacımız var. Bana e-postayla bir onay gönderebilir misiniz?
+### 3
+title: Bütçe kesintisinde etkinlikleri savunmak
+brief: Kutlamadan sonra genel müdür, gelecek yıl maliyetleri düşürmek için ekip etkinliklerini iptal etmeyi düşünüyor. Ekip motivasyonunun önemini savun ve daha ucuz alternatifler öner.
+role: the general manager, friendly but focused on cutting costs by ten per cent next year
+ideas: Söyle: kutlama yemeği ekip üzerinde çok olumlu bir etki bıraktı ; Kabul et maliyet baskısını, bütçeyi anladığını belirt ; Açıkla: yılda iki etkinliğin maliyeti tek bir hurda panelden az ; Anlat: ekip aylarca fazla mesai yaptı ve personel devri riski var ; Öner alternatifler: tesis içinde barbekü, tedarikçi sponsorluğu ; Sor: yılda iki etkinlik için onay verip vermeyeceğini
+chunks: I see where you're coming from, but… = Neden böyle düşündüğünüzü anlıyorum ama… ; It made a real difference to… = …'de gerçek bir fark yarattı ; If you put it in perspective, … = Durumu oranlarsak… ; It's not just about…, it's about… = Mesele sadece … değil, … ; Would you consider…? = …'i düşünür müsünüz?
+T: Kemal, the dinner was lovely, but next year we need to cut costs by ten per cent. Events like this may have to go. | Kemal, yemek çok güzeldi ama gelecek yıl maliyetleri yüzde on düşürmemiz gerekiyor. Bu tür etkinliklerden vazgeçmek zorunda kalabiliriz.
+Y: I see where you're coming from, but I think it would be a false saving. That evening made a real difference to the team's mood. | Neden böyle düşündüğünüzü anlıyorum ama bence bu sahte bir tasarruf olur. O akşam ekibin moralinde gerçek bir fark yarattı.
+T: I don't doubt that. But mood doesn't appear on the balance sheet. | Bundan şüphem yok. Ama moral bilançoda görünmüyor.
+Y: Fair enough. If you put it in perspective, the whole dinner cost about one thousand four hundred euros. That's less than a single scrapped wing panel. | Haklısınız. Durumu oranlarsak, yemeğin tamamı yaklaşık bin dört yüz avroya mal oldu. Bu tek bir hurda kanat panelinden daha az.
+T: Fine, but where do we stop? Every department wants something. | Peki ama nerede duracağız? Her departman bir şey istiyor.
+Y: It's not just about one dinner, it's about keeping people. The team worked weekends for months, and two experienced technicians have already had offers from competitors. | Mesele sadece bir yemek değil, insanları elde tutmak. Ekip aylarca hafta sonları çalıştı ve iki deneyimli teknisyen zaten rakiplerden teklif aldı.
+T: So what would you propose? | O zaman ne önerirsin?
+Y: Two events a year, kept simple. A barbecue at the plant in summer, and our resin supplier has offered to sponsor part of the winter dinner. Would you consider that? | Yılda iki etkinlik, sade tutulmuş. Yazın tesiste bir barbekü, reçine tedarikçimiz de kış yemeğinin bir kısmına sponsor olmayı teklif etti. Bunu düşünür müsünüz?
+
+## hiring
+### 2
+title: Adayla teknik mülakat
+brief: Aday ikinci tura kaldı. Bu kez teknik mülakat yapıyorsun: otoklav kürü, gözeneklilik ve ultrasonik muayene hakkında sorular sorup adayın düşünme biçimini ölç.
+role: the same young candidate, now in a technical interview, smart but with little hands-on experience
+ideas: Söyle: bu turun teknik olduğunu ve gerçek bir üretim sorunu soracağını ; Sor: bir panelde yüzde üç gözeneklilik bulunursa ne yapar ; Değerlendir cevabı: kür basıncı ve vakum kaçağını düşünmesi iyi ; Sor: pratik deneyimini, tez projesini ; Belirt sonraki adımı: kararı cuma günü İK bildirecek
+chunks: In this round, I'd like to focus on… = Bu turda …'e odaklanmak istiyorum ; What would you check first? = İlk olarak neyi kontrol ederdiniz? ; That's a good start = Bu iyi bir başlangıç ; Have you ever worked hands-on with…? = Hiç … ile bizzat çalıştınız mı? ; HR will contact you by… = İK sizinle …'e kadar iletişime geçecek
+T: Thanks for inviting me back. I'm a bit nervous about the technical part. | Beni tekrar davet ettiğiniz için teşekkürler. Teknik kısım için biraz gerginim.
+Y: Don't worry. In this round, I'd like to focus on a real problem from our shop floor. | Merak etmeyin. Bu turda üretim alanımızdan gerçek bir soruna odaklanmak istiyorum.
+T: OK, I'm ready. | Tamam, hazırım.
+Y: Imagine the ultrasonic scan shows three per cent porosity in a skin panel. What would you check first? | Ultrasonik taramanın bir kaplama panelinde yüzde üç gözeneklilik gösterdiğini düşünün. İlk olarak neyi kontrol ederdiniz?
+T: I'd check the autoclave pressure record, and if the vacuum bag had a leak. | Otoklav basınç kaydını ve vakum torbasında kaçak olup olmadığını kontrol ederdim.
+Y: That's a good start. And the prepreg itself? Its out-time can matter too. Have you ever worked hands-on with prepreg? | Bu iyi bir başlangıç. Ya prepregin kendisi? Dışarıda kalma süresi de önemli olabilir. Hiç prepreg ile bizzat çalıştınız mı?
+T: Only in the university lab, for my thesis. We made about twenty small test plates. | Sadece üniversite laboratuvarında, tezim için. Yaklaşık yirmi küçük test plakası yaptık.
+Y: That's useful experience. Thank you, that's all from me. HR will contact you by Friday. | Bu faydalı bir deneyim. Teşekkürler, benden bu kadar. İK sizinle cumaya kadar iletişime geçecek.
+### 3
+title: Bant dışı maaş için İK'yı ikna etmek
+brief: Adayı çok beğendin ama rakip bir firmadan daha yüksek bir teklif almış. İK müdürünü maaş bandının üstünde bir teklif için ikna et, eşitlik itirazlarına karşı uzlaşma öner.
+role: the HR manager, careful about pay fairness and salary bands, who does not want to set a precedent
+ideas: Söyle: aday teknik mülakatta açık ara en iyisiydi ; Açıkla durumu: rakip firma yüzde on beş daha fazla teklif etmiş ; Kabul et adalet endişesini, emsal oluşturma riskini anla ; Anlat iş maliyetini: pozisyon beş aydır boş, dış danışmana ayda dokuz bin avro ödüyorsunuz ; Öner uzlaşma: bant sınırında maaş ve altı ay sonra performansa bağlı artış ; İste: teklifin bu hafta gitmesini
+chunks: stood out by a mile = açık ara öne çıktı ; I'm aware that… = …'in farkındayım ; We can't afford to lose… = …'i kaybetmeyi göze alamayız ; Let's look at the bigger picture = Büyük resme bakalım ; Could we meet halfway? = Ortada buluşabilir miyiz?
+T: You wanted to talk about the candidate. I hear she has another offer. | Aday hakkında konuşmak istemişsin. Başka bir teklif aldığını duydum.
+Y: Yes. Honestly, she stood out by a mile in the technical interview. But a competitor has offered her fifteen per cent above our band. | Evet. Açıkçası teknik mülakatta açık ara öne çıktı. Ama bir rakip ona bizim bandımızın yüzde on beş üstünü teklif etmiş.
+T: That's a problem. If we go above the band, the other junior engineers will hear about it. | Bu bir sorun. Bandın üstüne çıkarsak diğer genç mühendisler bunu duyar.
+Y: I'm aware that fairness matters, and I don't want to create resentment in the team. But we can't afford to lose her after a five-month search. | Adaletin önemli olduğunun farkındayım ve ekipte kırgınlık yaratmak istemem. Ama beş aylık bir aramanın ardından onu kaybetmeyi göze alamayız.
+T: There will always be another candidate. | Her zaman başka bir aday olur.
+Y: Maybe, but let's look at the bigger picture. We're paying a consultant nine thousand euros a month for the stress work. Every extra month costs far more than the salary difference. | Belki ama büyük resme bakalım. Gerilme analizi işi için bir danışmana ayda dokuz bin avro ödüyoruz. Her fazladan ay, maaş farkından çok daha pahalıya geliyor.
+T: I still can't approve fifteen per cent above the band. | Yine de bandın yüzde on beş üstünü onaylayamam.
+Y: Could we meet halfway? We offer the top of the band now, plus a performance-based review after six months. That keeps the structure intact. Could the offer go out this week? | Ortada buluşabilir miyiz? Şimdi bandın en üstünü, artı altı ay sonra performansa bağlı bir değerlendirme teklif ederiz. Bu yapıyı bozmaz. Teklif bu hafta gidebilir mi?
+
+## tech
+### 2
+title: Yazılım firmasına hata bildirmek
+brief: Yeni sonlu elemanlar yazılımı büyük kompozit modellerde çökmeye devam ediyor. Yazılım firmasının destek mühendisini arayıp sorunu ayrıntılı anlat ve geçici bir çözüm iste.
+role: a support engineer at the software vendor, friendly but needs exact details before escalating
+ideas: Söyle: yazılım büyük modellerde çöküyor ve projeyi geciktiriyor ; Ayrıntıları ver: iki milyon eleman, yüz yirmi katlı laminat, sürüm 2026.1 ; Açıkla: çökme her zaman sonuçlar kaydedilirken oluyor ; Gönder: hata kaydını ve model dosyasını ; Sor: geçici bir çözüm ve düzeltmenin ne zaman geleceği
+chunks: It keeps happening when… = … olduğunda sürekli oluyor ; Here are the details = İşte ayrıntılar ; It's holding up… = …'i geciktiriyor ; Is there a workaround? = Geçici bir çözüm var mı? ; When can we expect…? = … ne zaman bekleyebiliriz?
+T: Hello, this is technical support. I understand the solver is crashing? | Merhaba, teknik destekten arıyorum. Çözücünün çöktüğünü anlıyorum, doğru mu?
+Y: Yes, and it's holding up a customer project. It keeps happening when I save the results of large models. | Evet ve bir müşteri projesini geciktiriyor. Büyük modellerin sonuçlarını kaydettiğimde sürekli oluyor.
+T: How large is the model, roughly? | Model kabaca ne büyüklükte?
+Y: Here are the details: about two million elements, and the laminate has a hundred and twenty plies. We use version 2026.1. | İşte ayrıntılar: yaklaşık iki milyon eleman ve laminat yüz yirmi kat. 2026.1 sürümünü kullanıyoruz.
+T: Thanks. Does it crash with smaller models too? | Teşekkürler. Daha küçük modellerde de çöküyor mu?
+Y: No, models under one million elements run fine. I can send you the error log and a copy of the model. | Hayır, bir milyonun altındaki modeller sorunsuz çalışıyor. Size hata kaydını ve modelin bir kopyasını gönderebilirim.
+T: Please do. It might be a memory problem in the result writer. | Lütfen gönderin. Sonuç yazma modülünde bir bellek sorunu olabilir.
+Y: OK. Is there a workaround for now? And when can we expect a fix? | Tamam. Şimdilik geçici bir çözüm var mı? Bir de düzeltmeyi ne zaman bekleyebiliriz?
+### 3
+title: Yapay zeka ile C-scan değerlendirmesi önerisi
+brief: Ultrasonik C-scan görüntülerindeki kusurları işaretleyen bir yapay zeka aracını denemek istiyorsun. Yönetim toplantısında kalite müdürünün sertifikasyon ve izlenebilirlik itirazlarını yanıtlayarak pilot projeyi savun.
+role: the quality manager, experienced and cautious, who worries about certification, traceability and blind trust in software
+ideas: Söyle: yapay zeka aracıyla üç aylık bir pilot öneriyorsun ; Açıkla faydayı: bir operatör kanat kaplaması başına iki buçuk saat harcıyor, araç bunu yarıya indirebilir ; Yanıtla sertifikasyon endişesini: araç sadece işaretler, son kararı Seviye 2 sertifikalı operatör verir ; Anlat doğrulamayı: geçmiş beş yüz taramayla karşılaştırma, kaçırılan kusur oranı ölçülür ; Belirt veri güvenliğini: yazılım şirket sunucusunda çalışır, veri dışarı çıkmaz ; Sor: pilot için onay ve kalite ekibinden bir kişi
+chunks: I'd like to propose a pilot = Bir pilot proje önermek istiyorum ; to free up time for… = … için zaman açmak ; I'd like to be clear that… = …'i açıkça belirtmek isterim ; We'd validate it against… = Onu …'e karşı doğrulardık ; With your support, … = Sizin desteğinizle…
+T: Kemal, you wanted to talk about using AI in inspection. I have to say, I'm sceptical. | Kemal, muayenede yapay zeka kullanmak hakkında konuşmak istemişsin. Söylemeliyim ki şüpheliyim.
+Y: I understand. I'd like to propose a three-month pilot. Our operators spend about two and a half hours on every wing skin C-scan, and the tool could cut that roughly in half. | Anlıyorum. Üç aylık bir pilot proje önermek istiyorum. Operatörlerimiz her kanat kaplaması C-scan'ine yaklaşık iki buçuk saat harcıyor ve araç bunu kabaca yarıya indirebilir.
+T: Speed is not my concern. Our customers and the authorities expect a certified human to make the call. | Hız benim derdim değil. Müşterilerimiz ve otoriteler kararı sertifikalı bir insanın vermesini bekliyor.
+Y: I'd like to be clear that nothing changes there. The software only highlights suspicious areas. A Level 2 operator still reviews every scan and signs it off. | Bunun değişmediğini açıkça belirtmek isterim. Yazılım sadece şüpheli alanları işaretler. Seviye 2 bir operatör yine her taramayı inceler ve onaylar.
+T: And if people start trusting the software blindly and miss a delamination? | Peki ya insanlar yazılıma körü körüne güvenmeye başlar ve bir delaminasyonu kaçırırsa?
+Y: That's exactly why we'd validate it against five hundred old scans with known defects first. We'd measure the miss rate, and operators would scan every part fully during the pilot. | İşte tam da bu yüzden onu önce bilinen kusurları olan beş yüz eski taramaya karşı doğrulardık. Kaçırma oranını ölçerdik ve pilot boyunca operatörler her parçayı tamamen tarardı.
+T: What about data? I don't want our scans on some cloud server abroad. | Ya veriler? Taramalarımızın yurt dışında bir bulut sunucusunda olmasını istemem.
+Y: Agreed. It runs on our own server, so no data leaves the plant. With your support, we could start in November. Could you give us one person from your team? | Katılıyorum. Kendi sunucumuzda çalışıyor, yani hiçbir veri tesisten çıkmıyor. Sizin desteğinizle kasımda başlayabiliriz. Ekibinizden bize bir kişi verebilir misiniz?
+
+## review
+### 2
+title: Genç mühendise geri bildirim vermek
+brief: Bu kez sen yöneticisin: ekibindeki genç mühendis Burak'la performans görüşmesi yapıyorsun. Başarılarını öv, raporlarındaki eksikleri nazikçe belirt ve gelişim için hedef koy.
+role: Burak, a junior engineer in your team, motivated but sometimes careless with documentation
+ideas: Söyle: genel olarak iyi bir yıl geçirdiğini ; Öv: kalıp ayırıcı değişikliğiyle yüzey kusurlarını azalttı ; Belirt eksikliği: test raporlarında birimler ve numune numaraları bazen eksik ; Öner: rapor göndermeden önce kısa bir kontrol listesi kullanmak ; Kararlaştır hedefi: gelecek yıl bir müşteri sunumunu kendisi yapacak
+chunks: Overall, … = Genel olarak… ; I was really impressed by… = …'den gerçekten etkilendim ; One thing to work on is… = Üzerinde çalışılması gereken bir şey… ; How do you see it? = Sen nasıl görüyorsun? ; Next year, I'd like you to… = Gelecek yıl …'mesini istiyorum
+T: Hi Kemal. I'm a bit nervous, to be honest. This is my first review. | Merhaba Kemal. Açıkçası biraz gerginim. Bu benim ilk değerlendirmem.
+Y: No need to be. Overall, it's been a good year. I was really impressed by your work on the release agent. | Gerek yok. Genel olarak iyi bir yıl oldu. Kalıp ayırıcı konusundaki çalışmandan gerçekten etkilendim.
+T: Thanks. Changing it reduced the surface defects quite a lot. | Teşekkürler. Onu değiştirmek yüzey kusurlarını epey azalttı.
+Y: Yes, from twelve panels a month to three. One thing to work on is your test reports. Units are sometimes missing. | Evet, ayda on iki panelden üçe. Üzerinde çalışılması gereken bir şey test raporların. Bazen birimler eksik oluyor.
+T: That's true. I usually write them in a hurry at the end of the day. | Doğru. Genelde onları gün sonunda aceleyle yazıyorum.
+Y: I understand. A short checklist before you send them could help. How do you see it? | Anlıyorum. Göndermeden önce kısa bir kontrol listesi yardımcı olabilir. Sen nasıl görüyorsun?
+T: Good idea. I'll make one this week. What about next year? | İyi fikir. Bu hafta bir tane hazırlarım. Peki gelecek yıl?
+Y: Next year, I'd like you to present the release agent results to the customer yourself. | Gelecek yıl kalıp ayırıcı sonuçlarını müşteriye kendinin sunmanı istiyorum.
+### 3
+title: Terfi kurulunda kendini savunmak
+brief: Kıdemli mühendislikten baş mühendisliğe terfi için direktörlerin önüne çıkıyorsun. Katkılarını somut rakamlarla anlat, raporlama ve müşteri deneyimiyle ilgili eleştirilere dürüstçe cevap ver.
+role: the engineering director on the promotion panel, respectful but tough, who tests how you handle criticism
+ideas: Söyle: neden baş mühendis olmaya hazır olduğunu düşündüğünü ; Anlat sonuçları: hurda oranı yüzde dokuzdan beşe, yılda yaklaşık üç yüz bin avro tasarruf ; Kabul et eleştiriyi: raporların gecikmesi, nedenini açıkla ve aldığın önlemi anlat ; Yanıtla müşteri deneyimi itirazını: bu yıl iki müşteri denetimini sen yönettin ; Açıkla liderliğini: genç mühendisleri yetiştirdin, yedek sistemi kurdun ; Sor: terfi için hâlâ eksik görülen şeyi
+chunks: I believe I'm ready to… = …'e hazır olduğuma inanıyorum ; to put it in numbers, … = rakamlarla ifade edersek… ; I won't pretend that… = …mış gibi yapmayacağım ; I've taken steps to… = … için adımlar attım ; If there's a gap, I'd rather hear it now = Bir eksik varsa bunu şimdi duymayı tercih ederim
+T: Kemal, why do you think you're ready to become a lead engineer? | Kemal, baş mühendis olmaya neden hazır olduğunu düşünüyorsun?
+Y: I believe I'm ready to own results, not just tasks. To put it in numbers, we cut scrap from nine to five per cent, saving about three hundred thousand euros a year. | Sadece görevlerin değil, sonuçların sahibi olmaya hazır olduğuma inanıyorum. Rakamlarla ifade edersek, hurdayı yüzde dokuzdan beşe düşürdük, bu da yılda yaklaşık üç yüz bin avro tasarruf demek.
+T: Impressive. But your manager mentions that your reports are often late. A lead engineer has to be reliable. | Etkileyici. Ama yöneticin raporlarının sık sık geciktiğini belirtiyor. Bir baş mühendisin güvenilir olması gerekir.
+Y: I won't pretend that wasn't an issue. I tried to do everything myself. I've taken steps to fix it: I now delegate data processing, and the last six reports were on time. | Bunun bir sorun olmadığını iddia etmeyeceğim. Her şeyi kendim yapmaya çalışıyordum. Bunu düzeltmek için adımlar attım: artık veri işlemeyi devrediyorum ve son altı rapor zamanında teslim edildi.
+T: Good. Another concern is customer exposure. You rarely face customers directly. | Güzel. Bir diğer endişe müşteriyle temas. Müşterilerle nadiren doğrudan muhatap oluyorsun.
+Y: That was true until last year. This year I led two customer audits myself, including the new spar qualification, and both passed without major findings. | Bu geçen yıla kadar doğruydu. Bu yıl yeni kirişin kalifikasyonu dahil iki müşteri denetimini bizzat yönettim ve ikisi de büyük bulgu olmadan geçti.
+T: And what about leading people? | Peki ya insanları yönetmek?
+Y: I've coached two junior engineers and set up a backup system for critical processes. If there's a gap, I'd rather hear it now. What's still missing? | İki genç mühendise mentorluk yaptım ve kritik süreçler için bir yedek sistemi kurdum. Bir eksik varsa bunu şimdi duymayı tercih ederim. Hâlâ eksik olan ne?
+
+## complaint
+### 2
+title: Nakliye firmasıyla hasar görüşmesi
+brief: Fotoğraflar, hasarın paketlemeden değil nakliyeden kaynaklandığını gösteriyor. Nakliye firmasının müşteri temsilcisini arayıp ne olduğunu sor, kanıtları anlat ve tazminat talebi aç.
+role: an account manager at the transport company, polite but careful not to accept responsibility too quickly
+ideas: Söyle: geçen hafta müşteriye giden yirmi panelin beşi çatlak ulaştı ; Açıkla kanıtı: sandık köşesi ezik, şok sensörü kırmızı ; Sor: aktarma deposunda ne olduğunu ; Belirt maliyeti: beş panel ve ekspres gönderim yaklaşık on iki bin avro ; İste: hasar talebi formunu ve bundan sonra dikkatli taşıma etiketlerine uyulmasını
+chunks: I'm calling about… = … hakkında arıyorum ; According to the photos, … = Fotoğraflara göre… ; Could you find out…? = …'i öğrenebilir misiniz? ; I'd like to file a claim = Tazminat talebinde bulunmak istiyorum ; From now on, … = Bundan sonra…
+T: Good morning, Kemal. How can I help you today? | Günaydın Kemal. Bugün size nasıl yardımcı olabilirim?
+Y: I'm calling about last week's delivery to Germany. Five of the twenty panels arrived cracked. | Geçen haftaki Almanya teslimatı hakkında arıyorum. Yirmi panelin beşi çatlak ulaştı.
+T: I'm sorry to hear that. Are you sure it happened during transport? | Bunu duyduğuma üzüldüm. Nakliye sırasında olduğundan emin misiniz?
+Y: Yes. According to the photos, one corner of the crate is crushed, and the shock sensor turned red. | Evet. Fotoğraflara göre sandığın bir köşesi ezik ve şok sensörü kırmızıya dönmüş.
+T: I see. The crate went through our hub in Vienna. | Anlıyorum. Sandık Viyana'daki aktarma merkezimizden geçti.
+Y: Could you find out what happened there? Maybe it was dropped by a forklift. | Orada ne olduğunu öğrenebilir misiniz? Belki bir forklift düşürmüştür.
+T: I'll ask the hub manager today. What is the total damage? | Bugün aktarma merkezi müdürüne soracağım. Toplam hasar ne kadar?
+Y: About twelve thousand euros. I'd like to file a claim. And from now on, please respect the fragile labels. | Yaklaşık on iki bin avro. Tazminat talebinde bulunmak istiyorum. Ve bundan sonra lütfen kırılabilir etiketlerine uyun.
+### 3
+title: Müşteriye 8D raporu ve tazminat pazarlığı
+brief: Müşterinin kalite direktörüyle toplantıdasın. Kök neden analizini ve düzeltici faaliyetleri sun, müşterinin talep ettiği ceza bedeline karşı makul bir uzlaşma öner.
+role: the customer's quality director, firm and demanding, who wants a fifteen-thousand-euro penalty and guarantees
+ideas: Söyle: 8D raporunu tamamladığınızı ve sorumluluğu üstlendiğinizi ; Açıkla kök nedeni: Viyana'da forklift hasarı, ama sizin sandık tasarımınız da köşe darbesine karşı zayıftı ; Anlat düzeltici faaliyetleri: köpük köşe korumaları, şok sensörü, tek araçla doğrudan nakliye ; Yanıtla ceza talebini: nakliye firmasının tazminatı yolda, ceza yerine başka bir telafi öner ; Öner: sonraki iki sevkiyatta ücretsiz hızlı teslimat ve üç aylık sevkiyat raporu ; Sor: bu teklifi kabul edip etmeyeceğini
+chunks: We take full responsibility for… = …'in tüm sorumluluğunu üstleniyoruz ; The root cause turned out to be… = Kök nedenin … olduğu ortaya çıktı ; To prevent this from happening again, … = Bunun tekrar olmasını önlemek için… ; I'm not in a position to… = …-acak durumda değilim ; What I can offer instead is… = Bunun yerine sunabileceğim şey…
+T: Kemal, my line stood still for a day and a half. Before we talk about anything else, I want to understand what went wrong. | Kemal, hattım bir buçuk gün durdu. Başka bir şey konuşmadan önce neyin yanlış gittiğini anlamak istiyorum.
+Y: Of course, and we take full responsibility for the delay. The root cause turned out to be a forklift impact in Vienna, but our crates were also too weak at the corners. | Elbette, gecikmenin tüm sorumluluğunu üstleniyoruz. Kök nedenin Viyana'daki bir forklift darbesi olduğu ortaya çıktı ama sandıklarımız da köşelerde fazla zayıftı.
+T: So it wasn't only the transport company. | Yani sadece nakliye firması değil.
+Y: Exactly. To prevent this from happening again, we've added foam corner protection and a shock sensor on every crate, and we now ship directly with a dedicated truck. | Aynen. Bunun tekrar olmasını önlemek için köpük köşe korumaları ve her sandığa bir şok sensörü ekledik, artık özel bir kamyonla doğrudan gönderiyoruz.
+T: Good. However, our contract allows a penalty of fifteen thousand euros, and I intend to apply it. | Güzel. Ancak sözleşmemiz on beş bin avroluk bir cezaya izin veriyor ve bunu uygulamayı düşünüyorum.
+Y: I understand your position, but I'm not in a position to accept the full penalty, because we already replaced the panels free of charge within forty-eight hours. | Pozisyonunuzu anlıyorum ama tam cezayı kabul edecek durumda değilim, çünkü panelleri zaten kırk sekiz saat içinde ücretsiz değiştirdik.
+T: That was the minimum. What else are you offering? | Bu asgarisiydi. Başka ne öneriyorsunuz?
+Y: What I can offer instead is free express delivery on the next two shipments and a monthly delivery report for three months. Can we agree on that? | Bunun yerine sunabileceğim şey, sonraki iki sevkiyatta ücretsiz ekspres teslimat ve üç ay boyunca aylık bir sevkiyat raporu. Bunda anlaşabilir miyiz?
+
+## conference
+### 2
+title: Kahve molasında iş birliği sohbeti
+brief: Sunumdan sonra kahve molasında bir otomotiv firmasından mühendis yanına geliyor. Geri dönüştürülmüş elyaf hakkında sorularını yanıtla, olası iş birliğini konuş ve iletişim bilgisi paylaş.
+role: a materials engineer from a German car maker, interested in cheaper fibre for interior and semi-structural parts
+ideas: Söyle: sunumu beğendiğine sevindiğini ; Açıkla: geri dönüştürülmüş elyaf yapısal olmayan ve yarı yapısal parçalar için uygun ; Anlat: elyaf uçak üretim atıklarından geliyor, yılda yaklaşık otuz ton ; Öner: ortak bir deneme, onların kapı paneli için numune üretmek ; Paylaş: kartvizitini ve gelecek hafta bir video görüşme öner
+chunks: I'm glad you found it useful = Faydalı bulmanıza sevindim ; It's well suited for… = … için çok uygun ; We'd be happy to… = …-maktan memnuniyet duyarız ; Here's my card = İşte kartvizitim ; Shall we set up a call? = Bir görüşme ayarlayalım mı?
+T: Excuse me, Kemal? I really enjoyed your talk this morning. | Affedersiniz, Kemal? Bu sabahki konuşmanızı çok beğendim.
+Y: Thank you, I'm glad you found it useful. Which company are you with? | Teşekkür ederim, faydalı bulmanıza sevindim. Hangi şirkettesiniz?
+T: I work for a car maker in Stuttgart. We're looking for cheaper fibre for interior parts. | Stuttgart'ta bir otomobil üreticisinde çalışıyorum. İç parçalar için daha ucuz elyaf arıyoruz.
+Y: Then recycled fibre could be a good match. It's well suited for non-structural and semi-structural parts. | O zaman geri dönüştürülmüş elyaf iyi bir seçenek olabilir. Yapısal olmayan ve yarı yapısal parçalar için çok uygun.
+T: Where does your fibre come from? And how much can you supply? | Elyafınız nereden geliyor? Ne kadar tedarik edebilirsiniz?
+Y: It comes from aircraft production waste, mostly prepreg offcuts. At the moment, we can recover about thirty tonnes a year. | Uçak üretim atıklarından geliyor, çoğunlukla prepreg kırpıntılarından. Şu anda yılda yaklaşık otuz ton geri kazanabiliyoruz.
+T: That's interesting. Could you make some samples for a door panel? | Bu ilginç. Bir kapı paneli için birkaç numune yapabilir misiniz?
+Y: We'd be happy to try. Here's my card. Shall we set up a call next week to discuss the details? | Denemekten memnuniyet duyarız. İşte kartvizitim. Ayrıntıları konuşmak için gelecek hafta bir görüşme ayarlayalım mı?
+### 3
+title: Pilot hat yatırımı için direktörü ikna etmek
+brief: Konferanstan döndün ve otomotiv firması ciddi ilgi gösterdi. Ar-Ge direktörünü geri dönüştürülmüş elyaf için küçük bir pilot hatta yatırım yapmaya ikna et, risk ve geri dönüş sorularını yanıtla.
+role: the R&D director, open to new ideas but cautious, who needs a clear business case before spending money
+ideas: Söyle: konferans beklenenden verimli geçti, bir otomotiv firması numune istedi ; Öner yatırımı: yüz yirmi bin avroluk bir pilot hat ; Açıkla iş gerekçesini: şu an atık bertarafına yılda kırk bin avro ödüyorsunuz, elyaf satılabilir ; Kabul et riski: kalite tutarlılığı henüz kanıtlanmadı ; Öner riski azaltmayı: kamu araştırma fonu başvurusu ve aşamalı yatırım ; İste: ilk aşama için kırk bin avro onayı
+chunks: It went better than expected = Beklenenden iyi geçti ; There's a strong business case for… = … için güçlü bir iş gerekçesi var ; We'd be turning … into… = …'i …'e dönüştürmüş olurduk ; I won't downplay the risk = Riski küçümsemeyeceğim ; I'm only asking for… at this stage = Bu aşamada sadece … istiyorum
+T: Welcome back, Kemal. How was the conference? | Tekrar hoş geldin Kemal. Konferans nasıldı?
+Y: Honestly, it went better than expected. A car maker in Stuttgart wants recycled fibre samples for door panels, and I think there's a strong business case for a pilot line. | Açıkçası beklenenden iyi geçti. Stuttgart'taki bir otomobil üreticisi kapı panelleri için geri dönüştürülmüş elyaf numunesi istiyor ve bence bir pilot hat için güçlü bir iş gerekçesi var.
+T: A pilot line? How much are we talking about? | Pilot hat mı? Ne kadardan bahsediyoruz?
+Y: Around a hundred and twenty thousand euros. But we already pay forty thousand a year to dispose of prepreg waste, so we'd be turning a cost into a product. | Yaklaşık yüz yirmi bin avro. Ama zaten prepreg atıklarını bertaraf etmek için yılda kırk bin ödüyoruz, yani bir maliyeti bir ürüne dönüştürmüş olurduk.
+T: That sounds attractive, but car makers are famous for squeezing suppliers on price. What if the volumes never come? | Kulağa cazip geliyor ama otomobil üreticileri tedarikçileri fiyatta sıkıştırmakla ünlüdür. Ya hacimler hiç gelmezse?
+Y: I won't downplay the risk. Fibre quality isn't fully consistent yet, and one customer isn't a market. That's why I'd split the investment into stages and apply for public research funding. | Riski küçümsemeyeceğim. Elyaf kalitesi henüz tam tutarlı değil ve tek bir müşteri bir pazar demek değil. Bu yüzden yatırımı aşamalara bölüp kamu araştırma fonuna başvururdum.
+T: So what exactly do you need from me now? | Peki şu anda benden tam olarak ne istiyorsun?
+Y: I'm only asking for forty thousand at this stage, for a shredder and sample trials. If the door panel tests succeed, we'll come back with real data. | Bu aşamada sadece kırk bin istiyorum, bir parçalama makinesi ve numune denemeleri için. Kapı paneli testleri başarılı olursa gerçek verilerle geri geliriz.

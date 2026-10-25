@@ -1,0 +1,271 @@
+## crime | News | Haberlerde bir olay: hırsızlık ve mahkeme | world
+brief: Fabrikanın yakınında bir hırsızlık olmuş ve haberlere çıkmış. Bir meslektaşınla olayı, polis soruşturmasını, mahkemeyi ve güvenlik önlemlerini konuşuyorsun.
+role: a colleague who has read every detail of the story and has strong opinions about justice
+### 1
+chunks: Did you hear about…? = …'i duydun mu? ; Someone stole… = Biri … çaldı ; The police caught… = Polis …'i yakaladı ; I was shocked = Şok oldum ; We must be careful = Dikkatli olmalıyız
+T: Did you hear about the thief near the factory? | Fabrikanın yakınındaki hırsızı duydun mu?
+Y: Yes. Someone stole three cars from the car park. | Evet. Biri otoparktan üç araba çaldı.
+T: Was anyone hurt? | Yaralanan oldu mu?
+Y: No, nobody was hurt. But I was shocked. | Hayır, kimse yaralanmadı. Ama şok oldum.
+T: Did the police catch him? | Polis onu yakaladı mı?
+Y: Yes, they caught a young man yesterday. | Evet, dün genç bir adamı yakaladılar.
+T: What will happen to him? | Ona ne olacak?
+Y: He will go to court next month. We must be careful with our keys. | Gelecek ay mahkemeye çıkacak. Anahtarlarımıza dikkat etmeliyiz.
+### 2
+chunks: According to the news, … = Haberlere göre… ; They arrested… = …'i tutukladılar ; There's no evidence that… = …'e dair kanıt yok ; a witness saw… = bir tanık … gördü ; The trial starts… = Dava … başlıyor
+T: According to the news, the police have arrested two men for the car thefts. | Haberlere göre polis araba hırsızlıkları için iki adamı tutukladı.
+Y: I read that too. Apparently a witness saw them breaking into a van at midnight. | Ben de okudum. Görünüşe göre bir tanık onları gece yarısı bir minibüse girerken görmüş.
+T: One of them says he's innocent. He was just driving the other man home. | Biri masum olduğunu söylüyor. Sadece diğer adamı eve bırakıyormuş.
+Y: That's possible. So far there's no evidence that he took anything himself. | Mümkün. Şu ana kadar kendisinin bir şey aldığına dair kanıt yok.
+T: When does the trial start? | Dava ne zaman başlıyor?
+Y: In March. The judge will decide whether they're guilty, and they could go to prison for two years. | Martta. Suçlu olup olmadıklarına hakim karar verecek ve iki yıl hapse girebilirler.
+T: Is our car park safe now? | Otoparkımız şimdi güvenli mi?
+Y: The company has installed new cameras and hired a security guard for the night. | Şirket yeni kameralar taktı ve gece için bir güvenlik görevlisi tuttu.
+### 3
+chunks: The case has raised questions about… = Dava … hakkında soru işaretleri doğurdu ; to be found guilty of… = …'den suçlu bulunmak ; It's an open-and-shut case = Apaçık bir dava ; to take the law into your own hands = adaleti kendi eline almak ; The punishment should fit the crime = Ceza suça uygun olmalı
+T: Have you been following the case? The lawyer for the younger man says the police treated him unfairly. | Davayı takip ediyor musun? Genç adamın avukatı polisin ona haksız davrandığını söylüyor.
+Y: I have. The case has raised questions about how the investigation was handled, especially the way the evidence was collected. | Ediyorum. Dava, soruşturmanın nasıl yürütüldüğü, özellikle de kanıtların toplanma şekli hakkında soru işaretleri doğurdu.
+T: Some people online think it's an open-and-shut case. | İnternetteki bazı insanlar bunun apaçık bir dava olduğunu düşünüyor.
+Y: I'm not so sure. The witness admitted it was dark and she only saw them from a distance, so the defence will certainly use that. | Pek emin değilim. Tanık havanın karanlık olduğunu ve onları sadece uzaktan gördüğünü kabul etti, bu yüzden savunma bunu kesinlikle kullanacak.
+T: One of the victims even said he would deal with the thieves himself. | Mağdurlardan biri hırsızlarla kendisinin ilgileneceğini bile söyledi.
+Y: I understand his anger, but nobody should take the law into their own hands. That's what courts are for. | Öfkesini anlıyorum ama kimse adaleti kendi eline almamalı. Mahkemeler bunun için var.
+T: So what do you think should happen if they're found guilty? | Peki suçlu bulunurlarsa sence ne olmalı?
+Y: The punishment should fit the crime. For a first offence, I'd rather see community service and repaying the damage than a long prison sentence. | Ceza suça uygun olmalı. İlk suç için uzun bir hapis cezası yerine kamu hizmeti ve zararın ödenmesini görmeyi tercih ederim.
+
+## politics | Society | Seçimler, ekonomi ve toplum | world
+brief: Yabancı bir meslektaşınla ülkenizdeki ve onun ülkesindeki seçimler, ekonomi, işsizlik, ücretler ve sosyal konular hakkında nazik ve dengeli bir sohbet yapıyorsun.
+role: a colleague from Poland who is interested in politics but careful not to offend anyone
+### 1
+chunks: There is an election… = … seçim var ; People want… = İnsanlar … istiyor ; Prices are high = Fiyatlar yüksek ; I don't talk about politics much = Politika hakkında pek konuşmam ; It is difficult for young people = Gençler için zor
+T: There is an election in my country next month. | Ülkemde gelecek ay seçim var.
+Y: Really? Who do people want? | Gerçekten mi? İnsanlar kimi istiyor?
+T: It is close. Many people want change. | Başa baş. Birçok insan değişim istiyor.
+Y: In Turkey, people talk about the economy a lot. Prices are high. | Türkiye'de insanlar ekonomi hakkında çok konuşuyor. Fiyatlar yüksek.
+T: Is it hard to find a job? | İş bulmak zor mu?
+Y: Yes, it is difficult for young people. | Evet, gençler için zor.
+T: Do you vote? | Oy kullanıyor musun?
+Y: Yes, I always vote. But I don't talk about politics much at work. | Evet, her zaman oy kullanırım. Ama işte politika hakkında pek konuşmam.
+### 2
+chunks: The main issue is… = Ana mesele… ; The government has promised to… = Hükümet … sözü verdi ; Unemployment is rising = İşsizlik artıyor ; Wages haven't kept up with… = Ücretler …'e yetişemedi ; It's a sensitive topic = Hassas bir konu
+T: What are people worried about before the election in your country? | Ülkendeki seçim öncesinde insanlar neden endişeli?
+Y: The main issue is the cost of living. Wages haven't kept up with prices, especially for rent and food. | Ana mesele hayat pahalılığı. Ücretler fiyatlara, özellikle kira ve yiyeceğe yetişemedi.
+T: It's similar in Poland. The government has promised to raise the minimum wage. | Polonya'da da benzer. Hükümet asgari ücreti artırma sözü verdi.
+Y: That helps workers, but some companies say they can't afford it and will employ fewer people. | Bu işçilere yardım ediyor ama bazı şirketler bunu karşılayamayacaklarını ve daha az insan çalıştıracaklarını söylüyor.
+T: Is unemployment a big problem? | İşsizlik büyük bir sorun mu?
+Y: Unemployment is rising among young graduates, so many of them want to move abroad. | Genç mezunlar arasında işsizlik artıyor, bu yüzden birçoğu yurt dışına taşınmak istiyor.
+T: And what about immigration? It's a big debate in Europe. | Peki göç? Avrupa'da büyük bir tartışma konusu.
+Y: It's a sensitive topic here too. People have very different opinions, so I usually just listen. | Burada da hassas bir konu. İnsanların çok farklı görüşleri var, bu yüzden genelde sadece dinlerim.
+### 3
+chunks: It's been a hotly contested campaign = Çok çekişmeli bir kampanya oldu ; The polls suggest… = Anketler … gösteriyor ; It cuts both ways = İki taraflı bir durum ; to bridge the gap between… = … arasındaki uçurumu kapatmak ; I try to stay out of… = …'den uzak durmaya çalışırım
+T: It's been a hotly contested campaign in Poland. The polls suggest the two main parties are almost equal. | Polonya'da çok çekişmeli bir kampanya oldu. Anketler iki ana partinin neredeyse eşit olduğunu gösteriyor.
+Y: Close elections can be good for democracy. They force politicians to listen to ordinary citizens rather than take their votes for granted. | Başa baş seçimler demokrasi için iyi olabilir. Politikacıları oyları garanti saymak yerine sıradan vatandaşları dinlemeye zorluyor.
+T: True, but they also divide society. Families argue about politics at dinner. | Doğru ama toplumu da bölüyor. Aileler akşam yemeğinde politika yüzünden tartışıyor.
+Y: It cuts both ways. A healthy debate is useful, but social media tends to push people towards extreme views. | İki taraflı bir durum. Sağlıklı bir tartışma faydalı ama sosyal medya insanları aşırı görüşlere itme eğiliminde.
+T: What do you think is the biggest challenge for your country? | Sence ülkenin en büyük zorluğu ne?
+Y: Probably bridging the gap between the big cities and rural areas, in terms of income, education and opportunities. | Muhtemelen büyük şehirlerle kırsal bölgeler arasındaki gelir, eğitim ve fırsat uçurumunu kapatmak.
+T: That's a common problem in many countries. | Bu birçok ülkede yaygın bir sorun.
+Y: Exactly. Anyway, I try to stay out of political arguments at work. I'd rather discuss solutions than parties. | Kesinlikle. Neyse, işte siyasi tartışmalardan uzak durmaya çalışırım. Partiler yerine çözümleri tartışmayı tercih ederim.
+
+## family | Family | Aile haberleri: düğün, bebek, büyükanne | world
+brief: Bir meslektaşınla aile haberlerini paylaşıyorsun: kuzenin düğünü, yeni doğan bir bebek, büyükanne ve büyükbabanın sağlığı, aile gelenekleri ve bayramlar.
+role: a warm colleague from Italy who loves big family gatherings and asks lots of questions
+### 1
+chunks: My cousin is getting married = Kuzenim evleniyor ; We have a new baby = Yeni bir bebeğimiz var ; My grandmother is … years old = Büyükannem … yaşında ; We visit them… = Onları … ziyaret ediyoruz ; My family is big = Ailem kalabalık
+T: You look happy today. Good news? | Bugün mutlu görünüyorsun. İyi haber mi?
+Y: Yes! My sister had a baby girl on Sunday. | Evet! Kız kardeşimin pazar günü bir kız bebeği oldu.
+T: Congratulations! What is her name? | Tebrikler! Adı ne?
+Y: Her name is Deniz. It means "sea". | Adı Deniz. "Deniz" anlamına geliyor.
+T: Beautiful. Is your family big? | Çok güzel. Ailen kalabalık mı?
+Y: Yes, my family is big. I have two brothers and many cousins. | Evet, ailem kalabalık. İki erkek kardeşim ve birçok kuzenim var.
+T: Do you see your parents often? | Anne babanı sık görüyor musun?
+Y: We visit them every month. My grandmother is ninety years old, and she still cooks for everyone. | Onları her ay ziyaret ediyoruz. Büyükannem doksan yaşında ve hâlâ herkese yemek yapıyor.
+### 2
+chunks: The wedding is in… = Düğün …'de ; We're expecting about … guests = Yaklaşık … misafir bekliyoruz ; She takes after her mother = Annesine çekmiş ; It's a family tradition = Bu bir aile geleneği ; We all get together for… = … için hepimiz bir araya geliyoruz
+T: Are you doing anything special this summer? | Bu yaz özel bir şey yapıyor musun?
+Y: Yes, my cousin is getting married. The wedding is in a village near the sea, and we're expecting about four hundred guests. | Evet, kuzenim evleniyor. Düğün deniz kenarında bir köyde ve yaklaşık dört yüz misafir bekliyoruz.
+T: Four hundred! Italian weddings are big, but that's enormous. | Dört yüz! İtalyan düğünleri büyüktür ama bu muazzam.
+Y: In Turkey, it's normal to invite the whole neighbourhood. There's dancing until midnight and a huge dinner. | Türkiye'de bütün mahalleyi davet etmek normal. Gece yarısına kadar dans ve büyük bir akşam yemeği var.
+T: How did the bride and groom meet? | Gelin ve damat nasıl tanışmış?
+Y: At university. They've been together for eight years, so everyone is delighted they've finally decided to marry. | Üniversitede. Sekiz yıldır birlikteler, bu yüzden sonunda evlenmeye karar vermelerine herkes çok sevindi.
+T: Do you have other family traditions? | Başka aile gelenekleriniz var mı?
+Y: During the holidays, we all get together at my grandparents' house, and the children kiss the hands of the elderly relatives. It's a family tradition. | Bayramlarda hepimiz büyükannemlerin evinde bir araya geliyoruz ve çocuklar yaşlı akrabaların ellerini öpüyor. Bu bir aile geleneği.
+### 3
+chunks: We're a close-knit family = Birbirine çok bağlı bir aileyiz ; It runs in the family = Ailede var ; He's been through a lot = Çok şey yaşadı ; to keep the tradition alive = geleneği yaşatmak ; I've been meaning to… = Bir süredir …'mek istiyordum
+T: You mentioned your grandfather was in hospital. How is he doing? | Büyükbabanın hastanede olduğundan bahsetmiştin. Nasıl?
+Y: Much better, thanks. He had heart surgery last month, and the doctors are very pleased with his recovery. | Çok daha iyi, teşekkürler. Geçen ay kalp ameliyatı oldu ve doktorlar iyileşmesinden çok memnun.
+T: That's a relief. You seem very close to him. | Buna sevindim. Ona çok yakın görünüyorsun.
+Y: We're a close-knit family. He's been through a lot, including a war and losing his first farm, but he never complains. | Birbirine çok bağlı bir aileyiz. Bir savaş ve ilk çiftliğini kaybetmek dahil çok şey yaşadı ama hiç şikayet etmez.
+T: Was he an engineer too? | O da mühendis miydi?
+Y: No, he was a carpenter, but he could repair anything. My love of making things probably runs in the family. | Hayır, marangozdu ama her şeyi tamir edebilirdi. Bir şeyler yapma sevgim muhtemelen ailede var.
+T: Do your children spend much time with him? | Çocukların onunla çok vakit geçiriyor mu?
+Y: Every summer. He teaches them old songs and stories, and we're trying to keep the tradition alive. I've been meaning to record him telling those stories before it's too late. | Her yaz. Onlara eski şarkılar ve hikayeler öğretiyor ve biz de geleneği yaşatmaya çalışıyoruz. Çok geç olmadan o hikayeleri anlatırken onu kaydetmek bir süredir aklımda.
+
+## kitchen | Food | Yemek tarifi ve market alışverişi | world
+brief: Bir meslektaşın Türk yemeği yapmak istiyor. Ona bir tarif anlatıyor, malzemeleri, ölçüleri, pişirme adımlarını ve marketten neler alması gerektiğini açıklıyorsun.
+role: a colleague who is an enthusiastic but inexperienced cook and wants clear, step-by-step instructions
+### 1
+chunks: You need… = …'e ihtiyacın var ; First, … = Önce… ; Then, … = Sonra… ; Cook it for … minutes = … dakika pişir ; It's easy! = Kolay!
+T: I want to cook a Turkish dish. Can you help me? | Bir Türk yemeği yapmak istiyorum. Yardım edebilir misin?
+Y: Sure. Try lentil soup. It's easy! | Tabii. Mercimek çorbası dene. Kolay!
+T: What do I need? | Neye ihtiyacım var?
+Y: You need red lentils, one onion, one carrot, butter and salt. | Kırmızı mercimek, bir soğan, bir havuç, tereyağı ve tuza ihtiyacın var.
+T: OK. What do I do first? | Tamam. Önce ne yapayım?
+Y: First, cut the onion and the carrot into small pieces. | Önce soğanı ve havucu küçük parçalar halinde kes.
+T: And then? | Sonra?
+Y: Then, put everything in a pot with water. Cook it for thirty minutes. Add a little lemon at the end. | Sonra her şeyi su ile bir tencereye koy. Otuz dakika pişir. Sonunda biraz limon ekle.
+### 2
+chunks: a pinch of… = bir tutam … ; until it turns golden = altın rengine dönene kadar ; Stir it every few minutes = Birkaç dakikada bir karıştır ; Don't let it burn = Yanmasına izin verme ; Serve it with… = … ile servis yap
+T: I'd like to make the chicken dish you brought to the party. Is it difficult? | Partiye getirdiğin tavuk yemeğini yapmak istiyorum. Zor mu?
+Y: Not at all. You need chicken, tomatoes, peppers, garlic and some yoghurt for the sauce. | Hiç değil. Tavuk, domates, biber, sarımsak ve sos için biraz yoğurt lazım.
+T: Do I need any special spices? | Özel baharatlara ihtiyacım var mı?
+Y: Just salt, black pepper and a pinch of chilli. You can find them in any supermarket. | Sadece tuz, karabiber ve bir tutam pul biber. Her süpermarkette bulabilirsin.
+T: How do I start? | Nasıl başlayayım?
+Y: Heat some oil in a large pan and fry the chicken until it turns golden. Then add the tomatoes and peppers. | Büyük bir tavada biraz yağ ısıt ve tavuğu altın rengine dönene kadar kızart. Sonra domatesleri ve biberleri ekle.
+T: How long should it cook? | Ne kadar pişmeli?
+Y: About twenty minutes. Stir it every few minutes and don't let it burn. Serve it with rice and the yoghurt sauce on top. | Yaklaşık yirmi dakika. Birkaç dakikada bir karıştır ve yanmasına izin verme. Pilavla ve üstünde yoğurt sosuyla servis yap.
+### 3
+chunks: The trick is to… = İşin püf noktası … ; It's very forgiving = Hataları kolay affeden bir tarif ; to taste = damak zevkine göre ; I tend to eyeball it = Genelde göz kararı yaparım ; It tastes even better the next day = Ertesi gün daha da lezzetli oluyor
+T: Your stuffed peppers were the best thing at the party. Would you share the recipe? | Doldurulmuş biberlerin partideki en iyi şeydi. Tarifini paylaşır mısın?
+Y: Of course, it's my mother's recipe. The trick is to cook the rice only halfway before you stuff the peppers, otherwise it turns into a sticky mess. | Tabii, annemin tarifi. İşin püf noktası, biberleri doldurmadan önce pirinci sadece yarıya kadar pişirmek, yoksa yapışkan bir lapaya dönüşüyor.
+T: What goes into the filling? | İç harcında neler var?
+Y: Rice, finely chopped onions, pine nuts, currants, fresh mint and a bit of cinnamon. Add salt and sugar to taste. | Pirinç, ince doğranmış soğan, çam fıstığı, kuş üzümü, taze nane ve biraz tarçın. Damak zevkine göre tuz ve şeker ekle.
+T: Do you have exact quantities? I'm not very confident in the kitchen. | Kesin miktarlar var mı? Mutfakta pek kendime güvenmiyorum.
+Y: Honestly, I tend to eyeball it, but roughly a cup of rice for six peppers. Don't worry, it's very forgiving. | Açıkçası genelde göz kararı yaparım ama kabaca altı biber için bir su bardağı pirinç. Merak etme, hataları kolay affeden bir tarif.
+T: Should I serve them hot? | Sıcak mı servis etmeliyim?
+Y: No, they're served cold, with a little olive oil and lemon. In fact, they taste even better the next day, so you can make them in advance. | Hayır, soğuk servis ediliyor, biraz zeytinyağı ve limonla. Hatta ertesi gün daha da lezzetli oluyor, bu yüzden önceden yapabilirsin.
+
+## tech | Technology | Bilgisayar, yazılım ve yapay zeka | world
+brief: Ofiste yeni bir mühendislik yazılımı ve yapay zeka araçları kullanılmaya başlandı. BT sorumlusuyla kurulum, şifreler, veri güvenliği ve verimlilik hakkında konuşuyorsun.
+role: the IT manager, patient and precise, who worries about data security and training
+### 1
+chunks: My computer is slow = Bilgisayarım yavaş ; I can't open… = …'i açamıyorum ; I forgot my password = Şifremi unuttum ; Can you install…? = … kurabilir misiniz? ; It doesn't work = Çalışmıyor
+T: Hi, IT here. What is the problem? | Merhaba, BT'den arıyorum. Sorun ne?
+Y: My computer is very slow today. | Bilgisayarım bugün çok yavaş.
+T: Did you restart it? | Yeniden başlattınız mı?
+Y: Yes, but it doesn't work. I can't open the new program. | Evet ama işe yaramıyor. Yeni programı açamıyorum.
+T: Do you have the latest version? | Son sürüm sizde var mı?
+Y: I don't know. Can you install it for me? | Bilmiyorum. Benim için kurabilir misiniz?
+T: Sure. I need your password. | Tabii. Şifrenize ihtiyacım var.
+Y: Sorry, I forgot my password. Can you send me a new one? | Üzgünüm, şifremi unuttum. Bana yenisini gönderebilir misiniz?
+### 2
+chunks: It keeps crashing = Sürekli çöküyor ; I'd like to make sure that… = …'den emin olmak istiyorum ; Is it safe to…? = … güvenli mi? ; to back up the files = dosyaların yedeğini almak ; Could you show me how to…? = Bana nasıl … gösterebilir misiniz?
+T: I heard you had problems with the new simulation software. | Yeni simülasyon yazılımıyla sorun yaşadığını duydum.
+Y: Yes, it keeps crashing when I open large models, and I lose my work. | Evet, büyük modelleri açtığımda sürekli çöküyor ve çalışmalarımı kaybediyorum.
+T: Your laptop probably doesn't have enough memory. I'll order a more powerful one. | Dizüstü bilgisayarında muhtemelen yeterli bellek yok. Daha güçlü bir tane sipariş edeceğim.
+Y: Thanks. In the meantime, I'd like to make sure that my files are backed up every day. | Teşekkürler. Bu arada dosyalarımın her gün yedeklendiğinden emin olmak istiyorum.
+T: They are, on our central server. Don't save anything only on the desktop. | Ediliyor, merkezi sunucumuzda. Hiçbir şeyi sadece masaüstüne kaydetme.
+Y: Understood. Another question: is it safe to use online AI tools to write reports? | Anlaşıldı. Başka bir soru: rapor yazmak için çevrimiçi yapay zeka araçlarını kullanmak güvenli mi?
+T: Only the one the company has approved. Never upload customer drawings to public websites. | Sadece şirketin onayladığı aracı. Müşteri çizimlerini asla halka açık web sitelerine yükleme.
+Y: Good to know. Could you show me how to access the approved tool from my phone? | Bunu bilmek iyi oldu. Onaylı araca telefonumdan nasıl erişeceğimi bana gösterebilir misiniz?
+### 3
+chunks: It's a bit of a black box = Biraz kara kutu gibi ; to sanity-check the results = sonuçları sağduyuyla kontrol etmek ; The weakest link is… = En zayıf halka… ; It's a game changer for… = … için oyunun kurallarını değiştiriyor ; Garbage in, garbage out = Ne verirsen onu alırsın
+T: Management wants every engineer to use the new AI assistant by the end of the year. What's your view? | Yönetim her mühendisin yıl sonuna kadar yeni yapay zeka asistanını kullanmasını istiyor. Senin görüşün ne?
+Y: It's a game changer for routine tasks like writing test reports or searching old documents. It saves me hours every week. | Test raporu yazmak ya da eski belgeleri aramak gibi rutin işler için oyunun kurallarını değiştiriyor. Bana her hafta saatler kazandırıyor.
+T: And for engineering calculations? | Peki mühendislik hesapları için?
+Y: That's where I'm more careful. The model is a bit of a black box, so I always sanity-check the results against a hand calculation. | Orada daha dikkatliyim. Model biraz kara kutu gibi, bu yüzden sonuçları her zaman elle bir hesapla sağduyuyla kontrol ediyorum.
+T: Our biggest concern is data security. Some engineers paste confidential data into public tools. | En büyük endişemiz veri güvenliği. Bazı mühendisler gizli verileri halka açık araçlara yapıştırıyor.
+Y: I agree. Technology is rarely the problem. The weakest link is usually people who don't understand the risks. | Katılıyorum. Sorun nadiren teknolojidir. En zayıf halka genelde riskleri anlamayan insanlardır.
+T: So would you support a compulsory training course? | Peki zorunlu bir eğitim kursunu destekler misin?
+Y: Definitely. And the training should cover quality as well as security. Garbage in, garbage out: if the input data is poor, the answer will be too. | Kesinlikle. Ve eğitim güvenliğin yanı sıra kaliteyi de kapsamalı. Ne verirsen onu alırsın: girdi verileri kötüyse cevap da kötü olur.
+
+## commute | City | Şehirde ulaşım ve trafik | world
+brief: Ziyarete gelen bir meslektaşına şehirde nasıl dolaşacağını anlatıyorsun: metro, otobüs, vapur, taksi, trafik, bilet ve yol tarifi.
+role: a visiting engineer from Japan who is used to very punctual trains and is surprised by the traffic
+### 1
+chunks: Take the metro = Metroya bin ; Get off at… = …'de in ; It takes … minutes = … dakika sürüyor ; Turn left / right = Sola / sağa dön ; Buy a ticket at… = …'den bilet al
+T: How do I get to the hotel from here? | Buradan otele nasıl giderim?
+Y: Take the metro. It is fast and cheap. | Metroya bin. Hızlı ve ucuz.
+T: Where do I buy a ticket? | Bileti nereden alırım?
+Y: Buy a card at the station. Then put money on it. | İstasyondan bir kart al. Sonra içine para yükle.
+T: Which station? | Hangi istasyon?
+Y: Get off at the third station. It takes about ten minutes. | Üçüncü istasyonda in. Yaklaşık on dakika sürüyor.
+T: And then? | Sonra?
+Y: Go up the stairs and turn left. The hotel is on the corner. | Merdivenlerden çık ve sola dön. Otel köşede.
+### 2
+chunks: during rush hour = yoğun saatte ; It's quicker to… = …'mek daha hızlı ; You'll need to change at… = …'de aktarma yapman gerekecek ; The ferry runs every… = Vapur her … kalkıyor ; I'd leave plenty of time = Bol zaman bırakırdım
+T: The taxi from the airport took two hours! Is the traffic always this bad? | Havaalanından taksi iki saat sürdü! Trafik hep bu kadar kötü mü?
+Y: Unfortunately, during rush hour it can be terrible. It's usually quicker to use public transport. | Ne yazık ki yoğun saatte berbat olabiliyor. Toplu taşıma kullanmak genelde daha hızlı.
+T: How do I get to the factory tomorrow morning? | Yarın sabah fabrikaya nasıl gideceğim?
+Y: Take the metro from your hotel, but you'll need to change at the main station and take the bus for the last part. | Otelinden metroya bin ama ana istasyonda aktarma yapıp son kısım için otobüse binmen gerekecek.
+T: Is there a timetable for the bus? | Otobüsün bir saat çizelgesi var mı?
+Y: There's an app that shows the buses in real time. Buses aren't always punctual, so I'd leave plenty of time. | Otobüsleri gerçek zamanlı gösteren bir uygulama var. Otobüsler her zaman dakik değil, bu yüzden bol zaman bırakırdım.
+T: And for sightseeing at the weekend? | Peki hafta sonu gezmek için?
+Y: Take the ferry across the strait. It runs every twenty minutes, and the view of the bridges is wonderful. | Boğazı geçen vapura bin. Her yirmi dakikada bir kalkıyor ve köprülerin manzarası harika.
+### 3
+chunks: It's a nightmare to drive in… = …'de araba sürmek kabus ; You're better off… = …'sen daha iyi olur ; The infrastructure hasn't kept pace with… = Altyapı …'e ayak uyduramadı ; to beat the traffic = trafiğe yakalanmamak ; door to door = kapıdan kapıya
+T: I rented a car this morning, and I think it was a mistake. Nobody seems to respect the lanes. | Bu sabah araba kiraladım ve sanırım hataydı. Kimse şeritlere saygı göstermiyor gibi.
+Y: To be fair, it's a nightmare to drive in the city centre, even for locals. You're better off leaving the car at the hotel. | Açıkçası şehir merkezinde araba sürmek yerliler için bile kabus. Arabayı otelde bıraksan daha iyi olur.
+T: Why is the traffic so heavy? | Trafik neden bu kadar yoğun?
+Y: The population has doubled in thirty years, and the infrastructure hasn't kept pace with that growth, although they've built several new metro lines recently. | Nüfus otuz yılda ikiye katlandı ve altyapı bu büyümeye ayak uyduramadı, gerçi son zamanlarda birkaç yeni metro hattı yaptılar.
+T: In Tokyo, if a train is two minutes late, they apologise on the platform. | Tokyo'da bir tren iki dakika gecikirse peronda özür diliyorlar.
+Y: I've heard that! Here, we just accept delays as part of life. Most people leave home at six to beat the traffic. | Bunu duymuştum! Burada gecikmeleri hayatın bir parçası olarak kabul ediyoruz. Çoğu insan trafiğe yakalanmamak için evden altıda çıkıyor.
+T: How long is your commute? | Senin işe gidiş gelişin ne kadar sürüyor?
+Y: About fifty minutes door to door, by ferry and bus. It sounds long, but I read on the ferry, so it's actually the most relaxing part of my day. | Kapıdan kapıya vapur ve otobüsle yaklaşık elli dakika. Uzun gibi ama vapurda kitap okuyorum, bu yüzden aslında günümün en rahatlatıcı kısmı.
+
+## review | Career | Performans görüşmesi ve geri bildirim | world
+brief: Yöneticinle yıllık performans görüşmesindesin. Başarılarını anlat, eleştirileri yapıcı şekilde karşıla, gelişim alanlarını konuş ve terfi ile eğitim talebini dile getir.
+role: your line manager, fair and direct, who praises good work but also gives honest criticism
+### 1
+chunks: I'm proud of… = …'den gurur duyuyorum ; It was difficult = Zordu ; I want to improve… = …'i geliştirmek istiyorum ; Thank you for your feedback = Geri bildiriminiz için teşekkürler ; I would like a course in… = … konusunda bir kurs istiyorum
+T: Let's talk about your year. What went well? | Yılın hakkında konuşalım. Neler iyi gitti?
+Y: The new bracket project went well. I'm proud of it. | Yeni braket projesi iyi gitti. Onunla gurur duyuyorum.
+T: Yes, the customer was very happy. What was difficult? | Evet, müşteri çok memnundu. Ne zordu?
+Y: The schedule was difficult. We worked a lot of overtime. | Takvim zordu. Çok fazla mesai yaptık.
+T: Your reports are sometimes late. | Raporların bazen gecikiyor.
+Y: You are right. I want to improve that. Thank you for your feedback. | Haklısınız. Bunu geliştirmek istiyorum. Geri bildiriminiz için teşekkürler.
+T: What do you want to learn next year? | Gelecek yıl ne öğrenmek istiyorsun?
+Y: I would like a course in English presentations. | İngilizce sunumlar konusunda bir kurs istiyorum.
+### 2
+chunks: One of my main achievements was… = Ana başarılarımdan biri… ; I take your point = Ne demek istediğinizi anlıyorum ; to work on… = … üzerinde çalışmak ; I'd welcome more responsibility = Daha fazla sorumluluğu memnuniyetle üstlenirim ; What would I need to do to…? = … için ne yapmam gerekir?
+T: Overall, it's been a strong year. How would you describe it? | Genel olarak güçlü bir yıl oldu. Sen nasıl tanımlarsın?
+Y: I'm quite satisfied. One of my main achievements was reducing the scrap rate from nine to five per cent. | Oldukça memnunum. Ana başarılarımdan biri hurda oranını yüzde dokuzdan beşe düşürmekti.
+T: That was impressive. One area to improve is communication with other departments. | Bu etkileyiciydi. Geliştirilecek bir alan diğer departmanlarla iletişim.
+Y: I take your point. Sometimes I focus so much on the technical details that I forget to inform people. | Ne demek istediğinizi anlıyorum. Bazen teknik detaylara o kadar odaklanıyorum ki insanları bilgilendirmeyi unutuyorum.
+T: Exactly. Short weekly updates would help a lot. | Aynen. Kısa haftalık güncellemeler çok yardımcı olur.
+Y: That's a good idea. I'll work on it. I'd also welcome more responsibility, for example leading a small team. | İyi bir fikir. Üzerinde çalışacağım. Ayrıca daha fazla sorumluluğu, örneğin küçük bir ekibi yönetmeyi memnuniyetle üstlenirim.
+T: I think you're ready for that. | Bence buna hazırsın.
+Y: Thank you. What would I need to do to be considered for the senior engineer position next year? | Teşekkürler. Gelecek yıl kıdemli mühendis pozisyonu için değerlendirilmek için ne yapmam gerekir?
+### 3
+chunks: I'd like to build on… = … üzerine inşa etmek isterim ; That's fair criticism = Bu haklı bir eleştiri ; I've been reflecting on… = … üzerine düşünüyorum ; to step up = sorumluluk almak / bir üst seviyeye çıkmak ; Could we agree on some concrete steps? = Bazı somut adımlarda anlaşabilir miyiz?
+T: Before we look at targets, how do you feel the year went overall? | Hedeflere bakmadan önce, genel olarak yılın nasıl geçtiğini düşünüyorsun?
+Y: Mostly positive. Cutting the scrap rate was the highlight, and I'd like to build on that by applying the same approach to the other production lines. | Çoğunlukla olumlu. Hurda oranını düşürmek en önemli noktaydı ve aynı yaklaşımı diğer üretim hatlarına uygulayarak bunun üzerine inşa etmek isterim.
+T: Agreed. My main concern is that you sometimes take on too much yourself instead of delegating. | Katılıyorum. Asıl endişem bazen görev dağıtmak yerine çok fazla şeyi kendin üstlenmen.
+Y: That's fair criticism. I've been reflecting on it, and I think part of the problem is that I find it hard to let go of the technical work. | Bu haklı bir eleştiri. Bunun üzerine düşünüyorum ve sanırım sorunun bir kısmı teknik işi bırakmakta zorlanmam.
+T: If you want to lead a team, that's a skill you'll have to develop. | Bir ekibi yönetmek istiyorsan bu geliştirmen gereken bir beceri.
+Y: I'm ready to step up. Could we agree on some concrete steps, like mentoring two junior engineers and a leadership course in the spring? | Sorumluluk almaya hazırım. İki genç mühendise mentorluk yapmak ve baharda bir liderlik kursu gibi bazı somut adımlarda anlaşabilir miyiz?
+T: That sounds like a good plan. Anything else? | Kulağa iyi bir plan gibi geliyor. Başka bir şey var mı?
+Y: Just one thing. I'd appreciate regular feedback during the year rather than only at the annual review, so I can correct things earlier. | Sadece bir şey. Hataları daha erken düzeltebilmem için sadece yıllık değerlendirmede değil yıl boyunca düzenli geri bildirim almaktan memnun olurum.
+
+## history | Culture | Şehrin tarihi ve eski uygarlıklar | world
+brief: Ziyarete gelen meslektaşlarına şehrin tarihi yerlerini gezdiriyorsun: antik kalıntılar, savaşlar, krallar, saraylar, eski mühendislik harikaları.
+role: a curious visiting engineer who loves history and asks how ancient people built things without modern tools
+### 1
+chunks: This is very old = Bu çok eski ; It was built in… = …'de inşa edildi ; A king lived here = Burada bir kral yaşadı ; People came here to… = İnsanlar buraya …'mek için geldi ; Let's go inside = İçeri girelim
+T: What is this building? It looks very old. | Bu bina ne? Çok eski görünüyor.
+Y: Yes, it is very old. It was built in the sixth century. | Evet, çok eski. Altıncı yüzyılda inşa edildi.
+T: Was it a church? | Kilise miydi?
+Y: First it was a church, then a mosque. Now it is a museum. | Önce kiliseydi, sonra cami. Şimdi müze.
+T: And that big building on the hill? | Peki tepedeki o büyük bina?
+Y: That is a palace. A king lived there. | O bir saray. Orada bir kral yaşadı.
+T: It's beautiful. Can we visit it? | Çok güzel. Ziyaret edebilir miyiz?
+Y: Yes, of course. Let's go inside. | Evet, tabii. İçeri girelim.
+### 2
+chunks: It dates back to… = …'e dayanıyor ; It was destroyed by… = … tarafından yıkıldı ; They rebuilt it = Yeniden inşa ettiler ; Nobody knows exactly how… = Kimse tam olarak nasıl … bilmiyor ; It's still used today = Bugün hâlâ kullanılıyor
+T: These walls are enormous. How old are they? | Bu duvarlar muazzam. Ne kadar eski?
+Y: They date back to the fifth century. They protected the city from enemy armies for almost a thousand years. | Beşinci yüzyıla dayanıyorlar. Şehri neredeyse bin yıl boyunca düşman ordularından korudular.
+T: Were they ever destroyed? | Hiç yıkıldılar mı?
+Y: Parts of them were damaged by earthquakes and battles, but they rebuilt them every time. | Bir kısmı depremler ve savaşlarla hasar gördü ama her seferinde yeniden inşa ettiler.
+T: And that tunnel under the street? | Peki sokağın altındaki o tünel?
+Y: That's an ancient water system. Nobody knows exactly how they calculated the slope so precisely. | O antik bir su sistemi. Kimse eğimi bu kadar hassas nasıl hesapladıklarını tam olarak bilmiyor.
+T: Is it still used today? | Bugün hâlâ kullanılıyor mu?
+Y: Not for drinking water, but part of it is still used today to water the gardens in the park. | İçme suyu için değil ama bir kısmı bugün hâlâ parktaki bahçeleri sulamak için kullanılıyor.
+### 3
+chunks: It's a testament to… = …'in bir kanıtı ; by trial and error = deneme yanılma yoluyla ; They were way ahead of their time = Çağlarının çok ilerisindeydiler ; It's been restored several times = Birkaç kez restore edildi ; It puts our problems into perspective = Sorunlarımızı doğru bir bakış açısına oturtuyor
+T: I can't believe this dome has survived fifteen centuries of earthquakes. How is that possible? | Bu kubbenin on beş yüzyıllık depremlerden sağ çıktığına inanamıyorum. Bu nasıl mümkün?
+Y: It's a testament to the engineers of the time. They used light bricks and a special mortar that could absorb some movement. | Bu, zamanın mühendislerinin bir kanıtı. Biraz hareketi emebilen hafif tuğlalar ve özel bir harç kullandılar.
+T: Without computers or modern maths, though. | Ama bilgisayarlar ya da modern matematik olmadan.
+Y: Mostly by trial and error, I imagine. In fact, the first dome collapsed after twenty years, and they rebuilt it higher and stronger. | Sanırım çoğunlukla deneme yanılma yoluyla. Hatta ilk kubbe yirmi yıl sonra çöktü ve onu daha yüksek ve daha sağlam yeniden inşa ettiler.
+T: In a way, they were doing what we do: testing, failing and improving. | Bir bakıma bizim yaptığımızı yapıyorlardı: test etmek, başarısız olmak ve geliştirmek.
+Y: Exactly. In some respects, they were way ahead of their time. Of course, it's been restored several times since then. | Kesinlikle. Bazı açılardan çağlarının çok ilerisindeydiler. Tabii o zamandan beri birkaç kez restore edildi.
+T: Standing here makes our project delays seem rather small. | Burada durmak proje gecikmelerimizi oldukça küçük gösteriyor.
+Y: It certainly puts our problems into perspective. They spent five years building this, and we complain about a two-week slip on a bracket. | Kesinlikle sorunlarımızı doğru bir bakış açısına oturtuyor. Bunu inşa etmek için beş yıl harcadılar, biz ise bir braketteki iki haftalık kaymadan şikayet ediyoruz.

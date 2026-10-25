@@ -1,0 +1,271 @@
+## rtm | Design review | Prepreg/otoklavdan RTM'e geçiş | tech
+brief: Bir tasarım gözden geçirme toplantısındasın. Bir yapısal braketin üretimini prepreg + otoklavdan RTM'e taşımayı öneriyorsun. Maliyet, çevrim süresi, kalite riskleri ve doğrulama planını anlat.
+role: a programme manager at an aerospace tier-1 supplier who cares about cost, schedule and qualification risk
+### 1
+chunks: I want to… = …istiyorum ; The problem is… = Sorun şu… ; It's faster and cheaper = Daha hızlı ve daha ucuz ; I suggest… = …öneriyorum ; Let me explain. = Açıklayayım.
+T: Hi! I hear you want to change the process. Why? | Merhaba! Süreci değiştirmek istediğini duydum. Neden?
+Y: The autoclave is slow and expensive. | Otoklav yavaş ve pahalı.
+T: What do you want to use? | Ne kullanmak istiyorsun?
+Y: I want to use RTM. It's faster and cheaper. | RTM kullanmak istiyorum. Daha hızlı ve daha ucuz.
+T: How fast is it? | Ne kadar hızlı?
+Y: One part takes two hours, not nine. | Bir parça dokuz değil, iki saat sürüyor.
+T: Is there a problem? | Bir sorun var mı?
+Y: The tool costs a lot of money. I suggest a small test first. | Kalıp çok pahalı. Önce küçük bir deneme öneriyorum.
+### 2
+chunks: I'd like to… = …istiyorum (kibar) ; Right now, … = Şu anda… ; The main disadvantage is… = Ana dezavantaj… ; We could… = …yapabiliriz ; So I suggest we… = Bu yüzden …yapmamızı öneriyorum
+T: Thanks for joining. I hear you want to move the bracket to RTM. Why is that? | Katıldığın için teşekkürler. Braketi RTM'e taşımak istediğini duydum. Neden?
+Y: Right now, the autoclave is our bottleneck, and each part spends about nine hours in it. | Şu anda otoklav darboğazımız ve her parça içinde yaklaşık dokuz saat geçiriyor.
+T: And with RTM? | Peki RTM ile?
+Y: With RTM, we could make one part in under two hours, including the cure. | RTM ile kür dahil bir parçayı iki saatin altında yapabiliriz.
+T: That sounds good. What's the catch? | Kulağa iyi geliyor. Püf noktası ne?
+Y: The main disadvantage is the cost of the metal tool, so it only pays off at higher volumes. | Ana dezavantaj metal kalıbın maliyeti, bu yüzden sadece yüksek hacimlerde kendini amorti ediyor.
+T: How would you prove the quality is the same? | Kalitenin aynı olduğunu nasıl kanıtlardın?
+Y: I suggest we build ten test panels and compare them with the prepreg parts. | On test paneli üretip prepreg parçalarla karşılaştırmamızı öneriyorum.
+### 3
+chunks: The main driver here is… = Buradaki ana etken… ; The trade-off is… = Bunun bedeli / ödünleşimi… ; In terms of porosity, … = Porozite açısından… ; We'd need to re-qualify the part = Parçayı yeniden kalifiye etmemiz gerekir ; The biggest risk I see is… = Gördüğüm en büyük risk…
+T: So, I hear you want to move the bracket from prepreg to RTM. What's the main argument? | Braketi prepregden RTM'e taşımak istediğini duydum. Ana argüman ne?
+Y: The main driver here is cost: the autoclave is our bottleneck, and the bracket spends almost nine hours in it. | Buradaki ana etken maliyet: otoklav darboğazımız ve braket içinde neredeyse dokuz saat geçiriyor.
+T: What sort of cycle time are we talking about with RTM? | RTM ile nasıl bir çevrim süresinden bahsediyoruz?
+Y: We'd cut the cycle time to under two hours per part, including injection and cure. | Enjeksiyon ve kür dahil çevrim süresini parça başına iki saatin altına indiririz.
+T: There must be a trade-off somewhere. | Bir yerde bir bedeli olmalı.
+Y: The trade-off is tooling: a matched metal tool is expensive, so it only pays off above roughly four hundred parts a year. | Bedeli kalıp: eşleşmiş metal kalıp pahalı, bu yüzden ancak yılda kabaca dört yüz parçanın üzerinde kendini amorti ediyor.
+T: And quality? I don't want to re-open the qualification for nothing. | Ya kalite? Yeterlilik sürecini boşuna yeniden açmak istemiyorum.
+Y: The biggest risk I see is dry spots near the thick flange, so I'd propose ten trial panels with full ultrasonic inspection before we commit. | Gördüğüm en büyük risk kalın flanş yakınındaki kuru bölgeler, bu yüzden karar vermeden önce tam ultrasonik muayeneli on deneme paneli öneririm.
+
+## delam | Failure investigation | UT muayenesinde delaminasyon | tech
+brief: Ultrasonik muayenede bir kanat paneli kenarında delaminasyon bulundu. Müşteri kalite mühendisine olası kök nedenleri, yaptığın kontrolleri ve sonraki adımları anlat.
+role: a customer quality engineer who is worried and wants a clear root-cause plan and containment actions
+### 1
+chunks: We found… = …bulduk ; It is near… = …yakınında ; It is about … long = Yaklaşık … uzunluğunda ; I think the cause is… = Bence sebep… ; I will send you… = Size …göndereceğim
+T: Hello. You found a problem in a panel. What is it? | Merhaba. Bir panelde sorun bulmuşsunuz. Nedir?
+Y: We found a delamination. | Bir delaminasyon bulduk.
+T: Where is it? | Nerede?
+Y: It is near the edge. It is about thirty millimetres long. | Kenara yakın. Yaklaşık otuz milimetre uzunluğunda.
+T: What about the other panels? | Peki diğer paneller?
+Y: We stopped them. We are checking them now. | Onları durdurduk. Şu an kontrol ediyoruz.
+T: Do you know the cause? | Sebebini biliyor musunuz?
+Y: I think the cause is a dirty film. I will send you a report on Friday. | Bence sebep kirli bir film. Cuma günü size bir rapor göndereceğim.
+### 2
+chunks: During the inspection, we found… = Muayene sırasında … bulduk ; We think the cause is… = Sebebin … olduğunu düşünüyoruz ; from the same batch = aynı partiden ; We've put … on hold = …'i beklemeye aldık ; as soon as possible = en kısa sürede
+T: We got your report this morning. What did you find, and how big is it? | Raporunuzu bu sabah aldık. Ne buldunuz ve ne kadar büyük?
+Y: During the ultrasonic inspection, we found a delamination near the trailing edge, about thirty by twelve millimetres. | Ultrasonik muayene sırasında firar kenarı yakınında yaklaşık otuz çarpı on iki milimetrelik bir delaminasyon bulduk.
+T: Are other panels affected? | Başka paneller etkilendi mi?
+Y: We don't know yet, so we've put the other three panels from the same batch on hold. | Henüz bilmiyoruz, bu yüzden aynı partiden diğer üç paneli beklemeye aldık.
+T: Good. What do you think caused it? | İyi. Sizce buna ne sebep oldu?
+Y: We think the cause is contamination from the release film, but we need to confirm it. | Sebebin ayırıcı filmden gelen kirlenme olduğunu düşünüyoruz ama doğrulamamız gerekiyor.
+T: When can we expect the full analysis? | Tam analizi ne zaman bekleyebiliriz?
+Y: We'll cut the part this week, and I'll send you the results as soon as possible. | Parçayı bu hafta keseceğiz ve sonuçları size en kısa sürede göndereceğim.
+### 3
+chunks: We found an indication of about… = Yaklaşık … boyutunda bir bulgu tespit ettik ; The root cause is most likely… = Kök neden büyük ihtimalle… ; We can't rule out… = … ihtimalini dışlayamıyoruz ; As a containment action, we've… = Sınırlama önlemi olarak … ; Our next step is to… = Bir sonraki adımımız…
+T: We got your NCR this morning. Can you tell me what exactly you found and how big it is? | NCR'nizi bu sabah aldık. Tam olarak ne bulduğunuzu ve ne kadar büyük olduğunu söyleyebilir misiniz?
+Y: During the ultrasonic inspection, we found an indication of about thirty by twelve millimetres near the trailing edge. | Ultrasonik muayene sırasında firar kenarı yakınında yaklaşık otuz çarpı on iki milimetrelik bir bulgu tespit ettik.
+T: Is it a surface defect, or is it inside the laminate? | Yüzey kusuru mu, yoksa laminatın içinde mi?
+Y: It sits between plies four and five, so it's an interlaminar delamination rather than a surface defect. | Dördüncü ve beşinci katman arasında, yani yüzey kusurundan çok katmanlar arası bir delaminasyon.
+T: What's your theory on the root cause? | Kök neden konusunda teoriniz ne?
+Y: The root cause is most likely contamination from the release film, but we can't rule out a local pressure drop during cure. | Kök neden büyük ihtimalle ayırıcı filmden kirlenme, ama kür sırasında yerel bir basınç düşüşünü dışlayamıyoruz.
+T: And what have you done to protect the deliveries? | Teslimatları korumak için ne yaptınız?
+Y: As a containment action, we've quarantined the batch, and our next step is to section the part and check the cure records by Thursday. | Sınırlama önlemi olarak partiyi karantinaya aldık ve bir sonraki adımımız perşembeye kadar parçadan kesit alıp kür kayıtlarını kontrol etmek.
+
+## clt | Analysis briefing | Laminasyon teorisi ve güvenlik marjı | tech
+brief: Mühendis olmayan bir yöneticiye, klasik laminasyon teorisi ve Tsai-Wu kriteriyle yaptığın analizin sonucunu anlat: neden yeni katman dizilimi önerdiğini ve marjın ne anlama geldiğini sade bir dille açıkla.
+role: an engineering director with a business background who wants the conclusion and the risk in plain words
+### 1
+chunks: The part is strong enough = Parça yeterince dayanıklı ; The margin is small = Marj küçük ; We want to add… = …eklemek istiyoruz ; only … grams heavier = sadece … gram daha ağır ; In short, … = Kısacası…
+T: I read your report. Is the part OK? | Raporunu okudum. Parça iyi mi?
+Y: Yes, the part is strong enough. | Evet, parça yeterince dayanıklı.
+T: Good. So there is no problem? | Güzel. Yani sorun yok mu?
+Y: There is a small problem. The margin is small. | Küçük bir sorun var. Marj küçük.
+T: What does that mean? | Bu ne anlama geliyor?
+Y: It means the part is weak when you twist it. | Parçayı büktüğünde zayıf olduğu anlamına geliyor.
+T: What do you suggest? | Ne öneriyorsun?
+Y: We want to add two more plies. The part will be only sixty grams heavier. | İki katman daha eklemek istiyoruz. Parça sadece altmış gram ağırlaşacak.
+### 2
+chunks: Our analysis shows… = Analizimiz … gösteriyor ; lower than we want = istediğimizden düşük ; If we add…, the margin goes up to… = …eklersek marj …'e çıkar ; It only adds… = Sadece … ekliyor ; I recommend… = …öneriyorum
+T: I've seen the report, but the matrices lost me. What's the main result? | Raporu gördüm ama matrislerde kayboldum. Ana sonuç ne?
+Y: In short, the current lay-up is strong enough, but the margin is lower than we want. | Kısacası mevcut dizilim yeterince dayanıklı, ama marj istediğimizden düşük.
+T: Why is it low? | Neden düşük?
+Y: The laminate is very stiff along the fibres, but it's weak in shear, and this part is twisted a lot. | Laminat lifler boyunca çok rijit ama kesmede zayıf ve bu parça çok burulmaya maruz kalıyor.
+T: How low are we talking? | Ne kadar düşükten bahsediyoruz?
+Y: Our analysis shows a margin of safety of zero point one five, and our target is zero point three. | Analizimiz sıfır virgül on beşlik bir güvenlik marjı gösteriyor, hedefimiz ise sıfır virgül üç.
+T: And what's the fix? | Peki çözüm ne?
+Y: If we add two forty-five degree plies, the margin goes up to zero point four. It only adds sixty grams, so I recommend it. | İki tane kırk beş derecelik katman eklersek marj sıfır virgül dörde çıkar. Sadece altmış gram ekliyor, bu yüzden öneriyorum.
+### 3
+chunks: The bottom line is… = Özetle / sonuç olarak… ; To put it simply, … = Basitçe söylemek gerekirse… ; That's below our target of… = Bu, … hedefimizin altında ; The weight penalty is only… = Ağırlık bedeli sadece… ; I'm confident in the result because… = Sonuçtan eminim çünkü…
+T: I've seen the report, but honestly the matrices lost me. What's the bottom line? | Raporu gördüm ama açıkçası matrislerde kayboldum. Özetle sonuç ne?
+Y: The bottom line is that the current lay-up is strong enough, but with less margin than we'd like. | Özetle mevcut dizilim yeterince dayanıklı, ama istediğimizden daha az marjla.
+T: Can you explain why, without the maths? | Matematiğe girmeden nedenini açıklayabilir misin?
+Y: To put it simply, the laminate is very stiff along the fibres, but it's weak in shear, and this part sees a lot of torsion. | Basitçe söylemek gerekirse laminat lifler boyunca çok rijit ama kesmede zayıf ve bu parça çok fazla burulmaya maruz kalıyor.
+T: How much margin do we actually have? | Gerçekte ne kadar marjımız var?
+Y: Using the Tsai-Wu criterion, we get zero point one five, which is below our target of zero point three. | Tsai-Wu kriterini kullanarak sıfır virgül on beş elde ediyoruz, bu da sıfır virgül üçlük hedefimizin altında.
+T: How sure are you about these numbers? | Bu rakamlardan ne kadar eminsin?
+Y: I'm confident in the result because the model matches our coupon tests within five per cent, and the weight penalty for the fix is only about sixty grams. | Sonuçtan eminim çünkü model numune testlerimizle yüzde beş içinde örtüşüyor ve çözümün ağırlık bedeli sadece yaklaşık altmış gram.
+
+## cure | Supplier call | Reçine kür çevrimi ve Tg sorunu | tech
+brief: Reçine tedarikçisiyle görüşüyorsun. Son partide DMA ile ölçülen Tg değeri beklenenden düşük çıktı. Durumu anlat, kür çevrimini sorgula ve tedarikçiden veri iste.
+role: a technical support engineer at a resin supplier who is polite but defensive about their product
+### 1
+chunks: We have a problem with… = …ile ilgili bir sorunumuz var ; It is too low = Çok düşük ; We measured… = …ölçtük ; Your datasheet says… = Veri sayfanızda … yazıyor ; Can you send us…? = Bize … gönderebilir misiniz?
+T: Hello! Thanks for calling. What is the problem? | Merhaba! Aradığınız için teşekkürler. Sorun nedir?
+Y: We have a problem with the last batch. The Tg is too low. | Son partiyle ilgili bir sorunumuz var. Tg çok düşük.
+T: What did you measure? | Ne ölçtünüz?
+Y: We measured one hundred and sixty-five degrees. Your datasheet says one hundred and eighty. | Yüz altmış beş derece ölçtük. Veri sayfanızda yüz seksen yazıyor.
+T: Did you use our cure cycle? | Bizim kür çevrimimizi kullandınız mı?
+Y: Yes, we did. We followed it exactly. | Evet, kullandık. Aynen uyguladık.
+T: OK. What do you need from us? | Tamam. Bizden ne istiyorsunuz?
+Y: Can you send us the test report for this batch? | Bu parti için test raporunu bize gönderebilir misiniz?
+### 2
+chunks: We followed … exactly = …'i aynen uyguladık ; Could you share…? = …paylaşabilir misiniz? ; We also want to check if… = Ayrıca … olup olmadığını kontrol etmek istiyoruz ; on your side = sizin tarafınızda ; What would you suggest? = Ne önerirsiniz?
+T: Thanks for reaching out. I understand there's an issue with the last batch? | Ulaştığınız için teşekkürler. Son partiyle ilgili bir sorun olduğunu anlıyorum?
+Y: Yes. We've measured a Tg of about one hundred and sixty-five degrees, but your datasheet says one hundred and eighty. | Evet. Yaklaşık yüz altmış beş derece Tg ölçtük, ama veri sayfanızda yüz seksen yazıyor.
+T: That's unusual. Are you sure about the cure cycle? | Bu alışılmadık. Kür çevriminden emin misiniz?
+Y: Yes, we followed your recommended cure cycle exactly, and the oven records look normal. | Evet, önerdiğiniz kür çevrimini aynen uyguladık ve fırın kayıtları normal görünüyor.
+T: Could storage be the issue? | Sorun depolama olabilir mi?
+Y: Maybe. We also want to check if the resin was too old when it arrived. Could you share the certificate of analysis? | Belki. Ayrıca reçinenin geldiğinde fazla eski olup olmadığını kontrol etmek istiyoruz. Analiz sertifikasını paylaşabilir misiniz?
+T: Of course. Anything else? | Tabii. Başka bir şey?
+Y: We can send you some samples, so you can test them on your side. What would you suggest? | Size bazı numuneler gönderebiliriz, böylece kendi tarafınızda test edebilirsiniz. Ne önerirsiniz?
+### 3
+chunks: We've measured a Tg of … instead of … = … yerine … Tg ölçtük ; Is it possible that…? = … olabilir mi? ; We'd like to understand whether… = … olup olmadığını anlamak istiyoruz ; degree of cure = kürlenme derecesi ; Can we agree on next steps? = Sonraki adımlarda anlaşabilir miyiz?
+T: Hello, thanks for reaching out. I understand there's a concern with the last batch? | Merhaba, ulaştığınız için teşekkürler. Son partiyle ilgili bir endişe olduğunu anlıyorum?
+Y: That's right. We've measured a glass transition temperature of around one hundred and sixty-five degrees, instead of the one eighty on your datasheet. | Doğru. Veri sayfanızdaki yüz seksen yerine yaklaşık yüz altmış beş derece camsı geçiş sıcaklığı ölçtük.
+T: Our quality data for that batch looks fine. How did you cure it? | O parti için kalite verilerimiz iyi görünüyor. Nasıl kürlediniz?
+Y: We followed the recommended cycle: a two-degree-per-minute ramp and a two-hour dwell at one eighty. | Önerilen çevrimi uyguladık: dakikada iki derecelik ısıtma ve yüz seksende iki saatlik bekleme.
+T: Then I'm not sure where the difference comes from. | O zaman farkın nereden geldiğinden emin değilim.
+Y: Is it possible that the resin was close to the end of its out-time when we received it? | Reçinenin bize ulaştığında dışarıda kalma süresinin sonuna yakın olması mümkün mü?
+T: It's possible. Shipping took longer than usual this month. | Mümkün. Bu ay sevkiyat her zamankinden uzun sürdü.
+Y: Then can we agree on next steps? We'll send samples for DSC, and you could check the degree of cure on your side. | O zaman sonraki adımlarda anlaşabilir miyiz? DSC için numune göndereceğiz, siz de kürlenme derecesini kendi tarafınızda kontrol edebilirsiniz.
+
+## testplan | Test planning | Test planı ve sertifikasyon | tech
+brief: Yeni bir kompozit malzemenin onayı için test planını sertifikasyon uzmanıyla konuşuyorsun. Numune testleri, ortam koşulları, izin verilen değerler ve takvimi anlat.
+role: a certification specialist from the authority side who is careful, detail-oriented and asks why each test is needed
+### 1
+chunks: We will test… = …test edeceğiz ; in hot and wet conditions = sıcak ve nemli koşullarda ; How many samples? = Kaç numune? ; It takes about … weeks = Yaklaşık … hafta sürüyor ; The results show… = Sonuçlar … gösteriyor
+T: Tell me about your test plan. | Bana test planınızdan bahsedin.
+Y: We will test small samples first. | Önce küçük numuneleri test edeceğiz.
+T: How many samples? | Kaç numune?
+Y: About three hundred samples. | Yaklaşık üç yüz numune.
+T: Which tests? | Hangi testler?
+Y: Tension, compression and shear. Some are in hot and wet conditions. | Çekme, basma ve kesme. Bazıları sıcak ve nemli koşullarda.
+T: How long will it take? | Ne kadar sürecek?
+Y: It takes about twelve weeks. | Yaklaşık on iki hafta sürüyor.
+### 2
+chunks: We'll follow the building block approach = Yapı taşı yaklaşımını izleyeceğiz ; to cover the worst case = en kötü durumu kapsamak ; We'll condition the samples… = Numuneleri … şartlandıracağız ; at least … batches = en az … parti ; I can send you the full matrix = Size tam matrisi gönderebilirim
+T: Can you walk me through your plan for the new material? | Yeni malzeme için planınızı adım adım anlatabilir misiniz?
+Y: Sure. We'll follow the building block approach, starting with coupons and finishing with a full-size panel. | Tabii. Numunelerle başlayıp tam boyutlu bir panelle bitiren yapı taşı yaklaşımını izleyeceğiz.
+T: How many batches of material will you use? | Kaç parti malzeme kullanacaksınız?
+Y: We'll use at least three batches, so we can see the natural variation between them. | Aralarındaki doğal değişkenliği görebilmek için en az üç parti kullanacağız.
+T: What about the environment? | Peki ortam koşulları?
+Y: We'll condition the samples in a humidity chamber and test them at eighty-two degrees to cover the worst case. | En kötü durumu kapsamak için numuneleri nem kabininde şartlandırıp seksen iki derecede test edeceğiz.
+T: That sounds reasonable. I'd like to see the details. | Makul görünüyor. Detayları görmek isterim.
+Y: Of course. I can send you the full test matrix and the schedule by the end of the week. | Tabii. Size tam test matrisini ve takvimi hafta sonuna kadar gönderebilirim.
+### 3
+chunks: The aim is to derive… = Amaç … elde etmek ; statistically meaningful = istatistiksel olarak anlamlı ; We've deliberately chosen… = Bilinçli olarak … seçtik ; to knock down the allowables = izin verilen değerleri düşürmek ; I'd welcome your input on… = … konusunda görüşünüzü memnuniyetle alırım
+T: Before I comment on the plan, what exactly are you trying to demonstrate? | Plan hakkında yorum yapmadan önce, tam olarak neyi göstermeye çalışıyorsunuz?
+Y: The aim is to derive design allowables for the new prepreg, so the stress team can size parts with confidence. | Amaç yeni prepreg için tasarım izin değerlerini elde etmek, böylece gerilme ekibi parçaları güvenle boyutlandırabilir.
+T: Is the number of specimens statistically meaningful? | Numune sayısı istatistiksel olarak anlamlı mı?
+Y: Yes. We've deliberately chosen three batches and two cure cycles, which gives us enough data for B-basis values. | Evet. Bilinçli olarak üç parti ve iki kür çevrimi seçtik; bu da bize B-tabanı değerler için yeterli veri sağlıyor.
+T: How do you account for moisture and temperature? | Nem ve sıcaklığı nasıl hesaba katıyorsunuz?
+Y: We'll test hot-wet and cold-dry conditions, and use the results to knock down the allowables for the worst environment. | Sıcak-nemli ve soğuk-kuru koşulları test edip sonuçları en kötü ortam için izin değerlerini düşürmekte kullanacağız.
+T: And impact damage? That's usually where the problems start. | Ya darbe hasarı? Sorunlar genelde orada başlar.
+Y: Good point. We've included compression after impact at element level, and I'd welcome your input on the energy levels before we finalise the matrix. | Haklısınız. Eleman seviyesinde darbe sonrası basmayı dahil ettik ve matrisi kesinleştirmeden önce enerji seviyeleri konusunda görüşünüzü memnuniyetle alırım.
+
+## audit | Supplier visit | Tedarikçi fabrika ziyareti ve denetim | tech
+brief: Yeni bir kompozit parça tedarikçisini ziyaret ediyorsun. Fabrika turunda temiz odayı, malzeme depolamayı, eğitim kayıtlarını ve gördüğün eksikleri konuş.
+role: the quality manager of a supplier showing you around the factory, proud of the facility but a little nervous
+### 1
+chunks: Can I see…? = …görebilir miyim? ; This looks good = Bu iyi görünüyor ; Where do you keep…? = …'i nerede tutuyorsunuz? ; How often do you…? = Ne sıklıkla …? ; I have a question = Bir sorum var
+T: Welcome to our factory. This is the clean room. | Fabrikamıza hoş geldiniz. Burası temiz oda.
+Y: Thank you. This looks very good. | Teşekkürler. Bu çok iyi görünüyor.
+T: We cut and lay up all the parts here. | Tüm parçaları burada kesip yatırıyoruz.
+Y: Where do you keep the prepreg? | Prepregi nerede tutuyorsunuz?
+T: In the freezer, at minus eighteen degrees. | Dondurucuda, eksi on sekiz derecede.
+Y: How often do you check the temperature? | Sıcaklığı ne sıklıkla kontrol ediyorsunuz?
+T: Every day. We write it in this book. | Her gün. Bu deftere yazıyoruz.
+Y: Good. Can I see the training records too? | Güzel. Eğitim kayıtlarını da görebilir miyim?
+### 2
+chunks: Could you show me…? = Bana … gösterebilir misiniz? ; How do you make sure that…? = …'den nasıl emin oluyorsunuz? ; I noticed that… = …'i fark ettim ; It would be better to… = … daha iyi olur ; Overall, I'm impressed = Genel olarak etkilendim
+T: Here's our lay-up area. Everything is temperature and humidity controlled. | İşte yatırma alanımız. Her şey sıcaklık ve nem kontrollü.
+Y: Very nice. How do you make sure that the prepreg doesn't stay out of the freezer too long? | Çok güzel. Prepregin dondurucunun dışında fazla kalmadığından nasıl emin oluyorsunuz?
+T: Each roll has a label, and the operators record the time it spends outside. | Her rulonun bir etiketi var ve operatörler dışarıda geçirdiği süreyi kaydediyor.
+Y: Could you show me one of those records? | Bana o kayıtlardan birini gösterebilir misiniz?
+T: Of course, here's last week's sheet. | Tabii, işte geçen haftanın formu.
+Y: I noticed that two entries are missing a signature. | İki kaydın imzasının eksik olduğunu fark ettim.
+T: You're right. I'll talk to the team about it. | Haklısınız. Ekiple konuşacağım.
+Y: It would be better to use a digital system. Overall, though, I'm impressed. | Dijital bir sistem kullanmak daha iyi olur. Ama genel olarak etkilendim.
+### 3
+chunks: I'd like to get a feel for… = … hakkında bir fikir edinmek isterim ; How robust is…? = … ne kadar sağlam? ; One thing that caught my eye… = Gözüme çarpan bir şey… ; It's a minor finding, but… = Küçük bir bulgu ama… ; I'll summarise our findings in… = Bulgularımızı …'de özetleyeceğim
+T: That's the end of the tour. Do you have any questions before we sit down? | Turun sonu bu. Oturmadan önce sorunuz var mı?
+Y: A few. First, I'd like to get a feel for how you control material out-time across shifts. | Birkaç tane. Önce, malzemenin dışarıda kalma süresini vardiyalar arasında nasıl kontrol ettiğiniz hakkında bir fikir edinmek isterim.
+T: Each operator logs the time on a paper sheet attached to the roll. | Her operatör süreyi rulonun üzerindeki kağıt forma kaydediyor.
+Y: How robust is that when a roll is used by three different shifts? | Bir rulo üç farklı vardiya tarafından kullanıldığında bu ne kadar sağlam?
+T: To be honest, it relies on discipline. | Açıkçası disipline dayanıyor.
+Y: One thing that caught my eye was two unsigned entries. It's a minor finding, but it shows the weakness of a paper system. | Gözüme çarpan bir şey imzasız iki kayıttı. Küçük bir bulgu ama kağıt sistemin zayıflığını gösteriyor.
+T: Understood. We were already looking at barcode scanners. | Anlaşıldı. Zaten barkod okuyucularına bakıyorduk.
+Y: That would solve it. I'll summarise our findings in a short report, and overall I'd rate the visit very positively. | Bu sorunu çözer. Bulgularımızı kısa bir raporda özetleyeceğim ve genel olarak ziyareti çok olumlu değerlendiriyorum.
+
+## safety | Workshop safety | Atölyede iş güvenliği | tech
+brief: Atölyede yeni teknisyenlere reçine kullanımı, kesim tozu, koruyucu ekipman ve acil durum hakkında kısa bir güvenlik brifingi veriyorsun; bir teknisyen soru soruyor.
+role: a new technician on their first day, friendly but a bit careless, who asks practical questions
+### 1
+chunks: You must wear… = …giymelisin ; Don't touch… = …'e dokunma ; Be careful with… = …'e dikkat et ; If there is a fire, … = Yangın olursa… ; Ask me if… = …olursa bana sor
+T: Hi! It's my first day. What should I know? | Merhaba! İlk günüm. Neyi bilmeliyim?
+Y: Welcome! First, you must wear gloves and glasses. | Hoş geldin! Önce eldiven ve gözlük takmalısın.
+T: Always? | Her zaman mı?
+Y: Yes, always. The resin is bad for your skin. | Evet, her zaman. Reçine cildine zararlı.
+T: What about the dust? | Peki ya toz?
+Y: Be careful with the dust. Wear a mask when you cut. | Toza dikkat et. Keserken maske tak.
+T: And if there is a fire? | Peki yangın olursa?
+Y: If there is a fire, leave the room and call this number. Ask me if you are not sure. | Yangın olursa odadan çık ve bu numarayı ara. Emin değilsen bana sor.
+### 2
+chunks: Make sure you… = …'den emin ol ; It can cause… = …'e neden olabilir ; Never leave… = Asla … bırakma ; The nearest exit is… = En yakın çıkış… ; If anything happens, … = Bir şey olursa…
+T: Do I really need gloves just to carry the rolls? | Sadece ruloları taşımak için gerçekten eldivene ihtiyacım var mı?
+Y: Yes. Make sure you wear nitrile gloves whenever you handle resin or prepreg. | Evet. Reçine ya da prepreg tuttuğun her zaman nitril eldiven giydiğinden emin ol.
+T: Why is it so dangerous? | Neden bu kadar tehlikeli?
+Y: Uncured resin can cause skin allergies, and once you have one, it never goes away. | Kürlenmemiş reçine cilt alerjilerine neden olabilir ve bir kez olursa asla geçmez.
+T: OK. And the sanding area? | Tamam. Peki zımparalama alanı?
+Y: Carbon dust is very fine, so always switch on the extraction and wear a mask. | Karbon tozu çok ince, bu yüzden her zaman emişi aç ve maske tak.
+T: Where do I go in an emergency? | Acil bir durumda nereye gideceğim?
+Y: The nearest exit is behind the autoclave. If anything happens, press the red button and call the safety officer. | En yakın çıkış otoklavın arkasında. Bir şey olursa kırmızı düğmeye bas ve iş güvenliği sorumlusunu ara.
+### 3
+chunks: It's easy to underestimate… = …'i hafife almak kolay ; The effects are cumulative = Etkileri birikimli ; Get into the habit of… = … alışkanlığı edin ; Don't take shortcuts = Kestirmeden gitme ; Report it straight away = Hemen bildir
+T: Honestly, the gloves slow me down. Do I have to wear them for small jobs? | Açıkçası eldivenler beni yavaşlatıyor. Küçük işler için de takmam gerekiyor mu?
+Y: I understand, but it's easy to underestimate resin. Sensitisation can happen after just a few contacts, and it's permanent. | Anlıyorum ama reçineyi hafife almak kolay. Hassasiyet birkaç temastan sonra bile oluşabilir ve kalıcıdır.
+T: What about the trimming station? It looks harmless. | Peki kenar kesim istasyonu? Zararsız görünüyor.
+Y: The dust is the real hazard there. The particles are fine enough to reach deep into your lungs, and the effects are cumulative. | Asıl tehlike oradaki toz. Parçacıklar akciğerlerinin derinine ulaşacak kadar ince ve etkileri birikimli.
+T: So what should I do differently? | Peki neyi farklı yapmalıyım?
+Y: Get into the habit of checking the extraction before you start, and don't take shortcuts, even when we're behind schedule. | İşe başlamadan önce emişi kontrol etme alışkanlığı edin ve programın gerisinde olsak bile kestirmeden gitme.
+T: And if I see something unsafe? | Peki güvensiz bir şey görürsem?
+Y: Report it straight away. Nobody will blame you for stopping the line, but they will if someone gets hurt. | Hemen bildir. Hattı durdurduğun için kimse seni suçlamaz, ama biri yaralanırsa suçlarlar.
+
+## material | Material selection | Malzeme seçimi: karbon mu cam elyaf mı? | tech
+brief: Yeni bir endüstriyel kapak için karbon ve cam elyaf arasında seçim yapılıyor. Tasarım ekibine ağırlık, maliyet, rijitlik, korozyon ve üretim açısından karşılaştırma yap.
+role: a design engineer from another department who prefers glass fibre because it is cheap and familiar
+### 1
+chunks: … is lighter = … daha hafif ; … is cheaper = … daha ucuz ; I prefer… = …'i tercih ederim ; It depends on… = …'e bağlı ; What is more important? = Hangisi daha önemli?
+T: Carbon or glass for the new cover? What do you think? | Yeni kapak için karbon mu cam mı? Ne düşünüyorsun?
+Y: It depends on the budget. | Bütçeye bağlı.
+T: Glass is cheaper, right? | Cam daha ucuz, değil mi?
+Y: Yes, glass is much cheaper. | Evet, cam çok daha ucuz.
+T: Then why use carbon? | O zaman neden karbon kullanalım?
+Y: Carbon is lighter and stiffer. | Karbon daha hafif ve daha rijit.
+T: Is weight important for this cover? | Bu kapak için ağırlık önemli mi?
+Y: Not very. So I prefer glass here. | Pek değil. Bu yüzden burada camı tercih ederim.
+### 2
+chunks: On the other hand, … = Öte yandan… ; about … times stiffer = yaklaşık … kat daha rijit ; It makes sense to… = …mantıklı ; The deciding factor is… = Belirleyici faktör… ; I'd go with… = Ben …'i seçerdim
+T: I'd like to use glass for the cover. It's what we always use. | Kapak için cam kullanmak istiyorum. Hep onu kullanıyoruz.
+Y: That's fair. Glass is cheap and easy to work with. On the other hand, it's much heavier. | Haklısın. Cam ucuz ve işlemesi kolay. Öte yandan çok daha ağır.
+T: How much heavier, roughly? | Kabaca ne kadar daha ağır?
+Y: For the same stiffness, a glass cover would weigh nearly twice as much. | Aynı rijitlik için cam bir kapak neredeyse iki katı ağırlıkta olur.
+T: But the cover sits on a machine. Nobody carries it. | Ama kapak bir makinenin üstünde duruyor. Kimse onu taşımıyor.
+Y: Exactly, so the deciding factor is cost, not weight. | Aynen, bu yüzden belirleyici faktör ağırlık değil maliyet.
+T: So you agree with me? | Yani bana katılıyor musun?
+Y: Yes. In this case, it makes sense to use glass. I'd go with glass and a gel coat for the surface. | Evet. Bu durumda cam kullanmak mantıklı. Ben yüzey için jelkotlu camı seçerdim.
+### 3
+chunks: It's a classic trade-off between… = … arasında klasik bir ödünleşim ; Weight isn't a driver here = Burada ağırlık bir etken değil ; It's overkill for… = … için gereğinden fazla ; Where carbon earns its place is… = Karbonun yerini hak ettiği yer… ; Unless … changes, … = … değişmedikçe…
+T: I know you love carbon, but I'm proposing glass for the machine cover. Convince me otherwise. | Karbonu sevdiğini biliyorum ama makine kapağı için cam öneriyorum. Beni aksine ikna et.
+Y: Actually, I won't try. It's a classic trade-off between weight and cost, and here weight isn't a driver. | Aslında denemeyeceğim. Bu ağırlık ile maliyet arasında klasik bir ödünleşim ve burada ağırlık bir etken değil.
+T: That's not what I expected to hear from you. | Senden bunu duymayı beklemiyordum.
+Y: Carbon would be overkill for a cover that just sits on a frame. It's roughly ten times the material price. | Bir çerçevenin üstünde duran bir kapak için karbon gereğinden fazla olur. Malzeme fiyatı kabaca on katı.
+T: Is there anything glass can't do here? | Burada camın yapamayacağı bir şey var mı?
+Y: The only concern is deflection under the door load, but a few ribs or a foam core would solve that cheaply. | Tek endişe kapı yükü altındaki sehim, ama birkaç takviye ya da köpük çekirdek bunu ucuza çözer.
+T: So where would you use carbon? | Peki karbonu nerede kullanırdın?
+Y: Where carbon earns its place is on the moving arm, because every kilo there costs energy. Unless the cover specification changes, glass is the right choice. | Karbonun yerini hak ettiği yer hareketli kol, çünkü oradaki her kilo enerjiye mal oluyor. Kapak şartnamesi değişmedikçe doğru seçim cam.

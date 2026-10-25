@@ -1,0 +1,209 @@
+## material
+### 2
+title: Tedarikçiden cam elyaf ve reçine teklifi
+brief: Kapak için cam elyafta karar verildi. Kemal şimdi malzeme tedarikçisini arıyor: kumaş ve reçine tipini, kimyasal dayanımı, fiyatı ve teslim süresini sorup teklif istemesi gerekiyor.
+role: a sales engineer at a glass fibre and resin supplier who wants to sell a full package and needs exact quantities
+ideas: Kendini ve projeyi tanıt: endüstriyel makine kapağı, cam elyaf seçildi ; İhtiyacı söyle: 600 g/m² örgü E-cam kumaş, ayda yaklaşık 400 kg ; Kimyasal ortamı açıkla: kapak temizlik kimyasallarına maruz kalıyor, bu yüzden vinil ester reçine istiyorsun ; Fiyat ve teslim süresini sor, iki haftadan uzun olmasın ; Sonraki adımı belirt: teknik veri sayfalarını ve ilk sipariş için teslim süresini iste
+chunks: I'm calling about… = …için arıyorum ; We need approximately… = Yaklaşık …'e ihtiyacımız var ; Could you send me…? = Bana … gönderebilir misiniz? ; What is the lead time for…? = … için teslim süresi ne kadar? ; … isn't suitable here = … burada uygun değil
+T: Good morning, this is Laura from FibreTech. How can I help you? | Günaydın, ben FibreTech'ten Laura. Size nasıl yardımcı olabilirim?
+Y: Hi Laura, I'm Kemal. I'm calling about glass fabric for a new industrial machine cover. | Merhaba Laura, ben Kemal. Yeni bir endüstriyel makine kapağı için cam kumaş konusunda arıyorum.
+T: Great. Which fabric are you thinking of, and how much do you need? | Harika. Hangi kumaşı düşünüyorsunuz ve ne kadar ihtiyacınız var?
+Y: A 600 gram woven E-glass. We need approximately 400 kilos a month, maybe more next year. | 600 gramlık örgü E-cam. Ayda yaklaşık 400 kiloya ihtiyacımız var, gelecek yıl belki daha fazla.
+T: And the resin? We usually offer a standard polyester with that fabric. | Peki reçine? O kumaşla genelde standart polyester öneriyoruz.
+Y: Polyester isn't suitable here, because the cover sees strong cleaning chemicals. So we want vinyl ester. | Polyester burada uygun değil çünkü kapak güçlü temizlik kimyasallarına maruz kalıyor. Bu yüzden vinil ester istiyoruz.
+T: No problem. I can quote both together. Anything else you need from me? | Sorun değil. İkisi için birlikte fiyat verebilirim. Benden başka bir şey lazım mı?
+Y: Yes, could you send me the datasheets? And what is the lead time for the first order? | Evet, bana veri sayfalarını gönderebilir misiniz? Bir de ilk sipariş için teslim süresi ne kadar?
+### 3
+title: Müşteri daha hafif kapak istiyor
+brief: Müşteri, bakım ekibinin kapağı her hafta tek kişi sökeceğini söyleyip daha hafif bir kapak istiyor ve proje müdürü hemen karbona geçmeyi öneriyor. Kemal karbona geçmeden ağırlığı düşüren köpük çekirdekli cam sandviç çözümünü savunmalı ve maliyet farkını açıklamalı.
+role: a project manager who wants to keep the customer happy and thinks switching to carbon is the quickest answer
+ideas: Yeni gereksinimi özetle: bakım ekibi kapağı her hafta tek kişi sökecek, 18 kg çok ağır ; Karbonun maliyetini belirt: kapak maliyeti yaklaşık %180 artar, kalıp da değişir ; Önerini anlat: aynı cam kumaş, ortada 15 mm PET köpük çekirdek, yaklaşık 11 kg ; Artıyı ve eksiyi karşılaştır: maliyet sadece %12 artıyor ama kenar detayları yeniden tasarlanmalı ; Riski belirt: köpük çekirdekte darbe hasarı, kenarları kapatarak çözülebilir ; Proje müdüründen iste: müşteriye karbon sözü vermeden önce iki hafta prototip süresi
+chunks: Before we jump to… = …'e atlamadan önce ; It would push the cost up by… = Maliyeti … artırır ; We can get most of the benefit… = Faydanın çoğunu … elde edebiliriz ; The catch is that… = İşin püf noktası şu ki… ; I'd rather not commit to… = …'e söz vermemeyi tercih ederim
+T: The customer called. Their maintenance team will lift the cover off every week, and 18 kilos is too much. Should we just switch to carbon? | Müşteri aradı. Bakım ekipleri kapağı her hafta kaldıracakmış ve 18 kilo çok fazla. Direkt karbona mı geçsek?
+Y: Before we jump to carbon, let's look at the numbers. It would push the cost of each cover up by roughly 180 percent, and we'd need a new tool. | Karbona atlamadan önce rakamlara bakalım. Her kapağın maliyetini kabaca yüzde 180 artırır ve yeni bir kalıba ihtiyacımız olur.
+T: That's a lot. But what's the alternative? They want something one person can handle. | Bu çok fazla. Ama alternatif ne? Tek kişinin taşıyabileceği bir şey istiyorlar.
+Y: We can get most of the benefit with a sandwich. Same glass skins, a 15 mm PET foam core in the middle, and the cover drops to about 11 kilos. | Faydanın çoğunu sandviçle elde edebiliriz. Aynı cam yüzeyler, ortada 15 mm PET köpük çekirdek, kapak de yaklaşık 11 kiloya düşüyor.
+T: And the price difference? Finance will ask me that first. | Peki fiyat farkı? Finans bunu bana ilk soracak.
+Y: Around 12 percent more per cover. The catch is that we have to redesign the edges and the hinge points, because you can't bolt straight through foam. | Kapak başına yaklaşık yüzde 12 fazla. İşin püf noktası şu ki kenarları ve menteşe noktalarını yeniden tasarlamamız gerekiyor, çünkü köpüğün içinden direkt cıvata geçiremezsiniz.
+T: Any risk with the foam? I don't want complaints in six months. | Köpükle ilgili bir risk var mı? Altı ay sonra şikayet istemiyorum.
+Y: Impact damage is the main one, but closing out the edges with solid laminate deals with that. I'd rather not commit to carbon until we've had two weeks to build a prototype. | Asıl risk darbe hasarı ama kenarları dolu laminatla kapatmak bunu çözüyor. İki hafta içinde bir prototip yapana kadar karbona söz vermemeyi tercih ederim.
+
+## repair
+### 2
+title: Tamir teknisyenine talimat verme
+brief: Müşteri scarf tamiri onayladı. Kemal şimdi deneyimli tamir teknisyenine işi anlatıyor: zımparalama oranını, katman yönlerini, kür koşullarını ve test numunelerini net bir şekilde açıklaması gerekiyor.
+role: an experienced repair technician who wants clear, written instructions and asks practical questions
+ideas: Onayı söyle: müşteri dün scarf tamiri onayladı ; Hazırlığı anlat: hasarı çıkar, otuza bir oranında scarf zımparala, yüzeyi temizle ; Katmanları anlat: aynı prepreg, orijinal yönler, bir ekstra koruma katmanı ; Kürü anlat: sıcak bağlayıcı, vakum altında 120 °C'de iki saat ; Kaliteyi belirt: yanına test numunesi koy, sonra UT yapılacak
+chunks: The customer signed off on… = Müşteri …'i onayladı ; at a ratio of… = … oranında ; in the same orientation as… = … ile aynı yönde ; Make sure you… = …'den emin ol ; because we need them for… = çünkü … için onlara ihtiyacımız var
+T: So the repair is approved? What exactly do you want me to do? | Tamir onaylandı mı yani? Tam olarak ne yapmamı istiyorsun?
+Y: Yes, the customer signed off on it yesterday. First, remove the damage and scarf the area at a ratio of thirty to one. | Evet, müşteri dün onayladı. Önce hasarı çıkar ve bölgeyi otuza bir oranında scarf zımparala.
+T: Thirty to one, for two plies. So the taper is about 15 mm on each side? | İki katman için otuza bir. Yani eğim her tarafta yaklaşık 15 mm mi?
+Y: Roughly, yes. Then lay up the same prepreg, each ply in the same orientation as the original. | Kabaca evet. Sonra aynı prepregi yatır, her katman orijinaliyle aynı yönde olsun.
+T: Do you want an extra ply on top? | Üstüne ekstra bir katman istiyor musun?
+Y: Yes, one extra ply, slightly bigger than the scarf. It protects the edge of the repair. | Evet, bir ekstra katman, scarf bölgesinden biraz daha büyük. Tamirin kenarını koruyor.
+T: And the cure? We can't put a panel this size in the autoclave easily. | Peki kür? Bu boyutta bir paneli otoklava kolayca koyamayız.
+Y: Use the hot bonder, two hours at 120 degrees under vacuum. Make sure you cure test coupons next to it, because we need them for the report. | Sıcak bağlayıcıyı kullan, vakum altında 120 derecede iki saat. Yanında test numunelerini de kürlediğinden emin ol çünkü rapor için onlara ihtiyacımız var.
+### 3
+title: Limit dışı tamiri müşteriye savunma
+brief: Tamirden sonra UT, hasarın başlangıçta düşünülenden 5 mm büyük olduğunu ve tamir limitini aştığını gösterdi. Müşterinin kalite sorumlusu paneli değiştirmek istiyor. Kemal tamiri teknik verilerle savunmalı ve teslimatı kurtarmak için bir uzlaşma önermeli.
+role: a customer quality and airworthiness lead who follows the repair manual strictly and does not like exceptions
+ideas: Durumu açıkça kabul et: tamir alanı limitten 5 mm büyük çıktı ; Verileri sun: test numuneleri kayma testini geçti, tamir sonrası UT temiz ; Analizi anlat: daha büyük scarf için hesap yaptın, marj hâlâ pozitif ; Değiştirmenin sonucunu belirt: yeni panel altı hafta, teslimat kaçıyor ; Uzlaşma öner: tek seferlik sapma onayı ve ilk bakımda ek muayene ; Ondan ne istediğini söyle: cumaya kadar karar
+chunks: To be completely transparent… = Tamamen açık olmak gerekirse… ; The data supports… = Veriler …'i destekliyor ; I'm not asking you to… = Sizden … istemiyorum ; on a one-off basis = tek seferlik olarak ; What would it take to…? = … için ne gerekir?
+T: Kemal, I've read your report. The repair is outside the manual limit. Honestly, I'd rather replace the panel. | Kemal, raporunu okudum. Tamir el kitabındaki limitin dışında. Açıkçası paneli değiştirmeyi tercih ederim.
+Y: I understand. To be completely transparent, the damage turned out 5 mm bigger than we initially measured, so the scarf area is just over the limit. | Anlıyorum. Tamamen açık olmak gerekirse hasar başta ölçtüğümüzden 5 mm büyük çıktı, bu yüzden scarf alanı limiti az da olsa aşıyor.
+T: Exactly. The limit is there for a reason. Why should I accept it? | Aynen. O limit boşuna konmadı. Neden kabul edeyim?
+Y: Because the data supports it. The travellers passed lap shear with a good margin, the post-repair UT is clean, and I re-ran the analysis for the larger scarf. The margin is still positive. | Çünkü veriler bunu destekliyor. Yanında kürlenen numuneler kayma testini rahat bir marjla geçti, tamir sonrası UT temiz ve büyük scarf için analizi yeniden yaptım. Marj hâlâ pozitif.
+T: Even so, it sets a precedent. Next time someone will want another exception. | Yine de bu bir emsal oluşturur. Bir dahaki sefere biri başka bir istisna isteyecek.
+Y: That's a fair concern. I'm not asking you to change the manual. I'm asking for a concession on a one-off basis, fully documented. | Haklı bir endişe. Sizden el kitabını değiştirmenizi istemiyorum. Tek seferlik, tamamen belgelenmiş bir sapma onayı istiyorum.
+T: And if I say no? | Peki hayır dersem?
+Y: Then a new panel takes six weeks and we miss the delivery. What would it take to get your approval by Friday, say an extra inspection at the first maintenance check? | O zaman yeni panel altı hafta sürer ve teslimatı kaçırırız. Cumaya kadar onayınızı almak için ne gerekir, mesela ilk bakımda ek bir muayene olur mu?
+
+## fea
+### 2
+title: Tasarımcıyla ek katman değişikliğini konuşma
+brief: Kıdemli gerilme mühendisi radyusa iki katman ekleme önerisini kabul etti. Kemal şimdi CAD modelinin sahibi olan tasarım mühendisine değişikliği anlatıyor: katman bırakma bölgelerini, ağırlık artışını ve komşu parçayla olan boşluğu.
+role: a design engineer who owns the CAD model and the drawing and worries about weight and clearances
+ideas: Sonucu söyle: gerilme incelemesi bitti, radyusa iki katman ekleniyor ; Detayı anlat: katmanlar ±45 derece, her biri 0,25 mm, toplam 0,5 mm kalınlık ; Katman bırakmayı açıkla: katmanları 10 mm aralıkla bitir, ani kalınlık değişimi olmasın ; Etkisini belirt: yaklaşık 40 gram ağırlık, komşu boru ile boşluk kontrol edilmeli ; Sonraki adımı söyle: güncel resim gelince marjı tekrar kontrol edeceksin
+chunks: The review went well, but… = İnceleme iyi geçti ama… ; We agreed to… = …'e karar verdik ; so that there is no… = …olmasın diye ; Could you check whether…? = …olup olmadığını kontrol edebilir misin? ; Once I have…, I'll… = …elime geçince …'eceğim
+T: Hi Kemal. How did the stress review go? Do I need to change anything? | Selam Kemal. Gerilme incelemesi nasıl geçti? Bir şey değiştirmem gerekiyor mu?
+Y: The review went well, but we agreed to add two plies in the corner radius. | İnceleme iyi geçti ama köşe radyusuna iki katman eklemeye karar verdik.
+T: OK. Which orientation, and how thick? | Tamam. Hangi yönde ve ne kalınlıkta?
+Y: Plus and minus 45 degrees, 0.25 mm each, so the radius gets half a millimetre thicker. | Artı ve eksi 45 derece, her biri 0,25 mm, yani radyus yarım milimetre kalınlaşıyor.
+T: Can the plies just stop at the end of the radius? | Katmanlar radyusun sonunda öylece bitebilir mi?
+Y: Better not. Please drop them off 10 mm apart, so that there is no sudden step in thickness. | Bitmesin daha iyi. Lütfen katmanları 10 mm arayla bitir ki kalınlıkta ani bir basamak olmasın.
+T: Fine. What does it do to the weight? We're already close to the limit. | Olur. Ağırlığa etkisi ne? Zaten limite yakınız.
+Y: About 40 grams. Could you check whether we still clear the hydraulic pipe? Once I have the new model, I'll re-check the margin. | Yaklaşık 40 gram. Hidrolik boruyla hâlâ boşluk kalıp kalmadığını kontrol edebilir misin? Yeni model elime geçince marjı tekrar kontrol edeceğim.
+### 3
+title: Test sonucu analizle uyuşmuyor
+brief: Braketin statik testinde gerinim ölçerler köşe radyusunda analizden yaklaşık %15 yüksek değer okudu. Program müdürü ve müşteri temsilcisinin olduğu toplantıda Kemal farkın nedenini açıklamalı, modele güveni korumalı ve ek test planını savunmalı.
+role: a programme manager who has the customer in the room and needs to know quickly whether the bracket design is safe and the schedule is at risk
+ideas: Sonucu net söyle: gerinimler radyusta analizden %15 yüksek ama parça kırılmadı, limit yükü taşıdı ; Olası nedeni açıkla: modelde cıvata bağlantıları tamamen rijit, gerçek fikstür esniyor ; Kanıtı belirt: modeli fikstür esnekliğiyle tekrar çalıştırınca fark %4'e iniyor ; Riski ve marjı değerlendir: güncellenmiş modelle marj +0,02, yani pozitif ama çok küçük ; Önerini sun: bir katman daha ekle ve kırılma testini iki hafta sonra yap ; Müşteriden ne istediğini söyle: test planı değişikliğine bugün onay
+chunks: Let me be upfront about… = … konusunda baştan açık olayım ; The most likely explanation is… = En olası açıklama şu… ; When we account for…, the gap closes to… = …'i hesaba katınca fark …'e iniyor ; That leaves us with… = Bu da bize … bırakıyor ; I'd recommend we… = …'mizi öneririm
+T: Kemal, the customer is here. In simple terms, did the bracket pass or not? | Kemal, müşteri burada. Basitçe söyle, braket testi geçti mi geçmedi mi?
+Y: It carried limit load with no damage, so it passed. But let me be upfront about one thing: the strain gauges in the radius read about 15 percent higher than our analysis predicted. | Limit yükü hasarsız taşıdı, yani geçti. Ama bir konuda baştan açık olayım: radyustaki gerinim ölçerler analizimizin öngördüğünden yaklaşık yüzde 15 yüksek okudu.
+T: Fifteen percent sounds like a lot. Does that mean the model is wrong? | Yüzde on beş çok gibi geliyor. Bu modelin yanlış olduğu anlamına mı geliyor?
+Y: Not wrong, but too optimistic in one place. The most likely explanation is that we modelled the bolted interface as fully rigid, but the real fixture flexes. | Yanlış değil ama bir yerde fazla iyimser. En olası açıklama şu: cıvatalı bağlantıyı tamamen rijit modelledik ama gerçek fikstür esniyor.
+T: Can you prove that, or is it a guess? | Bunu kanıtlayabilir misin, yoksa tahmin mi?
+Y: I re-ran it last night with the measured fixture stiffness. When we account for that, the gap closes to about four percent, which is well within normal test scatter. | Dün gece ölçülen fikstür rijitliğiyle tekrar çalıştırdım. Bunu hesaba katınca fark yaklaşık yüzde dörde iniyor, bu da normal test saçılımının rahatça içinde.
+T: So where does that leave the margin? And the schedule? | Peki bu marjı nereye getiriyor? Ya takvim?
+Y: That leaves us with plus 0.02, positive but too thin for my liking. I'd recommend we add one more ply and run the ultimate test in two weeks, without moving delivery. | Bu da bize artı 0,02 bırakıyor, pozitif ama bence çok ince. Bir katman daha eklemeyi ve kırılma testini iki hafta içinde, teslimatı kaydırmadan yapmayı öneririm.
+
+## joint
+### 2
+title: Üretimle yapıştırma sürecini planlama
+brief: Hibrit bağlantı konsepti kabul edildi. Kemal şimdi üretim mühendisiyle yapıştırma sürecini konuşuyor: yüzey hazırlığı, galvanik korozyon için cam katman, yapıştırıcı kalınlığı ve kür süresi.
+role: a manufacturing engineer who worries about cycle time, cleanroom space and how operators will actually do the work
+ideas: Kararı söyle: hibrit bağlantı seçildi, film yapıştırıcı artı sekiz cıvata ; Yüzey hazırlığını anlat: karbonda soyma kumaşı, alüminyumda kumlama ve astar ; Galvanik riski açıkla: karbon ile alüminyum doğrudan temas etmemeli, araya bir cam katman ; Yapıştırma detayını belirt: yapıştırıcı kalınlığı 0,2 mm, kür 120 °C'de 90 dakika ; Üretimin endişesini cevapla ve deneme parçası öner
+chunks: The concept is now frozen = Konsept artık donduruldu ; The key thing is… = Asıl önemli olan… ; must not touch… = …'e temas etmemeli ; That's why we need… = Bu yüzden …'e ihtiyacımız var ; How about a trial on…? = … üzerinde bir deneme yapsak?
+T: I heard you chose bonding and bolts together. What does that mean for my shop floor? | Yapıştırma ile cıvatayı birlikte seçtiğinizi duydum. Bu benim atölyem için ne anlama geliyor?
+Y: Yes, the concept is now frozen: a film adhesive plus eight bolts. The key thing is surface preparation. | Evet, konsept artık donduruldu: film yapıştırıcı artı sekiz cıvata. Asıl önemli olan yüzey hazırlığı.
+T: What do you need on the carbon side and the aluminium side? | Karbon tarafında ve alüminyum tarafında ne gerekiyor?
+Y: On the carbon, a peel ply that we remove just before bonding. On the aluminium, grit blasting and a primer within four hours. | Karbonda yapıştırmadan hemen önce çıkardığımız bir soyma kumaşı. Alüminyumda kumlama ve dört saat içinde astar.
+T: Four hours is tight. Anything else? | Dört saat sıkı. Başka bir şey var mı?
+Y: Yes. Carbon must not touch aluminium directly, because it causes galvanic corrosion. That's why we need one glass ply between them. | Evet. Karbon alüminyuma doğrudan temas etmemeli çünkü galvanik korozyona yol açıyor. Bu yüzden aralarına bir cam katmana ihtiyacımız var.
+T: And how long is the cure? I need to plan the oven. | Kür ne kadar sürüyor? Fırını planlamam lazım.
+Y: Ninety minutes at 120 degrees, bondline about 0.2 mm. How about a trial on two scrap parts next week? | 120 derecede doksan dakika, yapıştırıcı kalınlığı yaklaşık 0,2 mm. Gelecek hafta iki hurda parça üzerinde bir deneme yapsak?
+### 3
+title: Sertifikasyonda test kapsamını müzakere etme
+brief: Müşterinin sertifikasyon mühendisi yapıştırılmış bağlantı için çok kapsamlı ve pahalı bir test programı istiyor. Kemal hibrit tasarımın hasara toleranslı olduğunu savunmalı ve test kapsamını makul bir seviyeye indirmek için pazarlık yapmalı.
+role: a customer certification engineer who distrusts bonded primary joints and wants full proof that a disbond cannot cause a failure
+ideas: Endişeyi kabul et: yapıştırılmış bağlantıda gizli ayrılma gerçek bir risk ; Tasarımın mantığını anlat: cıvatalar ayrılma durdurucu, yapıştırıcı tamamen ayrılsa da limit yükü taşıyorlar ; Kanıt öner: tüm yapıştırma olmadan, sadece cıvatalarla eleman testi ; Pazarlık yap: tam yorulma programı yerine numune testleri artı iki eleman testi ; Maliyet ve takvim farkını belirt: yaklaşık 60.000 euro ve dört ay tasarruf ; Ondan iste: test planını ay sonuna kadar onaylaması
+chunks: I share your concern about… = …konusundaki endişenizi paylaşıyorum ; The whole point of… is… = …'in bütün amacı… ; even in the worst case = en kötü durumda bile ; I'd like to propose a middle ground = Orta bir yol önermek istiyorum ; Would you be comfortable with…? = … sizin için uygun olur mu?
+T: Kemal, a bonded joint on a primary structure worries me. You can't see a weak bond, and that's my problem. | Kemal, ana yapıda yapıştırılmış bir bağlantı beni endişelendiriyor. Zayıf bir yapıştırmayı göremezsiniz ve benim sorunum bu.
+Y: I share your concern about weak bonds, and that's exactly why it's a hybrid. The whole point of the bolts is that they act as disbond arrest features. | Zayıf yapıştırma konusundaki endişenizi paylaşıyorum, zaten bu yüzden hibrit. Cıvataların bütün amacı ayrılma durdurucu olarak çalışmaları.
+T: Arrest features on paper, fine. But can they really carry the load alone? | Kağıt üzerinde durdurucu, tamam. Ama yükü gerçekten tek başlarına taşıyabilirler mi?
+Y: Yes, even in the worst case, with the adhesive completely gone, the eight bolts carry limit load. We can show it with an element test with no adhesive at all. | Evet, en kötü durumda bile, yapıştırıcı tamamen gitmiş olsa da sekiz cıvata limit yükü taşıyor. Bunu hiç yapıştırıcı olmayan bir eleman testiyle gösterebiliriz.
+T: I'd still want the full fatigue programme on bonded panels. | Yine de yapıştırılmış paneller üzerinde tam yorulma programını isterim.
+Y: That's around 60,000 euros and four extra months. I'd like to propose a middle ground: coupon tests for the adhesive and two element tests, one bonded and one bolts-only. | Bu yaklaşık 60.000 euro ve dört ay ek süre demek. Orta bir yol önermek istiyorum: yapıştırıcı için numune testleri ve iki eleman testi, biri yapıştırılmış, biri sadece cıvatalı.
+T: Hmm. And if the bolts-only test fails? | Hmm. Peki sadece cıvatalı test başarısız olursa?
+Y: Then you're right and we run the full programme, no argument. Would you be comfortable with that plan, and could we get it approved by the end of the month? | O zaman haklısınız ve tartışmasız tam programı yaparız. Bu plan sizin için uygun olur mu ve ay sonuna kadar onaylatabilir miyiz?
+
+## autoclave
+### 2
+title: Servis firmasıyla tamiri hızlandırma
+brief: Otoklavın tamiri bir hafta sürecek ama üretim bunu kaldıramıyor. Kemal otoklav servis firmasını arıyor: yedek parçayı, teknisyenin gelişini, tamir sonrası sıcaklık ölçümünü ve maliyeti sorup süreyi kısaltmaya çalışıyor.
+role: a service coordinator at the autoclave manufacturer who has limited engineers and must follow the spare parts process
+ideas: Durumu kısaca anlat: ısıtma kontrol ünitesi bozuldu, otoklav duruyor ; Asıl soruyu sor: yedek kart stokta mı, hızlı kargo mümkün mü ; Teknisyeni sor: perşembe yerine salı gelebilir mi ; Tamir sonrasını belirt: sıcaklık dağılımı ölçümü ve termokupl kalibrasyonu da lazım ; Maliyeti ve yazılı teyidi sor
+chunks: I'm calling about… = … hakkında arıyorum ; Is there any way to…? = …'in bir yolu var mı? ; We'd be happy to pay for… = … için ödeme yapmaya hazırız ; while he is here = o buradayken ; Could you confirm that in writing? = Bunu yazılı olarak teyit edebilir misiniz?
+T: Service desk, Markus speaking. How can I help? | Servis masası, ben Markus. Nasıl yardımcı olabilirim?
+Y: Hi Markus, this is Kemal. I'm calling about our big autoclave. The heating control unit failed during a cure. | Merhaba Markus, ben Kemal. Büyük otoklavımız hakkında arıyorum. Isıtma kontrol ünitesi bir kür sırasında arızalandı.
+T: Yes, I saw the ticket. The new control board ships from Germany, normally five days. | Evet, kaydı gördüm. Yeni kontrol kartı Almanya'dan geliyor, normalde beş gün.
+Y: Five days is too long for us. Is there any way to send it by express? We'd be happy to pay for it. | Beş gün bizim için çok uzun. Ekspres gönderilmesinin bir yolu var mı? Ücretini ödemeye hazırız.
+T: Express is possible, about 400 euros. Then it arrives Monday. | Ekspres mümkün, yaklaşık 400 euro. O zaman pazartesi gelir.
+Y: Great. Can your engineer come on Tuesday then, not Thursday? | Harika. O zaman mühendisiniz perşembe yerine salı gelebilir mi?
+T: I'll check his schedule, but I think Tuesday is OK. | Programına bakacağım ama sanırım salı olur.
+Y: Thanks. While he is here, we also need a temperature survey and thermocouple calibration. Could you confirm that in writing? | Teşekkürler. O buradayken sıcaklık dağılımı ölçümü ve termokupl kalibrasyonu da gerekiyor. Bunu yazılı olarak teyit edebilir misiniz?
+### 3
+title: Yarım kürlenmiş parti: yeniden kür mü hurda mı?
+brief: Arıza sırasında içinde altı parça olan bir parti yarıda kaldı. Müşterinin kalite mühendisi partinin hurdaya ayrılmasını istiyor. Kemal DSC test sonuçlarıyla yeniden kür önerisini savunmalı, riskleri dürüstçe anlatmalı ve şartlı bir onay almaya çalışmalı.
+role: a customer quality engineer who is sceptical about re-curing and does not want any doubtful parts on the aircraft
+ideas: Ne olduğunu özetle: kür 140 °C'de 40. dakikada durdu, altı parça, değeri yaklaşık 38.000 euro ; Verileri sun: DSC testi kür derecesini yaklaşık %70 gösteriyor, reçine tamamen jelleşmiş ; Önerini anlat: reçine üreticisinin onayıyla tam kür döngüsünü tekrarla ; Riski kabul et ve nasıl kontrol edeceğini söyle: Tg ölçümü, %100 UT, her parçadan numune ; Hurdanın sonucunu belirt: altı hafta gecikme ; Şartlı onay iste: testlerden biri geçmezse partiyi hurdaya ayırırsınız
+chunks: Let me walk you through… = Size …'i adım adım anlatayım ; Based on the DSC results, … = DSC sonuçlarına göre… ; I'm not going to pretend… = …gibi davranmayacağım ; with the resin supplier's agreement = reçine üreticisinin onayıyla ; If any of these fail, … = Bunlardan biri başarısız olursa…
+T: Kemal, my position is simple. A cure that stopped halfway means scrap. Why are we even discussing it? | Kemal, benim tutumum basit. Yarıda kalan bir kür hurda demektir. Bunu neden tartışıyoruz ki?
+Y: Let me walk you through what actually happened. The cure stopped after 40 minutes at 140 degrees. That's six parts, roughly 38,000 euros of material and labour. | Size gerçekte ne olduğunu adım adım anlatayım. Kür 140 derecede 40 dakika sonra durdu. Altı parça, kabaca 38.000 euroluk malzeme ve işçilik.
+T: The money is your problem. I care about the structure. | Para sizin sorununuz. Ben yapıyla ilgileniyorum.
+Y: Understood. Based on the DSC results, the degree of cure is around 70 percent and the resin had fully gelled, so the fibres didn't move. The laminate quality is already locked in. | Anlaşıldı. DSC sonuçlarına göre kür derecesi yüzde 70 civarında ve reçine tamamen jelleşmişti, yani elyaflar yerinden oynamadı. Laminatın kalitesi zaten sabitlenmiş durumda.
+T: Even so, a re-cure is not in the qualified process. | Yine de yeniden kür onaylı proseste yok.
+Y: You're right, and I'm not going to pretend it's standard. We'd only do it with the resin supplier's agreement, and they've already confirmed a full second cycle is acceptable for this system. | Haklısınız ve bunun standart olduğunu iddia etmeyeceğim. Bunu sadece reçine üreticisinin onayıyla yaparız, onlar da bu sistem için ikinci tam döngünün kabul edilebilir olduğunu zaten teyit etti.
+T: And how would I know the parts are good afterwards? | Peki sonrasında parçaların iyi olduğunu nereden bileceğim?
+Y: Tg, 100 percent UT and coupons from each part. If any of these fail, we scrap the batch, no discussion. So I'm asking for a conditional approval. | Tg ölçümü, yüzde 100 UT ve her parçadan numune. Bunlardan biri başarısız olursa partiyi tartışmasız hurdaya ayırırız. Bu yüzden şartlı bir onay istiyorum.
+
+## drawing
+### 2
+title: Kalıpçıyla geri yaylanma telafisi
+brief: Teknik resim revize edilip yayınlandı. Kemal şimdi braket kalıbını yapacak kalıp tedarikçisiyle konuşuyor: kalıp malzemesini, geri yaylanma telafisini, teslim süresini ve fiyatı netleştirmesi gerekiyor.
+role: a tooling supplier's project engineer who wants a clear specification and a firm order before starting work
+ideas: Durumu söyle: resim B revizyonuyla yayınlandı, kalıp siparişi hazır ; Kalıp malzemesini konuş: otoklav kürü için çelik veya Invar, alüminyum değil ; Geri yaylanmayı açıkla: flanş açısında yaklaşık 0,5 derece telafi gerekiyor ; Teslim süresini ve fiyatı sor ; Sonraki adımı belirt: kalıp tasarımını onay için görmek istiyorsun
+chunks: The drawing has been released = Teknik resim yayınlandı ; We'd prefer… because… = …'i tercih ederiz çünkü… ; to compensate for… = …'i telafi etmek için ; How long will it take to…? = …ne kadar sürer? ; before you start cutting = kesime başlamadan önce
+T: Hello Kemal. Is the bracket drawing final now? We're ready to quote the tool. | Merhaba Kemal. Braket resmi artık son hali mi? Kalıp için teklif vermeye hazırız.
+Y: Yes, the drawing has been released at revision B, with the new tolerance and the 5 mm radius. | Evet, teknik resim B revizyonuyla yayınlandı, yeni tolerans ve 5 mm radyusla birlikte.
+T: Good. For the material, we usually make tools like this in aluminium. It's cheaper. | Güzel. Malzeme için bu tür kalıpları genelde alüminyumdan yapıyoruz. Daha ucuz.
+Y: We'd prefer steel because aluminium expands too much at 180 degrees. Invar is even better, but it's expensive. | Çeliği tercih ederiz çünkü alüminyum 180 derecede çok fazla genleşiyor. Invar daha da iyi ama pahalı.
+T: OK, steel then. Is there anything special about the geometry? | Tamam, o zaman çelik. Geometride özel bir şey var mı?
+Y: Yes. Please close the flange angle by 0.5 degrees to compensate for spring-in after cure. | Evet. Kürden sonraki geri yaylanmayı telafi etmek için lütfen flanş açısını 0,5 derece kapatın.
+T: Understood. I'll send a quote this week. | Anlaşıldı. Bu hafta teklif göndereceğim.
+Y: Thanks. How long will it take to make it? And please send me the tool design before you start cutting. | Teşekkürler. Yapması ne kadar sürer? Bir de lütfen kesime başlamadan önce kalıp tasarımını bana gönderin.
+### 3
+title: İlk parça muayenesi: açı tolerans dışı
+brief: İlk parça muayenesinde flanş açısı toleransın 0,4 derece dışında çıktı ve müşteri parçaları reddetmek istiyor. Kemal ilk parti için sapma onayı, kalıp düzeltmesi ve resim değişikliği içeren bir paket önermeli ve müşteriyi ikna etmeli.
+role: a customer supplier-quality engineer who must protect the assembly line and does not accept parts outside the drawing without strong justification
+ideas: Sorunu sahiplen: flanş açısı 0,4 derece tolerans dışı, geri yaylanma beklenenden fazla ; Montaja etkisini açıkla: deneme montajında parça 0,3 mm şimle oturdu, cıvatalarda ön gerilme yok ; Önerinin üç parçasını anlat: ilk on parça için sapma onayı, kalıbı 0,4 derece daha düzelt, resimde açı toleransını ±1 dereceye aç ; Gerilme kontrolünü belirt: açı değişikliğinin marja etkisi ihmal edilebilir ; Takvimi söyle: düzeltilmiş kalıptan parçalar üç hafta sonra ; Ondan iste: sapma onayına bu hafta karar vermesi
+chunks: I'll take ownership of… = … sorumluluğunu üstleniyorum ; In practical terms, … = Pratikte… ; I'd like to propose a three-step fix = Üç adımlı bir çözüm önermek istiyorum ; has a negligible effect on… = … üzerinde ihmal edilebilir bir etkisi var ; in the meantime = bu arada
+T: Kemal, the first article report shows the flange angle out of tolerance. I can't accept parts outside the drawing. | Kemal, ilk parça raporu flanş açısının tolerans dışında olduğunu gösteriyor. Resim dışı parçaları kabul edemem.
+Y: I'll take ownership of that. Spring-in was about 0.4 degrees more than we predicted, so the angle is outside the limit. | Bunun sorumluluğunu üstleniyorum. Geri yaylanma tahmin ettiğimizden yaklaşık 0,4 derece fazla oldu, bu yüzden açı limitin dışında.
+T: So what does that mean for the assembly line? | Bu montaj hattı için ne anlama geliyor?
+Y: In practical terms, very little. In the trial fit, the bracket sat down with a 0.3 mm shim, and the bolts didn't pull the flange into place. | Pratikte çok az. Deneme montajında braket 0,3 mm'lik bir şimle oturdu ve cıvatalar flanşı zorla yerine çekmedi.
+T: Fine, but the drawing is the drawing. What are you proposing? | Tamam ama resim resimdir. Ne öneriyorsunuz?
+Y: I'd like to propose a three-step fix: a concession for the first ten parts, a 0.4 degree correction on the tool, and opening the angle tolerance to plus or minus one degree. | Üç adımlı bir çözüm önermek istiyorum: ilk on parça için sapma onayı, kalıpta 0,4 derecelik düzeltme ve açı toleransının artı eksi bir dereceye açılması.
+T: Opening the tolerance needs your stress team to agree. Have they looked at it? | Toleransı açmak için gerilme ekibinizin onayı lazım. Baktılar mı?
+Y: Yes, the angle change has a negligible effect on the margin. Parts from the corrected tool come in three weeks, so in the meantime we need your decision on the concession this week. | Evet, açı değişikliğinin marj üzerinde ihmal edilebilir bir etkisi var. Düzeltilmiş kalıptan parçalar üç hafta sonra geliyor, bu arada sapma onayı için bu hafta kararınıza ihtiyacımız var.
+
+## ndt
+### 2
+title: NDT ekipman tedarikçisinden bilgi alma
+brief: Termografi ve UT kombinasyonuna karar verildi. Kemal şimdi bir NDT ekipman firmasının satış mühendisiyle konuşuyor: bal peteği paneller için uygun sistemi, tespit edebileceği en küçük hatayı, hızı ve fiyatı soruyor.
+role: a sales engineer from an NDT equipment company who wants to sell the most advanced system
+ideas: İhtiyacı anlat: bal peteği sandviç paneller, önce termografi, sonra UT ; Teknik soruyu sor: 2 mm'lik yüzeyin altında en küçük hangi ayrılmayı bulabiliyor ; Hızı sor: bir panel ne kadar sürede taranıyor ; Fiyatı ve eğitimi sor ; Sonraki adımı öner: kendi referans panelimizle deneme
+chunks: We're looking for… = …arıyoruz ; What is the smallest… you can detect? = Tespit edebildiğiniz en küçük … ne? ; How long does it take to…? = …ne kadar sürüyor? ; Does the price include…? = Fiyata … dahil mi? ; Would it be possible to…? = …mümkün olur mu?
+T: Thanks for the call, Kemal. What kind of system are you looking for? | Aradığınız için teşekkürler Kemal. Nasıl bir sistem arıyorsunuz?
+Y: We're looking for a thermography system for honeycomb sandwich panels. We'll use UT only on suspect areas. | Bal peteği sandviç paneller için bir termografi sistemi arıyoruz. UT'yi sadece şüpheli bölgelerde kullanacağız.
+T: Our flash thermography unit is ideal for that. It's very popular in aerospace. | Flaş termografi ünitemiz bunun için ideal. Havacılıkta çok popüler.
+Y: What is the smallest disbond you can detect under a two-millimetre skin? | İki milimetrelik bir yüzeyin altında tespit edebildiğiniz en küçük ayrılma ne?
+T: Typically about 6 mm in diameter, if the skin is carbon. | Yüzey karbonsa tipik olarak yaklaşık 6 mm çapında.
+Y: Good. And how long does it take to scan a panel of one by two metres? | Güzel. Peki bir metreye iki metrelik bir paneli taramak ne kadar sürüyor?
+T: About ten minutes, including moving the camera. The full system is around 180,000 euros. | Kamerayı taşımak dahil yaklaşık on dakika. Sistemin tamamı yaklaşık 180.000 euro.
+Y: Does the price include training? And would it be possible to test our own reference panel first? | Fiyata eğitim dahil mi? Bir de önce kendi referans panelimizi test etmek mümkün olur mu?
+### 3
+title: Müşteriyi termografiyi kabul etmeye ikna etme
+brief: Müşterinin kalite ekibi tüm paneller için %100 UT istiyor. Kemal referans panel deneme sonuçlarıyla termografinin güvenilir olduğunu göstermeli, %100 UT'nin üretim maliyetini açıklamalı ve aşamalı bir muayene planı için onay almalı.
+role: a customer NDT level 3 specialist who trusts UT, knows the physics well and will only accept data, not sales arguments
+ideas: Endişeyi kabul et: UT kanıtlanmış bir yöntem, termografinin derinlik sınırı var ; Deneme sonuçlarını sun: referans panelde 12 yapay hatanın hepsi bulundu, en küçüğü 6 mm ; Sınırı dürüstçe söyle: çekirdek tarafındaki derin hasarı görmüyor, bu yüzden UT'yi tamamen kaldırmıyoruz ; %100 UT'nin maliyetini belirt: haftada üç ek vardiya, teslimatlar yavaşlar ; Önerini sun: %100 termografi, şüpheli bölgeler ve her onuncu panel için UT, 50 panel sonra gözden geçirme ; Ondan iste: yeni prosedürü ön onaylaması
+chunks: I fully appreciate that… = …olduğunun tamamen farkındayım ; The trial results speak for themselves = Deneme sonuçları ortada ; To be fair to UT, … = UT'ye hakkını vermek gerekirse… ; I'm not proposing we drop… = …'i bırakmayı önermiyorum ; Shall we agree to review it after…? = …sonra tekrar gözden geçirmeyi kabul edelim mi?
+T: Kemal, UT is the method we know and trust. Why should we accept thermography on these panels? | Kemal, UT bildiğimiz ve güvendiğimiz yöntem. Bu panellerde neden termografiyi kabul edelim?
+Y: I fully appreciate that UT is the proven method. But the trial results speak for themselves: on our reference panel, thermography found all twelve artificial defects, down to 6 mm. | UT'nin kanıtlanmış yöntem olduğunun tamamen farkındayım. Ama deneme sonuçları ortada: referans panelimizde termografi 12 yapay hatanın hepsini, 6 mm'ye kadar buldu.
+T: Those were Teflon inserts near the surface. Real damage can be deeper. | Onlar yüzeye yakın Teflon eklerdi. Gerçek hasar daha derinde olabilir.
+Y: That's a fair point, and to be fair to UT, thermography won't see a disbond on the far side of the core. That's exactly why I'm not proposing we drop UT completely. | Haklı bir nokta ve UT'ye hakkını vermek gerekirse termografi çekirdeğin öbür tarafındaki ayrılmayı görmez. Tam da bu yüzden UT'yi tamamen bırakmayı önermiyorum.
+T: Then why not simply UT every panel? | O zaman neden her paneli UT ile kontrol etmiyoruz?
+Y: Because 100 percent UT means three extra shifts a week and slower deliveries. My proposal is full thermography, plus UT on every suspect area and on one panel in ten. | Çünkü yüzde 100 UT haftada üç ek vardiya ve daha yavaş teslimat demek. Önerim tam termografi, artı her şüpheli bölgede ve her on panelden birinde UT.
+T: And if the sampled UT finds something thermography missed? | Peki örneklemeli UT termografinin kaçırdığı bir şey bulursa?
+Y: Then we go back to 100 percent UT straight away. Shall we agree to review it after the first 50 panels, and could you give the new procedure a preliminary approval? | O zaman hemen yüzde 100 UT'ye döneriz. İlk 50 panelden sonra tekrar gözden geçirmeyi kabul edelim mi ve yeni prosedüre ön onay verebilir misiniz?

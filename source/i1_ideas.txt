@@ -1,0 +1,174 @@
+## pm_slip
+### 1
+ideas: Durumu söyle: ilk parçada iki hafta geç kaldık ; Nedenini açıkla: tedarikçi kalıbı geç gönderdi ; Kalıbın ne zaman geleceğini söyle: önümüzdeki pazartesi ; Çözümü anlat: bir ay boyunca cumartesileri çalışabiliriz
+### 2
+ideas: Durumu söyle: braket planın yaklaşık iki hafta gerisinde ; Nedenini açıkla: kalıp tedarikçisi teslim tarihini kaçırdı ; Etkisini anlat: ilk parça muayenesi mart sonuna kayıyor, müşteri parçaları nisanda bekliyor ; Kurtarma planını anlat: katmanları ve vakum torbalarını paralel hazırla ; Koşulu belirt ve her cuma bilgi vereceğini söyle: nisan tarihi ancak ilk deneme iyi giderse tutar
+### 3
+ideas: Ana mesajı ver: iki haftalık kayma var ve kalıp kritik yol üzerinde ; Tedarikçinin durumunu açıkla: pazartesiye söz verdiler ama tarih kesin değil ; Riski neden şimdi belirttiğini söyle: sonra sürpriz yaşatmak istemiyorsun ; Kurtarma planını anlat: iki vardiya çalışma, ultrasonik muayene zamanını öne çekme ; Maliyeti belirt: ekstra vardiya kabaca sekiz bin avro ; Karşılaştırmayı yap ve onay iste: bu, müşteriye geç teslimat cezasından çok daha az
+
+## pm_budget
+### 1
+ideas: Durumu söyle: bu ay planladığımızdan fazla harcadık ; Rakamı ver: yaklaşık yüzde on iki fazla ; Birinci nedeni açıkla: karbon elyafın fiyatı arttı ; İkinci nedeni söyle: çok fazla parçayı hurdaya attık
+### 2
+ideas: Durumu söyle: bütçeyi yüzde on iki aştık, esas neden malzeme fiyatları ; Fiyat artışını açıkla: sabit fiyat anlaşması ocakta bitti, yeni fiyat yüzde on sekiz daha yüksek ; Hurda oranını anlat: yüzde dokuz civarında, hedef yüzde beşti ; Talebini belirt: kırk bin avro ek bütçe ; Planını söyle: yaza kadar maliyeti düşüreceğiz
+### 3
+ideas: Durumu özetle: temel bütçenin yaklaşık yüzde on iki üzerindeyiz, aşımın büyük kısmı malzemeden ; Kalıcı ve geçici kısmı ayır: fiyat artışı kalıcı, hurda yeni operatörlerden kaynaklanan tek seferlik maliyet ; Önerini anlat: bu çeyrek yedek bütçeden kullanalım ; Paralel adımı belirt: yeni yıllık sözleşme pazarlığı yapıyoruz ; Yatırımı savun: otomatik kesim masası israfı yüzde on beş azaltır, geri ödeme iki yılın altında ; Finans incelemesi için ne istediğini söyle: yedek bütçe onayı ve yatırım desteği
+
+## pm_estimate
+### 1
+ideas: Durumu söyle: yeni kapak için ilk tahminim hazır ; Fiyatı ver: bir parça yaklaşık dokuz yüz avro ; İşçiliği belirt: bir parça yaklaşık on iki saat sürüyor ; Uyarını yap: bu sadece bir tahmin, detaylar için bir gün daha lazım
+### 2
+ideas: İlk tahmini söyle: elli parçalık parti varsayımıyla parça başı yaklaşık dokuz yüz avro ; Neleri içerdiğini açıkla: malzeme, işçilik ve muayene ; Neleri içermediğini belirt: kalıp hariç ; Kalıp maliyetini söyle: yaklaşık otuz beş bin avro, tek seferlik ; Teslim süresini anlat: ilk parçalar on dört hafta, çünkü kalıp tek başına on hafta sürüyor
+### 3
+ideas: Rakamın kesinliğini belirt: kaba bir büyüklük mertebesi, parça başı dokuz yüz avro, artı eksi yüzde on ; Varsayımları açıkla: on iki işçilik saati, üç metrekare prepreg, yılda altı yüz parça ; Ana maliyet etkenini söyle: açık ara işçilik, elle yatırma toplamın neredeyse yarısı ; Bıraktığın payı belirt: yüzde yedi hurda oranı ; Belirsizliği anlat: muayene gereksinimleri fiyatı yükseltebilir ; Öneride bulun: ilk partiden sonra fiyatı gözden geçirme maddesi ekleyelim
+
+## pm_gate
+### 1
+ideas: Durumu söyle: gözden geçirme iki hafta sonra ve neredeyse hazırız ; Bitenleri anlat: çizimler ve analiz bitti ; Eksik olanı belirt: hâlâ test sonuçlarını bekliyoruz ; Tarihi ve görüşünü söyle: gelecek haftaya kadar gelir, bence yapabiliriz
+### 2
+ideas: Durumu söyle: on ikisindeki kritik tasarım gözden geçirmesi büyük ihtimalle yapılabilir ; İlerlemeyi anlat: işin çoğu bitti ama dört açık aksiyon var ; Ana riski açıkla: yorulma testi, laboratuvardan son numuneleri bekliyoruz ; Çözüm öner: sonuçlar gecikirse toplantıyı yapıp aksiyonu sonra kapatırız ; Neden emin olduğunu belirt: statik testler iyi bir marj gösteriyor
+### 3
+ideas: Dürüst görüşünü ver: oldukça iyi durumdayız ; Tamamlananları anlat: tasarım donduruldu, gerilme raporu onaylandı ; Bekleyen maddeleri say: yorulma sonuçları, iki çizim güncellemesi, neredeyse biten ağırlık raporu ; Riskin boyutunu belirt: hiçbiri engelleyici değil ; Koşullu öneri yap: yorulma aksiyonu otuz gün içinde kapanmak şartıyla toplantıyı yapalım ; Beklentileri nasıl yöneteceğini söyle: müşteriye önceden kısa bir durum notu göndereceğim
+
+## pm_change
+### 1
+ideas: Talebi söyle: müşteri parçaya bakır ağ istiyor ; Büyüklüğünü açıkla: büyük bir değişiklik, tasarım ve kalıp değişmeli ; Süreyi belirt: yaklaşık altı hafta daha gerekiyor ; Kimin ödeyeceğini söyle: müşteri, çünkü bu onların talebi
+### 2
+ideas: Talebi söyle: müşteri kapakta yıldırım koruması istiyor ; Etkisini açıkla: katman dizilimi, çizimler ve muhtemelen kalıp etkileniyor ; Teknik işi anlat: bir kat bakır ağ eklenebilir ama analiz güncellenmeli, bazı testler tekrarlanmalı ; Maliyet ve takvimi belirt: yaklaşık on beş bin avro ve altı hafta ; Nasıl ilerleneceğini öner: işe başlamadan resmi değişiklik talebi isteyelim
+### 3
+ideas: Müşterinin görüşüne cevap ver: küçük görünüyor ama neredeyse her şeyi etkiliyor ; Dalga etkisini açıkla: katman dizilimi, kür çevrimi ve muayene yöntemi ; Rakamları ver: tasarım ve test için on beş bin avro, takvimde altı hafta kayma ; Alternatifi anlat: genişletilmiş folyo daha hafif ve kolay ama yine de test gerektirir ; Pozisyonunu belirt: değişiklik anlaşılan kapsamın dışında, bedelsiz karşılamaya itiraz et ; Uzlaşma öner: ilk testlerin maliyetini paylaşmayı teklif et
+
+## pm_capacity
+### 1
+ideas: Durumu söyle: gelecek çeyrekte siparişler iki katı, şu anki ekiple yetişmez ; İhtiyacı belirt: dört teknisyen daha lazım ; Otoklavı anlat: neredeyse dolu, bir gece vardiyası ekleyebiliriz ; Başlangıcı söyle: hızlı işe alırsak gelecek aydan itibaren
+### 2
+ideas: Durumu söyle: temmuzdan itibaren hacim iki katına çıkıyor ; Kapasiteyi açıkla: otoklav zaten yüzde seksen beş dolu ; Fazla mesainin sınırını anlat: kısa vadeli çözüm, insanlar yoruluyor ve hurda artıyor ; İşe alım ihtiyacını belirt: dört teknisyen, her birini eğitmek yaklaşık iki ay ; Alternatif öner: basit parçaları taşerona ver, karmaşıkları içeride tut
+### 3
+ideas: Sıkışma noktasını söyle: zaten zorlanıyoruz, otoklav yüzde seksen beşte ve ilk darboğaz o ; Gece vardiyasının etkisini açıkla: darboğaz yatırma ve muayeneye kayar, eğitimli teknisyen yetersiz ; İkinci otoklavı değerlendir: orta vadede evet ama bu bir üret ya da satın al kararı ; Taşeron seçeneğini belirt: basit parçalar için daha ucuz olabilir ; Kademeli planını anlat: temmuzdan fazla mesai ve iki yeni kişi, düz paneller için taşeron, ekime kadar otoklav iş planı ; Kuruldan ne istediğini söyle: bu planı ve sınırlı işe alım bütçesini onaylasınlar
+
+## rtm
+### 1
+ideas: Sorunu söyle: otoklav yavaş ve pahalı ; Önerini açıkla: RTM kullanmak istiyorum, daha hızlı ve ucuz ; Rakamı ver: bir parça dokuz değil iki saat sürüyor ; Dezavantajı ve ilk adımı belirt: kalıp çok pahalı, önce küçük bir deneme öneriyorum
+### 2
+ideas: Önerini söyle: braketi prepregden RTM'e taşıyalım ; Nedenini açıkla: otoklav darboğazımız, her parça içinde yaklaşık dokuz saat kalıyor ; Kazancı anlat: RTM ile kür dahil bir parça iki saatin altında ; Dezavantajı belirt: metal kalıp pahalı, sadece yüksek hacimde kendini öder ; Doğrulama planını öner: on deneme paneli yapıp prepreg parçalarla karşılaştıralım
+### 3
+ideas: Ana argümanı söyle: maliyet, otoklav darboğaz ve braket içinde neredeyse dokuz saat kalıyor ; Kazancı açıkla: enjeksiyon ve kür dahil çevrim süresi iki saatin altına iner ; Ödünleşimi anlat: eşleşik metal kalıp pahalı, yılda yaklaşık dört yüz parçanın üstünde kârlı ; Kalite riskini belirt: kalın flanş yakınında kuru bölgeler oluşabilir ; Doğrulama planını öner: karar vermeden önce tam ultrasonik muayeneli on deneme paneli ; Dinleyiciden ne istediğini söyle: yeniden kalifikasyon açmadan deneme için onay
+
+## delam
+### 1
+ideas: Bulguyu söyle: bir panelde delaminasyon bulduk ; Yerini ve boyutunu belirt: kenara yakın, yaklaşık otuz milimetre ; Aldığın önlemi anlat: diğer panelleri durdurduk ve kontrol ediyoruz ; Tahminini ve sonraki adımı söyle: neden muhtemelen kirli bir film, cuma günü rapor göndereceğim
+### 2
+ideas: Bulguyu söyle: ultrasonik muayenede firar kenarı yakınında delaminasyon bulduk ; Boyutunu belirt: yaklaşık otuz çarpı on iki milimetre ; Önlemi anlat: aynı partiden diğer üç paneli beklemeye aldık ; Olası nedeni açıkla: kalıp ayırıcı filmden kirlenme, ama henüz doğrulanmadı ; Sonraki adımı söyle: parçayı bu hafta keseceğiz, sonuçları en kısa sürede göndereceğim
+### 3
+ideas: Bulguyu özetle: firar kenarı yakınında otuz çarpı on iki milimetrelik bir gösterge ; Türünü açıkla: dördüncü ve beşinci katlar arasında, yüzey hatası değil, katlar arası delaminasyon ; Kök neden teorini anlat: büyük ihtimalle ayırıcı filmden kirlenme ; Diğer ihtimali belirt: kür sırasında yerel basınç düşüşü de ekarte edilemez ; Koruma önlemini söyle: parti karantinaya alındı ; Sonraki adımı ve tarihi ver: parçayı kesit alıp perşembeye kadar kür kayıtlarını kontrol edeceğiz
+
+## clt
+### 1
+ideas: Sonucu söyle: parça yeterince sağlam ; Küçük sorunu belirt: marj küçük ; Ne anlama geldiğini açıkla: parçayı burduğunda zayıf ; Önerini anlat: iki kat daha ekleyelim, parça sadece altmış gram ağırlaşır
+### 2
+ideas: Ana sonucu söyle: mevcut dizilim yeterince sağlam ama marj istediğimizden düşük ; Nedenini sade dille açıkla: elyaf yönünde çok rijit ama kesmede zayıf ve parça çok burulmaya maruz ; Rakamları ver: güvenlik marjı sıfır virgül on beş, hedef sıfır virgül üç ; Çözümü anlat: iki adet kırk beş derece katla marj sıfır virgül dörde çıkıyor ; Maliyetini belirt ve öner: sadece altmış gram ekliyor, bunu öneriyorum
+### 3
+ideas: Ana mesajı ver: mevcut dizilim yeterince sağlam ama istediğimizden az marjla ; Matematik olmadan açıkla: laminat elyaf boyunca çok rijit, kesmede zayıf, parça çok burulma görüyor ; Rakamı ver: Tsai-Wu kriteriyle sıfır virgül on beş, hedef sıfır virgül üç ; Çözümü anlat: iki ek kırk beş derece kat ; Neden emin olduğunu açıkla: model numune testleriyle yüzde beş içinde uyuşuyor ; Bedeli ve kararı belirt: ağırlık cezası sadece altmış gram, yöneticiden onay iste
+
+## cure
+### 1
+ideas: Sorunu söyle: son partide Tg çok düşük ; Rakamları ver: biz yüz altmış beş ölçtük, veri sayfası yüz seksen diyor ; Kendi tarafını açıkla: kür çevrimini aynen uyguladık ; Ne istediğini söyle: bu partinin test raporunu gönderin
+### 2
+ideas: Sorunu söyle: son partide Tg beklenenden düşük ; Rakamları ver: yaklaşık yüz altmış beş derece ölçtük, veri sayfası yüz seksen diyor ; Kendi tarafını açıkla: önerilen kür çevrimini aynen uyguladık, fırın kayıtları normal ; Olası nedeni sor: reçine geldiğinde fazla eski miydi, analiz sertifikasını isteyin ; İş birliği öner: numune gönderelim, onlar da test etsin ve önerilerini sor
+### 3
+ideas: Sorunu söyle: DMA ile camsı geçiş sıcaklığını yaklaşık yüz altmış beş ölçtük, veri sayfasında yüz seksen ; Kür çevrimini anlat: dakikada iki derece rampa ve yüz seksende iki saat bekleme ; Tedarikçinin cevabını kabul et: onların kalite verisi temiz görünüyor ; Olası nedeni sor: reçine teslimde açık kalma süresinin sonuna yakın olabilir mi, nakliye bu ay uzun sürdü ; Sonraki adımları öner: biz DSC için numune gönderelim, onlar kür derecesini kontrol etsin ; Tarih ve sorumlu üzerinde anlaşmayı iste
+
+## testplan
+### 1
+ideas: Yaklaşımı söyle: önce küçük numuneleri test edeceğiz ; Sayıyı ver: yaklaşık üç yüz numune ; Testleri say: çekme, basma ve kesme, bazıları sıcak ve nemli ortamda ; Süreyi belirt: yaklaşık on iki hafta
+### 2
+ideas: Yaklaşımı anlat: yapı taşı yöntemi, numunelerle başlayıp tam boy panelle bitireceğiz ; Malzeme partilerini açıkla: doğal farkları görmek için en az üç parti ; Ortam koşullarını anlat: numuneleri nem odasında şartlandırıp seksen iki derecede test edeceğiz ; Neden böyle yaptığını belirt: en kötü durumu kapsamak için ; Sonraki adımı söyle: hafta sonuna kadar test matrisini ve takvimi göndereceğim
+### 3
+ideas: Amacı söyle: yeni prepreg için tasarım izin verilen değerlerini çıkarmak, gerilme ekibi güvenle boyutlandırsın ; İstatistiği açıkla: üç parti ve iki kür çevrimi seçtik, B-tabanlı değerler için yeterli veri ; Ortam etkisini anlat: sıcak-nemli ve soğuk-kuru test edip en kötü ortam için değerleri düşüreceğiz ; Darbe hasarını belirt: eleman seviyesinde darbe sonrası basma testi ekledik ; Uzmandan girdi iste: matrisi kesinleştirmeden önce darbe enerji seviyeleri hakkında görüşünü sor
+
+## audit
+### 1
+ideas: Genel izlenimini söyle: temiz oda çok iyi görünüyor ; Malzeme depolamayı anlat: prepreg eksi on sekiz derecede dondurucuda ; Kontrolü belirt: sıcaklık her gün kontrol edilip deftere yazılıyor ; Sonraki isteğini söyle: eğitim kayıtlarını da görmek istedin
+### 2
+ideas: Gördüğün alanı anlat: serme alanı sıcaklık ve nem kontrollü ; Açık kalma süresi kontrolünü açıkla: her rulonun etiketi var, operatörler dışarıdaki süreyi yazıyor ; Kayıtları incelediğini söyle: geçen haftanın formuna baktın ; Eksikliği belirt: iki kayıtta imza eksik ; Öneri ve genel değerlendirme yap: dijital sisteme geçsinler, genel olarak etkilendin
+### 3
+ideas: Odak noktanı söyle: vardiyalar arasında malzeme açık kalma süresinin nasıl kontrol edildiğini anlamak istedin ; Mevcut sistemi açıkla: her operatör süreyi ruloya bağlı kağıt forma yazıyor, sistem disipline dayanıyor ; Riski belirt: bir rulo üç farklı vardiyada kullanılınca sistem zayıflıyor ; Bulguyu anlat: iki imzasız kayıt, küçük bir bulgu ama kağıt sistemin zayıflığını gösteriyor ; Çözümü söyle: barkod okuyucular sorunu çözer ; Sonucu belirt: kısa bir rapor göndereceksin, ziyareti genel olarak çok olumlu buldun
+
+## safety
+### 1
+ideas: Hoş geldin de ve ilk kuralı söyle: eldiven ve gözlük her zaman ; Nedenini açıkla: reçine cilde zararlı ; Toz konusunu anlat: keserken maske tak ; Acil durumu belirt: yangında odadan çık, bu numarayı ara, emin değilsen sor
+### 2
+ideas: Eldiven kuralını söyle: reçine veya prepreg tutarken her zaman nitril eldiven ; Nedenini açıkla: kürlenmemiş reçine cilt alerjisi yapar ve alerji hiç geçmez ; Zımparalama alanını anlat: karbon tozu çok ince, emişi aç ve maske tak ; Acil çıkışı göster: en yakın çıkış otoklavın arkasında ; Acil durumda ne yapacaklarını söyle: kırmızı butona bas ve iş güvenliği sorumlusunu ara
+### 3
+ideas: İtiraza cevap ver: eldiven yavaşlatıyor olabilir ama reçineyi hafife almak kolay ; Riski açıkla: birkaç temastan sonra hassasiyet gelişebilir ve kalıcıdır ; Kesme istasyonunu anlat: asıl tehlike toz, parçacıklar akciğerlerin derinine ulaşır ve etkisi birikir ; Alışkanlık öner: başlamadan emişi kontrol et, takvimin gerisinde olsak bile kestirme yapma ; Güvensiz durumu bildirmeyi anlat: hemen bildir, hattı durdurduğun için kimse suçlamaz ama biri yaralanırsa suçlar
+
+## material
+### 1
+ideas: Soruyu söyle: yeni kapak için karbon mu cam mı ; Maliyeti karşılaştır: cam çok daha ucuz ; Karbonun avantajını belirt: daha hafif ve daha rijit ; Kararını açıkla: bu kapakta ağırlık çok önemli değil, cam tercih ediyorum
+### 2
+ideas: Camın artısını söyle: ucuz ve işlemesi kolay ; Eksisini belirt: çok daha ağır ; Rakamı ver: aynı rijitlikte cam kapak neredeyse iki kat ağır ; Belirleyici faktörü açıkla: kapak makinenin üzerinde duruyor, kimse taşımıyor, yani karar maliyete göre ; Önerini söyle: cam ve yüzey için jel kaplama
+### 3
+ideas: Beklenmedik görüşünü söyle: bu kapak için karbonu savunmayacaksın ; Ödünleşimi açıkla: klasik ağırlık-maliyet dengesi ve burada ağırlık belirleyici değil ; Maliyet farkını belirt: karbon yaklaşık on kat pahalı, sadece çerçeveye oturan kapak için fazla ; Tek riski anlat: kapı yükü altında sehim, birkaç nervür veya köpük çekirdekle ucuza çözülür ; Karbonun yerini söyle: hareketli kolda her kilo enerji demek ; Koşulu belirt: kapak şartnamesi değişmedikçe doğru seçim cam
+
+## intro
+### 1
+ideas: Kendini tanıt: adın Kemal ; Mesleğini söyle: makine mühendisisin, kompozit malzemelerle çalışıyorsun ; Nereden olduğunu anlat: Türkiye'densin, deniz kenarında büyük bir şehirde yaşıyorsun ; Deneyimini belirt: on beş yıllık deneyim, herkese memnun olduğunu söyle
+### 2
+ideas: Kendini tanıt: Kemal, Türkiye'deki şirketimizde makine mühendisi ; Geçmişini anlat: yaklaşık on beş yıldır kompozit yapılarla, hem analiz hem üretim tarafında ; Sektörleri say: çoğunlukla uçak parçaları, ayrıca rüzgar türbini kanatları ve raylı araçlar ; Bu ekipteki rolünü belirt: laminat tasarımından sorumlu olacaksın ; Davet et: malzeme veya süreçlerle ilgili her zaman soru sorabilirler
+### 3
+ideas: Kendini tanıt: eğitim olarak makine mühendisi, on beş yıldır kompozit yapılarda ; Odak noktanı açıkla: analiz ve üretimi birleştirmek, parçayı konseptten kalifikasyona kadar takip etmek ; Son işlerini anlat: uçaklar için karbon-epoksi parçalar, prepreg serme, RTM ve filaman sarma ; Ek deneyimi belirt: birkaç rüzgar enerjisi projesi ; Bu projedeki rolünü söyle: birincil yapının laminat tasarımı ve gerilme analizi ; Davet et: net olmayan bir şey olursa sana ulaşsınlar
+
+## coffee
+### 1
+ideas: İçeceğini söyle: sütlü, şekersiz kahve ; Hafta sonunu anlat: ailenle plaja gittin ; Havayı ve çocukları anlat: güneşli ve sıcaktı, çocuklar denizde yüzmeyi sever ; Futbol hakkında konuş ve soru sor: futbolu sen de seversin, hangi takımı tutuyor
+### 2
+ideas: Hafta sonunu anlat: dağlarda küçük bir köye gittiniz, nehir kenarında öğle yemeği yediniz ; Doğa yürüyüşünü söyle: istediğin kadar sık gidemiyorsun ; Boş zamanını anlat: genelde yemek yapıyor ya da oğlunla tenis oynuyorsun ; En sevdiğin yemeği açıkla: basit bir balık çorbası, büyükannenin mutfağını hatırlatıyor ; Konuyu kibarca kapat: futbola pek ilgin yok, toplantı hâlâ saat onda mı diye sor
+### 3
+ideas: Yorgunluğunu açıkla: kızının dün akşam okul konseri vardı, eve geç döndünüz ; Konseri anlat: piyano çaldı, önce gergindi ama çok güzel çaldı ve onunla gurur duydun ; Hafta sonu planını söyle: kampa gitmeyi planladınız ama hava çok kötüydü ; Sonucu anlat: onun yerine müzeye gittiniz, ekranlardan güzel bir değişiklik oldu ; Meslektaşına öneri yap: bilim müzesine çocuklarını götürsün ; Sohbeti kibarca bitir: içeri dönelim, sonraki oturum başlamak üzere
+
+## dinner
+### 1
+ideas: Geleneksel bir yemek öner ; Yemeği anlat: pilav ve sebzeli kuzu, biraz acılı ; Balığı öner: buradaki balık çok taze ; Tatlıyı söyle: baklavayı mutlaka denesin, afiyet olsun de
+### 2
+ideas: Önerini söyle: ızgara balık, her sabah yerel olarak tutuluyor ; Yan masadaki yemeği açıkla: dana eti, soğan ve ince hamurla yapılan, taş fırında pişen bir et böreği ; Şehri tanıt: iki bin yıldan eski, kalesi ve çarşılarıyla ünlü ; Seyahatten bahset: Londra'ya bir konferans için bir kez gittin, eşinle tekrar gitmek istersin ; Misafirperverlik göster: cüzdanını kaldırsın, hesap sizden
+### 3
+ideas: Misafirini ağırla: memnuniyetle getirdin, şehirden yerel balığı denemeden ayrılmamalı ; Mekanı öv: sahildeki en iyi yer ; Rakıyı açıkla: alışılması gereken bir tat, güçlü anason aroması var, bol su ve buzla öner ; Kuleyi anlat: efsaneye göre bir prenses yılandan korumak için oraya kapatılmış, boş bir sabahı varsa görmeye değer ; Hesabı kibarca reddet: siz misafirsiniz, ısrar ediyorsun ; Karşılığı öner: Bristol'e geldiğinizde ödeyebilir
+
+## travel
+### 1
+ideas: Kendini tanıt: rezervasyonun var, adın Kemal ; Durumu açıkla: uçağın gecikti, iki gecelik oda ayırttın ; Oda ve asansörü sor: üç yüz on iki numaralı oda, asansör nerede ; Yarın için iste: sabah sekizde taksi çağırsınlar
+### 2
+ideas: Sorunu söyle: aktarma uçuşun fırtına yüzünden iptal oldu ; Alternatifi sor: bu gece başka bir uçuş var mı, sonraki sabah altıda ; Çözümü kabul et ve isteğini belirt: otel kuponunu al, koltuğu koridor tarafı yap ; Seyahatin amacını anlat: Toulouse'da tedarikçi ziyareti, havaalanından merkeze taksiyle yirmi dakika ; Masraf için ne istediğini söyle: kupon için fiş
+### 3
+ideas: Sorunu kibarca belirt: bir karışıklık var, seyahat acentesi rezervasyonu geçen hafta onayladı ; Çözüm öner: şirket adına arasınlar ya da telefondaki onay e-postasını göster ; Sonucu anlat: yanlışlıkla gelecek haftaya ayrılmış ama bu gece oda var ; Teşekkür et ve aciliyeti belirt: fabrikada saat dokuzda toplantın var ; Taksiyi yönet: trafik yoğun, kırk dakika sürebilir, otoyoldan gitmesini iste ; Ödemeyi anlat: otuz avro ver, üstü kalsın
+
+## videocall
+### 1
+ideas: Bağlantıyı kontrol et: buradasın, seni duyuyorlar mı ; Ekran sorununu belirt: henüz ekranı göremiyorsun ; Ses sorununu söyle: sesi çok kısık, tekrar etmesini iste ; Toplantıyı başlat: şimdi çok daha iyi, başlayalım
+### 2
+ideas: Geç kalanı rahatlat: sorun değil, linki sohbete tekrar gönder ; Bağlantı sorununu belirt: sesi kesiliyor, kamerayı kapatmasını öner ; Gürültüye nazik yaklaş: köpek için endişelenmesin ; Ekranı paylaş: herkes takvimi görebiliyor mu diye sor ; Zamanı yönet: uzun soruyu toplantı dışına al, sonra onu arayacağını söyle
+### 3
+ideas: Sorunu nazikçe söyle: artık duyuyorsun ama bir an dondu, onun tarafında gecikme var ; Herkesten iste: konuşmadıklarında mikrofonu kapatsınlar, arka plan gürültüsü çok ; Çözüm öner: bağlantısı dengesiz, çizimleri sen paylaş ; Kontrol et: herkes son versiyonu görebiliyor mu ; Gündemi yönet: zaman kısıtlı, bugün sadece üç kritik yoruma odaklanın ; Kalanı nasıl ele alacağını söyle: diğer yorumlar e-postayla
+
+## sick
+### 1
+ideas: Durumunu söyle: iyi hissetmiyorsun, kötü bir soğuk algınlığı var ; Belirtileri anlat: hafif ateş ve baş ağrısı ; Planını belirt: bugün gelemiyorsun, öğleden sonra doktora gideceksin ; İşi devret: müşteri toplantısını Ayşe yönetecek, sen evden e-postalara bakarsın
+### 2
+ideas: Durumunu söyle: grip oldun ; Belirtileri anlat: yüksek ateş ve boğaz ağrısıyla uyandın ; Neden gelmediğini açıkla: bütün ekibe bulaştırmak istemiyorsun ; Devri anlat: saat on birdeki toplantıyı Ayşe yapacak, dosyalar ortak klasörde, ona sabah kısa bir özet gönderdin ; Erişilebilirliğini belirt: acil bir şey olursa e-postana bakacaksın
+### 3
+ideas: Durumunu söyle: kendini oldukça kötü hissediyorsun, bütün gece ateşin vardı, her yerin ağrıyor ; Doktor randevunu belirt: saat ikide ; Riski açıkla: müşteri ziyaretinden önce kimseye bulaştırmak istemiyorsun ; Devri anlat: Ayşe'ye ana noktaları anlattın, sunum hazır ; Yedek planı öner: gerekirse sorular için telefonla katılabilirsin ; Dönüş tarihini söyle: şansın yaver giderse perşembe ayağa kalkmış olursun
+## news
+### 1
+ideas: Haberi söyle: enerji fiyatları yine artıyor ; Etkisini anlat: elektrik faturamız çok yüksek ; Elektrikli arabalar hakkında görüşünü belirt: emin değilsin, bataryalar hâlâ pahalı ; İklim hakkında söyle: büyük bir sorun, daha az enerji kullanıp daha çok geri dönüştürmeliyiz
+### 2
+ideas: Haberi söyle: hükümet yeni benzinli arabaları iki bin otuz beşte yasaklamak istiyor ; Farklı görüşleri belirt: birçok kişi bunu erken buluyor ; Kendi koşulunu açıkla: elektrik temiz kaynaklardan gelmeli, yoksa kirliliği sadece taşırız ; Sektörünü anlat: hafif araçlar daha az yakıt harcar ama kompozitler zor geri dönüştürülür ; Geleceği söyle: geri dönüştürülebilir yeni reçineler var, umarım yakında ucuzlar
+### 3
+ideas: Haberi söyle: açıktaki rüzgar santrali bin kanadı kesiyor çünkü kimse nasıl geri dönüştürüleceğini bilmiyor ; İkilemi açıkla: rüzgar enerjisi temiz ama eski kanatlar çoğu zaman çöp sahasına gidiyor ; Mevcut seçenekleri anlat: kanatları öğütüp çimentoya dolgu yapmak, ama bunun gerçekten geri dönüşüm sayılıp sayılmadığı tartışmalı ; Dengeli ol: metallerin de büyük karbon ayak izi var, ürünün tüm ömrü boyunca hangisinin daha iyi olduğu belirsiz ; Çözüm önerini söyle: baştan geri dönüşüme göre tasarım, yüklerin izin verdiği yerde termoplastik ve geri dönüştürülebilir reçine
+
+## event
+### 1
+ideas: Fikri destekle: proje bitti, ekip çok çalıştı, bir parti yapalım ; Mekanı öner: müzikli bir restoran ; Zamanı söyle: gelecek cuma akşam saat yedide ; Kısa teşekkür et: hepinize teşekkürler, aferin herkese
+### 2
+ideas: Nedeni söyle: müşteri son parçaları bugün onayladı, ekip aylardır baskı altındaydı ; Mekanı öner: göl kenarında bir akşam yemeği ; Davetlileri belirt: fabrika çalışanları ve eşleri de gelsin ; Etkinlikleri anlat: yemekten önce kısa bir tekne turu, sonra canlı müzik ; Konuşmanın ana mesajını söyle: teknisyenlere büyük teşekkür, onlar olmadan bu mümkün olmazdı
+### 3
+ideas: Konuşmaya başla: herkese iyi akşamlar, yemek hazır olduğu için kısa tutacaksın ; Başarıyı anlat: on sekiz ay önce birçok kişi bu tarihin imkânsız olduğunu söyledi, bugün son parçayı zamanında ve bütçe içinde teslim ettik ; Zorlukları belirt: işler zorlaştığında kimse pes etmedi ; Fedakarlığı takdir et: birçoğu hafta sonları ve geceleri şikayet etmeden çalıştı ; Aileleri an ve gururunu söyle: ailelere de teşekkür, bu ekiple gerçekten gurur duyuyorsun ; Kadeh kaldır: herkese ve ailelerine, bir sonraki projeye

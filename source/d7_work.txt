@@ -1,0 +1,295 @@
+## standup | Status update | Haftalık ekip toplantısında durum güncellemesi | work
+brief: Pazartesi sabahı haftalık ekip toplantısındasın. Kanat kaplama panelinin gerilme analizini ve autoclave denemesini yürütüyorsun. Geçen hafta ne yaptığını, bu hafta ne yapacağını ve seni neyin engellediğini kısaca anlat.
+role: a team leader who runs a fifteen-minute meeting every Monday and wants short, clear updates from each engineer
+### 1
+ideas: Söyle: geçen hafta panel analizini bitirdin ; Anlat: bu hafta autoclave denemesi yapacaksın ; Belirt: bir sorunun var, prepreg henüz gelmedi ; Söyle: perşembe tekrar bilgi vereceksin
+chunks: Last week I… = Geçen hafta … ; This week I will… = Bu hafta …'eceğim ; I have one problem = Bir sorunum var ; I'm waiting for… = …'i bekliyorum ; That's all from me = Benden bu kadar
+T: Good morning, everyone. Kemal, can you start? | Herkese günaydın. Kemal, sen başlar mısın?
+Y: Sure. Last week I finished the analysis of the skin panel. | Tabii. Geçen hafta kaplama panelinin analizini bitirdim.
+T: Good. What about this week? | Güzel. Bu hafta ne var?
+Y: This week I will run the autoclave trial. | Bu hafta autoclave denemesini yapacağım.
+T: Is anything stopping you? | Seni durduran bir şey var mı?
+Y: I have one problem. I'm waiting for the prepreg. | Bir sorunum var. Prepregi bekliyorum.
+T: When does it arrive? | Ne zaman geliyor?
+Y: On Wednesday, I hope. That's all from me. | Umarım çarşamba. Benden bu kadar.
+### 2
+ideas: Söyle: geçen hafta 24 katlı panelin analizini bitirdin, tüm marjlar pozitif ; Anlat: bu hafta autoclave denemesi ve ultrasonik muayene var ; Açıkla: prepreg teslimatı iki gün gecikti, deneme perşembeye kaydı ; Belirt: kalite ekibinden muayene zamanı lazım ; Söyle: cuma günü sonuçları paylaşacaksın
+chunks: Quick update from my side = Benden kısa bir güncelleme ; I managed to… = …meyi başardım ; The plan for this week is to… = Bu haftaki plan … ; The only blocker is… = Tek engel … ; I'll share the results on… = Sonuçları …'de paylaşacağım
+T: Let's go round the table. Kemal, how's the wing panel going? | Masada sırayla gidelim. Kemal, kanat paneli nasıl gidiyor?
+Y: Quick update from my side. I managed to finish the analysis of the twenty-four ply panel, and all the margins are positive. | Benden kısa bir güncelleme. Yirmi dört katlı panelin analizini bitirmeyi başardım ve tüm marjlar pozitif.
+T: Great news. So what's the plan for this week? | Harika haber. Peki bu haftanın planı ne?
+Y: The plan for this week is to cure the first trial panel and then check it with ultrasonic inspection. | Bu haftaki plan ilk deneme panelini kürlemek ve sonra ultrasonik muayeneyle kontrol etmek.
+T: Anything blocking you? | Seni engelleyen bir şey var mı?
+Y: The only blocker is the prepreg. The delivery is two days late, so the cure moves to Thursday. | Tek engel prepreg. Teslimat iki gün gecikti, bu yüzden kürleme perşembeye kayıyor.
+T: Do you need anything from the rest of the team? | Ekibin geri kalanından bir şeye ihtiyacın var mı?
+Y: Yes, I need an inspection slot from quality on Friday morning. I'll share the results on Friday afternoon. | Evet, kaliteden cuma sabahı için bir muayene zamanı lazım. Sonuçları cuma öğleden sonra paylaşacağım.
+### 3
+ideas: Söyle: analiz tamamlandı, en düşük marj burkulmada yüzde 12 ; Anlat: bu haftanın odağı ilk autoclave kürü ve ultrasonik tarama ; Açıkla: prepreg iki gün gecikti, kür perşembeye kaydı ama ana tarih etkilenmiyor ; Belirt: risk, kür sonrası porozite çıkarsa ikinci deneme gerekir ; Talep et: kaliteden cuma sabahı muayene zamanı ; Söyle: cuma öğleden sonra kısa bir özet göndereceksin
+chunks: In terms of progress… = İlerleme açısından… ; The focus this week is on… = Bu haftanın odağı … ; It's slipped by a couple of days = Birkaç gün kaydı ; It doesn't affect the overall date = Genel tarihi etkilemiyor ; The one thing I need from… = …'den ihtiyacım olan tek şey
+T: Right, we're a bit short of time today, so let's keep it brief. Kemal, where are you with the skin panel? | Pekala, bugün biraz vaktimiz dar, kısa tutalım. Kemal, kaplama panelinde ne durumdasın?
+Y: In terms of progress, the stress analysis is complete, and the lowest margin is twelve per cent in buckling, which is comfortable. | İlerleme açısından gerilme analizi tamamlandı ve en düşük marj burkulmada yüzde on iki, bu da rahat bir değer.
+T: Good. And what's the focus this week? | Güzel. Bu haftanın odağı ne?
+Y: The focus this week is on the first autoclave cure, followed by a full ultrasonic scan to check for porosity and delamination. | Bu haftanın odağı ilk autoclave kürü, ardından porozite ve delaminasyonu kontrol etmek için tam bir ultrasonik tarama.
+T: I heard the material was late. Is that a problem? | Malzemenin geciktiğini duydum. Bu bir sorun mu?
+Y: It's slipped by a couple of days, so the cure is now on Thursday, but it doesn't affect the overall date unless we need a second trial. | Birkaç gün kaydı, kür artık perşembe, ama ikinci bir deneme gerekmedikçe genel tarihi etkilemiyor.
+T: OK. Do you need any support? | Tamam. Desteğe ihtiyacın var mı?
+Y: The one thing I need from quality is a scanning slot on Friday morning. I'll circulate a short summary by the end of the day. | Kaliteden ihtiyacım olan tek şey cuma sabahı bir tarama zamanı. Gün sonuna kadar kısa bir özet dağıtacağım.
+
+## clarify | Clarifying | Anlamadığını söylemek ve açıklama istemek (toplantıda, telefonda) | work
+brief: Tedarikçinin kalite mühendisiyle telefon görüşmesindesin. Hat kötü, karşı taraf hızlı konuşuyor ve bilmediğin bir kısaltma kullanıyor. Anlamadığını kibarca söyle, tekrar ettir ve doğru anladığını teyit et.
+role: a supplier quality engineer who speaks fast, uses a lot of abbreviations and wants to finish the call quickly
+### 1
+ideas: Söyle: sesi iyi duyamıyorsun, tekrar etmesini iste ; Sor: kısaltmanın ne anlama geldiğini ; Tekrar et: anladığın rakamı ve tarihi ; Teyit et: bilgileri e-postayla göndermesini iste
+chunks: Sorry, can you repeat that? = Pardon, tekrar eder misiniz? ; Can you speak more slowly? = Daha yavaş konuşabilir misiniz? ; What does … mean? = … ne demek? ; Do you mean…? = …'i mi kastediyorsunuz? ; Can you send it by email? = E-postayla gönderebilir misiniz?
+T: Hi Kemal. The NCR for batch forty-two is closed now. | Merhaba Kemal. Kırk iki numaralı partinin NCR'ı artık kapandı.
+Y: Sorry, can you repeat that? The line is bad. | Pardon, tekrar eder misiniz? Hat kötü.
+T: The NCR for batch forty-two is closed. | Kırk iki numaralı partinin NCR'ı kapandı.
+Y: Thank you. What does NCR mean here? | Teşekkürler. Burada NCR ne demek?
+T: Non-conformance report. The problem report. | Uygunsuzluk raporu. Yani problem raporu.
+Y: I see. Do you mean the report about the dry fibres? | Anladım. Kuru elyaflarla ilgili raporu mu kastediyorsunuz?
+T: Yes, exactly. We changed the resin and fixed it. | Evet, aynen. Reçineyi değiştirdik ve düzelttik.
+Y: Good. Can you send it by email, please? | Güzel. Lütfen e-postayla gönderebilir misiniz?
+### 2
+ideas: Belirt: hat kesiliyor, son kısmı kaçırdın ; Sor: kısaltmanın tam açılımını ve hangi rapordan bahsettiğini ; Tekrar et: anladığın şekilde, parti 42, reçine lotu değişti, teslimat 14 Mart ; Düzelt: tarihte bir yanlış anlama var ; İste: yazılı onay e-postası
+chunks: You broke up a bit there = Ses biraz kesildi ; I didn't quite catch… = …'i tam anlayamadım ; Just to make sure I understand… = Doğru anladığımdan emin olmak için… ; So what you're saying is… = Yani diyorsunuz ki… ; Could you put that in writing? = Bunu yazılı olarak iletebilir misiniz?
+T: So basically the NCR is closed, the root cause was the resin lot, and we ship on the fourteenth. | Yani kısacası NCR kapandı, kök neden reçine lotuydu ve on dördünde sevk ediyoruz.
+Y: Sorry, you broke up a bit there. I didn't quite catch the last part. | Pardon, ses biraz kesildi. Son kısmı tam anlayamadım.
+T: No problem. I said we ship on the fourteenth. | Sorun değil. On dördünde sevk ediyoruz dedim.
+Y: Thanks. And when you say the NCR is closed, do you mean the one for the dry areas on batch forty-two? | Teşekkürler. NCR kapandı derken, kırk iki numaralı partideki kuru bölgelerle ilgili olanı mı kastediyorsunuz?
+T: That's right. The resin lot was out of date, so we replaced it. | Doğru. Reçine lotunun süresi geçmişti, bu yüzden değiştirdik.
+Y: Just to make sure I understand, so what you're saying is the new parts use a fresh resin lot, and they ship on the fourteenth of May? | Doğru anladığımdan emin olmak için: yani diyorsunuz ki yeni parçalar taze bir reçine lotu kullanıyor ve on dört mayısta sevk ediliyor?
+T: Not May, sorry. The fourteenth of March. | Mayıs değil, pardon. On dört mart.
+Y: Ah, March, OK. Could you put that in writing, so our planning team has the correct date? | Ha, mart, tamam. Planlama ekibimizde doğru tarih olsun diye bunu yazılı olarak iletebilir misiniz?
+### 3
+ideas: Belirt: ses kesik geliyor ve bir kısaltmayı bilmiyorsun, açmasını iste ; Açıkla: neden kesin anlamak istediğini, tarih ve lot numarası sevkiyatı etkiliyor ; Özetle: anladıklarını sırayla, kök neden, düzeltici faaliyet, sevk tarihi ; Fark et ve düzelt: tarih konusundaki yanlış anlamayı ; Sor: düzeltici faaliyetin diğer partileri de kapsayıp kapsamadığını ; İste: yazılı özet ve güncellenmiş uygunluk belgesi
+chunks: I'm afraid you're breaking up = Korkarım ses kesik geliyor ; I'm not familiar with that abbreviation = O kısaltmaya aşina değilim ; Let me just play that back to you = Size bir de ben tekrar edeyim ; Have I got that right? = Doğru anlamış mıyım? ; I'd appreciate it if you could… = …'irseniz memnun olurum
+T: Right, so the 8D is done, the NCR is closed, and we're good to ship on the fourteenth with the updated CoC. | Tamam, 8D tamamlandı, NCR kapandı ve güncellenmiş CoC ile on dördünde sevkiyata hazırız.
+Y: Sorry, I'm afraid you're breaking up, and I'm not familiar with that abbreviation. Could you spell out CoC for me? | Pardon, korkarım ses kesik geliyor ve o kısaltmaya aşina değilim. CoC'nin açılımını söyleyebilir misiniz?
+T: Of course. Certificate of Conformity, the document that comes with every batch. | Tabii. Uygunluk Belgesi, her partiyle gelen belge.
+Y: Thanks. I want to be precise, because this date feeds straight into our assembly plan. Let me just play that back to you. | Teşekkürler. Kesin olmak istiyorum, çünkü bu tarih doğrudan montaj planımıza giriyor. Size bir de ben tekrar edeyim.
+T: Go ahead. | Buyurun.
+Y: The root cause was an expired resin lot, you've replaced it, and batch forty-two ships on the fourteenth of May. Have I got that right? | Kök neden süresi geçmiş bir reçine lotuydu, onu değiştirdiniz ve kırk iki numaralı parti on dört mayısta sevk ediliyor. Doğru anlamış mıyım?
+T: Almost. It's the fourteenth of March, not May. And yes, the containment covers batches forty-three and forty-four too. | Neredeyse. Mayıs değil, on dört mart. Ve evet, önleyici tedbir kırk üç ve kırk dört numaralı partileri de kapsıyor.
+Y: Good thing I asked. I'd appreciate it if you could send a short written summary with the updated certificate attached, so nothing gets lost. | İyi ki sormuşum. Hiçbir şey kaybolmasın diye güncellenmiş belgeyi ekleyerek kısa bir yazılı özet gönderirseniz memnun olurum.
+
+## disagree | Disagreeing | Toplantıda kibarca itiraz etmek ve alternatif önermek | work
+brief: Tasarım toplantısında üretim müdürü, maliyeti düşürmek için kirişin kat sayısını 32'den 28'e indirmeyi öneriyor. Sen bunun burkulma marjını negatife düşüreceğini düşünüyorsun. Kibarca itiraz et, gerekçeni ver ve bir alternatif öner.
+role: a production manager under pressure to cut cost and cycle time, who does not like long technical arguments
+### 1
+ideas: Söyle: fikri anlıyorsun ama katılmıyorsun ; Açıkla: dört kat azalırsa kiriş burkulmada zayıf kalır ; Öner: kat sayısını değil kesim ve yatırma süresini azaltalım ; Teklif et: iki seçeneğin maliyetini hesaplayacaksın
+chunks: I understand, but… = Anlıyorum ama… ; I don't agree = Katılmıyorum ; It is not safe = Güvenli değil ; What about…? = … ne dersiniz? ; Let me check = Bir kontrol edeyim
+T: I want to remove four plies from the spar. It saves money. | Kirişten dört kat çıkarmak istiyorum. Para tasarrufu sağlıyor.
+Y: I understand, but I don't agree. | Anlıyorum ama katılmıyorum.
+T: Why not? It's only four plies. | Neden? Sadece dört kat.
+Y: The spar becomes too weak. It is not safe. | Kiriş çok zayıf olur. Güvenli değil.
+T: But we need to save money. | Ama para tasarrufu yapmamız gerekiyor.
+Y: What about a faster lay-up? We can cut the plies with a machine. | Daha hızlı bir yatırmaya ne dersiniz? Katları makineyle kesebiliriz.
+T: Is that cheaper? | Bu daha mı ucuz?
+Y: I think so. Let me check the numbers. | Sanırım öyle. Bir rakamları kontrol edeyim.
+### 2
+ideas: Söyle: maliyet hedefini anlıyorsun ve paylaşıyorsun ; Açıkla: 28 katta burkulma marjı yüzde eksi 6, yani tasarım geçmiyor ; Belirt: değişiklik ayrıca yeniden test ve sertifikasyon demek ; Öner: otomatik kesim ve kat paketleri ile işçilik süresini azaltmak ; Teklif et: cumaya kadar iki seçeneği karşılaştıran bir tablo hazırlamak
+chunks: I see your point, but… = Ne demek istediğinizi anlıyorum ama… ; I'm not sure that's the best option = Bunun en iyi seçenek olduğundan emin değilim ; The problem is that… = Sorun şu ki… ; Have we considered…? = …'i düşündük mü? ; How about if we… = Peki ya … yapsak
+T: The spar is too expensive. Let's go from thirty-two plies to twenty-eight and move on. | Kiriş çok pahalı. Otuz iki kattan yirmi sekize inelim ve devam edelim.
+Y: I see your point, and I agree we need to cut cost, but I'm not sure that's the best option. | Ne demek istediğinizi anlıyorum ve maliyeti düşürmemiz gerektiğine katılıyorum ama bunun en iyi seçenek olduğundan emin değilim.
+T: Why? Four plies is a big saving. | Neden? Dört kat büyük bir tasarruf.
+Y: The problem is that the buckling margin drops to minus six per cent with twenty-eight plies, so the design fails. | Sorun şu ki yirmi sekiz katla burkulma marjı eksi yüzde altıya düşüyor, yani tasarım geçmiyor.
+T: Can't we just accept a small risk? | Küçük bir riski kabul edemez miyiz?
+Y: Not on a primary structure, I'm afraid. It would also mean new tests and a new approval from the authority. | Korkarım birincil yapıda olmaz. Ayrıca yeni testler ve otoriteden yeni bir onay demek.
+T: So what do you suggest? | Peki ne öneriyorsun?
+Y: Have we considered an automated cutting table? How about if we compare both options in a table by Friday? | Otomatik bir kesim masasını düşündük mü? İki seçeneği cumaya kadar bir tabloda karşılaştırsak nasıl olur?
+### 3
+ideas: Kabul et: maliyet baskısını ve hedefin haklılığını ; İtiraz et: 28 katta burkulma marjı negatif, birincil yapıda bu kabul edilemez ; Açıkla: gizli maliyetler, yeniden analiz, kupon testleri ve sertifikasyon gecikmesi ; Öner: maliyeti işçilikten düşürmek, otomatik kesim ve önceden hazırlanmış kat paketleri ; Belirt: tasarruf potansiyelini kabaca, parça başına yaklaşık 180 avro ; Teklif et: iki seçeneği veriyle karşılaştırıp kararı birlikte vermek
+chunks: I take your point about… = … konusundaki görüşünüzü kabul ediyorum ; I have some reservations about… = … konusunda bazı çekincelerim var ; With respect, I'd push back on… = Saygıyla, … konusunda itiraz ederim ; A middle ground might be… = Bir orta yol … olabilir ; Can we let the data decide? = Kararı veriler versin mi?
+T: Look, we're forty thousand over budget on the spar. Dropping four plies is the quickest way to fix it, so I'd like to approve it today. | Bakın, kirişte bütçeyi kırk bin aşmış durumdayız. Dört kat çıkarmak bunu düzeltmenin en hızlı yolu, bu yüzden bugün onaylamak istiyorum.
+Y: I take your point about the budget, and the target is absolutely right, but I have some reservations about doing it through the laminate. | Bütçe konusundaki görüşünüzü kabul ediyorum, hedef kesinlikle doğru, ama bunu laminat üzerinden yapmak konusunda bazı çekincelerim var.
+T: Go on, but keep it short. | Devam et ama kısa tut.
+Y: With twenty-eight plies the buckling margin goes negative, roughly minus six per cent, and on primary structure that simply isn't acceptable. | Yirmi sekiz katla burkulma marjı negatife düşüyor, kabaca eksi yüzde altı, ve birincil yapıda bu kesinlikle kabul edilemez.
+T: Couldn't we strengthen it locally and still save most of the material? | Bölgesel olarak güçlendirip yine de malzemenin çoğundan tasarruf edemez miyiz?
+Y: In theory, yes, but with respect, I'd push back on that. The hidden cost is re-analysis, coupon testing and a three-month delay in certification. | Teoride evet, ama saygıyla buna itiraz ederim. Gizli maliyet yeniden analiz, kupon testleri ve sertifikasyonda üç aylık bir gecikme.
+T: So where else would the saving come from? | O zaman tasarruf başka nereden gelecek?
+Y: A middle ground might be automated cutting and pre-kitted ply packs, which I estimate at around a hundred and eighty euros per part. Can we let the data decide by Friday? | Bir orta yol otomatik kesim ve önceden hazırlanmış kat paketleri olabilir, bunu parça başına yaklaşık yüz seksen avro olarak tahmin ediyorum. Kararı cumaya kadar veriler versin mi?
+
+## delegate | Delegating | Ekibe iş dağıtmak ve takip etmek | work
+brief: Yeni bir fairing projesinin teknik sorumlususun. Genç bir mühendise kupon testlerinin hazırlığını veriyorsun. Görevi, beklentiyi ve teslim tarihini açıkça anlat, sonra ara kontrol noktası belirle.
+role: a junior engineer, keen and capable, but new to coupon testing and a little shy about asking questions
+### 1
+ideas: Söyle: ona yeni bir görev vereceksin, kupon testleri ; Açıkla: ne yapacağını, 30 kupon kesmek ve ölçmek ; Belirt: teslim tarihi, gelecek cuma ; Söyle: çarşamba kısa bir kontrol yapacaksınız, soru sormaktan çekinmesin
+chunks: I have a task for you = Sana bir görevim var ; I need you to… = …menı istiyorum ; by next Friday = gelecek cumaya kadar ; Let's meet on… = …'de buluşalım ; Ask me any time = İstediğin zaman sor
+T: Hi Kemal. You wanted to see me? | Merhaba Kemal. Beni görmek istemişsin?
+Y: Yes. I have a task for you. It's about the coupon tests. | Evet. Sana bir görevim var. Kupon testleriyle ilgili.
+T: OK. What do I need to do? | Tamam. Ne yapmam gerekiyor?
+Y: I need you to cut thirty coupons and measure them. | Otuz kupon kesmeni ve ölçmeni istiyorum.
+T: When do you need them? | Onlara ne zaman ihtiyacın var?
+Y: By next Friday, please. | Lütfen gelecek cumaya kadar.
+T: OK. What if I have a problem? | Tamam. Bir sorunum olursa ne olacak?
+Y: Ask me any time. Let's meet on Wednesday for ten minutes. | İstediğin zaman sor. Çarşamba on dakikalığına buluşalım.
+### 2
+ideas: Açıkla: görevin amacını, fairing laminatının dayanım değerleri için 30 kupon ; Anlat: adımları, kesim, ölçüm, etiketleme, test planına göre ; Belirt: kalite kriterini, kalınlık toleransı artı eksi 0,1 mm ; Söyle: teslim tarihi gelecek cuma ve laboratuvar pazartesi bekliyor ; Kontrol et: anladığını ve çarşamba ara kontrol noktası koy
+chunks: I'd like you to take care of… = …'ile senin ilgilenmeni istiyorum ; The goal is to… = Amaç … ; Make sure that… = …'den emin ol ; Does that make sense? = Mantıklı geliyor mu? ; Let's check in on… = …'de bir durum kontrolü yapalım
+T: You said you had something for me? | Benim için bir şeyin olduğunu söylemiştin?
+Y: Yes. I'd like you to take care of the coupon preparation for the fairing. The goal is to get strength values for the new laminate. | Evet. Fairing için kupon hazırlığıyla senin ilgilenmeni istiyorum. Amaç yeni laminat için dayanım değerlerini elde etmek.
+T: Sounds interesting. How many coupons? | Kulağa ilginç geliyor. Kaç kupon?
+Y: Thirty in total. You cut them from the test panel, measure them and label each one according to the test plan. | Toplamda otuz. Onları test panelinden kesiyorsun, ölçüyorsun ve her birini test planına göre etiketliyorsun.
+T: Is there a tolerance I should know about? | Bilmem gereken bir tolerans var mı?
+Y: Yes. Make sure that the thickness is within plus or minus point one millimetres, because the lab will reject them otherwise. | Evet. Kalınlığın artı eksi sıfır virgül bir milimetre içinde olduğundan emin ol, çünkü aksi halde laboratuvar onları reddeder.
+T: OK. And the deadline? | Tamam. Peki son tarih?
+Y: Next Friday, because the lab starts on Monday. Does that make sense? Let's check in on Wednesday to see how it's going. | Gelecek cuma, çünkü laboratuvar pazartesi başlıyor. Mantıklı geliyor mu? Nasıl gittiğini görmek için çarşamba bir durum kontrolü yapalım.
+### 3
+ideas: Çerçevele: görevi neden ona verdiğini, iyi bir öğrenme fırsatı ; Açıkla: kapsamı ve amacı, fairing laminatı için tasarım değerleri, 30 kupon ; Belirt: kritik noktaları, kalınlık toleransı, fiber yönü ve izlenebilirlik ; Netleştir: neye kendisinin karar verebileceğini, neye danışması gerektiğini ; Söyle: teslim tarihi ve laboratuvar bağımlılığı ; Kontrol et: anladığını kendi sözleriyle anlatmasını iste, çarşamba ara kontrol
+chunks: I'd like you to own… = …'in sorumluluğunu senin almanı istiyorum ; It's a good opportunity to… = …mek için iyi bir fırsat ; The things that really matter are… = Gerçekten önemli olan şeyler … ; Feel free to use your judgement on… = … konusunda kendi kararını vermekten çekinme ; Could you walk me through…? = …'i bana anlatır mısın?
+T: Morning, Kemal. Is this about the fairing project? | Günaydın Kemal. Fairing projesiyle mi ilgili?
+Y: It is. I'd like you to own the coupon preparation from start to finish. It's a good opportunity to learn how test data feeds into our design values. | Evet. Kupon hazırlığının baştan sona sorumluluğunu senin almanı istiyorum. Test verilerinin tasarım değerlerimize nasıl girdiğini öğrenmek için iyi bir fırsat.
+T: Thanks, I'd like that. What's the scope exactly? | Teşekkürler, isterim. Kapsam tam olarak ne?
+Y: Thirty tension and compression coupons from the trial panel. The things that really matter are thickness tolerance, fibre orientation and full traceability back to the batch. | Deneme panelinden otuz çekme ve basma kuponu. Gerçekten önemli olan şeyler kalınlık toleransı, fiber yönü ve partiye kadar tam izlenebilirlik.
+T: What if some coupons are slightly out of tolerance? | Bazı kuponlar toleransın biraz dışındaysa ne olacak?
+Y: Feel free to use your judgement on cutting spares, but if more than two are out, come to me before you send anything to the lab. | Yedek kesmek konusunda kendi kararını vermekten çekinme, ama ikiden fazlası dışarıdaysa laboratuvara bir şey göndermeden önce bana gel.
+T: Understood. When do they need to be ready? | Anlaşıldı. Ne zamana hazır olmaları gerekiyor?
+Y: By next Friday, since the lab is booked for Monday. Could you walk me through your plan on Wednesday, just so we can catch any issues early? | Gelecek cumaya kadar, çünkü laboratuvar pazartesiye ayrıldı. Sorunları erken yakalayabilmek için çarşamba bana planını anlatır mısın?
+
+## escalate | Escalation | Sorunu yöneticiye taşımak ve karar istemek | work
+brief: Autoclave arızası nedeniyle iki programın parçaları aynı hafta için yarışıyor. Kendi seviyende çözemedin. Mühendislik müdürüne durumu, seçenekleri ve önerini anlat, ondan karar iste.
+role: an engineering director who is very busy, wants the facts in two minutes and expects a clear recommendation
+### 1
+ideas: Söyle: büyük autoclave bozuk ve bir karar lazım ; Açıkla: iki program aynı küçük autoclave'u istiyor ; Öner: önce müşterisi bekleyen kanat parçalarını kürleyelim ; Sor: müdürün bugün karar verip veremeyeceğini
+chunks: Do you have five minutes? = Beş dakikanız var mı? ; We have a problem with… = …'le ilgili bir sorunumuz var ; I need your decision = Kararınıza ihtiyacım var ; My suggestion is… = Önerim … ; Can you decide today? = Bugün karar verebilir misiniz?
+T: Kemal, I'm busy. What is it? | Kemal, meşgulüm. Ne oldu?
+Y: Do you have five minutes? I need your decision. | Beş dakikanız var mı? Kararınıza ihtiyacım var.
+T: OK, go ahead. | Tamam, söyle.
+Y: We have a problem with the big autoclave. It is broken. | Büyük autoclave'la ilgili bir sorunumuz var. Bozuk.
+T: Can't we use the small one? | Küçüğünü kullanamaz mıyız?
+Y: Yes, but two programmes want it this week. | Evet, ama iki program bu hafta onu istiyor.
+T: So what do you want to do? | Peki ne yapmak istiyorsun?
+Y: My suggestion is the wing parts first. Can you decide today? | Önerim önce kanat parçaları. Bugün karar verebilir misiniz?
+### 2
+ideas: Söyle: neden ona geldiğini, ekip seviyesinde çözülemeyen bir çakışma ; Açıkla: büyük autoclave en az 10 gün kapalı, kanat ve kapı programları küçük autoclave'u istiyor ; Anlat: iki seçenek, kanat önce veya kapı önce, ve her birinin etkisi ; Öner: kanat önce, çünkü müşteri cezası var ; İste: bugün öğleden sonraya kadar karar
+chunks: I wanted to flag… = …'i bildirmek istedim ; We couldn't solve it at our level = Bunu kendi seviyemizde çözemedik ; There are two options = İki seçenek var ; I'd recommend… = …'i öneririm ; I need a decision by… = …'e kadar bir karar lazım
+T: You said it was urgent. What's going on? | Acil olduğunu söyledin. Neler oluyor?
+Y: I wanted to flag a conflict between two programmes. We couldn't solve it at our level, so I need your help. | İki program arasındaki bir çakışmayı bildirmek istedim. Bunu kendi seviyemizde çözemedik, bu yüzden yardımınıza ihtiyacım var.
+T: What kind of conflict? | Ne tür bir çakışma?
+Y: The large autoclave is down for at least ten days, so the wing panels and the door parts both need the small one. | Büyük autoclave en az on gün kapalı, bu yüzden hem kanat panelleri hem kapı parçaları küçük olana ihtiyaç duyuyor.
+T: Can't they share it? | Paylaşamazlar mı?
+Y: Not this week. There are two options. Wing first means the doors are five days late. Doors first means the wing misses the customer date. | Bu hafta olmaz. İki seçenek var. Kanat önce olursa kapılar beş gün gecikir. Kapılar önce olursa kanat müşteri tarihini kaçırır.
+T: What do you think we should do? | Sence ne yapmalıyız?
+Y: I'd recommend wing first, because there's a penalty in that contract. I need a decision by this afternoon to plan the shifts. | Kanat önce olmasını öneririm, çünkü o sözleşmede ceza var. Vardiyaları planlamak için bu öğleden sonraya kadar bir karar lazım.
+### 3
+ideas: Başla: ana mesajla, bir kaynak çakışması var ve senin kararın gerekiyor ; Açıkla: büyük autoclave'da ısıtıcı arızası, en az 10 gün, parça siparişte ; Anlat: denenenleri, vardiya ekleme ve kür çevrimlerini birleştirme yeterli olmadı ; Karşılaştır: iki seçeneğin maliyetini ve riskini, kanat gecikirse 25 bin avro ceza ; Öner: kanat önce, kapı müşterisini senin araman ; İste: net bir karar ve kapı müşterisiyle konuşma desteği
+chunks: I'll keep this brief = Kısa tutacağım ; It's above my pay grade = Benim yetkimi aşıyor ; We've exhausted the options at… = … seviyesindeki seçenekleri tükettik ; On balance, I'd go with… = Her şeyi tartınca … derim ; What I need from you is… = Sizden ihtiyacım olan …
+T: I've got a board meeting in ten minutes. Can this wait? | On dakika sonra yönetim kurulu toplantım var. Bu bekleyebilir mi?
+Y: I'm afraid not, but I'll keep this brief. We've got a capacity conflict between wing and doors, and frankly it's above my pay grade. | Korkarım bekleyemez, ama kısa tutacağım. Kanat ve kapılar arasında bir kapasite çakışmamız var ve açıkçası bu benim yetkimi aşıyor.
+T: OK, what's behind it? | Tamam, arkasında ne var?
+Y: The large autoclave has a heater failure. Maintenance estimate at least ten days, and the spare part is on order from Germany. | Büyük autoclave'da ısıtıcı arızası var. Bakım en az on gün tahmin ediyor ve yedek parça Almanya'dan sipariş edildi.
+T: Have you tried anything to work around it? | Bunu aşmak için bir şey denediniz mi?
+Y: We have. Extra shifts and combining cure cycles helped, but we've exhausted the options at team level. Delaying the wing triggers a twenty-five thousand euro penalty, whereas the doors have about a week of float. | Denedik. Ekstra vardiyalar ve kür çevrimlerini birleştirmek işe yaradı, ama ekip seviyesindeki seçenekleri tükettik. Kanadı geciktirmek yirmi beş bin avroluk bir cezayı tetikliyor, kapıların ise yaklaşık bir haftalık boşluğu var.
+T: So you want the wing to go first. | Yani kanadın önce gitmesini istiyorsun.
+Y: On balance, I'd go with the wing first. What I need from you is a clear decision today, and ideally a call from you to the door customer, since it carries more weight coming from you. | Her şeyi tartınca önce kanat derim. Sizden ihtiyacım olan bugün net bir karar ve mümkünse kapı müşterisini sizin aramanız, çünkü sizden gelince daha çok ağırlığı oluyor.
+
+## mistake | Apology | Bir hatayı kabul etmek, özür dilemek ve düzeltme planı | work
+brief: Gönderdiğin gerilme raporunda yanlış malzeme değeri kullandın ve rapor müşteriye ulaştı. Proje yöneticisine hatayı kabul et, etkisini açıkla, düzeltme planını ve tekrarını önleyecek önlemi anlat.
+role: a project manager who is annoyed because the customer found the error first, but who values honesty
+### 1
+ideas: Kabul et: raporda hata yaptın ve özür dile ; Açıkla: yanlış malzeme değeri kullandın ; Söyle: parça yine de güvenli, marj hâlâ pozitif ; Anlat: yarın düzeltilmiş raporu göndereceksin
+chunks: I made a mistake = Bir hata yaptım ; I'm really sorry = Gerçekten özür dilerim ; It was my fault = Benim hatamdı ; The good news is… = İyi haber şu ki… ; I will fix it by… = …'e kadar düzelteceğim
+T: Kemal, the customer found an error in your report. | Kemal, müşteri raporunda bir hata buldu.
+Y: Yes, I know. I made a mistake. I'm really sorry. | Evet, biliyorum. Bir hata yaptım. Gerçekten özür dilerim.
+T: What happened? | Ne oldu?
+Y: I used the wrong material value. It was my fault. | Yanlış malzeme değeri kullandım. Benim hatamdı.
+T: Is the part still safe? | Parça hâlâ güvenli mi?
+Y: Yes. The good news is the margin is still positive. | Evet. İyi haber şu ki marj hâlâ pozitif.
+T: OK. When can we send a new report? | Tamam. Yeni bir raporu ne zaman gönderebiliriz?
+Y: I will fix it by tomorrow morning. | Yarın sabaha kadar düzelteceğim.
+### 2
+ideas: Kabul et: hatayı açıkça, bahane bulmadan ve özür dile ; Açıkla: eski malzeme spesifikasyonundaki basma dayanımını kullandın ; Belirt: etkisi, marj yüzde 18'den yüzde 9'a düşüyor ama hâlâ pozitif ; Anlat: düzeltme, raporu yeniden hesaplayıp yarın göndereceksin ; Öner: tekrarı önlemek için değerleri kontrol listesine eklemek
+chunks: I owe you an apology = Size bir özür borçluyum ; I should have checked… = …'i kontrol etmeliydim ; The impact is… = Etkisi … ; I've already started… = …'e çoktan başladım ; To make sure it doesn't happen again… = Bir daha olmaması için…
+T: I had a very uncomfortable call with the customer this morning. | Bu sabah müşteriyle çok rahatsız edici bir telefon görüşmesi yaptım.
+Y: I owe you an apology. The error in the stress report is mine, and I'm sorry you heard it from them first. | Size bir özür borçluyum. Gerilme raporundaki hata benim ve bunu önce onlardan duyduğunuz için üzgünüm.
+T: How did it happen? | Nasıl oldu?
+Y: I used the compression strength from the old material specification. I should have checked the revision before I sent it. | Eski malzeme spesifikasyonundaki basma dayanımını kullandım. Göndermeden önce revizyonu kontrol etmeliydim.
+T: How bad is it? | Ne kadar kötü?
+Y: The impact is smaller than it looks. The margin goes from eighteen per cent to nine, but it's still positive. | Etkisi göründüğünden küçük. Marj yüzde on sekizden dokuza düşüyor ama hâlâ pozitif.
+T: Fine. What happens now? | Peki. Şimdi ne olacak?
+Y: I've already started the new calculation, and I'll send it tomorrow. To make sure it doesn't happen again, I'll add the material values to our review checklist. | Yeni hesaplamaya çoktan başladım ve yarın göndereceğim. Bir daha olmaması için malzeme değerlerini kontrol listemize ekleyeceğim.
+### 3
+ideas: Sahiplen: hatanın tamamen senin olduğunu söyle, bahane sunma ; Açıkla: kök neden, eski revizyondaki basma dayanımı ve kontrol aşamasında gözden kaçması ; Değerlendir: teknik etkiyi, marj yüzde 9'a düşüyor, yapısal sorun yok ; Anlat: düzeltme planı, revize rapor yarın öğlene kadar, bağımsız kontrolle ; Öner: sistem önlemi, malzeme veritabanına bağlantı ve ikinci kişi kontrolü ; Teklif et: müşteriye yazılı açıklamayı senin hazırlaman
+chunks: I take full responsibility for… = …'in tüm sorumluluğunu üstleniyorum ; There's no excuse for… = …'in hiçbir mazereti yok ; It slipped through… = …'den kaçtı ; The underlying cause was… = Altta yatan neden … ; I'd be happy to… = Memnuniyetle …
+T: I've just come off the phone with the customer, and to be honest, it wasn't pleasant. They found the error before we did. | Müşteriyle telefonu yeni kapattım ve açıkçası hoş değildi. Hatayı bizden önce buldular.
+Y: I understand, and I take full responsibility for it. There's no excuse for sending a report with the wrong allowable. | Anlıyorum ve bunun tüm sorumluluğunu üstleniyorum. Yanlış izin verilen değerle rapor göndermenin hiçbir mazereti yok.
+T: I appreciate that. But how did it slip through? | Bunu takdir ediyorum. Ama nasıl gözden kaçtı?
+Y: The underlying cause was that I took the compression value from revision C of the spec, and it slipped through our review because nobody checks the inputs, only the method. | Altta yatan neden, basma değerini spesifikasyonun C revizyonundan almamdı ve bizim kontrolümüzden kaçtı çünkü kimse girdileri kontrol etmiyor, sadece yöntemi.
+T: Is there any structural concern? I need to know before I call them back. | Herhangi bir yapısal endişe var mı? Onları geri aramadan önce bilmem gerekiyor.
+Y: No. I've rerun the critical cases this morning, and the lowest margin drops to nine per cent, which is still positive, so the part is fine. | Hayır. Kritik durumları bu sabah yeniden çalıştırdım ve en düşük marj yüzde dokuza düşüyor, bu hâlâ pozitif, yani parçada sorun yok.
+T: Good. What's the plan from here? | Güzel. Buradan sonraki plan ne?
+Y: The revised report will be ready by noon tomorrow, independently checked. I'd be happy to draft the explanation for the customer, and I'd propose linking our templates directly to the material database. | Revize rapor bağımsız olarak kontrol edilmiş şekilde yarın öğlene kadar hazır olacak. Müşteri için açıklamayı memnuniyetle hazırlarım ve şablonlarımızı doğrudan malzeme veritabanına bağlamayı öneririm.
+
+## onboard | Onboarding | Yeni bir meslektaşa süreci ve ekibi anlatmak | work
+brief: Ekibe yeni katılan bir analiz mühendisi ilk gününde. Ona ekibi, bir parçanın tasarımdan teslimata kadar izlediği süreci ve ilk haftasında ne yapacağını anlat.
+role: a new stress engineer on her first day, experienced with metals but new to composites and to the company
+### 1
+ideas: Karşıla: hoş geldin de ve kendini tanıt ; Anlat: ekibi, altı mühendis ve iki teknisyen ; Açıkla: süreci basitçe, tasarım, analiz, üretim, muayene ; Söyle: ilk hafta ne yapacağını ve kime soru sorabileceğini
+chunks: Welcome to the team = Ekibe hoş geldin ; This is… = Bu … ; We are responsible for… = …'den sorumluyuz ; In your first week… = İlk haftanda… ; If you need help… = Yardıma ihtiyacın olursa…
+T: Hello, I'm Anna. Today is my first day. | Merhaba, ben Anna. Bugün ilk günüm.
+Y: Hi Anna, I'm Kemal. Welcome to the team! | Merhaba Anna, ben Kemal. Ekibe hoş geldin!
+T: Thank you. How big is the team? | Teşekkürler. Ekip ne kadar büyük?
+Y: We are six engineers and two technicians. | Altı mühendis ve iki teknisyeniz.
+T: What does the team do? | Ekip ne yapıyor?
+Y: We are responsible for the composite parts. We design, analyse and test them. | Kompozit parçalardan sorumluyuz. Onları tasarlıyor, analiz ediyor ve test ediyoruz.
+T: What do I do this week? | Bu hafta ne yapacağım?
+Y: In your first week, you read our procedures. If you need help, ask me. | İlk haftanda prosedürlerimizi okuyacaksın. Yardıma ihtiyacın olursa bana sor.
+### 2
+ideas: Tanıt: ekibi ve rolleri, tasarım, analiz ve üretim mühendisliği ; Anlat: bir parçanın yolunu, tasarım, analiz, kalıp, yatırma, autoclave, ultrasonik muayene ; Açıkla: metalden farkı, malzeme değerleri ve tasarım kuralları farklı ; Söyle: ilk haftanın planı, prosedürler, eğitim ve atölye turu ; Belirt: kime ne sorabileceğini
+chunks: Let me give you an overview of… = Sana …'e genel bir bakış vereyim ; The way it works is… = İşleyiş şöyle… ; The main difference from… = …'den ana fark ; You'll be working closely with… = …'le yakın çalışacaksın ; Don't hesitate to… = …'mekten çekinme
+T: Good morning! I'm still trying to understand who does what here. | Günaydın! Hâlâ burada kimin ne yaptığını anlamaya çalışıyorum.
+Y: That's normal. Let me give you an overview of the team. We have design, stress and manufacturing engineering, nine people in total. | Bu normal. Sana ekibe genel bir bakış vereyim. Tasarım, gerilme ve üretim mühendisliğimiz var, toplamda dokuz kişi.
+T: And how does a part go through the process? | Peki bir parça süreçten nasıl geçiyor?
+Y: The way it works is design first, then analysis, then the tool. After that we lay up, cure in the autoclave and inspect with ultrasound. | İşleyiş şöyle: önce tasarım, sonra analiz, sonra kalıp. Ondan sonra yatırıyor, autoclave'da kürlüyor ve ultrasonla muayene ediyoruz.
+T: I've mostly worked with aluminium. Is it very different? | Çoğunlukla alüminyumla çalıştım. Çok mu farklı?
+Y: The main difference from metals is that the strength depends on fibre direction, so the design rules are quite different. | Metallerden ana fark dayanımın fiber yönüne bağlı olması, bu yüzden tasarım kuralları oldukça farklı.
+T: OK. What should I focus on this week? | Tamam. Bu hafta neye odaklanmalıyım?
+Y: Read the procedures, do the safety training and visit the shop floor. You'll be working closely with Mehmet, so don't hesitate to ask him anything. | Prosedürleri oku, güvenlik eğitimini al ve atölyeyi ziyaret et. Mehmet'le yakın çalışacaksın, ona bir şey sormaktan çekinme.
+### 3
+ideas: Karşıla: rahatlatıcı bir başlangıç yap, kimsenin her şeyi ilk hafta bilmesi beklenmiyor ; Anlat: ekip yapısı ve arayüzler, kalite, planlama ve müşteri ile ilişki ; Açıkla: tasarımdan teslimata süreci ve kritik onay noktalarını ; Vurgula: metalden kompozite geçişte dikkat edilmesi gerekenler, darbe hasarı, nem ve sıcaklık etkisi ; Söyle: ilk ay planı ve ilk gerçek görevi, basit bir braket analizi ; Belirt: kültürü, soru sormanın değerli olduğunu
+chunks: Nobody expects you to… = Kimse senden … beklemiyor ; The big picture is… = Genel tablo şu… ; The key handover points are… = Kritik devir noktaları … ; Something to bear in mind is… = Akılda tutulması gereken bir şey … ; We have a culture of… = Bizde … kültürü var
+T: Honestly, it's a bit overwhelming. There are so many new names and systems. | Açıkçası biraz bunaltıcı. Çok fazla yeni isim ve sistem var.
+Y: That's completely normal. Nobody expects you to know everything in your first week, so let me give you the big picture first. | Bu tamamen normal. Kimse senden ilk haftanda her şeyi bilmeni beklemiyor, o yüzden önce sana genel tabloyu vereyim.
+T: That would help a lot. | Bu çok yardımcı olur.
+Y: The big picture is that we own the composite parts from concept to delivery, and we work closely with quality, planning and occasionally the customer directly. | Genel tablo şu: kompozit parçaların konseptten teslimata kadar sorumluluğu bizde ve kalite, planlama ve ara sıra doğrudan müşteriyle yakın çalışıyoruz.
+T: Where are the main approval points? | Ana onay noktaları nerede?
+Y: The key handover points are the design review, the release of the tool and the first article inspection, and each one needs a stress sign-off. | Kritik devir noktaları tasarım gözden geçirmesi, kalıbın serbest bırakılması ve ilk parça muayenesi, ve her biri bir gerilme onayı gerektiriyor.
+T: Coming from metals, what should I watch out for? | Metallerden geldiğim için neye dikkat etmeliyim?
+Y: Something to bear in mind is that impact damage and hot-wet conditions often drive the design. Your first real task will be a simple bracket, and we have a culture of asking early rather than guessing. | Akılda tutulması gereken bir şey, darbe hasarı ve sıcak-nemli koşulların çoğu zaman tasarımı belirlemesi. İlk gerçek görevin basit bir braket olacak ve bizde tahmin etmek yerine erken sorma kültürü var.
+
+## customercall | Customer call | Müşteriyle telefonda kalite şikayeti görüşmesi | work
+brief: Müşterinin kalite müdürü telefonda şikayet ediyor: son partideki iki fairing'de yüzeyde kuru bölge ve porozite bulmuşlar. Dinle, anlayış göster, bilgi topla, ilk önlemleri ve sonraki adımları anlat.
+role: a customer quality manager who is frustrated, under pressure from his own production line, and wants quick action, not excuses
+### 1
+ideas: Dinle ve anlayış göster: sorun için üzgün olduğunu söyle ; Sor: parça numarasını ve kaç parçada sorun olduğunu ; Söyle: bugün parti kayıtlarını kontrol edeceksin ; Anlat: yarın bir rapor ve fotoğraflarla geri döneceksin
+chunks: I'm sorry to hear that = Bunu duyduğuma üzüldüm ; Can you tell me…? = Bana … söyleyebilir misiniz? ; How many parts…? = Kaç parça…? ; I will check today = Bugün kontrol edeceğim ; I will call you back = Sizi geri arayacağım
+T: Kemal, we have a problem with your fairings. | Kemal, fairing'lerinizle ilgili bir sorunumuz var.
+Y: I'm sorry to hear that. What is the problem? | Bunu duyduğuma üzüldüm. Sorun ne?
+T: There are dry areas on the surface. | Yüzeyde kuru bölgeler var.
+Y: Can you tell me the part number? How many parts? | Bana parça numarasını söyleyebilir misiniz? Kaç parça?
+T: Two parts from the last batch. | Son partiden iki parça.
+Y: OK. Can you send me some photos? | Tamam. Bana birkaç fotoğraf gönderebilir misiniz?
+T: Yes. But we need a solution fast. | Evet. Ama hızlı bir çözüme ihtiyacımız var.
+Y: I understand. I will check today and call you back tomorrow. | Anlıyorum. Bugün kontrol edeceğim ve yarın sizi geri arayacağım.
+### 2
+ideas: Göster: rahatsızlığı anladığını ve ciddiye aldığını ; Sor: detayları, seri numaraları, kusurun yeri ve boyutu, fotoğraf ; Anlat: ilk önlemi, aynı partiden stoktaki parçaları karantinaya alıyorsun ; Teklif et: yedek parçaları üç gün içinde göndermek ; Söyle: 48 saat içinde ilk analiz sonucunu paylaşacaksın
+chunks: I completely understand your frustration = Rahatsızlığınızı tamamen anlıyorum ; Could you give me a few more details? = Biraz daha detay verebilir misiniz? ; As a first step… = İlk adım olarak… ; We can offer… = … önerebiliriz ; within forty-eight hours = kırk sekiz saat içinde
+T: This is the second time this year. Two fairings with dry spots and porosity, and our line is waiting. | Bu yıl ikinci kez oluyor. Kuru noktalı ve porozitli iki fairing var ve hattımız bekliyor.
+Y: I completely understand your frustration, and we take this very seriously. Could you give me a few more details? | Rahatsızlığınızı tamamen anlıyorum ve bunu çok ciddiye alıyoruz. Biraz daha detay verebilir misiniz?
+T: Serial numbers one-one-four and one-one-seven. The dry area is near the front edge, about five centimetres wide. | Seri numaraları yüz on dört ve yüz on yedi. Kuru bölge ön kenara yakın, yaklaşık beş santim genişliğinde.
+Y: Thank you. As a first step, I'll quarantine all the parts from that batch in our stock, so nothing else leaves the factory. | Teşekkürler. İlk adım olarak stoktaki o partiye ait tüm parçaları karantinaya alacağım, böylece fabrikadan başka bir şey çıkmaz.
+T: That's fine, but my line still needs parts. | Bu iyi, ama hattımın yine de parçaya ihtiyacı var.
+Y: We can offer two replacement parts from a different batch. They've already passed ultrasonic inspection, so we can ship them in three days. | Farklı bir partiden iki yedek parça önerebiliriz. Ultrasonik muayeneden zaten geçtiler, bu yüzden üç gün içinde sevk edebiliriz.
+T: And when will I know the cause? | Peki nedeni ne zaman öğreneceğim?
+Y: I'll share our first findings within forty-eight hours, and the full report next week. | İlk bulgularımızı kırk sekiz saat içinde, tam raporu ise gelecek hafta paylaşacağım.
+### 3
+ideas: Karşıla: öfkeyi kabul et, savunmaya geçme, tekrar ettiğini kabul et ; Topla: kesin bilgiyi, seri numaraları, kusur yeri, ölçüm ve fotoğraflar ; Anlat: önleyici tedbirleri, karantina ve stoktaki parçaların yeniden taranması ; Teklif et: hattı korumak için yedek parçalar ve hızlandırılmış sevkiyat ; Belirt: olası nedeni varsayım olarak, ön kenarda reçine akışı ve vakum kaçağı ; Taahhüt et: zaman çizelgesi, 48 saatte ilk bulgular, 8D raporu ve gerekirse ortak toplantı
+chunks: I hear what you're saying = Ne dediğinizi anlıyorum ; That's clearly not acceptable = Bu açıkça kabul edilemez ; Our immediate priority is… = Acil önceliğimiz … ; At this stage it's too early to say, but… = Bu aşamada söylemek için çok erken ama… ; I'll personally make sure that… = …'i bizzat sağlayacağım
+T: Frankly, I'm running out of patience. This is the second escape this year, and I've got a line stopped because of your fairings. | Açıkçası sabrım tükeniyor. Bu yıl ikinci kez hatalı parça kaçıyor ve fairing'leriniz yüzünden duran bir hattım var.
+Y: I hear what you're saying, and you're right. A repeat issue like this is clearly not acceptable. Could you tell me exactly what you've found? | Ne dediğinizi anlıyorum ve haklısınız. Bunun gibi tekrar eden bir sorun açıkça kabul edilemez. Tam olarak ne bulduğunuzu söyleyebilir misiniz?
+T: Serials one-one-four and one-one-seven. Dry spots and surface porosity along the leading edge, about five centimetres. I've sent the photos. | Seri yüz on dört ve yüz on yedi. Hücum kenarı boyunca kuru noktalar ve yüzey porozitesi, yaklaşık beş santim. Fotoğrafları gönderdim.
+Y: Got them, thank you. Our immediate priority is containment. The rest of the batch is quarantined as of now, and we'll rescan every part in stock today. | Aldım, teşekkürler. Acil önceliğimiz önleyici tedbir. Partinin geri kalanı şu andan itibaren karantinada ve bugün stoktaki her parçayı yeniden tarayacağız.
+T: That doesn't help my line though. | Ama bu benim hattıma yardımcı olmuyor.
+Y: Understood. We have two parts from a later batch that are fully inspected. We can expedite them by courier, so you'd have them on Thursday. | Anlaşıldı. Sonraki bir partiden tamamen muayene edilmiş iki parçamız var. Kuryeyle hızlandırabiliriz, böylece perşembe elinizde olur.
+T: Fine. And what's causing it? | Peki. Buna neden olan ne?
+Y: At this stage it's too early to say, but the location suggests a vacuum leak or poor resin flow at the edge. I'll personally make sure you get our first findings within forty-eight hours and a full 8D report next week. | Bu aşamada söylemek için çok erken, ama konum kenarda bir vakum kaçağına ya da zayıf reçine akışına işaret ediyor. İlk bulgularımızı kırk sekiz saat içinde, tam 8D raporunu ise gelecek hafta almanızı bizzat sağlayacağım.

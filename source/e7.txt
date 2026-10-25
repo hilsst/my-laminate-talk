@@ -1,0 +1,329 @@
+## culture
+### 2
+title: Misafire kültür önerileri
+brief: Almanya'dan gelen bir müşterinin cuma akşamı boş. Kemal ona şehirde müze, sergi ve tiyatro önerileri veriyor, saatleri ve bilet konusunu açıklıyor.
+role: a quality manager from Germany on a three-day visit who has a free evening and enjoys art and theatre
+ideas: Söyle: cuma akşamı için birkaç kültür seçeneği var ; Öner: modern sanat müzesinde fotoğraf sergisi, perşembe ve cuma geç saate kadar açık ; Anlat: tiyatro oyunu Türkçe ama İngilizce altyazı var ; Açıkla: biletleri internetten almak daha kolay, fiyatı yaklaşık 15 euro ; Öner: sergiden sonra deniz kenarında yemek, istersen eşlik edebilirsin
+chunks: If you're into… = Eğer … ile ilgileniyorsan ; It's well worth a visit = Kesinlikle görülmeye değer ; It's open till… = … saatine kadar açık ; I'd book in advance = Önceden rezervasyon yapardım ; I'm happy to join you = Sana memnuniyetle eşlik ederim
+T: Kemal, I'm free on Friday evening. What would you recommend in the city? | Kemal, cuma akşamı boşum. Şehirde ne önerirsin?
+Y: If you're into art, the modern art museum has a great photography exhibition right now. | Eğer sanatla ilgileniyorsan, modern sanat müzesinde şu an harika bir fotoğraf sergisi var.
+T: Sounds good. Is it open in the evening? | Kulağa hoş geliyor. Akşam açık mı?
+Y: Yes, on Thursdays and Fridays it's open till ten, so you have plenty of time after work. | Evet, perşembe ve cuma günleri saat ona kadar açık, yani işten sonra bolca vaktin olur.
+T: I also love theatre, but I don't speak Turkish. | Tiyatroyu da çok severim ama Türkçe bilmiyorum.
+Y: There's a comedy at the city theatre with English subtitles. It's well worth a visit, honestly. | Şehir tiyatrosunda İngilizce altyazılı bir komedi var. Gerçekten görülmeye değer.
+T: How do I get tickets? | Biletleri nasıl alabilirim?
+Y: I'd book in advance online because it's popular. Tickets are about fifteen euros. And I'm happy to join you for dinner afterwards. | Popüler olduğu için ben önceden internetten alırdım. Biletler yaklaşık on beş euro. Sonrasında akşam yemeğinde de sana memnuniyetle eşlik ederim.
+### 3
+title: Şirkette kültür kulübü önerisi
+brief: Kemal, insan kaynakları müdürüne çalışanlar için aylık bir kültür kulübü (müze gezisi, film gecesi, kitap kulübü) kurulmasını öneriyor. Müdür bütçe ve katılım konusunda şüpheli; Kemal onu ikna etmeli.
+role: an HR manager who likes the idea in principle but worries about budget, low attendance and people's free time
+ideas: Fikri özetle: ayda bir kültür etkinliği, müze, film gecesi ya da kitap kulübü ; Gerekçeyi açıkla: farklı bölümlerden insanlar iş dışında tanışıyor, yabancı çalışanlar uyum sağlıyor ; Kanıt göster: anket yapıldı, 140 kişiden 62'si katılmak istiyor ; Maliyeti belirt: yılda yaklaşık 4.000 euro, müzeler grup indirimi veriyor ; İtirazı karşıla: zorunlu değil, mesai saatinde değil, gönüllü düzenleyiciler var ; Öner: önce altı aylık deneme, sonra katılıma göre karar
+chunks: The idea is fairly simple = Fikir oldukça basit ; It's not just about… = Mesele sadece … değil ; to break down the walls between… = … arasındaki duvarları yıkmak ; on a trial basis = deneme amaçlı ; Let the numbers speak for themselves = Rakamlar kendi adına konuşsun
+T: So, Kemal, you want the company to pay for museum trips? | Yani Kemal, şirketin müze gezilerini ödemesini mi istiyorsun?
+Y: The idea is fairly simple: once a month we organize a cultural evening, a museum, a film night or a book club, open to everybody. | Fikir oldukça basit: ayda bir herkese açık bir kültür akşamı düzenliyoruz, bir müze, bir film gecesi ya da bir kitap kulübü.
+T: It sounds nice, but what's the benefit for the business? | Kulağa hoş geliyor ama şirkete faydası ne?
+Y: It's not just about art. It's a chance to break down the walls between production, engineering and the office, and our foreign colleagues would settle in much faster. | Mesele sadece sanat değil. Üretim, mühendislik ve ofis arasındaki duvarları yıkmak için bir fırsat, ayrıca yabancı meslektaşlarımız çok daha hızlı uyum sağlar.
+T: My worry is attendance. People are tired after work. | Benim endişem katılım. İnsanlar işten sonra yorgun oluyor.
+Y: That's fair, so I ran a quick survey. Sixty-two out of a hundred and forty people said they'd join at least occasionally. Let the numbers speak for themselves. | Haklısın, o yüzden kısa bir anket yaptım. Yüz kırk kişiden altmış ikisi en azından ara sıra katılacağını söyledi. Rakamlar kendi adına konuşsun.
+T: And the cost? Our budget for next year is already tight. | Peki maliyet? Gelecek yılın bütçesi zaten kısıtlı.
+Y: Roughly four thousand euros a year, because museums give group discounts. I'd suggest we run it on a trial basis for six months, with volunteers organizing it, and then decide based on attendance. | Yılda kabaca dört bin euro, çünkü müzeler grup indirimi veriyor. Gönüllülerin düzenlediği altı aylık bir deneme yapalım, sonra katılıma bakarak karar verelim derim.
+
+## crime
+### 2
+title: Güvenlik şefiyle otopark önlemleri
+brief: Hırsızlıktan sonra Kemal, fabrikanın güvenlik şefiyle konuşuyor. Yeni önlemleri soruyor, kendi kaygısını anlatıyor ve birkaç öneri sunuyor.
+role: the factory's head of security who is busy installing new measures and wants feedback from staff
+ideas: Söyle: hırsızlıktan sonra çalışanlar tedirgin, sen de dizüstü bilgisayarını arabada bırakıyordun ; Sor: hangi yeni önlemler alınıyor ; Özetle cevabı: on iki yeni kamera, kartlı giriş kapısı, gece devriyesi ; Öner: arka otoparkta aydınlatma çok zayıf, ışık eklenmeli ; Sor: çalışanlar bir şey görürse kime haber vermeli
+chunks: I was wondering if… = Acaba … diye merak ediyordum ; People are a bit worried = İnsanlar biraz tedirgin ; to keep an eye on… = …'e göz kulak olmak ; It might be worth… = …'e değebilir ; Who should we report it to? = Bunu kime bildirmeliyiz?
+T: Hi Kemal. You wanted to talk about the car park? | Merhaba Kemal. Otopark hakkında konuşmak istemiştin, değil mi?
+Y: Yes. People are a bit worried since the theft. I used to leave my laptop in the car. | Evet. Hırsızlıktan beri insanlar biraz tedirgin. Ben de dizüstü bilgisayarımı arabada bırakırdım.
+T: I understand. We're taking it very seriously. | Anlıyorum. Bunu çok ciddiye alıyoruz.
+Y: I was wondering if you're planning any new measures. | Acaba yeni önlemler planlıyor musunuz diye merak ediyordum.
+T: We're putting in twelve new cameras and a card-only gate. There'll also be a night patrol. | On iki yeni kamera ve sadece kartla açılan bir kapı takıyoruz. Bir de gece devriyesi olacak.
+Y: Great. But the back car park is very dark. It might be worth adding some lights there. | Harika. Ama arka otopark çok karanlık. Oraya biraz ışık eklemeye değebilir.
+T: Good point. I'll check it tonight. | İyi bir nokta. Bu akşam kontrol edeceğim.
+Y: Thanks. And if we see something strange, who should we report it to? Can the guards keep an eye on it? | Teşekkürler. Peki tuhaf bir şey görürsek bunu kime bildirmeliyiz? Güvenlik görevlileri oraya göz kulak olabilir mi?
+### 3
+title: Mahkeme kararı üzerine dengeli bir sohbet
+brief: Mahkeme genç hırsıza ertelenmiş ceza ve toplum hizmeti verdi. Meslektaşı kararı çok hafif buluyor; Kemal kibar ama farklı, dengeli bir görüş savunuyor.
+role: a colleague who thinks the sentence was far too light and believes only tough punishment stops crime
+ideas: Kararı özetle: iki yıl ertelenmiş hapis, 200 saat toplum hizmeti, araçlar sahiplerine döndü ; Karşı tarafın haklı olduğu noktayı kabul et: mağdurların öfkesi anlaşılır ; Görüşünü açıkla: ilk suç, 19 yaşında, cezaevi onu daha kötü yapabilir ; Kanıt göster: ilk suçta toplum hizmeti tekrar suç oranını düşürüyor ; Nüansı belirt: tekrar ederse ağır ceza gerekir ; Konuyu bağla: asıl önemli olan önlem, yeni kameralar işe yarıyor
+chunks: I see where you're coming from = Ne demek istediğini anlıyorum ; to give someone a second chance = birine ikinci bir şans vermek ; There's a fine line between… and… = … ile … arasında ince bir çizgi var ; On the other hand, … = Öte yandan… ; At the end of the day, … = Sonuçta…
+T: Two years suspended and some community service? That's a joke, Kemal. | İki yıl ertelenmiş ceza ve biraz toplum hizmeti mi? Bu şaka gibi Kemal.
+Y: I see where you're coming from, and the owners were obviously upset. But it was his first offence, and he's only nineteen. | Ne demek istediğini anlıyorum, araç sahipleri de tabii ki üzgündü. Ama bu onun ilk suçuydu ve daha on dokuz yaşında.
+T: So? If you steal three cars, you should go to prison. | Ne olmuş? Üç araba çalarsan hapse girmelisin.
+Y: There's a fine line between punishment and making things worse. If he spends two years inside with experienced criminals, he might come out more dangerous than before. | Cezalandırmak ile işleri daha da kötüleştirmek arasında ince bir çizgi var. İki yılını tecrübeli suçlularla içeride geçirirse, eskisinden daha tehlikeli çıkabilir.
+T: That sounds a bit soft to me. | Bu bana biraz yumuşak geliyor.
+Y: Maybe, but I read that young people who do community service for a first offence are much less likely to repeat it. On the other hand, if he does it again, the court should be tough. | Olabilir, ama ilk suçta toplum hizmeti yapan gençlerin bunu tekrar etme ihtimalinin çok daha düşük olduğunu okudum. Öte yandan, tekrar yaparsa mahkeme sert olmalı.
+T: Well, I hope you're right. | Umarım haklısındır.
+Y: Me too. At the end of the day, giving someone a second chance is a risk, but prevention matters more, and the new cameras already seem to be working. | Ben de. Sonuçta birine ikinci bir şans vermek bir risk, ama asıl önemli olan önlem ve yeni kameralar şimdiden işe yarıyor gibi görünüyor.
+
+## politics
+### 2
+title: Ziyaretçiye enflasyonu anlatmak
+brief: İngiltere'den gelen bir müşteri, Türkiye'deki yüksek fiyatları ve döviz kurunu soruyor. Kemal politikaya girmeden ekonominin günlük hayata ve işe etkisini nazikçe anlatıyor.
+role: a purchasing manager from the UK visiting the factory who is curious about the economy and wants to understand price stability
+ideas: Durumu söyle: enflasyon son yıllarda yüksek, fiyatlar sık değişiyor ; Günlük hayattan örnek ver: kira ve market fiyatları ; İşe etkisini açıkla: teklifler euro ile, bu yüzden müşteri için fiyat sabit ; Maaşları anlat: şirket maaşları yılda iki kez güncelliyor ; Konuyu kibarca kapat: siyaset hakkında yorum yapmadan genel bir gözlemle bitir
+chunks: To be honest, … = Açıkçası… ; Prices change almost every month = Fiyatlar neredeyse her ay değişiyor ; That's why we… = Bu yüzden biz… ; twice a year = yılda iki kez ; I'd rather not get into politics = Siyasete girmemeyi tercih ederim
+T: Kemal, I noticed prices here are quite different from last year. | Kemal, buradaki fiyatların geçen yıldan oldukça farklı olduğunu fark ettim.
+Y: To be honest, inflation has been high for a few years. Prices change almost every month. | Açıkçası birkaç yıldır enflasyon yüksek. Fiyatlar neredeyse her ay değişiyor.
+T: That must be hard for families. | Bu aileler için zor olmalı.
+Y: Yes, especially rent and food. My rent went up by sixty percent last year. | Evet, özellikle kira ve gıda. Kiram geçen yıl yüzde altmış arttı.
+T: Does it affect our prices too? | Bizim fiyatlarımızı da etkiliyor mu?
+Y: Not much. That's why we give all our quotes in euros, so your price stays stable. | Pek değil. Bu yüzden bütün tekliflerimizi euro olarak veriyoruz, böylece sizin fiyatınız sabit kalıyor.
+T: And what about salaries? | Peki ya maaşlar?
+Y: The company updates them twice a year. Why it's happening is a long story, and I'd rather not get into politics. | Şirket onları yılda iki kez güncelliyor. Neden böyle olduğu uzun bir hikâye ve siyasete girmemeyi tercih ederim.
+### 3
+title: Beyin göçü üzerine dengeli görüş
+brief: Polonyalı meslektaşı, genç mühendislerin yurtdışına gittiğini ve bunun ülkeler için ciddi bir kayıp olduğunu söylüyor. Kemal parti politikasına girmeden, şirketlerin ve devletin ne yapabileceği konusunda nüanslı bir görüş sunuyor.
+role: a colleague from Poland who saw many friends emigrate and thinks governments are mostly to blame
+ideas: Durumu kabul et: son iki yılda bölümden üç genç mühendis Almanya ve Hollanda'ya gitti ; Nedenleri sırala: maaş, istikrar, kariyer fırsatları, sadece para değil ; Dengeyi göster: tamamen devletin suçu değil, şirketlerin de payı var ; Çözüm öner: eğitim bütçesi, esnek çalışma, gerçek projelerde sorumluluk ; Olumlu yanı belirt: bazıları tecrübe kazanıp geri dönüyor, bağlantılar getiriyor ; Görüşünü özetle: insanları tutmanın yolu onları zorlamak değil, kalmak için sebep vermek
+chunks: It's a lot more complicated than… = … sandığından çok daha karmaşık ; I wouldn't put all the blame on… = Bütün suçu …'e atmam ; to play a part in… = …'de payı olmak ; There's a positive side to it as well = Bunun olumlu bir yanı da var ; to give people a reason to stay = insanlara kalmak için bir sebep vermek
+T: Half my university friends now live abroad. Governments just let their best people go. | Üniversite arkadaşlarımın yarısı şimdi yurtdışında yaşıyor. Hükümetler en iyi insanlarının gitmesine göz yumuyor.
+Y: We've seen the same here. Three young engineers from our department left for Germany and the Netherlands in the last two years. | Biz de aynısını burada gördük. Son iki yılda bölümümüzden üç genç mühendis Almanya ve Hollanda'ya gitti.
+T: Exactly. And it's mostly about money, isn't it? | Aynen. Ve mesele çoğunlukla para, değil mi?
+Y: It's a lot more complicated than that. Salary matters, of course, but they also mentioned stability, career prospects and feeling that their ideas were heard. | Sandığından çok daha karmaşık. Maaş elbette önemli, ama stabiliteden, kariyer olanaklarından ve fikirlerinin dinlendiğini hissetmekten de bahsettiler.
+T: So you think it's not the government's fault? | Yani bunun hükümetin suçu olmadığını mı düşünüyorsun?
+Y: I wouldn't put all the blame on governments. Companies play a part in it too. If a talented graduate spends two years only updating drawings, why would they stay? | Bütün suçu hükümetlere atmam. Şirketlerin de bunda payı var. Yetenekli bir mezun iki yıl boyunca sadece çizim güncellerse neden kalsın ki?
+T: Fair enough. But isn't it still a huge loss for the country? | Haklısın. Ama yine de ülke için büyük bir kayıp değil mi?
+Y: In the short term, yes, but there's a positive side to it as well. Some come back with valuable experience and contacts. Ultimately, the answer isn't to stop people leaving, it's to give people a reason to stay. | Kısa vadede evet, ama bunun olumlu bir yanı da var. Bazıları değerli tecrübe ve bağlantılarla geri dönüyor. Sonuçta çözüm insanların gitmesini engellemek değil, onlara kalmak için bir sebep vermek.
+
+## family
+### 2
+title: Kuzenin düğünü için izin istemek
+brief: Kemal'in kuzeni memleketinde evleniyor. Kemal yöneticisinden cuma ve pazartesi için izin istiyor, yolculuğu ve işlerin nasıl devredileceğini açıklıyor.
+role: a team leader who is happy to give leave but needs to know the test schedule is covered
+ideas: İsteğini söyle: cuma ve pazartesi izin ; Nedenini anlat: kuzenin düğünü Trabzon'da, cumartesi günü ; Yolculuğu açıkla: uçuş perşembe akşamı, dönüş pazartesi akşamı ; İşlerin devrini anlat: Elif cuma günkü çekme testlerini takip edecek ; Söz ver: acil durumda telefonla ulaşılabilirsin
+chunks: Would it be OK if… = … olsa uygun olur mu? ; to take… off = … izin almak ; It's a big family event = Büyük bir aile etkinliği ; I've arranged for… to… = …'in …'mesini ayarladım ; I'll be reachable by phone = Telefonla ulaşılabilir olacağım
+T: Kemal, you wanted to see me? | Kemal, beni görmek mi istemiştin?
+Y: Yes. Would it be OK if I took Friday and Monday off next week? | Evet. Önümüzdeki hafta cuma ve pazartesi izin alsam uygun olur mu?
+T: Probably. What's the occasion? | Muhtemelen. Neden?
+Y: My cousin is getting married in Trabzon on Saturday. It's a big family event, so I really want to be there. | Kuzenim cumartesi günü Trabzon'da evleniyor. Büyük bir aile etkinliği, o yüzden gerçekten orada olmak istiyorum.
+T: Of course. But what about the tensile tests on Friday? | Tabii ki. Peki cuma günkü çekme testleri ne olacak?
+Y: I've arranged for Elif to run them. She knows the procedure, and I'll send her my notes tomorrow. | Elif'in yapmasını ayarladım. Prosedürü biliyor, notlarımı da yarın ona göndereceğim.
+T: Great. When are you back? | Harika. Ne zaman dönüyorsun?
+Y: My flight lands on Monday evening, so I'm back on Tuesday. And I'll be reachable by phone if anything urgent comes up. | Uçağım pazartesi akşamı iniyor, yani salı günü işteyim. Acil bir şey çıkarsa da telefonla ulaşılabilir olacağım.
+### 3
+title: Aile için esnek çalışma talebi
+brief: Kemal'in babası ameliyat oldu ve birkaç ay bakıma ihtiyacı var. Kemal, bölüm müdüründen üç ay boyunca haftada iki gün evden çalışmayı istiyor; müdür ekip ve emsal konusunda kaygılı.
+role: a department manager who is sympathetic but worries about team coverage and setting a precedent for others
+ideas: Durumu açıkla: babası kalp ameliyatı oldu, üç ay bakıma ihtiyacı var, annesi tek başına yetişemiyor ; Talebini net söyle: üç ay boyunca salı ve perşembe evden çalışma ; İşin aksamayacağını göster: analiz ve rapor işleri evden yapılabilir, test ve toplantılar diğer günlere ; Kaygıyı karşıla: emsal endişesi, bu geçici ve belgelenmiş bir aile durumu ; Ne istediğini belirt: ayda bir değerlendirme toplantısı ; Esneklik göster: gerekirse kritik günlerde gelirsin
+chunks: I'll get straight to the point = Doğrudan konuya gireceğim ; It's only a temporary arrangement = Bu sadece geçici bir düzenleme ; I've thought it through = Bunu iyice düşündüm ; I completely understand your concern = Endişeni tamamen anlıyorum ; If it doesn't work, we can review it = İşe yaramazsa tekrar gözden geçirebiliriz
+T: Kemal, how's your father doing? | Kemal, baban nasıl?
+Y: Better, thanks. I'll get straight to the point: he had heart surgery, he needs care for about three months, and my mother can't manage on her own. | Daha iyi, teşekkürler. Doğrudan konuya gireceğim: kalp ameliyatı oldu, yaklaşık üç ay bakıma ihtiyacı var ve annem tek başına yetişemiyor.
+T: I'm sorry to hear that. What do you need from us? | Bunu duyduğuma üzüldüm. Bizden ne istiyorsun?
+Y: I'd like to work from home on Tuesdays and Thursdays until January. It's only a temporary arrangement, not a permanent change. | Ocak ayına kadar salı ve perşembe günleri evden çalışmak istiyorum. Bu sadece geçici bir düzenleme, kalıcı bir değişiklik değil.
+T: I want to help, but how will the team manage without you? | Yardım etmek istiyorum ama ekip sensiz nasıl idare edecek?
+Y: I've thought it through. The stress analysis and the certification reports can easily be done from home, and I'd move all tests and meetings to the other three days. | Bunu iyice düşündüm. Gerilme analizi ve sertifikasyon raporları rahatlıkla evden yapılabilir, bütün testleri ve toplantıları da diğer üç güne alırım.
+T: My other worry is that everyone will ask for the same thing. | Diğer endişem de herkesin aynı şeyi istemesi.
+Y: I completely understand your concern, but this is a documented family situation with a clear end date. Let's have a short review every month, and if it doesn't work, we can review it, or I'll come in on critical days. | Endişeni tamamen anlıyorum, ama bu belgelenmiş ve bitiş tarihi belli bir aile durumu. Her ay kısa bir değerlendirme yapalım, işe yaramazsa tekrar gözden geçirebiliriz ya da kritik günlerde gelirim.
+
+## kitchen
+### 2
+title: Ofiste dünya mutfağı günü
+brief: Kemal ve bir meslektaşı ofiste herkesin kendi ülkesinden bir yemek getireceği bir öğle yemeği düzenliyor. Kim ne getirecek, alerjiler, miktarlar ve tabak çatal konusunu planlıyorlar.
+role: a colleague from Spain who is co-organizing the event and is worried about food allergies and quantities
+ideas: Planı söyle: gelecek cuma öğle yemeği, yaklaşık 40 kişi ; Kendi katkını anlat: mercimek çorbası ve börek getireceksin ; Alerji konusunu açıkla: her yemeğin yanına malzeme listesi koyalım ; Miktarı hesapla: her kişi 8-10 kişilik getirsin ; Lojistiği belirt: tabak, çatal bıçak ve peçete şirketten, toplantı salonu rezerve edildi
+chunks: Let's sort out… = …'i halledelim ; I'll bring… = … getireceğim ; just in case = ne olur ne olmaz diye ; enough for… people = … kişiye yetecek kadar ; That leaves… = Geriye … kalıyor
+T: So, the food day is next Friday. How many people are coming? | Yemek günü gelecek cuma. Kaç kişi geliyor?
+Y: About forty so far. Let's sort out who brings what today. | Şimdiye kadar kırk kadar. Kimin ne getireceğini bugün halledelim.
+T: Good idea. What are you making? | İyi fikir. Sen ne yapıyorsun?
+Y: I'll bring lentil soup and a spinach pastry called börek. My wife makes the best börek. | Mercimek çorbası ve börek denen ıspanaklı bir hamur işi getireceğim. En iyi böreği eşim yapar.
+T: I'm a bit worried about allergies. Two people can't eat nuts. | Alerjiler konusunda biraz endişeliyim. İki kişi fındık fıstık yiyemiyor.
+Y: Let's put a small card with the ingredients next to each dish, just in case. | Ne olur ne olmaz diye her yemeğin yanına malzemeleri yazan küçük bir kart koyalım.
+T: And how much should everyone cook? | Herkes ne kadar pişirmeli?
+Y: If each person brings enough for eight or ten people, we'll be fine. The company gives plates and forks, so that leaves only the drinks. | Herkes sekiz on kişiye yetecek kadar getirirse sorun olmaz. Tabak ve çatalı şirket veriyor, geriye sadece içecekler kalıyor.
+### 3
+title: Müşteri heyetine akşam yemeği
+brief: Kemal, Fransa'dan gelen müşteri heyetini önemli bir akşam yemeğinde ağırlıyor. Mezeleri ve yöresel yemekleri tanıtıyor, vejetaryen bir misafire uygun seçenek buluyor ve yanlış gelen bir yemeği zarifçe çözüyor.
+role: a senior program manager from France who is vegetarian, enjoys good food and is quietly judging how well the supplier hosts
+ideas: Ortamı tanıt: balık restoranı, önce soğuk mezeler, sonra ana yemek ; Mezeleri açıkla: zeytinyağlılar, haydari, patlıcan, çoğu vejetaryen ; Öneride bulun: vejetaryen misafir için ana yemek olarak mantarlı güveç ; Sorunu çöz: yanlışlıkla etli bir tabak geldi, garsona söyle, özür dile ; Geleneği anlat: rakı ve meze kültürü, yavaş yemek, sohbet ; Bağla: yarınki toplantıdan önce rahat bir akşam, nezaketle teşekkür et
+chunks: The way it works here is… = Burada işler şöyle yürür… ; Most of these are… = Bunların çoğu… ; I'd go for… = Ben … seçerdim ; Let me sort that out = Onu ben halledeyim ; It's more about… than… = …'den çok … ile ilgili
+T: Kemal, this table is full already and we haven't even ordered! | Kemal, daha sipariş vermeden masa doldu bile!
+Y: The way it works here is that you start with cold starters called meze, take your time, and only order the main course much later. | Burada işler şöyle yürür: meze denen soğuk başlangıçlarla başlarsın, acele etmezsin ve ana yemeği çok sonra sipariş edersin.
+T: As a vegetarian, I'm always a bit nervous at fish restaurants. | Vejetaryen biri olarak balık restoranlarında hep biraz tedirgin olurum.
+Y: No need to worry. Most of these are vegetarian: aubergine with yoghurt, beans in olive oil, and this thick garlic yoghurt dip. | Endişelenmenize gerek yok. Bunların çoğu vejetaryen: yoğurtlu patlıcan, zeytinyağlı fasulye ve bu yoğun sarımsaklı yoğurt mezesi.
+T: Lovely. And for the main course? | Harika. Peki ana yemek için?
+Y: I'd go for the mushroom casserole. It's baked in a clay pot with cheese on top, and honestly, it's one of the chef's specialities. | Ben mantarlı güveci seçerdim. Toprak kapta, üstü peynirli pişiriliyor ve açıkçası şefin özel yemeklerinden biri.
+T: Oh, I think this plate has meat in it. | Ah, sanırım bu tabakta et var.
+Y: I'm so sorry, let me sort that out with the waiter right away. And please don't rush, an evening like this is more about the conversation than the food. | Çok özür dilerim, onu hemen garsonla halledeyim. Lütfen acele etmeyin, böyle bir akşam yemekten çok sohbetle ilgilidir.
+
+## commute
+### 2
+title: Fabrikaya nasıl gidilir
+brief: Japon misafir mühendis yarın sabah fabrikaya gelecek. Kemal ona şirket servisini, saatleri, taksi seçeneğini ve sanayi bölgesinde kapıyı nasıl bulacağını anlatıyor.
+role: a visiting engineer from Japan who wants exact times and is worried about being late for the first meeting
+ideas: Seçenekleri söyle: şirket servisi ya da taksi ; Servisi anlat: otelin önünden 7:15'te kalkıyor, beyaz minibüs, şirket logosu var ; Süreyi açıkla: trafiğe göre 40 ile 60 dakika ; Taksi seçeneğini belirt: yaklaşık 25 euro, adresi Türkçe yazılı göster ; Girişi tarif et: güvenlik kapısında adını söyle, seni kapıda karşılayacaksın
+chunks: The easiest way is to… = En kolay yol …'mek ; It leaves at… sharp = Tam …'de kalkıyor ; depending on the traffic = trafiğe bağlı olarak ; Just show the driver… = Şoföre sadece …'i göster ; I'll meet you at… = Seni …'de karşılarım
+T: How do I get to the factory tomorrow? Is it far? | Yarın fabrikaya nasıl giderim? Uzak mı?
+Y: It's in the industrial zone, outside the city. The easiest way is to take our company bus. | Şehrin dışında, sanayi bölgesinde. En kolay yol şirket servisine binmek.
+T: What time does it leave? | Saat kaçta kalkıyor?
+Y: It leaves at seven fifteen sharp, in front of your hotel. It's a white minibus with our logo. | Otelinizin önünden tam yediyi çeyrek geçe kalkıyor. Üzerinde logomuz olan beyaz bir minibüs.
+T: And how long is the journey? | Yolculuk ne kadar sürüyor?
+Y: Forty to sixty minutes, depending on the traffic. The meeting starts at nine, so you'll have time. | Trafiğe bağlı olarak kırk ile altmış dakika. Toplantı dokuzda başlıyor, yani vaktiniz olacak.
+T: What if I miss the bus? | Ya servisi kaçırırsam?
+Y: Then take a taxi. It costs about twenty-five euros. Just show the driver the address in Turkish. I'll meet you at the security gate. | O zaman taksiye binin. Yaklaşık yirmi beş euro tutuyor. Şoföre sadece Türkçe adresi gösterin. Sizi güvenlik kapısında karşılarım.
+### 3
+title: Trafik sorunu için mesai önerisi
+brief: Yeni köprü inşaatı yüzünden çalışanlar sürekli geç kalıyor. Kemal fabrika müdürüne vardiya başlangıcını kaydırma ve araç paylaşımı önerisi sunuyor; müdür üretim düzenini bozmaktan çekiniyor.
+role: a plant manager who cares about output and discipline and doubts that changing start times will help
+ideas: Sorunu rakamla söyle: son üç ayda sabah gecikmeleri iki katına çıktı, ortalama 25 dakika ; Nedeni açıkla: köprü inşaatı en az bir yıl sürecek, servisler de trafikte kalıyor ; Öneriyi anlat: ofis ve mühendislik için başlangıç 7:30 ya da 9:30, üretim vardiyası aynı kalıyor ; Ek öneri sun: araç paylaşım uygulaması, paylaşanlara park önceliği ; İtirazı karşıla: otoklav ve hat programı etkilenmiyor, çekirdek saatler 9:30-16:00 ; Ne istediğini belirt: iki aylık pilot ve gecikme verisiyle değerlendirme
+chunks: The figures show that… = Rakamlar …'i gösteriyor ; It's not a question of discipline = Bu bir disiplin meselesi değil ; to stagger the start times = başlangıç saatlerini kademelendirmek ; It wouldn't affect… at all = …'i hiç etkilemez ; What I'm asking for is… = Benim istediğim…
+T: Kemal, people are always late these days. Maybe we need stricter rules. | Kemal, insanlar bu aralar hep geç kalıyor. Belki daha sıkı kurallar gerekiyor.
+Y: The figures show that morning delays have doubled in three months, to about twenty-five minutes on average. It's not a question of discipline, it's the bridge construction. | Rakamlar sabah gecikmelerinin üç ayda iki katına çıktığını, ortalama yirmi beş dakikaya vardığını gösteriyor. Bu bir disiplin meselesi değil, köprü inşaatından kaynaklanıyor.
+T: The construction won't last forever. | İnşaat sonsuza kadar sürmez.
+Y: True, but the city says at least another year. Even our company buses are stuck in it, so people who leave home early still arrive late. | Doğru, ama belediye en az bir yıl daha diyor. Şirket servislerimiz bile trafikte kalıyor, yani evden erken çıkan insanlar bile geç geliyor.
+T: So what's your proposal? | Peki önerin ne?
+Y: For office and engineering staff, we stagger the start times: people choose seven thirty or nine thirty. Production shifts stay exactly as they are. | Ofis ve mühendislik çalışanları için başlangıç saatlerini kademelendirelim: insanlar yedi buçuk ya da dokuz buçuğu seçsin. Üretim vardiyaları olduğu gibi kalır.
+T: And what about meetings and the autoclave schedule? | Peki toplantılar ve otoklav programı ne olacak?
+Y: It wouldn't affect the autoclave runs at all, and core hours would be nine thirty to four for meetings. What I'm asking for is a two-month pilot, plus priority parking for car sharers, and then we judge it on the data. | Otoklav çevrimlerini hiç etkilemez, toplantılar için de çekirdek saatler dokuz buçuktan dörde kadar olur. Benim istediğim iki aylık bir pilot, artı araç paylaşanlara park önceliği, sonra da verilere bakarak karar verelim.
+
+## history
+### 2
+title: Kubbe nasıl ayakta duruyor?
+brief: Müzenin içinde misafir mühendis, 1.500 yıllık kubbenin nasıl inşa edildiğini ve depremlerde nasıl ayakta kaldığını soruyor. Kemal ona eski mühendisliği basitçe anlatıyor.
+role: a curious visiting structural engineer who wants to understand the load path of the old dome
+ideas: Kubbeyi tanıt: 31 metre çapında, altıncı yüzyılda beş yılda inşa edildi ; Malzemeyi anlat: hafif tuğla ve kalın harç, ağırlığı azaltmak için ; Yükü açıkla: dört büyük kemer ve dış payandalar yükü taşıyor ; Depremleri belirt: kubbe birkaç kez çöktü ve yeniden yapıldı ; Mühendislik bağlantısı kur: bugün de amaç aynı, hafif ve dayanıklı yapı
+chunks: It was built in just… = Sadece … içinde inşa edildi ; The trick was to… = İşin püf noktası …'mekti ; to carry the load = yükü taşımak ; It collapsed… times = … kez çöktü ; In a way, it's the same idea as… = Bir bakıma … ile aynı fikir
+T: How on earth did they build this dome without cranes? | Bu kubbeyi vinç olmadan nasıl yaptılar ki?
+Y: It's amazing. It's thirty-one metres wide, and it was built in just five years. | İnanılmaz. Otuz bir metre genişliğinde ve sadece beş yılda inşa edildi.
+T: What is it made of? Stone? | Neyden yapılmış? Taştan mı?
+Y: No, the trick was to use light bricks and thick mortar, so the dome wasn't too heavy. | Hayır, işin püf noktası hafif tuğla ve kalın harç kullanmaktı, böylece kubbe çok ağır olmadı.
+T: But where does all that weight go? | Ama bütün o ağırlık nereye gidiyor?
+Y: Four huge arches carry the load down to the pillars. Outside, there are big buttresses that push back. | Dört dev kemer yükü sütunlara taşıyor. Dışarıda da karşı itme yapan büyük payandalar var.
+T: And earthquakes? This region has many. | Peki depremler? Bu bölgede çok oluyor.
+Y: Right. It collapsed three times and was rebuilt. In a way, it's the same idea as our composite parts: light but strong. | Doğru. Üç kez çöktü ve yeniden yapıldı. Bir bakıma bizim kompozit parçalarımızla aynı fikir: hafif ama güçlü.
+### 3
+title: Tarihi yapılarda karbon fiber güçlendirme
+brief: Bir restorasyon mimarı, tarihi bir camiyi depreme karşı karbon fiber kumaşla güçlendirme projesine danışmak için Kemal'e geliyor. Mimar orijinalliği korumak istiyor; Kemal teknik faydaları ve riskleri dengeli biçimde anlatıyor.
+role: a restoration architect who is protective of historic authenticity and suspicious of modern materials
+ideas: Teklifi özetle: kemerlere ve kubbe tabanına karbon fiber kumaş sarma, mevcut yapıya eklenti ; Faydasını anlat: çok hafif, ince, ağırlık neredeyse artmıyor, çekme dayanımı çok yüksek ; Riskleri dürüstçe belirt: epoksi taş ve tuğlaya yapışınca geri alınması zor, nem hapsedebilir ; Çözüm öner: geri alınabilir sistemler, mineral bazlı harçlı kumaş, önce numune testi ; Dengeyi kur: orijinallik ve can güvenliği arasında karar mühendislik ve koruma kurulu birlikte vermeli ; Sonraki adımı söyle: deneme alanı ve laboratuvar testi öner
+chunks: I'll be honest with you = Size karşı dürüst olacağım ; The main advantage is that… = Asıl avantajı … ; The catch is… = Sorun şu ki… ; It's a trade-off between… and… = … ile … arasında bir denge meselesi ; I'd strongly recommend… = …'i şiddetle tavsiye ederim
+T: My fear is simple: modern materials have damaged a lot of historic buildings. | Korkum basit: modern malzemeler pek çok tarihi binaya zarar verdi.
+Y: That's a valid fear, and I'll be honest with you, carbon fibre isn't a magic answer. But used carefully, it can save a structure in a major earthquake. | Bu haklı bir korku ve size karşı dürüst olacağım, karbon fiber sihirli bir çözüm değil. Ama dikkatli kullanılırsa büyük bir depremde bir yapıyı kurtarabilir.
+T: Why carbon fibre and not steel, like in older repairs? | Eski onarımlardaki gibi neden çelik değil de karbon fiber?
+Y: The main advantage is that the fabric is barely a millimetre thick and adds almost no weight, while its tensile strength is several times higher than steel's. | Asıl avantajı, kumaşın ancak bir milimetre kalınlığında olması ve neredeyse hiç ağırlık eklememesi, çekme dayanımı ise çeliğinkinden birkaç kat yüksek.
+T: So what's the problem? | Peki sorun ne?
+Y: The catch is the epoxy. Once it bonds to old brick, it's very difficult to remove, and it can trap moisture inside the wall, which slowly damages the masonry. | Sorun epokside. Eski tuğlaya bir kez yapıştı mı çıkarılması çok zor ve duvarın içinde nem hapsedebiliyor, bu da örgüye yavaş yavaş zarar veriyor.
+T: Then I'm not sure I can accept it. | O zaman bunu kabul edebileceğimden emin değilim.
+Y: It's a trade-off between authenticity and safety, and that's not my call alone. I'd strongly recommend a reversible system with mineral mortar instead of epoxy, tested first on a small sample area before the committee decides. | Bu, orijinallik ile güvenlik arasında bir denge meselesi ve karar tek başıma benim değil. Epoksi yerine mineral harçlı, geri alınabilir bir sistemi ve kurul karar vermeden önce küçük bir deneme alanında test edilmesini şiddetle tavsiye ederim.
+
+## weather
+### 2
+title: Kar fırtınası ve ertelenen test
+brief: Yoğun kar yüzünden yollar kapandı ve fabrika kapalı. Kemal, Norveçli meslektaşını arayıp durumu anlatıyor, testi erteliyor ve evden neler yapabileceğini söylüyor.
+role: a colleague from Norway who finds it funny that a little snow stops everything but needs the test results soon
+ideas: Durumu söyle: gece 40 santim kar yağdı, otoyol kapalı, fabrika bugün kapalı ; Etkisini anlat: bugünkü yorulma testi yapılamıyor ; Yeni tarihi ver: yollar yarın açılırsa test perşembe, sonuçlar cuma ; Evden yapabileceklerini belirt: rapor taslağı ve analiz ; Sonraki adımı söyle: öğleden sonra durumu e-postayla bildireceksin
+chunks: You won't believe it, but… = İnanmayacaksın ama… ; Everything has stopped = Her şey durdu ; I'm afraid we'll have to… = Korkarım …'mek zorunda kalacağız ; As long as… = …'diği sürece ; I'll keep you posted = Seni haberdar edeceğim
+T: Morning, Kemal! Are you at the lab? | Günaydın Kemal! Laboratuvarda mısın?
+Y: You won't believe it, but we had forty centimetres of snow last night. Everything has stopped. | İnanmayacaksın ama dün gece kırk santim kar yağdı. Her şey durdu.
+T: Forty centimetres? In Norway that's a normal Tuesday! | Kırk santim mi? Norveç'te bu sıradan bir salı!
+Y: I know! But here we don't have enough snowploughs. The motorway is closed, so the factory is closed too. | Biliyorum! Ama burada yeterince kar küreme aracı yok. Otoyol kapalı, bu yüzden fabrika da kapalı.
+T: So what about today's fatigue test? | Peki bugünkü yorulma testi ne olacak?
+Y: I'm afraid we'll have to move it to Thursday. As long as the roads open tomorrow, you'll have the results on Friday. | Korkarım onu perşembeye almak zorunda kalacağız. Yollar yarın açıldığı sürece sonuçlar cuma elinde olur.
+T: OK, that still works for us. | Tamam, bu bizim için hâlâ uygun.
+Y: Good. Today I'll work on the draft report from home. I'll keep you posted this afternoon. | Güzel. Bugün evden rapor taslağı üzerinde çalışacağım. Öğleden sonra seni haberdar edeceğim.
+### 3
+title: Deprem hazırlığı üzerine sohbet
+brief: Norveçli meslektaşı depremleri merak ediyor ve fabrikanın büyük bir depreme ne kadar hazır olduğunu soruyor. Kemal hazırlıkları anlatıyor, hem güçlü hem zayıf yönleri dürüstçe değerlendiriyor.
+role: a colleague from Norway who has never felt an earthquake and asks direct, slightly anxious questions
+ideas: Riski açıkla: bölge aktif fay hattına yakın, büyük deprem beklentisi var ; Binayı anlat: fabrika 2015 sonrası yönetmeliğe göre yapıldı, güçlendirme var ; Ekipmanı anlat: otoklav ve kalıp rafları zemine sabitlendi, kimyasallar ayrı depoda ; İnsanları anlat: yılda iki tatbikat, toplanma alanı, ilk yardım ekipleri ; Zayıf yönü dürüstçe söyle: çalışanların evleri ve ulaşım asıl risk ; Görüşünü söyle: hazırlık bir kerelik iş değil, sürekli bir alışkanlık
+chunks: It's not a matter of if, but when = Mesele olup olmayacağı değil, ne zaman olacağı ; to be built to the latest code = en güncel yönetmeliğe göre inşa edilmek ; We've done a lot, but… = Çok şey yaptık ama… ; The weak point, honestly, is… = Açıkçası zayıf nokta… ; It has to become a habit = Bunun bir alışkanlık hâline gelmesi gerekiyor
+T: Kemal, can I ask something a bit scary? How likely is a big earthquake here? | Kemal, biraz korkutucu bir şey sorabilir miyim? Burada büyük bir deprem ne kadar olası?
+Y: Experts say it's not a matter of if, but when. We're close to an active fault line, so a strong earthquake in the next few decades is quite likely. | Uzmanlar meselenin olup olmayacağı değil, ne zaman olacağı olduğunu söylüyor. Aktif bir fay hattına yakınız, yani önümüzdeki birkaç on yılda güçlü bir deprem oldukça olası.
+T: That's frightening. Is this building safe? | Bu korkutucu. Bu bina güvenli mi?
+Y: It was built in 2016 to the latest code and checked again by an independent engineer. It's designed to stay standing, even if there's some damage. | 2016'da en güncel yönetmeliğe göre inşa edildi ve bağımsız bir mühendis tarafından tekrar kontrol edildi. Biraz hasar olsa bile ayakta kalacak şekilde tasarlandı.
+T: What about the heavy equipment, like the autoclave? | Peki otoklav gibi ağır ekipman?
+Y: The autoclave and the mould racks are anchored to the floor, and resins and solvents are kept in a separate store. We also run two evacuation drills a year. | Otoklav ve kalıp rafları zemine sabitlendi, reçine ve solventler de ayrı bir depoda tutuluyor. Ayrıca yılda iki tahliye tatbikatı yapıyoruz.
+T: So you feel well prepared? | Yani iyi hazırlandığınızı düşünüyorsun?
+Y: We've done a lot, but the weak point, honestly, is outside the fence: older homes, blocked roads, families. Preparation isn't a one-off project, it has to become a habit for everyone. | Çok şey yaptık ama açıkçası zayıf nokta çitin dışında: eski evler, kapanan yollar, aileler. Hazırlık tek seferlik bir proje değil, herkes için bir alışkanlık hâline gelmesi gerekiyor.
+
+## music
+### 2
+title: Tedarikçiye karşı futbol maçı
+brief: Kemal, şirketin tedarikçi firmayla yapacağı dostluk futbol maçı için takım kuruyor. Brezilyalı meslektaşını takıma davet ediyor, tarih, saha ve formalar konusunu konuşuyorlar.
+role: a colleague from Brazil who loves football but has a sore knee and a band rehearsal on Saturdays
+ideas: Haberi ver: tedarikçi firmayla dostluk maçı, ayın 14'ü cumartesi ; Davet et: takımda bir oyuncu eksik, onu istiyorsun ; Ayrıntıları anlat: halı saha, yedi kişilik, saat 10:00, bir saat ; Endişesini dinle ve çözüm bul: dizi ağrıyorsa kaleci ya da yedek olabilir, prova öğleden sonra ; Lojistiği belirt: formaları şirket alıyor, maçtan sonra mangal
+chunks: We're one player short = Bir oyuncu eksiğimiz var ; Are you up for it? = Var mısın? ; It's just a friendly = Sadece dostluk maçı ; You could always… = İstersen her zaman … ; It's all sorted = Her şey ayarlandı
+T: Hey Kemal, I heard there's a football match against the supplier? | Selam Kemal, tedarikçiye karşı bir futbol maçı olduğunu duydum?
+Y: Yes, on Saturday the fourteenth. We're one player short. Are you up for it? | Evet, ayın on dördü cumartesi. Bir oyuncu eksiğimiz var. Var mısın?
+T: I'd love to, but my knee has been sore since last month. | Çok isterim ama geçen aydan beri dizim ağrıyor.
+Y: Don't worry, it's just a friendly. It's seven-a-side on a small pitch, only one hour. | Merak etme, sadece dostluk maçı. Küçük bir sahada yedi kişilik, sadece bir saat.
+T: What time? I have band practice on Saturdays. | Saat kaçta? Cumartesileri grup provam var.
+Y: It starts at ten, so you'll be free by twelve. And you could always play in goal to protect your knee. | Onda başlıyor, yani on ikide boş olursun. Dizini korumak için istersen her zaman kalede oynayabilirsin.
+T: Ha, a Brazilian in goal! What about shirts? | Ha, kalede bir Brezilyalı! Formalar ne olacak?
+Y: It's all sorted. The company is paying for the shirts, and there's a barbecue after the match. | Her şey ayarlandı. Formaları şirket ödüyor, maçtan sonra da mangal var.
+### 3
+title: Yılsonu partisinde canlı müzik
+brief: Kemal, yılsonu partisinin düzenleme komitesi başkanını, DJ yerine Brezilyalı meslektaşının grubunu tutmaya ikna etmeye çalışıyor. Başkan bütçe, ses sistemi ve kalite riski konusunda temkinli.
+role: the chair of the year-end party committee who already has a DJ quote and does not want any surprises on the night
+ideas: Teklifi sun: Rafael'in grubu, dört kişi, Latin ve pop, iki set ; Avantajını açıkla: çalışanlardan biri, insanları bir araya getirir, daha kişisel bir gece ; Maliyeti karşılaştır: DJ 1.200 euro, grup 900 euro ama ses sistemi kiralama 300 euro ; Riski kabul et ve azalt: kayıtlarını dinledin, salonda ses provası, yedek olarak çalma listesi ; Uzlaşma öner: ilk saat grup, sonra DJ ya da çalma listesi ; Ne istediğini belirt: cuma gününe kadar karar
+chunks: Hear me out = Bir dinle ; It would make the night feel… = Geceyi … hissettirir ; It works out roughly the same = Aşağı yukarı aynı tutuyor ; to have a backup plan = yedek bir planı olmak ; How about we meet halfway? = Ortada buluşsak nasıl olur?
+T: Kemal, I already have a quote from a DJ. Why change now? | Kemal, zaten bir DJ'den teklif aldım. Neden şimdi değiştirelim?
+Y: Hear me out. Rafael's band would play two sets of Latin and pop. They're one of us, so it would make the night feel much more personal than a stranger with a laptop. | Bir dinle. Rafael'in grubu Latin ve pop müzikten iki set çalar. Bizden biri, bu da geceyi dizüstü bilgisayarlı bir yabancıdan çok daha kişisel hissettirir.
+T: Personal is nice, but budget comes first. | Kişisel olması güzel ama önce bütçe.
+Y: Of course. The DJ asks twelve hundred euros. The band wants nine hundred, plus three hundred to rent a sound system, so it works out roughly the same. | Elbette. DJ bin iki yüz euro istiyor. Grup dokuz yüz istiyor, artı ses sistemi kiralamak için üç yüz, yani aşağı yukarı aynı tutuyor.
+T: My real worry is quality. What if they're not very good? | Asıl endişem kalite. Ya çok iyi değillerse?
+Y: That's fair. I've listened to their recordings and they're genuinely good, but we'd also do a sound check in the venue the day before and have a backup plan, a ready playlist. | Haklısın. Kayıtlarını dinledim ve gerçekten iyiler, ama bir gün önce salonda ses provası da yaparız ve yedek bir planımız olur, hazır bir çalma listesi.
+T: Hmm. I'm still not fully convinced. | Hmm. Hâlâ tam ikna olmadım.
+Y: How about we meet halfway? The band plays the first ninety minutes, when everyone's still at dinner, and then the playlist takes over. If we can decide by Friday, I'll confirm with Rafael. | Ortada buluşsak nasıl olur? Herkes hâlâ yemekteyken ilk doksan dakikayı grup çalsın, sonra çalma listesine geçelim. Cumaya kadar karar verebilirsek Rafael'le kesinleştiririm.
+
+## garden
+### 2
+title: Köpek için yardım istemek
+brief: Kemal bir haftalığına Toulouse'a iş seyahatine gidiyor. İrlandalı meslektaşından köpeğine bakmasını rica ediyor ve beslenme, yürüyüş ve veteriner konusunu açıklıyor.
+role: a colleague who grew up on a farm, loves dogs and is happy to help but wants clear instructions
+ideas: Ricada bulun: gelecek hafta Toulouse'da altı gün iş seyahati var, köpeğe bakabilir mi ; Köpeği tanıt: Paşa, dört yaşında, sakin ama çok yer ; Beslenmeyi açıkla: sabah ve akşam birer kase mama, abur cubur yok ; Yürüyüşü anlat: günde iki kez, parkta tasmalı, diğer köpekleri sevmez ; Acil durumu belirt: veterinerin numarası buzdolabında, masrafları sen ödersin
+chunks: I hate to ask, but… = Sormak istemezdim ama… ; Would you mind…? = …'ir misin, sakıncası var mı? ; He's no trouble at all = Hiç sorun çıkarmaz ; twice a day = günde iki kez ; I owe you one = Sana borçluyum
+T: You look worried, Kemal. Is everything OK? | Endişeli görünüyorsun Kemal. Her şey yolunda mı?
+Y: I hate to ask, but I'm in Toulouse for six days next week. Would you mind looking after my dog? | Sormak istemezdim ama önümüzdeki hafta altı gün Toulouse'dayım. Köpeğime bakabilir misin?
+T: Of course! I love dogs. What's he like? | Tabii ki! Köpekleri çok severim. Nasıl biri?
+Y: His name is Paşa. He's four and very calm, so he's no trouble at all. But he eats a lot! | Adı Paşa. Dört yaşında ve çok sakin, hiç sorun çıkarmaz. Ama çok yer!
+T: How much food does he need? | Ne kadar mamaya ihtiyacı var?
+Y: One bowl in the morning and one in the evening. Please don't give him biscuits, because he gets fat easily. | Sabah bir kase, akşam bir kase. Lütfen ona bisküvi verme, çünkü kolay kilo alıyor.
+T: And walks? | Peki yürüyüşler?
+Y: Twice a day, on the lead, because he doesn't like other dogs. The vet's number is on the fridge, and I'll pay for everything. I owe you one! | Günde iki kez, tasmalı, çünkü diğer köpekleri sevmiyor. Veterinerin numarası buzdolabında, her şeyi ben ödeyeceğim. Sana borçluyum!
+### 3
+title: Şehirden köye taşınma tartışması
+brief: Kemal, ailesinin köyüne yakın bir yere taşınmayı ve haftada iki gün fabrikaya gelmeyi düşünüyor. Çiftlikte büyümüş meslektaşı bunun romantik ama zor olduğunu söylüyor; Kemal artıları ve eksileri tartıyor.
+role: a colleague who grew up on a farm in Ireland and warns that country life is much harder than it looks from the city
+ideas: Fikri anlat: köydeki eski evi yenilemek, bahçe ve hayvanlarla yaşamak ; Gerekçeni açıkla: sakinlik, temiz hava, çocukların doğayla büyümesi, ev fiyatları ; Zorlukları kabul et: kış, ulaşım, internet, okul ve doktor uzak ; Pratik planı anlat: haftada iki gün fabrikada, yol 90 dakika ; Henüz kararsız olduğunu belirt: önce bir yaz deneyeceksin ; Görüş sor: onun deneyimine göre en çok neyi özlerdi
+chunks: I've been toying with the idea of… = Bir süredir … fikriyle oynuyorum ; It's not as romantic as it sounds = Göründüğü kadar romantik değil ; The thing that worries me most is… = Beni en çok endişelendiren şey… ; to give it a try = denemek ; Looking back, what would you…? = Geriye dönüp bakınca, ne …?
+T: Is it true you're thinking of moving to the countryside? | Kırsala taşınmayı düşündüğün doğru mu?
+Y: Yes, I've been toying with the idea of restoring my parents' old house in the village and living with a proper garden, a few chickens and clean air. | Evet, bir süredir ailemin köydeki eski evini yenileyip düzgün bir bahçe, birkaç tavuk ve temiz havayla yaşama fikriyle oynuyorum.
+T: Kemal, I grew up on a farm. It's not as romantic as it sounds. | Kemal, ben bir çiftlikte büyüdüm. Göründüğü kadar romantik değil.
+Y: I know. The winters are hard, the nearest doctor is twenty kilometres away, and the internet is slow, although that's improving. | Biliyorum. Kışlar zor, en yakın doktor yirmi kilometre uzakta ve internet yavaş, gerçi o düzeliyor.
+T: And your job? You can't do composites from a village. | Peki işin? Köyden kompozit işi yapamazsın.
+Y: Most of my analysis work is done on a computer, so I'd come in two days a week for tests and meetings. The drive is about ninety minutes each way. | Analiz işlerimin çoğu bilgisayarda yapılıyor, yani testler ve toplantılar için haftada iki gün gelirim. Yol tek yön yaklaşık doksan dakika.
+T: That's three hours on the road. Every time. | Bu her seferinde üç saat yol demek.
+Y: The thing that worries me most is exactly that, plus the kids' school. So we'll give it a try for one summer first. Looking back, what would you miss most if you moved to the city? | Beni en çok endişelendiren şey tam olarak bu, bir de çocukların okulu. O yüzden önce bir yaz deneyeceğiz. Geriye dönüp bakınca, şehre taşınsan en çok neyi özlerdin?
+
+## clothes
+### 2
+title: Düğün için takım elbise almak
+brief: Kemal, kuzeninin düğünü için bir mağazada takım elbise alıyor. Satış görevlisiyle beden, renk, paça kısaltma, fiyat ve cumartesiden önce teslim konusunu konuşuyor.
+role: a friendly shop assistant in a men's clothing store who wants to make a sale but also find the right fit
+ideas: Ne aradığını söyle: düğün için koyu lacivert takım, cumartesi ; Bedeni anlat: ceket 52, pantolon biraz uzun ; Deneme sonucu söyle: ceket omuzlarda iyi ama kollar uzun ; Değişikliği sor: kol ve paça kısaltma ne kadar sürer, ücreti var mı ; Fiyatı ve teslimi konuş: 450 euro, perşembe teslim, gömlek için indirim
+chunks: I'm looking for… = … arıyorum ; Can I try it on? = Deneyebilir miyim? ; It fits well, but… = İyi oturuyor ama… ; Could you take it up a bit? = Biraz kısaltabilir misiniz? ; I need it by… = …'e kadar ihtiyacım var
+T: Good afternoon. Can I help you? | İyi günler. Yardımcı olabilir miyim?
+Y: Yes, please. I'm looking for a dark blue suit for a wedding on Saturday. | Evet, lütfen. Cumartesi günkü bir düğün için lacivert bir takım elbise arıyorum.
+T: What size are you? | Bedeniniz nedir?
+Y: Usually fifty-two for the jacket. I like this one. Can I try it on? | Ceket için genelde elli iki. Bunu beğendim. Deneyebilir miyim?
+T: Of course. The fitting room is over there. How is it? | Tabii. Deneme kabini şurada. Nasıl oldu?
+Y: It fits well, but the sleeves and the trousers are too long. Could you take it up a bit? | İyi oturuyor ama kollar ve pantolon çok uzun. Biraz kısaltabilir misiniz?
+T: No problem. It's free, and it takes two days. | Sorun değil. Ücretsiz ve iki gün sürüyor.
+Y: Great. I need it by Thursday, because I travel on Friday. And do you have a white shirt to go with it? | Harika. Perşembeye kadar ihtiyacım var, çünkü cuma günü yola çıkıyorum. Bir de yanına uyacak beyaz bir gömleğiniz var mı?
+### 3
+title: Üretim alanında kıyafet kuralları tartışması
+brief: Yeni mühendislik müdürü, müşteri ziyaretlerinde temiz oda (laminasyon odası) kıyafet kurallarını gevşetmek istiyor. Kemal kuralların neden gerekli olduğunu teknik olarak savunuyor ve ziyaretçiler için pratik bir çözüm öneriyor.
+role: a new engineering manager from Milan who cares about how visitors see the company and finds the cleanroom rules excessive
+ideas: Kuralları özetle: önlük, bone, galoş, takı yok, pamuklu kıyafet yok ; Nedeni açıkla: lif, saç ya da toz prepreg katları arasında yabancı madde olur ; Sonucu rakamla belirt: geçen yıl bir yabancı madde bulgusu bir paneli hurdaya çıkardı, 18.000 euro ; Ziyaretçi endişesini kabul et: müşterinin rahat etmesi önemli ; Çözüm öner: hazır ziyaretçi kitleri, galeriden cam arkasından izleme ; Görüşünü net söyle: müşteri kuralları görünce güven duyar, bu bir kalite mesajı
+chunks: I can see why it looks… = Neden … göründüğünü anlıyorum ; The whole point of… is to… = …'in bütün amacı …'mek ; It only takes one… = Sadece bir … yeterli ; It sends the wrong message = Yanlış bir mesaj verir ; What if we…? = Peki …'sek?
+T: Kemal, our visitors have to put on hairnets, overshoes and lab coats just to walk through. It's a bit much, no? | Kemal, ziyaretçilerimiz sadece içinden geçmek için bone, galoş ve önlük giymek zorunda. Biraz fazla değil mi?
+Y: I can see why it looks excessive from the outside, but the whole point of the layup room dress code is to keep fibres, hair and dust off the prepreg. | Dışarıdan neden aşırı göründüğünü anlıyorum, ama laminasyon odası kıyafet kurallarının bütün amacı prepregi liften, saçtan ve tozdan uzak tutmak.
+T: Surely one visitor for ten minutes won't make a difference. | Herhalde bir ziyaretçi on dakikada bir fark yaratmaz.
+Y: Unfortunately, it only takes one hair between two plies. Last year a foreign object found by ultrasonic inspection scrapped a wing panel, and that cost us eighteen thousand euros. | Maalesef iki kat arasında sadece bir saç teli yeterli. Geçen yıl ultrasonik muayenede bulunan bir yabancı madde bir kanat panelini hurdaya çıkardı ve bu bize on sekiz bin euroya mal oldu.
+T: Fine, but I don't want customers to feel uncomfortable. | Tamam, ama müşterilerin rahatsız hissetmesini istemiyorum.
+Y: I agree that matters. But if we relax the rules for visitors, it sends the wrong message, both to our operators and to the customer's quality people. | Bunun önemli olduğuna katılıyorum. Ama ziyaretçiler için kuralları gevşetirsek, hem operatörlerimize hem de müşterinin kalite ekibine yanlış bir mesaj verir.
+T: So what do you suggest? | Peki ne öneriyorsun?
+Y: What if we prepare ready visitor kits by the door, and for short tours we use the viewing gallery behind the glass? In my experience, customers who see strict rules actually trust us more. | Peki kapının yanına hazır ziyaretçi kitleri koysak ve kısa turlar için camın arkasındaki izleme galerisini kullansak? Benim tecrübeme göre sıkı kuralları gören müşteriler bize aslında daha çok güveniyor.

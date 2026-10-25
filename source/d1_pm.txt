@@ -1,0 +1,203 @@
+## pm_slip | Programme review | Takvim kayması: kalıp gecikmesi | pm
+brief: Program yöneticisi haftalık takvim toplantısında. Kalıp tedarikçisi teslimatı geciktirdi ve ilk parça tarihi kayıyor. Gecikmeyi, etkisini ve kurtarma planını anlat.
+role: a programme manager who owns the master schedule and must report any delay to the customer this week
+### 1
+chunks: We are late = Geç kaldık ; The new date is… = Yeni tarih… ; because of… = …yüzünden ; We can catch up = Açığı kapatabiliriz ; I am not sure yet = Henüz emin değilim
+T: Good morning. Are we still on time for the first part? | Günaydın. İlk parça için hâlâ zamanında mıyız?
+Y: No, I'm sorry. We are two weeks late. | Hayır, üzgünüm. İki hafta geç kaldık.
+T: Two weeks? What happened? | İki hafta mı? Ne oldu?
+Y: The supplier sent the tool late. | Tedarikçi kalıbı geç gönderdi.
+T: When will the tool arrive? | Kalıp ne zaman gelecek?
+Y: It should arrive next Monday. | Önümüzdeki pazartesi gelmesi gerekiyor.
+T: Can we save some of that time? | Bu sürenin bir kısmını kurtarabilir miyiz?
+Y: Yes. We can work on Saturdays for one month. | Evet. Bir ay boyunca cumartesileri çalışabiliriz.
+### 2
+chunks: We're running about … behind = Yaklaşık … gerideyiz ; The knock-on effect is… = Bunun zincirleme etkisi… ; to recover the time = kaybedilen zamanı telafi etmek ; in parallel = paralel olarak ; I'll keep you updated = Sizi bilgilendirmeye devam edeceğim
+T: Let's start with the bracket. Where are we against the plan? | Braketle başlayalım. Plana göre neredeyiz?
+Y: We're running about two weeks behind, because the tool supplier missed their delivery date. | Kalıp tedarikçisi teslim tarihini kaçırdığı için yaklaşık iki hafta gerideyiz.
+T: Does that move the first article inspection as well? | Bu, ilk parça muayenesini de kaydırıyor mu?
+Y: Yes, the knock-on effect is that first article inspection moves to the end of March. | Evet, zincirleme etkisi ilk parça muayenesinin mart sonuna kaymasıdır.
+T: That's a problem. The customer expects the parts in April. | Bu bir sorun. Müşteri parçaları nisanda bekliyor.
+Y: I know. To recover the time, we can prepare the plies and the vacuum bags in parallel. | Biliyorum. Zamanı telafi etmek için katmanları ve vakum torbalarını paralel hazırlayabiliriz.
+T: Will that be enough to hold the April date? | Nisan tarihini korumak için bu yeterli olur mu?
+Y: Probably, but only if the first trial goes well. I'll keep you updated every Friday. | Muhtemelen, ama sadece ilk deneme iyi giderse. Sizi her cuma bilgilendireceğim.
+### 3
+chunks: We've hit a slip of… = …lik bir kaymaya uğradık ; It's on the critical path = Kritik yol üzerinde ; The recovery plan hinges on… = Kurtarma planı …'e bağlı ; We'd need to bring forward… = …'i öne çekmemiz gerekir ; I'd rather flag it now than… = …mektense şimdi belirtmeyi tercih ederim
+T: Before we go through the actions, can you give me the headline on the bracket schedule? | Aksiyonlara geçmeden önce braket takvimi hakkında ana mesajı verebilir misin?
+Y: The headline is that we've hit a two-week slip, and unfortunately the tool is on the critical path. | Ana mesaj şu: iki haftalık bir kaymaya uğradık ve maalesef kalıp kritik yol üzerinde.
+T: Is the supplier giving us a firm date, or is it still moving? | Tedarikçi bize kesin bir tarih veriyor mu, yoksa hâlâ değişiyor mu?
+Y: They've committed to next Monday, but frankly I'd rather flag the risk now than surprise you later. | Önümüzdeki pazartesiye söz verdiler, ama açıkçası sizi sonra şaşırtmaktansa riski şimdi belirtmeyi tercih ederim.
+T: Fair enough. What does the recovery plan look like? | Anlaşıldı. Kurtarma planı neye benziyor?
+Y: The recovery plan hinges on running two shifts and bringing forward the ultrasonic inspection slot. | Kurtarma planı iki vardiya çalışmaya ve ultrasonik muayene zamanını öne çekmeye dayanıyor.
+T: And what will the extra shift cost us? | Ekstra vardiya bize neye mal olacak?
+Y: Roughly eight thousand euros, which is far less than the penalty for a late delivery to the customer. | Kabaca sekiz bin avro; bu da müşteriye geç teslimatın cezasından çok daha az.
+
+## pm_budget | Budget meeting | Bütçe aşımı ve ek kaynak talebi | pm
+brief: Program yöneticisiyle aylık bütçe toplantısındasın. Karbon prepreg fiyatı arttı ve hurda oranı beklenenden yüksek. Aşımı açıkla, nedenlerini anlat ve ek bütçe talep et.
+role: a programme manager who controls the project budget and has to defend every extra euro to the finance director
+### 1
+chunks: We spent more than… = …den fazla harcadık ; The price went up = Fiyat arttı ; We need more money = Daha fazla paraya ihtiyacımız var ; about … per cent = yaklaşık yüzde … ; I have a plan = Bir planım var
+T: Let's look at the budget. Are we OK this month? | Bütçeye bakalım. Bu ay durumumuz iyi mi?
+Y: Not really. We spent more than we planned. | Pek değil. Planladığımızdan fazla harcadık.
+T: How much more? | Ne kadar fazla?
+Y: About twelve per cent more. | Yaklaşık yüzde on iki daha fazla.
+T: Why? What changed? | Neden? Ne değişti?
+Y: The price of carbon fibre went up. | Karbon elyafın fiyatı arttı.
+T: Is that the only reason? | Tek sebep bu mu?
+Y: No. We also threw away too many parts. | Hayır. Ayrıca çok fazla parçayı attık.
+### 2
+chunks: We're currently … over budget = Şu anda bütçeyi … aştık ; This is mainly due to… = Bu esas olarak …'den kaynaklanıyor ; the scrap rate = hurda oranı ; We'd like to request… = … talep etmek istiyoruz ; to bring the cost down = maliyeti düşürmek
+T: The finance team sent me the numbers. Can you explain the cost increase? | Finans ekibi rakamları gönderdi. Maliyet artışını açıklayabilir misin?
+Y: Sure. We're currently twelve per cent over budget, and this is mainly due to material prices. | Tabii. Şu anda bütçeyi yüzde on iki aştık ve bu esas olarak malzeme fiyatlarından kaynaklanıyor.
+T: I thought we had a fixed price agreement with the supplier. | Tedarikçiyle sabit fiyat anlaşmamız olduğunu sanıyordum.
+Y: We did, but it ended in January, and the new price is eighteen per cent higher. | Vardı, ama ocakta sona erdi ve yeni fiyat yüzde on sekiz daha yüksek.
+T: And the scrap rate? I see a big number there too. | Ya hurda oranı? Orada da büyük bir rakam görüyorum.
+Y: The scrap rate is around nine per cent, while our target was five. | Hurda oranı yüzde dokuz civarında, hedefimiz ise yüzde beşti.
+T: So what do you need from me? | Peki benden ne istiyorsun?
+Y: We'd like to request forty thousand euros, and we have a plan to bring the cost down by summer. | Kırk bin avro talep etmek istiyoruz ve yaza kadar maliyeti düşürmek için bir planımız var.
+### 3
+chunks: We're tracking … over the baseline = Temel bütçenin … üzerinde seyrediyoruz ; The bulk of the overrun comes from… = Aşımın büyük kısmı …'den geliyor ; a one-off cost = tek seferlik maliyet ; to draw on the contingency = yedek bütçeden kullanmak ; payback period = geri ödeme süresi
+T: I've got the finance review on Thursday, so I need to understand the overrun properly. | Perşembe günü finans incelemem var, bu yüzden aşımı düzgünce anlamam gerekiyor.
+Y: Of course. We're tracking about twelve per cent over the baseline, and the bulk of the overrun comes from material. | Elbette. Temel bütçenin yaklaşık yüzde on iki üzerinde seyrediyoruz ve aşımın büyük kısmı malzemeden geliyor.
+T: Is that a one-off, or will it keep hurting us for the rest of the year? | Bu tek seferlik mi, yoksa yılın geri kalanında da bizi zorlamaya devam edecek mi?
+Y: The price increase is permanent, but the scrap is a one-off cost linked to the new operators. | Fiyat artışı kalıcı, ama hurda yeni operatörlerle bağlantılı tek seferlik bir maliyet.
+T: Can we absorb it, or do we need to draw on the contingency? | Bunu karşılayabilir miyiz, yoksa yedek bütçeden mi kullanmamız gerekiyor?
+Y: I'd suggest drawing on the contingency for this quarter, while we negotiate a new annual contract. | Yeni bir yıllık sözleşme pazarlığı yaparken bu çeyrek için yedek bütçeden kullanmayı öneririm.
+T: Finance will ask about the automated cutting table you mentioned. What's the payback period? | Finans bahsettiğin otomatik kesim masasını soracak. Geri ödeme süresi ne?
+Y: It reduces material waste by roughly fifteen per cent, so the payback period is just under two years. | Malzeme israfını kabaca yüzde on beş azaltıyor, bu yüzden geri ödeme süresi iki yılın biraz altında.
+
+## pm_estimate | Cost estimate | Yeni parça için maliyet tahmini | pm
+brief: Müşteri yeni bir kompozit kapak için fiyat istedi. Program yöneticisine işçilik saatlerini, malzeme maliyetini, hurda payını ve teslim süresini anlatarak bir tahmin sun.
+role: a programme manager preparing a quotation for the customer who wants a clear number and the main assumptions behind it
+### 1
+chunks: It will cost about… = Yaklaşık … tutacak ; It takes … hours = … saat sürüyor ; For one part = Bir parça için ; I need one more day = Bir gün daha lazım ; This is only an estimate = Bu sadece bir tahmin
+T: The customer wants a price for the new cover. | Müşteri yeni kapak için fiyat istiyor.
+Y: OK. I have a first estimate. | Tamam. İlk bir tahminim var.
+T: Great. How much is one part? | Harika. Bir parça ne kadar?
+Y: About nine hundred euros for one part. | Bir parça için yaklaşık dokuz yüz avro.
+T: How many hours of work is that? | Bu kaç saatlik iş?
+Y: It takes about twelve hours. | Yaklaşık on iki saat sürüyor.
+T: Can you send me the details today? | Detayları bugün gönderebilir misin?
+Y: I need one more day, sorry. This is only an estimate. | Bir gün daha lazım, üzgünüm. Bu sadece bir tahmin.
+### 2
+chunks: My first estimate is… = İlk tahminim… ; This includes… = Bu …'i içeriyor ; It doesn't include… = …'i içermiyor ; based on a batch of… = …'lik bir parti varsayımıyla ; the lead time = teslim süresi
+T: I need a number for the cover by Friday. Where are we? | Kapak için cuma gününe kadar bir rakama ihtiyacım var. Neredeyiz?
+Y: My first estimate is around nine hundred euros per part, based on a batch of fifty. | İlk tahminim, elli parçalık bir parti varsayımıyla parça başına yaklaşık dokuz yüz avro.
+T: What does that include? | Bu neleri içeriyor?
+Y: It includes material, labour and inspection, but it doesn't include the tool. | Malzeme, işçilik ve muayeneyi içeriyor ama kalıbı içermiyor.
+T: How much will the tool cost? | Kalıp ne kadar tutacak?
+Y: The tool is a one-time cost of about thirty-five thousand euros. | Kalıp yaklaşık otuz beş bin avroluk tek seferlik bir maliyet.
+T: And what lead time should I give the customer? | Müşteriye ne kadar teslim süresi vereyim?
+Y: I'd say fourteen weeks for the first parts, because the tool alone takes ten weeks. | İlk parçalar için on dört hafta derim, çünkü sadece kalıp on hafta sürüyor.
+### 3
+chunks: The estimate is built on… = Tahmin … üzerine kurulu ; The main cost driver is… = Ana maliyet etkeni… ; I've allowed for… = … için pay bıraktım ; a rough order of magnitude = kaba bir büyüklük mertebesi ; There's quite a bit of uncertainty around… = … konusunda epey belirsizlik var
+T: The customer wants a quotation by the end of the week. How confident are you in the number? | Müşteri hafta sonuna kadar teklif istiyor. Rakamdan ne kadar eminsin?
+Y: It's a rough order of magnitude at this stage, about nine hundred euros a part, give or take ten per cent. | Bu aşamada kaba bir büyüklük mertebesi; parça başına yaklaşık dokuz yüz avro, artı eksi yüzde on.
+T: What's the estimate built on? | Tahmin neye dayanıyor?
+Y: It's built on twelve labour hours, three square metres of prepreg and an annual volume of six hundred parts. | On iki işçilik saati, üç metrekare prepreg ve yılda altı yüz parçalık bir hacme dayanıyor.
+T: Which of those is the main cost driver? | Bunlardan hangisi ana maliyet etkeni?
+Y: Labour, by far. Hand lay-up accounts for almost half of the total, and I've allowed for a seven per cent scrap rate. | Açık ara işçilik. Elle yatırma toplamın neredeyse yarısını oluşturuyor ve yüzde yedi hurda oranı için pay bıraktım.
+T: Is there anything that could push the price up later? | Fiyatı sonradan yükseltebilecek bir şey var mı?
+Y: There's quite a bit of uncertainty around the inspection requirements, so I'd add a clause to review the price after the first batch. | Muayene gereksinimleri konusunda epey belirsizlik var, bu yüzden ilk partiden sonra fiyatı gözden geçirmek için bir madde eklerdim.
+
+## pm_gate | Milestone review | Kilometre taşı: tasarım gözden geçirmeye hazır mıyız? | pm
+brief: Kritik tasarım gözden geçirmesi (CDR) iki hafta sonra. Program yöneticisi hazır olup olmadığınızı soruyor. Tamamlananları, açık maddeleri ve riskleri anlat.
+role: a programme manager who must decide whether to hold the critical design review on time or postpone it
+### 1
+chunks: We are almost ready = Neredeyse hazırız ; … is finished = … bitti ; We still need… = Hâlâ …'e ihtiyacımız var ; by next week = gelecek haftaya kadar ; I think we can do it = Bence yapabiliriz
+T: The review is in two weeks. Are we ready? | Gözden geçirme iki hafta sonra. Hazır mıyız?
+Y: We are almost ready. | Neredeyse hazırız.
+T: What is finished? | Neler bitti?
+Y: The drawings are finished. The analysis is also finished. | Çizimler bitti. Analiz de bitti.
+T: And what is still open? | Peki hâlâ açık olan ne?
+Y: We still need the test results. | Hâlâ test sonuçlarına ihtiyacımız var.
+T: When will you have them? | Onlar ne zaman elinde olacak?
+Y: By next week. I think we can do it. | Gelecek haftaya kadar. Bence yapabiliriz.
+### 2
+chunks: Most of the work is done = İşin çoğu tamamlandı ; There are still … open actions = Hâlâ … açık aksiyon var ; The main risk is… = Ana risk… ; We're waiting for… = …'i bekliyoruz ; I'm fairly confident that… = …'den oldukça eminim
+T: The customer is asking if the critical design review will happen on the twelfth. Can I confirm? | Müşteri kritik tasarım gözden geçirmesinin on ikisinde yapılıp yapılmayacağını soruyor. Onaylayabilir miyim?
+Y: I think so. Most of the work is done, but there are still four open actions. | Sanırım evet. İşin çoğu tamamlandı ama hâlâ dört açık aksiyon var.
+T: Which ones worry you? | Hangileri seni endişelendiriyor?
+Y: The main risk is the fatigue test. We're waiting for the last coupons from the lab. | Ana risk yorulma testi. Laboratuvardan son numuneleri bekliyoruz.
+T: What happens if the results are late? | Sonuçlar gecikirse ne olur?
+Y: We could still hold the review and close that action afterwards. | Yine de gözden geçirmeyi yapıp o aksiyonu sonra kapatabiliriz.
+T: Would the customer accept that? | Müşteri bunu kabul eder mi?
+Y: I'm fairly confident they would, because the static tests already show a good margin. | Büyük ihtimalle eder, çünkü statik testler zaten iyi bir marj gösteriyor.
+### 3
+chunks: We're in reasonably good shape = Oldukça iyi durumdayız ; The outstanding items are… = Bekleyen maddeler… ; It's not a showstopper = Engelleyici bir sorun değil ; We could hold the review subject to… = …şartıyla gözden geçirmeyi yapabiliriz ; to manage expectations = beklentileri yönetmek
+T: I need to tell the customer today whether the critical design review goes ahead. What's your honest view? | Kritik tasarım gözden geçirmesinin yapılıp yapılmayacağını bugün müşteriye söylemem gerekiyor. Dürüst görüşün ne?
+Y: Honestly, we're in reasonably good shape. The design is frozen and the stress report has been signed off. | Açıkçası oldukça iyi durumdayız. Tasarım donduruldu ve gerilme raporu onaylandı.
+T: So what are the outstanding items? | Peki bekleyen maddeler neler?
+Y: The outstanding items are the fatigue results, two drawing updates and the weight report, which is nearly complete. | Bekleyen maddeler yorulma sonuçları, iki çizim güncellemesi ve neredeyse tamamlanmış ağırlık raporu.
+T: Is any of that a showstopper? | Bunlardan herhangi biri engelleyici mi?
+Y: Not in my opinion. We could hold the review subject to closing the fatigue action within thirty days. | Bence değil. Yorulma aksiyonunun otuz gün içinde kapanması şartıyla gözden geçirmeyi yapabiliriz.
+T: Fine, but I don't want any surprises in the room. | Peki, ama toplantıda sürpriz istemiyorum.
+Y: Agreed. I'll send the customer a short status note beforehand, just to manage expectations. | Katılıyorum. Beklentileri yönetmek için müşteriye önceden kısa bir durum notu göndereceğim.
+
+## pm_change | Change request | Müşteri değişiklik talebi: kapsam, maliyet ve takvim etkisi | pm
+brief: Müşteri son anda parçaya yıldırım koruması (bakır ağ) eklenmesini istedi. Program yöneticisine değişikliğin teknik, maliyet ve takvim etkisini anlat ve nasıl ilerleneceğini öner.
+role: a programme manager who wants to keep the customer happy but must protect the margin and the delivery date
+### 1
+chunks: The customer wants… = Müşteri … istiyor ; This is a big change = Bu büyük bir değişiklik ; It costs more = Daha pahalıya mal oluyor ; It takes more time = Daha fazla zaman alıyor ; We must ask them to pay = Ödemelerini istemeliyiz
+T: Did you see the email from the customer? | Müşteriden gelen e-postayı gördün mü?
+Y: Yes. They want a copper mesh in the part. | Evet. Parçaya bir bakır ağ istiyorlar.
+T: Is this a big change? | Bu büyük bir değişiklik mi?
+Y: Yes, it is. We must change the design and the tool. | Evet. Tasarımı ve kalıbı değiştirmemiz gerekiyor.
+T: How much time do we need? | Ne kadar zamana ihtiyacımız var?
+Y: About six more weeks. | Yaklaşık altı hafta daha.
+T: And who pays for it? | Peki bunu kim ödeyecek?
+Y: The customer. It is their request. | Müşteri. Bu onların talebi.
+### 2
+chunks: This affects… = Bu …'i etkiliyor ; We'll need to update… = …'i güncellememiz gerekecek ; The impact on cost is… = Maliyete etkisi… ; a formal change request = resmi bir değişiklik talebi ; before we start any work = herhangi bir işe başlamadan önce
+T: The customer now wants lightning strike protection on the cover. How bad is it? | Müşteri şimdi kapakta yıldırım koruması istiyor. Durum ne kadar kötü?
+Y: It's quite a big change. This affects the lay-up, the drawings and probably the tool. | Oldukça büyük bir değişiklik. Bu katman dizilimini, çizimleri ve muhtemelen kalıbı etkiliyor.
+T: Can't we just add one layer of copper mesh? | Sadece bir kat bakır ağ ekleyemez miyiz?
+Y: We can, but we'll need to update the analysis and repeat some tests. | Ekleyebiliriz ama analizi güncellememiz ve bazı testleri tekrarlamamız gerekecek.
+T: What's the impact on cost and schedule? | Maliyet ve takvime etkisi ne?
+Y: The impact on cost is about fifteen thousand euros, and we'd lose six weeks. | Maliyete etkisi yaklaşık on beş bin avro ve altı hafta kaybederiz.
+T: OK. How should we handle it with the customer? | Tamam. Müşteriyle bunu nasıl ele almalıyız?
+Y: I'd ask them for a formal change request before we start any work. | Herhangi bir işe başlamadan önce onlardan resmi bir değişiklik talebi isterdim.
+### 3
+chunks: It sounds minor, but… = Küçük görünüyor ama… ; It has a ripple effect on… = …üzerinde dalga etkisi var ; to re-baseline the schedule = takvimi yeniden temel almak ; It's outside the agreed scope = Anlaşılan kapsamın dışında ; I'd push back on… = …'e itiraz ederdim
+T: The customer says the copper mesh is a small change and they expect us to absorb it. What do you think? | Müşteri bakır ağın küçük bir değişiklik olduğunu ve bizim karşılamamızı beklediğini söylüyor. Ne düşünüyorsun?
+Y: It sounds minor, but it has a ripple effect on almost everything: the lay-up, the cure cycle and the inspection method. | Küçük görünüyor ama neredeyse her şey üzerinde dalga etkisi var: katman dizilimi, kür çevrimi ve muayene yöntemi.
+T: Can you put some numbers on it? | Bunu rakamlara dökebilir misin?
+Y: We'd need about fifteen thousand euros for design and testing, and we'd have to re-baseline the schedule by six weeks. | Tasarım ve test için yaklaşık on beş bin avroya ihtiyacımız olur ve takvimi altı hafta yeniden planlamamız gerekir.
+T: They won't like that. Is there a cheaper option? | Bundan hoşlanmayacaklar. Daha ucuz bir seçenek var mı?
+Y: We could use an expanded foil instead, which is lighter and easier to lay up, but it still needs testing. | Bunun yerine genişletilmiş folyo kullanabiliriz; daha hafif ve yatırması daha kolay ama yine de test gerektiriyor.
+T: So what's your recommendation for the call tomorrow? | Peki yarınki görüşme için önerin ne?
+Y: It's clearly outside the agreed scope, so I'd push back on absorbing it, but offer to share the cost of the first tests. | Açıkça anlaşılan kapsamın dışında, bu yüzden bizim karşılamamıza itiraz ederdim ama ilk testlerin maliyetini paylaşmayı teklif ederdim.
+
+## pm_capacity | Resource planning | Kapasite ve kaynak planlaması | pm
+brief: Gelecek çeyrekte üretim hacmi iki katına çıkacak. Program yöneticisiyle otoklav kapasitesini, teknisyen ihtiyacını, fazla mesaiyi ve olası yatırımı konuş.
+role: a programme manager who needs a resource plan for next quarter and has a limited hiring budget
+### 1
+chunks: We need more people = Daha fazla insana ihtiyacımız var ; The autoclave is full = Otoklav dolu ; We can add a shift = Bir vardiya ekleyebiliriz ; It is too much work = Bu çok fazla iş ; from next month = gelecek aydan itibaren
+T: Next quarter we have double the orders. Can we make them? | Gelecek çeyrekte siparişlerimiz iki katı. Üretebilir miyiz?
+Y: Not with the people we have now. | Şu anki insanlarla olmaz.
+T: What do you need? | Neye ihtiyacın var?
+Y: We need four more technicians. | Dört teknisyene daha ihtiyacımız var.
+T: And the autoclave? | Peki otoklav?
+Y: The autoclave is almost full. We can add a night shift. | Otoklav neredeyse dolu. Bir gece vardiyası ekleyebiliriz.
+T: When can you start? | Ne zaman başlayabilirsin?
+Y: From next month, if we hire people quickly. | Hızlıca insan alırsak gelecek aydan itibaren.
+### 2
+chunks: We're already at … per cent capacity = Zaten yüzde … kapasitedeyiz ; We'd need to hire… = … işe almamız gerekir ; Overtime is only a short-term fix = Fazla mesai sadece kısa vadeli bir çözüm ; It takes about … to train someone = Birini eğitmek yaklaşık … sürüyor ; Another option would be to… = Başka bir seçenek … olurdu
+T: Sales just confirmed the new orders. Volume doubles from July. How do we cope? | Satış yeni siparişleri onayladı. Temmuzdan itibaren hacim iki katına çıkıyor. Nasıl başa çıkacağız?
+Y: It's going to be difficult. We're already at eighty-five per cent capacity on the autoclave. | Zor olacak. Otoklavda zaten yüzde seksen beş kapasitedeyiz.
+T: Can't we just use more overtime? | Daha fazla fazla mesai kullanamaz mıyız?
+Y: Overtime is only a short-term fix. People get tired, and the scrap rate goes up. | Fazla mesai sadece kısa vadeli bir çözüm. İnsanlar yoruluyor ve hurda oranı artıyor.
+T: So how many people would you need? | Peki kaç kişiye ihtiyacın olur?
+Y: We'd need to hire four technicians, and it takes about two months to train someone properly. | Dört teknisyen almamız gerekir ve birini düzgünce eğitmek yaklaşık iki ay sürüyor.
+T: That's expensive. Any alternatives? | Bu pahalı. Başka seçenek var mı?
+Y: Another option would be to send the simple parts to a subcontractor and keep the complex ones in house. | Başka bir seçenek, basit parçaları bir taşerona gönderip karmaşık olanları şirket içinde tutmak olurdu.
+### 3
+chunks: We're already stretched = Zaten zorlanıyoruz ; The bottleneck will shift to… = Darboğaz …'e kayacak ; It's a make-or-buy decision = Bu bir üret ya da satın al kararı ; In the medium term… = Orta vadede… ; I'd phase it in = Kademeli olarak devreye alırdım
+T: With volume doubling in July, I need a resource plan I can take to the board. Where do you see the pinch points? | Temmuzda hacim iki katına çıkarken yönetim kuruluna götürebileceğim bir kaynak planına ihtiyacım var. Sıkışma noktalarını nerede görüyorsun?
+Y: We're already stretched. The autoclave runs at eighty-five per cent, so it will be the first bottleneck. | Zaten zorlanıyoruz. Otoklav yüzde seksen beşte çalışıyor, bu yüzden ilk darboğaz o olacak.
+T: And if we add a night shift on the autoclave? | Otoklava bir gece vardiyası eklersek?
+Y: Then the bottleneck will simply shift to lay-up and inspection, because we don't have enough trained technicians. | O zaman darboğaz sadece yatırma ve muayeneye kayacak, çünkü yeterince eğitimli teknisyenimiz yok.
+T: Should we be thinking about a second autoclave? | İkinci bir otoklav düşünmeli miyiz?
+Y: In the medium term, yes, but it's essentially a make-or-buy decision, and a subcontractor may be cheaper for the simple parts. | Orta vadede evet, ama bu temelde bir üret ya da satın al kararı ve basit parçalar için bir taşeron daha ucuz olabilir.
+T: What would you put in front of the board, then? | O zaman yönetim kurulunun önüne ne koyardın?
+Y: I'd phase it in: overtime and two new hires from July, a subcontractor for flat panels, and a business case for the autoclave by October. | Kademeli olarak ilerlerdim: temmuzdan itibaren fazla mesai ve iki yeni işe alım, düz paneller için bir taşeron ve ekime kadar otoklav için bir iş planı.

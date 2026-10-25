@@ -1,0 +1,271 @@
+## home | Daily life | Ev, mahalle ve komşular | daily
+brief: Yurt dışından gelen bir meslektaş şehrinde kiralık ev arıyor. Ona mahalleleri, kira fiyatlarını, evin özelliklerini ve komşuluk ilişkilerini anlatıyorsun.
+role: a colleague who has just moved to your city for a two-year assignment and needs advice on finding a flat
+### 1
+chunks: I live in… = …'de yaşıyorum ; It is quiet = Sakin ; The rent is… = Kira… ; There is a … near my house = Evimin yakınında bir … var ; My neighbours are… = Komşularım…
+T: I need a flat here. Where do you live? | Burada bir daireye ihtiyacım var. Sen nerede yaşıyorsun?
+Y: I live in a small apartment near the park. | Parkın yakınında küçük bir dairede yaşıyorum.
+T: Is it a nice area? | Güzel bir bölge mi?
+Y: Yes, it is quiet and green. There is a supermarket near my house. | Evet, sakin ve yeşil. Evimin yakınında bir süpermarket var.
+T: How much is the rent? | Kira ne kadar?
+Y: The rent is about eight hundred euros a month. | Kira ayda yaklaşık sekiz yüz avro.
+T: And your neighbours? | Peki komşuların?
+Y: My neighbours are very kind. An old lady lives upstairs with her cat. | Komşularım çok nazik. Üst katta yaşlı bir hanım kedisiyle yaşıyor.
+### 2
+chunks: It depends what you're looking for = Ne aradığına bağlı ; within walking distance = yürüme mesafesinde ; It's a bit noisy because… = … yüzünden biraz gürültülü ; the landlord = ev sahibi ; I'd avoid… = …'den kaçınırdım
+T: I've been looking at flats online, but there are so many areas. Where would you live? | İnternette dairelere bakıyorum ama çok fazla bölge var. Sen nerede yaşardın?
+Y: It depends what you're looking for. The old town is lively, with lots of cafés and bars, but it's a bit noisy at night. | Ne aradığına bağlı. Eski şehir canlı, bir sürü kafe ve bar var ama geceleri biraz gürültülü.
+T: I'd prefer somewhere peaceful, with a garden if possible. | Mümkünse bahçeli, huzurlu bir yeri tercih ederim.
+Y: Then I'd look at the area near the university. Most houses have a garden, and the shops are within walking distance. | O zaman üniversitenin yakınındaki bölgeye bakardım. Çoğu evin bahçesi var ve dükkanlar yürüme mesafesinde.
+T: Are the flats furnished, usually? | Daireler genelde eşyalı mı?
+Y: Some are. Check that the kitchen has a fridge and a cooker, because some landlords take everything with them. | Bazıları öyle. Mutfakta buzdolabı ve ocak olup olmadığını kontrol et, çünkü bazı ev sahipleri her şeyi yanlarında götürüyor.
+T: Anything else I should know? | Bilmem gereken başka bir şey var mı?
+Y: I'd avoid the ground floor near the main road. The traffic is heavy, and the heating bills are high in winter. | Ana yolun yakınındaki zemin kattan kaçınırdım. Trafik yoğun ve kışın ısınma faturaları yüksek.
+### 3
+chunks: It's worth bearing in mind that… = …'i akılda tutmakta fayda var ; You get what you pay for = Ne kadar para o kadar mal ; It's a bit of a trade-off = Biraz ödünleşim meselesi ; Don't sign anything until… = …'e kadar hiçbir şey imzalama ; I'd be happy to come along = Seninle gelmekten memnuniyet duyarım
+T: I've found two flats. One is modern but small, the other is huge but in an old building. Which would you choose? | İki daire buldum. Biri modern ama küçük, diğeri çok büyük ama eski bir binada. Hangisini seçerdin?
+Y: It's a bit of a trade-off. The old building probably has more character, but it's worth bearing in mind that the heating and the windows may be in poor condition. | Biraz ödünleşim meselesi. Eski bina muhtemelen daha karakterli ama ısıtmanın ve pencerelerin kötü durumda olabileceğini akılda tutmakta fayda var.
+T: The old one is much cheaper, though. | Ama eski olan çok daha ucuz.
+Y: Sometimes you get what you pay for. Ask the landlord who pays for repairs if the roof leaks or the boiler breaks down. | Bazen ne kadar para o kadar mal. Çatı akarsa ya da kombi bozulursa onarımları kimin ödediğini ev sahibine sor.
+T: Good point. What about the deposit? They're asking for three months' rent. | İyi nokta. Peki depozito? Üç aylık kira istiyorlar.
+Y: That's quite common here, unfortunately. Don't sign anything until you've read the contract carefully and taken photos of any damage. | Ne yazık ki burada oldukça yaygın. Sözleşmeyi dikkatlice okuyup her hasarın fotoğrafını çekene kadar hiçbir şey imzalama.
+T: My Turkish isn't good enough to read a contract yet. | Türkçem henüz bir sözleşmeyi okuyacak kadar iyi değil.
+Y: No problem at all. I'd be happy to come along to the viewing and translate for you on Saturday. | Hiç sorun değil. Cumartesi günü daireyi görmeye seninle gelip senin için tercüme etmekten memnuniyet duyarım.
+
+## shopping | Daily life | Alışveriş ve hediye | daily
+brief: Bir meslektaşın doğum günü için hediye alıyorsun ve mağazada satıcıyla konuşuyorsun: beden, renk, fiyat, indirim, iade ve ödeme.
+role: a shop assistant in a clothes and gift shop who is helpful and likes to suggest things
+### 1
+chunks: I'm looking for… = …arıyorum ; How much is this? = Bu ne kadar? ; Do you have it in…? = …'de var mı? ; Can I pay by card? = Kartla ödeyebilir miyim? ; It's a present = Hediye
+T: Hello! Can I help you? | Merhaba! Yardımcı olabilir miyim?
+Y: Yes, please. I'm looking for a present for a friend. | Evet, lütfen. Bir arkadaşım için hediye arıyorum.
+T: How about this scarf? It's very soft. | Bu şala ne dersiniz? Çok yumuşak.
+Y: It's nice. How much is it? | Güzel. Ne kadar?
+T: Forty euros. | Kırk avro.
+Y: Do you have it in blue? | Mavisi var mı?
+T: Yes, here you are. | Evet, buyurun.
+Y: Perfect. Can I pay by card? And can you wrap it, please? It's a birthday present. | Mükemmel. Kartla ödeyebilir miyim? Paketleyebilir misiniz lütfen? Doğum günü hediyesi.
+### 2
+chunks: Is this on sale? = Bu indirimde mi? ; What size is…? = … kaç beden? ; Can I try it on? = Deneyebilir miyim? ; If it doesn't fit, … = Olmazsa… ; I'll take it = Alıyorum
+T: Are you looking for anything in particular? | Özel bir şey mi arıyorsunuz?
+Y: I need a gift for a colleague who's retiring. I was thinking of a nice leather bag or a watch. | Emekli olan bir meslektaşım için bir hediyeye ihtiyacım var. Güzel bir deri çanta ya da saat düşünüyordum.
+T: These leather bags are very popular. They're hand-made in Italy. | Bu deri çantalar çok popüler. İtalya'da el yapımı.
+Y: They're beautiful. Is this brown one on sale? | Çok güzeller. Bu kahverengi indirimde mi?
+T: Yes, there's twenty per cent off everything in this section until Sunday. | Evet, pazar gününe kadar bu bölümdeki her şeyde yüzde yirmi indirim var.
+Y: Great. And for myself, can I try on that grey jacket? I think I'm a size fifty. | Harika. Kendim için de şu gri ceketi deneyebilir miyim? Sanırım elli bedenim.
+T: Of course. The changing rooms are over there. | Tabii. Deneme kabinleri şurada.
+Y: Thanks. I'll take the bag. If the jacket doesn't fit my wife's taste, can I bring it back? | Teşekkürler. Çantayı alıyorum. Ceket eşimin zevkine uymazsa geri getirebilir miyim?
+### 3
+chunks: I'm not quite sure what I'm after = Tam olarak ne aradığımdan emin değilim ; Something a bit more… = Biraz daha … bir şey ; That's a bit beyond my budget = Bu bütçemin biraz üstünde ; Do you do refunds or just exchanges? = Para iadesi mi yapıyorsunuz, yoksa sadece değişim mi? ; Could you keep it aside for me? = Benim için ayırabilir misiniz?
+T: Good afternoon. Is there anything I can help you with today? | İyi günler. Bugün size yardımcı olabileceğim bir şey var mı?
+Y: Maybe. To be honest, I'm not quite sure what I'm after. It's for a colleague's fiftieth birthday, and she's quite hard to buy for. | Belki. Açıkçası tam olarak ne aradığımdan emin değilim. Bir meslektaşımın ellinci doğum günü için ve ona hediye almak oldukça zor.
+T: What kind of things does she enjoy? | Ne tür şeylerden hoşlanıyor?
+Y: She loves gardening and cooking, and she's very elegant. I'd like something a bit more personal than flowers or chocolate. | Bahçe işlerini ve yemek yapmayı seviyor ve çok şık. Çiçek ya da çikolatadan biraz daha kişisel bir şey istiyorum.
+T: How about this hand-painted silk scarf? Each one is unique. | Bu el boyaması ipek eşarba ne dersiniz? Her biri benzersiz.
+Y: It's gorgeous, but at three hundred euros it's a bit beyond my budget. Is there anything similar in cotton? | Muhteşem ama üç yüz avroya bütçemin biraz üstünde. Pamukludan benzer bir şey var mı?
+T: Yes, this one's quite similar and much cheaper. | Evet, bu oldukça benzer ve çok daha ucuz.
+Y: That's lovely. Do you do refunds or just exchanges? And could you keep it aside for me until tomorrow? I'd like to check the colour with my wife. | Çok güzel. Para iadesi mi yapıyorsunuz, yoksa sadece değişim mi? Ve yarına kadar benim için ayırabilir misiniz? Rengi eşimle kontrol etmek istiyorum.
+
+## school | Family | Çocukların okulu ve eğitim | daily
+brief: Bir meslektaşınla çocuklarının okulları, dersler, sınavlar, üniversite seçimi ve eğitim sistemleri hakkında konuşuyorsun.
+role: a colleague from Spain with two teenage children, worried about exams and university choices
+### 1
+chunks: My son is … years old = Oğlum … yaşında ; He likes… = …'i seviyor ; He has an exam = Sınavı var ; His teacher says… = Öğretmeni … diyor ; She wants to be… = … olmak istiyor
+T: How old are your children? | Çocukların kaç yaşında?
+Y: My son is twelve, and my daughter is sixteen. | Oğlum on iki, kızım on altı yaşında.
+T: Do they like school? | Okulu seviyorlar mı?
+Y: My son likes maths and science. He hates history. | Oğlum matematik ve fen seviyor. Tarihten nefret ediyor.
+T: And your daughter? | Peki kızın?
+Y: She has a big exam this year. She studies every evening. | Bu yıl büyük bir sınavı var. Her akşam ders çalışıyor.
+T: What does she want to do? | Ne yapmak istiyor?
+Y: She wants to be a doctor. Her teacher says she is very clever. | Doktor olmak istiyor. Öğretmeni çok zeki olduğunu söylüyor.
+### 2
+chunks: She's in her final year = Son sınıfta ; to get into university = üniversiteye girmek ; under a lot of pressure = çok baskı altında ; He's struggling with… = … ile zorlanıyor ; private lessons = özel ders
+T: My daughter is in her final year, and she's under a lot of pressure. Is it the same in Turkey? | Kızım son sınıfta ve çok baskı altında. Türkiye'de de aynı mı?
+Y: Very much so. There's one national exam, and your score decides which university you can get into. | Kesinlikle öyle. Tek bir ulusal sınav var ve puanın hangi üniversiteye girebileceğini belirliyor.
+T: That sounds stressful. Do many students take private lessons? | Kulağa stresli geliyor. Birçok öğrenci özel ders alıyor mu?
+Y: Yes, most families pay for extra courses at weekends, which is quite expensive. | Evet, çoğu aile hafta sonları ek kurslara para ödüyor, bu da oldukça pahalı.
+T: My son is struggling with English. Any advice? | Oğlum İngilizceyle zorlanıyor. Bir tavsiyen var mı?
+Y: Honestly, films and games helped my kids more than grammar books. They learn new words without noticing. | Açıkçası filmler ve oyunlar çocuklarıma gramer kitaplarından daha çok yardımcı oldu. Fark etmeden yeni kelimeler öğreniyorlar.
+T: That's interesting. What does your daughter want to study? | İlginç. Kızın ne okumak istiyor?
+Y: Medicine. She's very determined, and she spends hours in the library every day. | Tıp. Çok kararlı ve her gün kütüphanede saatler geçiriyor.
+### 3
+chunks: It's a bit of a lottery = Biraz piyango gibi ; to keep their options open = seçeneklerini açık tutmak ; to burn out = tükenmek ; There's more to life than… = Hayat …'den ibaret değil ; I wouldn't want to push her = Onu zorlamak istemem
+T: My son can't decide between engineering and economics. What did you study, and would you recommend it? | Oğlum mühendislik ile ekonomi arasında karar veremiyor. Sen ne okudun, önerir misin?
+Y: I studied mechanical engineering, and I'd recommend it if he enjoys solving practical problems. It also keeps his options open, because engineers end up in all kinds of careers. | Makine mühendisliği okudum ve pratik problemler çözmekten hoşlanıyorsa öneririm. Ayrıca seçeneklerini açık tutar, çünkü mühendisler her türlü kariyerde son buluyor.
+T: He's worried that the maths is too hard. | Matematiğin çok zor olmasından endişe ediyor.
+Y: The first year is tough, I won't lie. But it's more about persistence than talent. Most students who fail simply stop attending lectures. | İlk yıl zor, yalan söylemeyeceğim. Ama yetenekten çok azim meselesi. Başarısız olan öğrencilerin çoğu sadece derslere gitmeyi bırakıyor.
+T: In Spain, getting into a good university is a bit of a lottery. | İspanya'da iyi bir üniversiteye girmek biraz piyango gibi.
+Y: It's similar here. My daughter studies so much that I'm afraid she'll burn out before the exam even starts. | Burada da benzer. Kızım o kadar çok çalışıyor ki sınav başlamadan tükenmesinden korkuyorum.
+T: Do you ever tell her to take a break? | Ona hiç ara vermesini söylüyor musun?
+Y: All the time. I wouldn't want to push her, and I keep reminding her that there's more to life than exam results. | Sürekli. Onu zorlamak istemem ve hayatın sınav sonuçlarından ibaret olmadığını ona hatırlatıp duruyorum.
+
+## sport | Health | Spor ve sağlıklı yaşam | daily
+brief: Spor salonunda karşılaştığın bir meslektaşınla egzersiz rutinleri, diyet, uyku, sakatlıklar ve stres yönetimi hakkında konuşuyorsun.
+role: a colleague who is a keen runner and is training for a marathon
+### 1
+chunks: I go to the gym… = …spor salonuna gidiyorum ; I want to lose weight = Kilo vermek istiyorum ; My knee hurts = Dizim ağrıyor ; I walk every day = Her gün yürüyorum ; I sleep … hours = … saat uyuyorum
+T: Hi! I didn't know you came to this gym. | Merhaba! Bu salona geldiğini bilmiyordum.
+Y: I go to the gym twice a week, after work. | Haftada iki kez, işten sonra spor salonuna gidiyorum.
+T: Great. What do you usually do? | Harika. Genelde ne yapıyorsun?
+Y: I lift weights and ride the bike. I want to lose weight. | Ağırlık kaldırıyor ve bisiklet sürüyorum. Kilo vermek istiyorum.
+T: Do you run too? | Koşu da yapıyor musun?
+Y: Not now. My knee hurts when I run. | Şimdi değil. Koşarken dizim ağrıyor.
+T: Oh, be careful. Swimming is good for the knees. | Ah, dikkatli ol. Yüzme dizler için iyidir.
+Y: Yes, I want to start swimming. I also walk every day with my dog. | Evet, yüzmeye başlamak istiyorum. Ayrıca her gün köpeğimle yürüyorum.
+### 2
+chunks: I'm trying to get fit = Forma girmeye çalışıyorum ; I've cut down on… = …'i azalttım ; It's good for… = … için iyi ; I pulled a muscle = Kas çektim ; You should warm up first = Önce ısınmalısın
+T: You're here early! Are you training for something? | Erken gelmişsin! Bir şey için mi antrenman yapıyorsun?
+Y: Not really. I'm just trying to get fit. I sit at a desk all day, and my back was starting to hurt. | Pek değil. Sadece forma girmeye çalışıyorum. Bütün gün masada oturuyorum ve sırtım ağrımaya başlamıştı.
+T: Have you changed your diet as well? | Beslenmeni de değiştirdin mi?
+Y: A little. I've cut down on sugar and bread, and I eat more fruit and vegetables. | Biraz. Şekeri ve ekmeği azalttım, daha çok meyve ve sebze yiyorum.
+T: I'm running a marathon in May. You should join our running club. | Mayısta maraton koşuyorum. Koşu kulübümüze katılmalısın.
+Y: Maybe later. Last month I pulled a muscle in my leg, so I'm taking it easy. | Belki sonra. Geçen ay bacağımdan kas çektim, bu yüzden yavaş gidiyorum.
+T: That happens when you don't warm up properly. | Düzgün ısınmayınca bu oluyor.
+Y: You're right. Now I always warm up first and stretch at the end. It's also good for stress. | Haklısın. Artık her zaman önce ısınıp sonunda esneme yapıyorum. Stres için de iyi.
+### 3
+chunks: I've got into the habit of… = … alışkanlığı edindim ; It's made a huge difference to… = …'de büyük bir fark yarattı ; I tend to overdo it = Abartma eğilimindeyim ; to listen to your body = vücudunu dinlemek ; It clears my head = Kafamı boşaltıyor
+T: You look a lot fitter than last year. What's your secret? | Geçen yıla göre çok daha formda görünüyorsun. Sırrın ne?
+Y: No secret, really. I've got into the habit of cycling to work, and it's made a huge difference to my energy levels. | Aslında sır yok. İşe bisikletle gitme alışkanlığı edindim ve enerji seviyemde büyük bir fark yarattı.
+T: Isn't it dangerous with all the traffic? | O kadar trafikte tehlikeli değil mi?
+Y: There's a new cycle lane along the river, so it's quite safe, and it's often quicker than driving. | Nehir boyunca yeni bir bisiklet yolu var, bu yüzden oldukça güvenli ve çoğu zaman arabadan daha hızlı.
+T: I'm doing six runs a week for the marathon, but my ankle keeps giving me trouble. | Maraton için haftada altı koşu yapıyorum ama bileğim sürekli sorun çıkarıyor.
+Y: Six sounds like a lot. I tend to overdo it as well, but I've learned to listen to my body and rest when something hurts. | Altı çok gibi görünüyor. Ben de abartma eğilimindeyim ama vücudumu dinlemeyi ve bir yerim ağrıdığında dinlenmeyi öğrendim.
+T: Maybe I should see a physiotherapist. | Belki bir fizyoterapiste görünmeliyim.
+Y: I would. And honestly, for me exercise isn't really about weight any more. It clears my head after a long day of meetings. | Ben olsam görünürdüm. Ve açıkçası benim için egzersiz artık kiloyla ilgili değil. Uzun bir toplantı gününden sonra kafamı boşaltıyor.
+
+## money | Daily life | Banka, maaş ve vergi | daily
+brief: Yurt dışında çalışmaya başlayan bir meslektaşın banka hesabı, maaş, vergi, emeklilik ve birikim hakkında sorular soruyor. Tecrübelerini paylaşıyorsun.
+role: a young engineer who has just started a job abroad and is confused about banks, taxes and saving money
+### 1
+chunks: I need a bank account = Banka hesabına ihtiyacım var ; You need your passport = Pasaportuna ihtiyacın var ; Salary is paid… = Maaş … ödeniyor ; I save some money every month = Her ay biraz para biriktiriyorum ; Be careful with… = …'e dikkat et
+T: I need a bank account here. Where do I go? | Burada bir banka hesabına ihtiyacım var. Nereye gideyim?
+Y: Go to the bank near the office. You need your passport. | Ofisin yakınındaki bankaya git. Pasaportuna ihtiyacın var.
+T: When is our salary paid? | Maaşımız ne zaman ödeniyor?
+Y: Salary is paid at the end of the month. | Maaş ay sonunda ödeniyor.
+T: Is the tax high? | Vergi yüksek mi?
+Y: Yes, it is quite high. About thirty per cent. | Evet, oldukça yüksek. Yaklaşık yüzde otuz.
+T: Do you save money? | Para biriktiriyor musun?
+Y: Yes. I save some money every month. Be careful with credit cards. | Evet. Her ay biraz para biriktiriyorum. Kredi kartlarına dikkat et.
+### 2
+chunks: to open an account = hesap açmak ; It's deducted from your salary = Maaşından kesiliyor ; to put money aside = para kenara koymak ; interest rate = faiz oranı ; It's worth comparing… = …'i karşılaştırmaya değer
+T: I tried to open an account online, but they asked for a lot of documents. | İnternetten hesap açmaya çalıştım ama çok fazla belge istediler.
+Y: That's normal. They usually want your passport, your contract and proof of address. | Bu normal. Genelde pasaportunu, sözleşmeni ve adres belgeni istiyorlar.
+T: And I don't understand my pay slip. Why is the amount so low? | Maaş bordromu da anlamıyorum. Miktar neden bu kadar düşük?
+Y: Income tax and social security are deducted from your salary before you receive it. | Gelir vergisi ve sosyal güvenlik, sen almadan önce maaşından kesiliyor.
+T: Does part of that go into a pension? | Bunun bir kısmı emekliliğe mi gidiyor?
+Y: Yes, and the company adds a little too. I'd also put some money aside each month for emergencies. | Evet, şirket de biraz ekliyor. Ben ayrıca acil durumlar için her ay biraz para kenara koyardım.
+T: Should I keep it in a normal account? | Normal bir hesapta mı tutmalıyım?
+Y: The interest rate on normal accounts is very low. It's worth comparing savings accounts at different banks. | Normal hesaplarda faiz oranı çok düşük. Farklı bankalardaki tasarruf hesaplarını karşılaştırmaya değer.
+### 3
+chunks: It eats into… = …'i yiyip bitiriyor ; to make ends meet = iki yakayı bir araya getirmek ; a rainy-day fund = kara gün parası ; It's not worth the risk = Riske değmez ; Don't put all your eggs in one basket = Bütün yumurtaları aynı sepete koyma
+T: Prices have gone up so much this year. Inflation is really eating into my salary. | Bu yıl fiyatlar çok arttı. Enflasyon gerçekten maaşımı yiyip bitiriyor.
+Y: Tell me about it. Rent and food alone take half of mine. A lot of young people are struggling to make ends meet. | Bana mı anlatıyorsun. Sadece kira ve yiyecek benimkinin yarısını alıyor. Birçok genç insan iki yakasını bir araya getirmekte zorlanıyor.
+T: A friend told me to invest everything in a new digital currency. He says he doubled his money. | Bir arkadaşım her şeyi yeni bir dijital paraya yatırmamı söyledi. Parasını ikiye katladığını söylüyor.
+Y: I'd be very careful. For every person who doubles their money, there are others who lose the lot. Personally, it's not worth the risk. | Çok dikkatli olurdum. Parasını ikiye katlayan her kişiye karşılık her şeyini kaybeden başkaları var. Şahsen riske değmez.
+T: So what would you do with a small amount of savings? | Peki küçük bir birikimle sen ne yapardın?
+Y: First, I'd build a rainy-day fund covering three to six months of expenses, in a safe account you can access quickly. | Önce, hızlıca erişebileceğin güvenli bir hesapta üç ila altı aylık giderleri karşılayan bir kara gün parası oluştururdum.
+T: And after that? | Peki ondan sonra?
+Y: After that, a mix of low-cost funds for the long term. The golden rule is: don't put all your eggs in one basket. | Ondan sonra uzun vade için düşük maliyetli fonların bir karışımı. Altın kural şu: bütün yumurtaları aynı sepete koyma.
+
+## nature | Holidays | Doğa ve tatil planları | daily
+brief: Bir meslektaşınla yaz tatili planlarını konuşuyorsun: dağlar, ormanlar, göller, kamp, hayvanlar, hava durumu ve tatilde yaşanan maceralar.
+role: a colleague from Canada who loves nature, wildlife and outdoor adventures
+### 1
+chunks: We are going to… = …'e gideceğiz ; I love the sea = Denizi çok severim ; We will stay in… = …'de kalacağız ; It is very hot in summer = Yazın çok sıcak ; Have a good holiday! = İyi tatiller!
+T: Where are you going for your summer holiday? | Yaz tatili için nereye gidiyorsun?
+Y: We are going to the south coast. I love the sea. | Güney sahiline gidiyoruz. Denizi çok severim.
+T: Will you stay in a hotel? | Otelde mi kalacaksınız?
+Y: No, we will stay in a small wooden house near the beach. | Hayır, sahile yakın küçük ahşap bir evde kalacağız.
+T: Is it hot there in summer? | Orası yazın sıcak mı?
+Y: Yes, it is very hot. Sometimes forty degrees. | Evet, çok sıcak. Bazen kırk derece.
+T: I prefer the mountains. I go camping with my dog. | Ben dağları tercih ederim. Köpeğimle kampa giderim.
+Y: That sounds nice too. Have a good holiday! | O da kulağa hoş geliyor. İyi tatiller!
+### 2
+chunks: We're thinking of… = …'i düşünüyoruz ; the scenery is amazing = manzara harika ; We got caught in… = …'e yakalandık ; It was a bit scary = Biraz korkutucuydu ; I'd love to see… = …'i görmeyi çok isterim
+T: Have you made any plans for August? | Ağustos için plan yaptın mı?
+Y: We're thinking of hiring a car and driving along the coast, stopping in small fishing villages. | Araba kiralayıp sahil boyunca küçük balıkçı köylerinde durarak gitmeyi düşünüyoruz.
+T: Lovely. Last summer we went to a national park in the mountains. The scenery was amazing. | Çok güzel. Geçen yaz dağlarda bir milli parka gittik. Manzara harikaydı.
+Y: Did you see any wild animals? | Hiç vahşi hayvan gördünüz mü?
+T: Lots! Deer, eagles and even a bear near our tent one night. | Çok! Geyikler, kartallar, hatta bir gece çadırımızın yanında bir ayı.
+Y: That must have been a bit scary. We once got caught in a storm while sailing, and I've never been so frightened. | Biraz korkutucu olmuş olmalı. Biz bir keresinde yelken yaparken fırtınaya yakalandık ve hiç o kadar korkmamıştım.
+T: Do you ever travel abroad for holidays? | Tatil için hiç yurt dışına gider misin?
+Y: Sometimes. I'd love to see the northern lights in Canada one day. | Bazen. Bir gün Kanada'da kuzey ışıklarını görmeyi çok isterim.
+### 3
+chunks: to get away from it all = her şeyden uzaklaşmak ; off the beaten track = turistik yerlerin dışında ; We were in the middle of nowhere = Issız bir yerin ortasındaydık ; It was an experience I'll never forget = Asla unutmayacağım bir deneyimdi ; on a shoestring = çok kısıtlı bütçeyle
+T: I really need a break. I'm thinking of somewhere quiet, where I can get away from it all. | Gerçekten bir molaya ihtiyacım var. Her şeyden uzaklaşabileceğim sakin bir yer düşünüyorum.
+Y: Then you should go to the Black Sea region in Turkey. It's green, misty and very much off the beaten track. | O zaman Türkiye'de Karadeniz bölgesine gitmelisin. Yeşil, sisli ve kesinlikle turistik yerlerin dışında.
+T: Is it easy to get around? | Dolaşmak kolay mı?
+Y: Not really. Last year we stayed in a village on a steep hill, completely in the middle of nowhere, with no phone signal at all. | Pek değil. Geçen yıl dik bir tepedeki bir köyde kaldık, tamamen ıssız bir yerin ortasında, hiç telefon sinyali yoktu.
+T: That sounds like heaven to me. What did you do all day? | Bana cennet gibi geliyor. Bütün gün ne yaptınız?
+Y: We walked through the forests, picked tea with the local farmers and swam in an ice-cold river. It was an experience I'll never forget. | Ormanlarda yürüdük, yerel çiftçilerle çay topladık ve buz gibi bir nehirde yüzdük. Asla unutmayacağım bir deneyimdi.
+T: Was it expensive? | Pahalı mıydı?
+Y: Not at all. You can travel there on a shoestring if you stay in family guest houses and eat local food. | Hiç değil. Aile pansiyonlarında kalıp yerel yemekler yersen orada çok kısıtlı bütçeyle seyahat edebilirsin.
+
+## culture | Free time | Film, müzik, kitap ve sanat | daily
+brief: Bir meslektaşınla boş zaman aktiviteleri hakkında konuşuyorsun: son izlediğin film, okuduğun kitap, konserler, müzeler ve tiyatro.
+role: a colleague from France who loves cinema, novels and art galleries and always has recommendations
+### 1
+chunks: I watched… = … izledim ; It was funny / sad = Komikti / hüzünlüydü ; I'm reading… = … okuyorum ; My favourite singer is… = En sevdiğim şarkıcı… ; Do you want to come? = Gelmek ister misin?
+T: Did you watch anything good this weekend? | Bu hafta sonu iyi bir şey izledin mi?
+Y: Yes, I watched a comedy with my wife. | Evet, eşimle bir komedi izledim.
+T: Was it good? | İyi miydi?
+Y: Yes, it was very funny. We laughed a lot. | Evet, çok komikti. Çok güldük.
+T: Do you read books? | Kitap okur musun?
+Y: Yes. I'm reading a book about the history of flight. | Evet. Uçuş tarihi hakkında bir kitap okuyorum.
+T: I'm going to a jazz concert on Friday. | Cuma günü bir caz konserine gidiyorum.
+Y: Lucky you! I love jazz. Can I come too? | Ne şanslısın! Cazı çok severim. Ben de gelebilir miyim?
+### 2
+chunks: It's based on… = …'e dayanıyor ; The acting was brilliant = Oyunculuk harikaydı ; I couldn't put it down = Elimden bırakamadım ; It's not really my thing = Pek bana göre değil ; Have you heard of…? = …'i duydun mu?
+T: Have you seen the new film about the moon landing? | Ay'a iniş hakkındaki yeni filmi gördün mü?
+Y: Yes, I saw it last week. It's based on a true story, and the acting was brilliant. | Evet, geçen hafta gördüm. Gerçek bir hikayeye dayanıyor ve oyunculuk harikaydı.
+T: I heard the ending is a bit sad. | Sonunun biraz hüzünlü olduğunu duydum.
+Y: It is, but it's also very inspiring. I'd recommend seeing it in the cinema, not on television. | Öyle ama aynı zamanda çok ilham verici. Televizyonda değil sinemada izlemeyi öneririm.
+T: I'm reading a detective novel at the moment. I couldn't put it down last night. | Şu an bir polisiye roman okuyorum. Dün gece elimden bırakamadım.
+Y: I've never really enjoyed crime novels. They're not really my thing. I prefer science fiction or biographies. | Polisiye romanlardan hiç pek hoşlanmadım. Pek bana göre değil. Bilim kurgu ya da biyografileri tercih ederim.
+T: Have you heard of the new art gallery near the station? | İstasyonun yakınındaki yeni sanat galerisini duydun mu?
+Y: Yes, my daughter went with her class. She said the modern sculptures were strange but interesting. | Evet, kızım sınıfıyla gitti. Modern heykellerin tuhaf ama ilginç olduğunu söyledi.
+### 3
+chunks: It really lived up to the hype = Gerçekten övüldüğü kadar varmış ; It dragged a bit in the middle = Ortalarda biraz uzadı ; It's not to everyone's taste = Herkesin zevkine göre değil ; It made me think about… = Bana … hakkında düşündürdü ; I'll give it a go = Bir denerim
+T: Everyone is talking about that new series. Have you watched it yet? | Herkes o yeni diziden bahsediyor. İzledin mi?
+Y: I finished it on Sunday. Honestly, it really lived up to the hype, although it dragged a bit in the middle. | Pazar günü bitirdim. Açıkçası gerçekten övüldüğü kadar varmış, gerçi ortalarda biraz uzadı.
+T: I heard the director is quite controversial. | Yönetmenin oldukça tartışmalı olduğunu duydum.
+Y: His style isn't to everyone's taste. Some scenes are very violent, but the story made me think about how technology is changing our relationships. | Tarzı herkesin zevkine göre değil. Bazı sahneler çok şiddetli ama hikaye bana teknolojinin ilişkilerimizi nasıl değiştirdiği hakkında düşündürdü.
+T: I'm going to the opera next month. Have you ever been? | Gelecek ay operaya gidiyorum. Hiç gittin mi?
+Y: Only once, years ago, and I'm ashamed to say I fell asleep in the second act. Classical music isn't something I grew up with. | Sadece bir kez, yıllar önce ve ikinci perdede uyuyakaldığımı söylemekten utanıyorum. Klasik müzik birlikte büyüdüğüm bir şey değil.
+T: You should try again. This production is supposed to be very modern and lively. | Tekrar denemelisin. Bu prodüksiyonun çok modern ve canlı olduğu söyleniyor.
+Y: All right, you've convinced me. If you can get an extra ticket, I'll give it a go. | Peki, beni ikna ettin. Fazladan bir bilet bulabilirsen bir denerim.
+
+## hiring | Recruitment | İş mülakatı: yeni mühendis alımı | daily
+brief: Ekibine yeni bir kompozit mühendisi alıyorsun. Adayla mülakat yapıyor; deneyimini, yeteneklerini, kariyer hedeflerini ve maaş beklentisini soruyor, şirketi tanıtıyorsun.
+role: a young candidate engineer, a bit nervous but well prepared, applying for a job in your team
+### 1
+chunks: Tell me about yourself = Bana kendinden bahset ; Why do you want this job? = Bu işi neden istiyorsun? ; What are your strengths? = Güçlü yönlerin neler? ; We will call you = Sizi arayacağız ; Do you have any questions? = Sorunuz var mı?
+T: Good morning. Thank you for inviting me. | Günaydın. Beni davet ettiğiniz için teşekkürler.
+Y: Good morning. Please sit down. Tell me about yourself. | Günaydın. Lütfen oturun. Bana kendinizden bahsedin.
+T: I finished university last year. I studied mechanical engineering. | Geçen yıl üniversiteyi bitirdim. Makine mühendisliği okudum.
+Y: Why do you want this job? | Bu işi neden istiyorsunuz?
+T: I love composite materials. Your company is famous for them. | Kompozit malzemeleri çok seviyorum. Şirketiniz bu konuda ünlü.
+Y: What are your strengths? | Güçlü yönleriniz neler?
+T: I learn fast, and I work well in a team. | Hızlı öğrenirim ve ekip içinde iyi çalışırım.
+Y: Good. Do you have any questions? We will call you next week. | Güzel. Sorunuz var mı? Gelecek hafta sizi arayacağız.
+### 2
+chunks: Could you give me an example of…? = … için bir örnek verebilir misiniz? ; What attracted you to…? = Sizi …'e çeken ne oldu? ; Where do you see yourself in five years? = Beş yıl sonra kendinizi nerede görüyorsunuz? ; What are your salary expectations? = Maaş beklentiniz nedir? ; We'll be in touch = Sizinle iletişime geçeceğiz
+T: Thank you for the opportunity. I'm very excited about this position. | Fırsat için teşekkürler. Bu pozisyon için çok heyecanlıyım.
+Y: Thanks for coming. What attracted you to this role? | Geldiğiniz için teşekkürler. Sizi bu role çeken ne oldu?
+T: I did my final project on carbon fibre bicycles, and I'd like to work on bigger structures. | Bitirme projemi karbon fiber bisikletler üzerine yaptım ve daha büyük yapılar üzerinde çalışmak istiyorum.
+Y: Could you give me an example of a problem you solved during that project? | O proje sırasında çözdüğünüz bir problem için örnek verebilir misiniz?
+T: Our frames were cracking near the joints, so I changed the lay-up and tested three new versions. | Çerçevelerimiz bağlantı yerlerinin yakınında çatlıyordu, bu yüzden dizilimi değiştirip üç yeni versiyon test ettim.
+Y: Good. Where do you see yourself in five years? | Güzel. Beş yıl sonra kendinizi nerede görüyorsunuz?
+T: I'd like to be a senior engineer, maybe leading a small team. | Kıdemli bir mühendis olmak, belki küçük bir ekibi yönetmek isterim.
+Y: Great ambition. What are your salary expectations? We'll be in touch by Friday. | Güzel bir hedef. Maaş beklentiniz nedir? Cuma gününe kadar sizinle iletişime geçeceğiz.
+### 3
+chunks: Walk me through… = Bana … adım adım anlatın ; What would you do differently? = Neyi farklı yapardınız? ; How do you handle…? = … ile nasıl başa çıkıyorsunuz? ; We offer a competitive package = Rekabetçi bir paket sunuyoruz ; The next stage would be… = Bir sonraki aşama … olurdu
+T: Before we start, I just want to say I've followed your company's work for years. | Başlamadan önce şirketinizin çalışmalarını yıllardır takip ettiğimi söylemek istiyorum.
+Y: That's nice to hear. Let's start with your thesis. Walk me through the main decisions you made. | Bunu duymak güzel. Tezinizle başlayalım. Bana aldığınız ana kararları adım adım anlatın.
+T: I compared hand lay-up and vacuum infusion for a bike frame, and chose infusion because it gave lower porosity at a reasonable cost. | Bir bisiklet çerçevesi için elle yatırma ve vakum infüzyonu karşılaştırdım ve makul bir maliyetle daha düşük porozite verdiği için infüzyonu seçtim.
+Y: Looking back, what would you do differently? | Geriye dönüp baktığınızda neyi farklı yapardınız?
+T: I'd involve the manufacturing people earlier. I designed a beautiful part that was almost impossible to demould. | Üretim ekibini daha erken dahil ederdim. Kalıptan çıkarılması neredeyse imkansız güzel bir parça tasarladım.
+Y: That's an honest answer, and a lesson most of us learn the hard way. How do you handle disagreements with senior colleagues? | Dürüst bir cevap ve çoğumuzun zor yoldan öğrendiği bir ders. Kıdemli meslektaşlarla anlaşmazlıkları nasıl ele alıyorsunuz?
+T: I try to bring data rather than opinions, and if I'm wrong, I accept it quickly. | Fikir yerine veri getirmeye çalışırım ve haksızsam bunu çabuk kabul ederim.
+Y: Good. We offer a competitive package and a lot of training. The next stage would be a technical test and a visit to the factory floor. | Güzel. Rekabetçi bir paket ve çok fazla eğitim sunuyoruz. Bir sonraki aşama teknik bir test ve fabrika sahasına bir ziyaret olurdu.

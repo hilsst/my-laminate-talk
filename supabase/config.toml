@@ -1,0 +1,4 @@
+# Only used by the Supabase CLI (supabase functions deploy claude-meeting).
+# The function checks the member's session itself, so the gateway's legacy JWT check is off.
+[functions.claude-meeting]
+verify_jwt = false

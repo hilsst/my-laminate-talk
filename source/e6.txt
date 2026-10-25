@@ -1,0 +1,290 @@
+## coffee
+### 2
+title: Misafire şehri tanıtmak
+brief: Alman meslektaşın toplantılar için bir haftalığına senin şehrine geldi. Kahve molasında ona akşamları gezebileceği yerleri, yemekleri ve ulaşımı öneriyorsun.
+role: a German colleague on his first visit to your city for a week of meetings, keen to explore in the evenings
+ideas: Şehri kısaca tanıt: deniz kenarında, büyük ve canlı bir şehir ; Akşam için bir yer öner: eski çarşı, iş çıkışı yirmi dakika ; Ulaşımı açıkla: feribot ucuz, hızlı ve manzaralı ; Yemek öner: limanda balık, sokakta simit ve çay ; Hafta sonu için gezi öner: antik kent, arabayla bir saat, cumartesi sen de gelebilirsin
+chunks: If I were you, I'd… = Yerinde olsam … ; It's worth a visit = Görülmeye değer ; It only takes about… = Sadece yaklaşık … sürüyor ; You can't miss it = Gözden kaçırman imkânsız ; I'd be happy to… = Seve seve …
+T: This is my first time here. What should I see in the evenings after work? | Buraya ilk gelişim. Akşamları iş çıkışı neleri görmeliyim?
+Y: If I were you, I'd start with the old market. It only takes about twenty minutes from here. | Yerinde olsam eski çarşıdan başlardım. Buradan sadece yaklaşık yirmi dakika sürüyor.
+T: Sounds good. Should I take a taxi, or is there a bus? | Kulağa iyi geliyor. Taksiye mi bineyim, yoksa otobüs var mı?
+Y: Take the ferry across the bay. It's cheap, faster than a taxi, and the view is fantastic at sunset. | Körfezin karşısına feribotla geç. Ucuz, taksiden hızlı ve gün batımında manzara harika.
+T: And where can I eat something local, but not too touristy? | Peki yerel bir şeyler yiyebileceğim ama çok turistik olmayan bir yer neresi?
+Y: There's a small fish restaurant near the port, always full of locals. You can't miss it. | Limanın yakınında hep yerlilerle dolu küçük bir balık restoranı var. Gözden kaçırman imkânsız.
+T: Great. Is there anything worth seeing outside the city at the weekend? | Harika. Hafta sonu şehrin dışında görülmeye değer bir şey var mı?
+Y: The ancient city is an hour away by car, and it's worth a visit. I'd be happy to drive you on Saturday. | Antik kent arabayla bir saat uzaklıkta ve görülmeye değer. Cumartesi seni seve seve götürürüm.
+### 3
+title: İş-yaşam dengesi tartışması
+brief: Kahve molasında bir meslektaşın şirketin dört günlük çalışma haftasını denemesi gerektiğini savunuyor. Dengeli bir fikir ver, artılarını ve risklerini tartış.
+role: a project manager from the partner company who strongly believes in a four-day week and likes to provoke a debate
+ideas: Fikre kısmen katıldığını söyle: dinlenmiş insan daha az hata yapar ; Kendi deneyimini anlat: hafta sonu çocuklarla vakit geçirmek enerjini geri veriyor ; Riski açıkla: otoklav ve üretim hattı haftada beş gün çalışmalı, müşteri teslim tarihleri ; Bir uzlaşma öner: önce ofis ekiplerinde altı aylık deneme ; Başarıyı nasıl ölçeceğinizi belirt: hata oranı, teslim süresi, personel devri ; Karşı tarafa ne düşündüğünü sor
+chunks: I see where you're coming from = Ne demek istediğini anlıyorum ; The flip side is that… = İşin öbür yüzü şu ki… ; It's not a one-size-fits-all thing = Herkese uyan tek bir çözüm değil ; We could pilot it in… = Bunu önce …'de deneyebiliriz ; At the end of the day, … = Sonuçta …
+T: Honestly, I think we should all move to a four-day week. People are exhausted, and tired engineers make mistakes. | Açıkçası hepimiz dört günlük çalışma haftasına geçmeliyiz diye düşünüyorum. İnsanlar bitkin ve yorgun mühendisler hata yapar.
+Y: I see where you're coming from. When I've had a proper weekend with my kids, I come back with far more energy and I'm much sharper in reviews. | Ne demek istediğini anlıyorum. Çocuklarımla düzgün bir hafta sonu geçirdiğimde çok daha enerjik dönüyorum ve incelemelerde çok daha keskin oluyorum.
+T: So you agree with me? | Yani bana katılıyor musun?
+Y: Partly. The flip side is that our autoclave and the layup room run five days a week, and customers won't accept later delivery dates just because we're resting. | Kısmen. İşin öbür yüzü şu ki otoklavımız ve serim odası haftada beş gün çalışıyor ve müşteriler biz dinleniyoruz diye daha geç teslim tarihlerini kabul etmez.
+T: You could organize shifts, though. Other factories manage it. | Ama vardiya düzenleyebilirsiniz. Başka fabrikalar beceriyor.
+Y: True, but it's not a one-size-fits-all thing. Shifts work on the shop floor, but in a small stress team, one person off on Friday can block a whole certification report. | Doğru ama herkese uyan tek bir çözüm değil. Vardiyalar atölyede işe yarar ama küçük bir mukavemet ekibinde cuma günü bir kişinin olmaması koca bir sertifikasyon raporunu tıkayabilir.
+T: So what would you suggest instead? Just keep everyone exhausted? | Peki onun yerine ne önerirsin? Herkesi bitkin mi bırakalım?
+Y: Not at all. We could pilot it in the office teams for six months and track errors and delivery times. At the end of the day, the numbers should decide. | Hiç de değil. Bunu önce altı ay boyunca ofis ekiplerinde deneyip hataları ve teslim sürelerini takip edebiliriz. Sonuçta kararı rakamlar vermeli.
+## dinner
+### 2
+title: Bu kez misafir sensin
+brief: İngiltere'deki müşteriyi ziyaret ediyorsun ve bu sefer o seni akşam yemeğine bir pub'a götürüyor. Menü hakkında soru soruyor, yemek tercihlerini nazikçe belirtiyorsun.
+role: the same UK customer, now hosting you at a traditional pub near their factory, proud of British food
+ideas: Mekân için teşekkür et ve ilk izlenimini söyle: sıcak, eski bir pub ; Menüdeki yemekleri sor: turta, balık ve patates kızartması ; Tercihini nazikçe belirt: domuz eti yemiyorsun, alkol yerine meyve suyu ; Kendi şehrindeki yemekle karşılaştır: balık bizde ızgara yapılır ; Ev sahibine bir soru sor: bu pub ne kadar eski
+chunks: What would you recommend? = Ne önerirsiniz? ; I'm afraid I don't eat… = Maalesef … yemiyorum ; I'll go for… = …'i alayım ; Back home, we usually… = Bizde genelde … ; This is exactly what I needed = Tam da ihtiyacım olan buydu
+T: Welcome to my favourite pub, Kemal. It's very different from that lovely restaurant by the sea, I'm afraid. | Favori pub'ıma hoş geldin Kemal. Korkarım deniz kenarındaki o güzel restorandan çok farklı.
+Y: Not at all, it's very cosy. I love the old wooden chairs and the fire. What would you recommend? | Hiç de değil, çok sıcak bir yer. Eski ahşap sandalyelere ve şömineye bayıldım. Ne önerirsiniz?
+T: The steak and kidney pie is famous here, or the pork sausages with mashed potato. | Burada biftek ve böbrekli turta ünlüdür, ya da patates püreli domuz sosisi.
+Y: I'm afraid I don't eat pork, but the pie sounds interesting. What exactly is kidney? | Maalesef domuz eti yemiyorum ama turta ilginç görünüyor. Böbrek tam olarak nedir?
+T: Ah, it's an organ, not everyone likes it. The fish and chips is a safer choice. | Ah, bir iç organ, herkes sevmez. Balık ve patates kızartması daha güvenli bir seçim.
+Y: Then I'll go for the fish and chips. Back home, we usually grill fish, so I'm curious. | O zaman balık ve patates kızartmasını alayım. Bizde genelde balık ızgara yapılır, o yüzden merak ediyorum.
+T: And to drink? They have a nice local beer. | İçecek olarak? Güzel bir yerel biraları var.
+Y: Just an apple juice for me, thanks. This is exactly what I needed. How old is the pub? | Ben sadece elma suyu alayım, teşekkürler. Tam da ihtiyacım olan buydu. Pub ne kadar eski?
+### 3
+title: Yemekte gelen zor soru
+brief: Yemeğin sonunda müşteri gayriresmi bir şekilde gelecek yılki yüzde sekizlik fiyat artışını sorguluyor. İlişkiyi bozmadan konuyu nazikçe yönet ve hesabı ödemeyi teklif et.
+role: the same UK customer, relaxed after dinner but under pressure from his purchasing director to push back on your price increase
+ideas: Akşam için teşekkür et ve ortamı sıcak tut ; Fiyat sorusunu kabul et ama burada pazarlık yapmayacağını nazikçe söyle ; Artışın nedenini kısaca açıkla: karbon prepreg ve enerji maliyetleri yüzde on beş arttı ; Esneklik göster: yıllık hacim taahhüdüne karşılık kademeli artış seçeneği ; Konuyu yarınki toplantıya taşı ve somut bir öneri getireceğini söyle ; Hesabı ödemeyi teklif et, reddedilirse bir sonraki yemeği sen ısmarla
+chunks: Since you bring it up, … = Madem açtınız, … ; I'd rather not talk numbers over dessert = Tatlı yerken rakam konuşmamayı tercih ederim ; To put it in context, … = Durumu bir bağlama oturtmak gerekirse… ; There may be some room for… = … için biraz alan olabilir ; Let me get this one = Bu benden olsun
+T: That was a lovely evening. Can I be honest with you about something, though? My boss isn't happy about the eight per cent increase. | Çok güzel bir akşamdı. Ama sana bir konuda dürüst olabilir miyim? Patronum yüzde sekizlik artıştan hiç memnun değil.
+Y: I appreciate your honesty. Since you bring it up, I'd rather not talk numbers over dessert, but I'm happy to give you the background. | Dürüstlüğünüzü takdir ediyorum. Madem açtınız, tatlı yerken rakam konuşmamayı tercih ederim ama size arka planı anlatmaktan memnuniyet duyarım.
+T: Please do. From our side, it looks like you're just taking advantage of inflation. | Lütfen anlat. Bizim taraftan bakınca enflasyonu fırsat biliyorsunuz gibi görünüyor.
+Y: To put it in context, our carbon prepreg went up fifteen per cent this year and our energy bill nearly doubled. We've absorbed most of that ourselves. | Durumu bir bağlama oturtmak gerekirse, karbon prepregimiz bu yıl yüzde on beş arttı ve enerji faturamız neredeyse ikiye katlandı. Bunun büyük kısmını biz üstlendik.
+T: I understand, but eight per cent in one step is hard for us to sell internally. | Anlıyorum ama tek seferde yüzde sekizi şirket içinde kabul ettirmek bizim için zor.
+Y: That's fair. If you could commit to a yearly volume, there may be some room for a phased increase, say four now and four in July. | Haklısınız. Yıllık bir hacim taahhüt edebilirseniz kademeli bir artış için biraz alan olabilir, mesela şimdi dört, temmuzda dört.
+T: Now that's something I can take back to my boss. | İşte bu, patronuma götürebileceğim bir şey.
+Y: Good. I'll bring a proper proposal to tomorrow's meeting. And please, let me get this one. You hosted me so warmly, it's the least I can do. | Güzel. Yarınki toplantıya düzgün bir teklif getiririm. Ve lütfen, hesap benden olsun. Beni çok sıcak ağırladınız, yapabileceğimin en azı bu.
+## travel
+### 2
+title: İptal edilen dönüş uçuşu
+brief: Tedarikçi ziyaretinden sonra havalimanına geldin ama dönüş uçuşun iptal edilmiş. Havayolu görevlisiyle konuşup yarın sabah önemli bir toplantın olduğunu açıkla ve en iyi alternatifi bul.
+role: an airline agent at a busy check-in desk, polite but under pressure from a long queue of angry passengers
+ideas: Durumu söyle: akşam yedideki uçuş iptal edildi ; Neden acil olduğunu açıkla: yarın saat onda müşteriyle toplantın var ; Seçenekleri sor: başka havayolu, aktarmalı uçuş ; Bir seçimi gerekçelendir: Münih aktarmalı uçuş, gece yarısı varış ; Ek hakları sor: yemek kuponu, bagaj ve tazminat
+chunks: My flight has been cancelled = Uçuşum iptal edildi ; I need to be back by… = …'e kadar dönmem gerekiyor ; Is there any other way…? = Başka bir yolu var mı…? ; I don't mind… as long as… = … olduğu sürece …'e itirazım yok ; Am I entitled to…? = …'e hakkım var mı?
+T: Next, please. How can I help you, sir? | Sıradaki lütfen. Size nasıl yardımcı olabilirim efendim?
+Y: My flight has been cancelled. I need to be back by tomorrow morning because I have a meeting at ten. | Uçuşum iptal edildi. Yarın sabaha kadar dönmem gerekiyor çünkü saat onda toplantım var.
+T: I'm sorry, the next direct flight is tomorrow at eleven. | Üzgünüm, bir sonraki direkt uçuş yarın saat on birde.
+Y: That's too late, I'm afraid. Is there any other way, maybe with another airline or a connection? | Korkarım bu çok geç. Başka bir yolu var mı, belki başka bir havayoluyla ya da aktarmalı?
+T: There's a flight via Munich at eight thirty. You land at midnight, but the connection is only forty minutes. | Saat sekiz buçukta Münih aktarmalı bir uçuş var. Gece yarısı iniyorsunuz ama aktarma süresi sadece kırk dakika.
+Y: I don't mind landing late as long as I get home tonight. Please book me on that one. | Bu gece eve vardığım sürece geç inmeye itirazım yok. Lütfen beni ona yazın.
+T: Done. Your bag will go straight through to your final destination. | Tamam. Bavulunuz doğrudan son varış noktanıza gidecek.
+Y: Thank you. Am I entitled to a meal voucher? I've been waiting here for three hours. | Teşekkürler. Yemek kuponuna hakkım var mı? Üç saattir burada bekliyorum.
+### 3
+title: Seyahat politikasını sorgulamak
+brief: Kaçırılan aktarma yüzünden müşteri toplantısını neredeyse kaçırdın. Şimdi seyahat departmanı müdürüne en ucuz uçuş kuralının şirkete aslında daha pahalıya mal olduğunu anlatıp politikayı değiştirmeye ikna etmeye çalışıyorsun.
+role: the company's travel and expenses manager, who must cut travel costs by ten per cent and is wary of exceptions
+ideas: Olayı kısaca anlat: iptal, kırk dakikalık aktarma, toplantıya uykusuz yetiştin ; Asıl sorunu açıkla: en ucuz bilet kuralı kısa aktarmalar ve gizli maliyetler doğuruyor ; Rakamlarla destekle: kaçırılan bir toplantı, ekstra otel ve kayıp iş günü bilet farkından pahalı ; Somut bir kural öner: müşteri toplantılarında direkt uçuşa izin, fark yüz elli avroyu geçmezse ; Müdürün kaygısını kabul et: bütçe hedefi ve istisnaların çoğalması ; Üç aylık deneme ve raporlama teklif et
+chunks: It turned out to be a false economy = Sonunda yanlış bir tasarruf olduğu ortaya çıktı ; I'm not asking for a blank cheque = Açık çek istemiyorum ; When you add up the hidden costs, … = Gizli maliyetleri topladığınızda … ; A reasonable middle ground would be… = Makul bir orta yol … olur ; I'd be glad to track it for… = Bunu … boyunca takip etmekten memnuniyet duyarım
+T: I read your email about the Munich connection. But the policy is clear, Kemal. We book the cheapest available fare. | Münih aktarmasıyla ilgili e-postanı okudum. Ama politika açık Kemal. Mevcut en ucuz bileti alıyoruz.
+Y: I understand, and I know you're under pressure. But in my case, it turned out to be a false economy. I nearly missed a two-million-euro customer meeting. | Anlıyorum ve baskı altında olduğunuzu biliyorum. Ama benim durumumda sonunda yanlış bir tasarruf olduğu ortaya çıktı. İki milyon avroluk bir müşteri toplantısını neredeyse kaçırıyordum.
+T: But you didn't miss it. And the direct flight was three hundred euros more. | Ama kaçırmadın. Ve direkt uçuş üç yüz avro daha pahalıydı.
+Y: That's true this time. But when you add up the hidden costs, an extra hotel night, a lost working day, rebooking fees, a forty-minute connection is a real gamble. | Bu sefer doğru. Ama gizli maliyetleri topladığınızda, fazladan bir otel gecesi, kaybedilen bir iş günü, yeniden rezervasyon ücretleri, kırk dakikalık bir aktarma gerçek bir kumar.
+T: If I make an exception for you, everyone will want direct flights. | Sana bir istisna yaparsam herkes direkt uçuş isteyecek.
+Y: I'm not asking for a blank cheque. A reasonable middle ground would be to allow direct flights only for customer meetings, and only when the difference is under a hundred and fifty euros. | Açık çek istemiyorum. Makul bir orta yol, direkt uçuşlara sadece müşteri toplantıları için ve fark yüz elli avronun altındaysa izin vermek olur.
+T: Hmm. I'd need data to show finance that it doesn't break the budget. | Hmm. Bunun bütçeyi bozmadığını finansa gösterecek veriye ihtiyacım olur.
+Y: That's fair. I'd be glad to track it for three months, every trip, the fare difference and every missed connection, and we can review it together in January. | Çok makul. Bunu üç ay boyunca takip etmekten memnuniyet duyarım, her seyahati, bilet farkını ve her kaçırılan aktarmayı, ocakta da birlikte gözden geçirebiliriz.
+## news
+### 2
+title: Fabrikanın çatısına güneş panelleri
+brief: Yerel gazetede fabrikanın çatısına güneş panelleri kurulacağı haberi çıktı. Hollandalı meslektaşın soruyor, sen de projeyi, maliyetini ve elektrik faturasına etkisini anlatıyorsun.
+role: the same Dutch engineer, who saw the article online and is curious whether it is real progress or just good marketing
+ideas: Haberi doğrula: yerel gazetede çıktı, kurulum mart ayında ; Projeyi anlat: dört bin metrekare çatı, iki megavat ; Maliyeti ve geri dönüşünü söyle: yaklaşık bir buçuk milyon avro, beş yılda kendini öder ; Faydayı açıkla: elektriğin yaklaşık üçte biri ; Bir sınırı belirt: otoklav geceleri de çalışıyor, şebekeye hâlâ ihtiyaç var
+chunks: According to the article, … = Habere göre … ; It should pay for itself in… = … içinde kendini amorti etmeli ; Roughly a third of… = …'in kabaca üçte biri ; It's not just marketing = Sadece pazarlama değil ; The catch is that… = İşin püf noktası şu ki…
+T: Hey, I saw your factory in the local newspaper this morning. Something about solar panels? | Selam, bu sabah fabrikanızı yerel gazetede gördüm. Güneş panelleriyle ilgili bir şey mi?
+Y: Yes, that's right. According to the article, the installation starts in March, on the roof of the main production hall. | Evet, doğru. Habere göre kurulum martta, ana üretim holünün çatısında başlıyor.
+T: How big is it? Our roof is too old for panels. | Ne kadar büyük? Bizim çatımız panel için fazla eski.
+Y: About four thousand square metres, so roughly two megawatts. The roof was renewed last year, so it's strong enough. | Yaklaşık dört bin metrekare, yani kabaca iki megavat. Çatı geçen yıl yenilendi, o yüzden yeterince sağlam.
+T: That must cost a fortune. | Bu bir servete mal olmuştur.
+Y: It's about one and a half million euros, but it should pay for itself in five years. | Yaklaşık bir buçuk milyon avro ama beş yıl içinde kendini amorti etmeli.
+T: So is it real progress, or is it mainly for the company image? | Peki bu gerçek bir ilerleme mi, yoksa daha çok şirket imajı için mi?
+Y: It's not just marketing, it'll cover roughly a third of our power. The catch is that the autoclave runs at night too. | Sadece pazarlama değil, elektriğimizin kabaca üçte birini karşılayacak. İşin püf noktası şu ki otoklav geceleri de çalışıyor.
+### 3
+title: Yapay zekâ mühendisleri işsiz bırakır mı?
+brief: Öğle yemeğinde Hollandalı meslektaşın, yapay zekânın on yıl içinde mühendislerin çoğunun işini alacağını söyleyen bir haberden bahsediyor. Nüanslı bir görüş sun, hem fırsatları hem sınırları tartış.
+role: the same Dutch engineer, who has just read a dramatic newspaper headline about artificial intelligence and enjoys playing devil's advocate
+ideas: Başlığın abartılı olduğunu ama tamamen yanlış olmadığını söyle ; Somut bir örnek ver: yapay zekâ ultrason taramalarında kusurları daha hızlı işaretleyebilir ; Sınırını açıkla: sertifikasyonda imzayı ve sorumluluğu bir insan taşır ; Asıl değişecek olanı anlat: rutin hesaplar azalır, muhakeme ve iletişim daha değerli olur ; Gençlere ne önerdiğini söyle: temelleri iyi öğrenmeleri ve araçları kullanmaları ; Karşı tarafın fikrini sor
+chunks: The headline is a bit over the top = Başlık biraz abartılı ; There's a grain of truth in it = İçinde bir parça gerçek var ; Where I draw the line is… = Benim çizgi çektiğim yer … ; It will shift the balance towards… = Dengeyi …'e doğru kaydıracak ; If anything, … = Hatta tam tersine …
+T: Did you see this? It says artificial intelligence will replace most engineers within ten years. We should start looking for new jobs! | Bunu gördün mü? Yapay zekânın on yıl içinde mühendislerin çoğunun yerini alacağını yazıyor. Yeni iş aramaya başlasak iyi olur!
+Y: The headline is a bit over the top, but there's a grain of truth in it. A lot of our daily work is repetitive, and machines are getting good at that. | Başlık biraz abartılı ama içinde bir parça gerçek var. Günlük işimizin çoğu tekrarlı ve makineler bu konuda iyileşiyor.
+T: Such as? | Mesela?
+Y: Take ultrasonic inspection. Software can already scan thousands of C-scan images overnight and flag likely porosity much faster than a technician staring at a screen. | Ultrasonik muayeneyi ele al. Yazılımlar şimdiden binlerce C-tarama görüntüsünü bir gecede tarayıp olası gözenekliliği ekrana bakan bir teknisyenden çok daha hızlı işaretleyebiliyor.
+T: Exactly. So why would anyone pay a stress engineer in the future? | Aynen öyle. O zaman gelecekte neden biri bir mukavemet mühendisine para ödesin?
+Y: Where I draw the line is responsibility. When a wing spar is certified, someone has to sign the report and defend it. No authority will accept an algorithm's signature. | Benim çizgi çektiğim yer sorumluluk. Bir kanat kirişi sertifikalandırılırken birinin raporu imzalayıp savunması gerekir. Hiçbir otorite bir algoritmanın imzasını kabul etmez.
+T: Fine, but the young engineers will have fewer jobs. | Peki, ama genç mühendislerin daha az işi olacak.
+Y: Maybe fewer routine ones. If anything, it will shift the balance towards judgement and communication. I tell juniors to use these tools, not fear them. What do you think? | Belki daha az rutin işi. Hatta tam tersine, dengeyi muhakemeye ve iletişime doğru kaydıracak. Gençlere bu araçlardan korkmak yerine onları kullanmalarını söylüyorum. Sen ne düşünüyorsun?
+## home
+### 2
+title: Tavandan su sızıyor
+brief: Banyonun tavanından su damlıyor ve sızıntı üst kattaki yaşlı komşunun dairesinden geliyor gibi. Apartman yöneticisiyle konuşup sorunu anlatıyor ve bir tesisatçının ne zaman gelebileceğini ayarlıyorsun.
+role: the building manager, a busy but fair man who looks after forty flats and wants to avoid unnecessary costs
+ideas: Sorunu anlat: dün geceden beri banyo tavanından su damlıyor ; Kaynağını tahmin et: üst kattaki yaşlı komşunun banyosu, kapıyı açmadı ; Hasarı belirt: tavanda büyük bir leke, boya kabarıyor ; Acil bir çözüm iste: bugün tesisatçı, ana vanayı kapatmak ; Masrafı sor: bina sigortası mı, komşu mu ödeyecek
+chunks: There's water coming through… = …'den su geliyor ; It seems to be coming from… = …'den geliyor gibi görünüyor ; It's getting worse = Gittikçe kötüleşiyor ; Could you send someone…? = Birini gönderebilir misiniz…? ; Who's responsible for…? = …'den kim sorumlu?
+T: Good morning, Mr Kemal. My wife said you called last night. What's the problem? | Günaydın Kemal Bey. Eşim dün akşam aradığınızı söyledi. Sorun nedir?
+Y: There's water coming through my bathroom ceiling. It started last night, and now there's a big brown mark above the bath. | Banyo tavanımdan su geliyor. Dün gece başladı ve şimdi küvetin üstünde büyük kahverengi bir leke var.
+T: Is it from the roof? We had heavy rain on Tuesday. | Çatıdan mı? Salı günü çok yağmur yağdı.
+Y: I don't think so, I'm on the second floor. It seems to be coming from upstairs, but the old lady isn't answering. | Sanmıyorum, ben ikinci kattayım. Üst kattan geliyor gibi görünüyor ama yaşlı hanım kapıyı açmıyor.
+T: She's probably at her daughter's. She goes there most weekends. | Muhtemelen kızındadır. Çoğu hafta sonu oraya gider.
+Y: Maybe, but it's getting worse. Could you send someone today, or at least turn off the main water? | Olabilir ama gittikçe kötüleşiyor. Bugün birini gönderebilir misiniz, ya da en azından ana vanayı kapatabilir misiniz?
+T: I'll call the plumber now. He has a spare key for emergencies. | Tesisatçıyı şimdi ararım. Acil durumlar için onda yedek anahtar var.
+Y: Thank you. And who's responsible for the repair costs, the building insurance or my neighbour? | Teşekkürler. Peki tamir masraflarından kim sorumlu, bina sigortası mı yoksa komşum mu?
+### 3
+title: Apartman toplantısında güçlendirme önerisi
+brief: Apartmanın yıllık toplantısındasın. Komşuları, binanın deprem güçlendirmesi ve dış cephe yalıtımı için ortak bir fon oluşturmaya ikna etmeye çalışıyorsun, ama birçoğu masraftan çekiniyor.
+role: a retired neighbour who chairs the residents' meeting, careful with money and sceptical of big projects
+ideas: Neden şimdi konuştuğunu açıkla: bina 1985 yapımı, geçen haftaki sızıntı tesisat ve yapının yaşlandığını gösterdi ; Riski net ama sakin anlat: mühendis olarak raporu okudun, kolonlar güncel yönetmeliğe uymuyor ; Maliyeti ve finansmanı söyle: daire başına yaklaşık sekiz bin avro, üç yıla yayılabilir, devlet kredisi var ; Faydayı belirt: güvenlik, yalıtımla düşük ısınma faturası, daire değerinin artması ; İtirazı kabul et: emekliler için ağır bir yük ; Bir sonraki adımı öner: bağımsız bir mühendisten yapı raporu ve oylama gelecek ay
+chunks: I'll be the first to admit that… = …'i ilk kabul eden ben olurum ; I don't want to scare anyone, but… = Kimseyi korkutmak istemem ama… ; It works out at about… per flat = Daire başına yaklaşık …'e denk geliyor ; In the long run, … = Uzun vadede … ; Why don't we start by…? = Neden işe …'le başlamıyoruz?
+T: Next on the agenda, Kemal wants to talk about strengthening the building. I must say, a lot of us are worried about the cost. | Gündemde sıradaki konu, Kemal binanın güçlendirilmesinden bahsetmek istiyor. Söylemeliyim ki çoğumuz masraftan endişeli.
+Y: I'll be the first to admit that it's expensive. But the building is from 1985, and last month's leak reminded us that the pipes and the structure are getting old. | Pahalı olduğunu ilk kabul eden ben olurum. Ama bina 1985 yapımı ve geçen ayki sızıntı bize tesisatın ve yapının yaşlandığını hatırlattı.
+T: It has survived two earthquakes already. Isn't that enough proof? | Şimdiye kadar iki depremi atlattı. Bu yeterli kanıt değil mi?
+Y: I don't want to scare anyone, but I read the old structural report, and several columns don't meet the current regulations. Surviving small earthquakes doesn't mean it will survive a big one. | Kimseyi korkutmak istemem ama eski yapı raporunu okudum ve birkaç kolon güncel yönetmeliğe uymuyor. Küçük depremleri atlatmış olması büyük bir depremi atlatacağı anlamına gelmez.
+T: And how much are we talking about? Many of us are retired. | Peki ne kadardan bahsediyoruz? Çoğumuz emekliyiz.
+Y: With the outside insulation, it works out at about eight thousand euros per flat, spread over three years. There's also a government loan with very low interest. | Dış cephe yalıtımıyla birlikte daire başına yaklaşık sekiz bin avroya denk geliyor ve üç yıla yayılıyor. Ayrıca faizi çok düşük bir devlet kredisi de var.
+T: That's still a lot of money for a pensioner. | Bu bir emekli için hâlâ çok para.
+Y: I completely understand. In the long run, insulation should cut heating bills by a third. Why don't we start by getting an independent engineer's report and vote next month? | Tamamen anlıyorum. Uzun vadede yalıtım ısınma faturalarını üçte bir azaltmalı. Neden işe bağımsız bir mühendisten rapor alarak başlayıp gelecek ay oylamıyoruz?
+## shopping
+### 2
+title: Hediyeyi değiştirmek
+brief: Meslektaşının doğum günü için aldığın mavi şaldan bir tane daha olduğu ortaya çıktı. Fişi kaybettin ama mağazaya gidip şalı başka bir şeyle değiştirmeye ya da paranı geri almaya çalışıyorsun.
+role: a shop assistant who follows the store's return policy carefully but wants to keep the customer happy
+ideas: Durumu anlat: geçen cuma aldığın mavi şal, meslektaşının aynısı varmış ; Sorunu kabul et: fişi kaybettin ama kartla ödedin ; Kanıt öner: banka uygulamasındaki ödeme kaydı, kırk avro ; Ne istediğini söyle: para iadesi ya da başka bir ürünle değişim ; Bir seçim yap: değişimi kabul et, deri bir defter al ve farkı öde
+chunks: I'd like to return this = Bunu iade etmek istiyorum ; It turns out that… = …olduğu ortaya çıktı ; I've lost the receipt = Fişi kaybettim ; Would it be possible to…? = …mümkün olur mu? ; I'll pay the difference = Farkı öderim
+T: Hello again! Did your colleague like the scarf? | Tekrar merhaba! Meslektaşınız şalı beğendi mi?
+Y: Well, not exactly. I'd like to return this, please. It turns out that she already has the same scarf in blue. | Şey, pek değil. Bunu iade etmek istiyorum lütfen. Aynı şalın mavisinin onda zaten olduğu ortaya çıktı.
+T: Oh no! Do you have the receipt? | Eyvah! Fişiniz var mı?
+Y: I'm afraid I've lost the receipt. But I paid by card, and the payment is on my banking app. | Korkarım fişi kaybettim. Ama kartla ödedim ve ödeme banka uygulamamda görünüyor.
+T: Without a receipt, I can't give you a refund. But I can offer an exchange. | Fiş olmadan para iadesi yapamam. Ama değişim önerebilirim.
+Y: That's fine. Would it be possible to swap it for a leather notebook? She takes a lot of notes. | Sorun değil. Bunu deri bir defterle değiştirmek mümkün olur mu? Çok not alır.
+T: Of course. The notebook is fifty-five euros, so there's a difference of fifteen. | Tabii. Defter elli beş avro, yani on beş avroluk bir fark var.
+Y: No problem, I'll pay the difference. And could you wrap it again, please? Her birthday party is tonight. | Sorun değil, farkı öderim. Bir de tekrar paketleyebilir misiniz lütfen? Doğum günü partisi bu akşam.
+### 3
+title: Arızalı ürün için müşteri hizmetleri
+brief: Üç ay önce aldığın pahalı çamaşır makinesi ikinci kez bozuldu. Müşteri hizmetlerini arayıp bir kez daha tamir yerine ürünün değiştirilmesi için kararlı ama nazik bir şekilde ikna etmeye çalışıyorsun.
+role: a customer service agent at an electronics chain who is trained to offer repairs first and needs a manager's approval for a replacement
+ideas: Durumu net özetle: dokuz yüz avroluk makine, üç ayda iki arıza, aynı hata kodu ; İlk tamirin işe yaramadığını belirt: teknisyen motor kartını değiştirdi, iki hafta sonra yine durdu ; Ne istediğini açıkça söyle: tamir değil yeni makine ; Hakkını hatırlat: garanti süresi ve tüketici yasası, tekrarlayan arıza ; Karşı tarafın sınırını kabul et ve bir yöneticiyle görüşmek iste ; Zaman sınırı koy: yazılı yanıt bekliyorsun, cuma gününe kadar
+chunks: Let me give you the full picture = Size tüm tabloyu anlatayım ; It's the same fault again = Yine aynı arıza ; With all due respect, … = Saygısızlık etmek istemem ama … ; I'm not prepared to… = …'e razı değilim ; I'd appreciate it if you could… = …'ebilirseniz memnun olurum
+T: Thank you for calling. I understand there's a problem with your washing machine. Can you describe it? | Aradığınız için teşekkürler. Çamaşır makinenizle ilgili bir sorun olduğunu anlıyorum. Tarif edebilir misiniz?
+Y: Let me give you the full picture. I bought it three months ago for nine hundred euros, and it has stopped mid-wash twice. It's the same fault again, error E21. | Size tüm tabloyu anlatayım. Üç ay önce dokuz yüz avroya aldım ve iki kez yıkamanın ortasında durdu. Yine aynı arıza, E21 hatası.
+T: I'm sorry to hear that. I can book a technician for next Wednesday. | Bunu duyduğuma üzüldüm. Gelecek çarşamba için bir teknisyen ayarlayabilirim.
+Y: With all due respect, a technician already replaced the motor board last month, and it failed again two weeks later. I'm not prepared to go through another repair. | Saygısızlık etmek istemem ama geçen ay bir teknisyen motor kartını zaten değiştirdi ve iki hafta sonra yine bozuldu. Bir tamir sürecine daha razı değilim.
+T: I understand, but our procedure is to try a repair first. | Anlıyorum ama prosedürümüz önce tamiri denemek.
+Y: I appreciate that you have procedures. But under consumer law, if the same fault keeps coming back within the warranty, I'm entitled to a replacement. That's what I'm asking for. | Prosedürleriniz olduğunu takdir ediyorum. Ama tüketici yasasına göre aynı arıza garanti süresi içinde tekrarlıyorsa değişim hakkım var. İstediğim de bu.
+T: I'm not able to approve that myself, I'm afraid. | Korkarım bunu kendim onaylayamıyorum.
+Y: That's fine, I understand it's not your decision. I'd appreciate it if you could pass this to your manager and send me a written answer by Friday. Meanwhile, we're washing clothes by hand. | Sorun değil, bunun sizin kararınız olmadığını anlıyorum. Bunu yöneticinize iletip cumaya kadar bana yazılı bir yanıt gönderebilirseniz memnun olurum. Bu arada çamaşırları elde yıkıyoruz.
+## school
+### 2
+title: Öğretmenle veli görüşmesi
+brief: On iki yaşındaki oğlunun matematik notları son dönemde düştü. Veli görüşmesinde öğretmenine sorular soruyor, evdeki durumu anlatıyor ve birlikte bir plan yapıyorsun.
+role: your son's maths teacher, kind but direct, who has noticed he is tired and distracted in class
+ideas: Neden geldiğini söyle: oğlunun matematik notu doksandan altmış beşe düştü ; Öğretmene sor: sınıfta ne gözlemliyor ; Evdeki durumu anlat: geç saate kadar telefonla oyun oynuyor ; Bir plan öner: akşam dokuzdan sonra telefon yok, haftada iki ek çalışma ; Bir sonraki görüşmeyi ayarla: altı hafta sonra
+chunks: I'm a bit worried about… = …'den biraz endişeliyim ; Have you noticed…? = …'i fark ettiniz mi? ; At home, he tends to… = Evde genelde … ; What can we do to…? = …için ne yapabiliriz? ; Let's see how it goes = Bakalım nasıl gidecek
+T: Thank you for coming, Mr Kemal. Please have a seat. | Geldiğiniz için teşekkürler Kemal Bey. Lütfen oturun.
+Y: Thank you. I'm a bit worried about my son's maths. His grade dropped from ninety to sixty-five this term. | Teşekkürler. Oğlumun matematiğinden biraz endişeliyim. Bu dönem notu doksandan altmış beşe düştü.
+T: Yes, I've seen that. He's clearly able, but he isn't doing his homework. | Evet, gördüm. Belli ki yetenekli ama ödevlerini yapmıyor.
+Y: Have you noticed anything else in class? He used to love maths and science. | Sınıfta başka bir şey fark ettiniz mi? Eskiden matematiği ve fen bilgisini çok severdi.
+T: He often looks tired, and sometimes he falls asleep in the first lesson. | Sık sık yorgun görünüyor, bazen ilk derste uyuyakalıyor.
+Y: That makes sense. At home, he tends to play games on his phone until midnight. What can we do to change that? | Bu mantıklı. Evde genelde gece yarısına kadar telefonda oyun oynuyor. Bunu değiştirmek için ne yapabiliriz?
+T: Take his phone away at nine. I also run an extra class on Tuesdays and Thursdays. | Telefonunu saat dokuzda alın. Ayrıca salı ve perşembe günleri ek bir ders yapıyorum.
+Y: Great, he'll be there. Let's see how it goes, and maybe we can meet again in six weeks. | Harika, katılacak. Bakalım nasıl gidecek, belki altı hafta sonra tekrar görüşebiliriz.
+### 3
+title: Okula mühendislik kulübü önerisi
+brief: Okul müdürüne, şirketinin desteğiyle ortaokul öğrencileri için bir mühendislik ve kompozit kulübü kurmayı öneriyorsun. Müdürün güvenlik, bütçe ve öğretmen zamanıyla ilgili kaygılarını yanıtlaman gerekiyor.
+role: the head teacher of your son's school, open to new ideas but worried about safety rules, budget and overloaded teachers
+ideas: Fikri ve nedenini anlat: çocuklar matematiği ve fizik derslerini soyut buluyor, elle bir şey üretmek merak uyandırır ; Somut bir proje örneği ver: kompozit köprü ya da küçük bir planör yapıp test etmek ; Şirketin katkısını açıkla: malzeme, iki gönüllü mühendis, yılda üç bin avro ; Güvenlik kaygısını yanıtla: reçine yok, hazır plakalar ve basit aletler, gözlük ; Öğretmenlerin yükünü azaltacak bir yol öner: dersleri mühendisler verir, bir öğretmen gözetmen olur ; Küçük bir başlangıç öner: bir dönemlik deneme, on beş öğrenci
+chunks: What I have in mind is… = Aklımdaki şey … ; It would bring … to life = …'i canlandırır ; We'd be covering… = …'i biz karşılıyor olurduk ; I take your point about… = … konusundaki görüşünüzü anlıyorum ; Why don't we try it for…? = Neden bunu … boyunca denemiyoruz?
+T: You wrote to me about an engineering club. Tell me more, but I should warn you, our budget is very tight this year. | Bana bir mühendislik kulübü hakkında yazmıştınız. Daha fazlasını anlatın ama sizi uyarmalıyım, bu yıl bütçemiz çok kısıtlı.
+Y: What I have in mind is a weekly after-school club where children build something real. Many kids find physics abstract, and a practical project would bring the theory to life. | Aklımdaki şey, çocukların gerçek bir şey ürettiği haftalık bir okul sonrası kulübü. Birçok çocuk fiziği soyut buluyor ve pratik bir proje teoriyi canlandırır.
+T: What would they actually build? | Tam olarak ne inşa edeceklerdi?
+Y: For example, they could design a small bridge from carbon strips and test it with weights until it breaks. They'd learn about loads and materials without even noticing. | Örneğin karbon şeritlerden küçük bir köprü tasarlayıp kırılana kadar ağırlıkla test edebilirler. Farkına bile varmadan yükleri ve malzemeleri öğrenirler.
+T: And the cost? I can't take money from other subjects. | Peki maliyet? Diğer derslerden para alamam.
+Y: You wouldn't need to. We'd be covering the materials and about three thousand euros a year, and two of our engineers have volunteered to run the sessions. | Buna gerek kalmaz. Malzemeleri ve yılda yaklaşık üç bin avroyu biz karşılıyor olurduk ve iki mühendisimiz dersleri yürütmek için gönüllü oldu.
+T: My other worry is safety. Chemicals, sharp tools, that kind of thing. | Diğer endişem güvenlik. Kimyasallar, keskin aletler, o tür şeyler.
+Y: I take your point about safety. There'd be no resin, only ready-made strips, simple tools and safety glasses. Why don't we try it for one term with fifteen pupils? | Güvenlik konusundaki görüşünüzü anlıyorum. Reçine olmaz, sadece hazır şeritler, basit aletler ve koruyucu gözlük. Neden bunu on beş öğrenciyle bir dönem boyunca denemiyoruz?
+## sport
+### 2
+title: Fizyoterapistte diz ağrısı
+brief: Koşunca ağrıyan dizin geçmedi ve bir fizyoterapiste gittin. Ağrının ne zaman ve nasıl olduğunu anlatıyor, egzersizler ve spora dönüş hakkında sorular soruyorsun.
+role: a physiotherapist who asks precise questions and wants to understand your daily routine before giving exercises
+ideas: Ağrının yerini ve başlangıcını söyle: sağ dizin dış tarafı, yaklaşık iki ay önce ; Ne zaman arttığını açıkla: merdiven inerken ve beş kilometreden sonra koşarken ; Günlük rutinini anlat: masa başı iş, günde sekiz saat oturmak ; Egzersizleri ve süresini sor: her gün on beş dakika, ne kadar sürer ; Spora dönüşü sor: yüzme ve bisiklet olur mu, koşu ne zaman
+chunks: It hurts when I… = …ken ağrıyor ; It started about … ago = Yaklaşık … önce başladı ; I spend most of the day… = Günün çoğunu … geçiriyorum ; How long will it take to…? = …ne kadar sürer? ; Is it OK if I…? = …sem sorun olur mu?
+T: So, tell me about your knee. Where exactly is the pain? | Evet, dizinizden bahsedin. Ağrı tam olarak nerede?
+Y: It's on the outside of my right knee. It started about two months ago, after a long run with friends. | Sağ dizimin dış tarafında. Yaklaşık iki ay önce, arkadaşlarla uzun bir koşudan sonra başladı.
+T: When does it hurt most? | En çok ne zaman ağrıyor?
+Y: It hurts when I go down the stairs, and when I run more than five kilometres. Walking is usually fine. | Merdiven inerken ve beş kilometreden fazla koşarken ağrıyor. Yürümek genelde sorun değil.
+T: What kind of work do you do? | Ne iş yapıyorsunuz?
+Y: I'm an engineer, so I spend most of the day sitting at a desk, about eight hours. | Mühendisim, bu yüzden günün çoğunu masa başında oturarak geçiriyorum, yaklaşık sekiz saat.
+T: That explains a lot. Your hip muscles are weak, so the knee does too much work. I'll give you some exercises. | Bu çok şeyi açıklıyor. Kalça kaslarınız zayıf, bu yüzden diz fazla iş yapıyor. Size bazı egzersizler vereceğim.
+Y: OK. How long will it take to get better? And is it OK if I swim in the meantime? | Tamam. İyileşmem ne kadar sürer? Bu arada yüzsem sorun olur mu?
+### 3
+title: İK'ya şirket sağlık programı önerisi
+brief: Masa başı çalışan mühendislerde bel ve diz sorunları artıyor. İnsan kaynakları müdürüne bir şirket sağlık programı öneriyor, bütçe ve katılım konusundaki itirazlarını yanıtlıyorsun.
+role: the HR manager, sympathetic but under pressure to justify every euro and sceptical that staff will actually take part
+ideas: Sorunu verilerle anlat: ekipte beş kişide bel ya da diz sorunu, geçen yıl kırk gün hastalık izni ; Kendi deneyimini paylaş: fizyoterapist dizinin uzun oturmaktan kaynaklandığını söyledi ; Programı öner: haftada iki öğle arası esneme dersi, ayarlanabilir masalar, fizyoterapist günü ; Maliyet ve faydayı karşılaştır: yılda yaklaşık on iki bin avro, birkaç günlük kayıp iş bunu karşılar ; Katılım kaygısını yanıtla: kısa, iş saatinde ve gönüllü, yöneticiler örnek olur ; Pilot öner: üç ay, tek ofis, sonra anket ve rakamlar
+chunks: It's more widespread than you'd think = Sandığınızdan daha yaygın ; It's a classic case of… = Tam bir … örneği ; It would more than pay for itself = Kendini fazlasıyla amorti eder ; The key is to make it… = Önemli olan onu … yapmak ; I'd be willing to… = …'e hazırım
+T: You said you wanted to talk about staff health. What's on your mind? | Çalışanların sağlığı hakkında konuşmak istediğini söylemiştin. Aklında ne var?
+Y: Back and knee problems. It's more widespread than you'd think. In my team alone, five people have had problems this year, and we lost about forty days to sick leave. | Bel ve diz sorunları. Sandığınızdan daha yaygın. Sadece benim ekibimde bu yıl beş kişide sorun oldu ve yaklaşık kırk günü hastalık iznine kaybettik.
+T: Forty days is a lot. Do you think it's really caused by work? | Kırk gün çok fazla. Gerçekten işten kaynaklandığını düşünüyor musun?
+Y: In my case, definitely. My physiotherapist said it's a classic case of sitting for nine hours a day. Most of us only get up for coffee and meetings. | Benim durumumda kesinlikle. Fizyoterapistim bunun günde dokuz saat oturmanın tam bir örneği olduğunu söyledi. Çoğumuz sadece kahve ve toplantı için kalkıyoruz.
+T: So what are you proposing? Our budget for next year is already fixed. | Peki ne öneriyorsun? Gelecek yılın bütçesi zaten belli.
+Y: Two stretching classes a week at lunchtime, some adjustable desks and a monthly physiotherapist visit. About twelve thousand euros a year, and it would more than pay for itself. | Öğle arasında haftada iki esneme dersi, birkaç ayarlanabilir masa ve ayda bir fizyoterapist ziyareti. Yılda yaklaşık on iki bin avro ve kendini fazlasıyla amorti eder.
+T: My experience is that people sign up, then nobody comes after two weeks. | Benim tecrübem, insanların kaydolduğu ama iki hafta sonra kimsenin gelmediği yönünde.
+Y: That's a fair concern. The key is to make it short and during working hours. I'd be willing to run a three-month pilot here and report back with the figures. | Haklı bir kaygı. Önemli olan onu kısa ve mesai saatinde yapmak. Burada üç aylık bir pilot yürütmeye ve rakamlarla geri dönmeye hazırım.
+## money
+### 2
+title: Bankada konut kredisi
+brief: Ailen için daha büyük bir daire almayı düşünüyorsun. Bankaya gidip konut kredisi, faiz oranları, peşinat ve aylık ödemeler hakkında sorular soruyorsun.
+role: a bank loan officer who is friendly but careful, and needs details about your income and savings
+ideas: Ne istediğini söyle: üç odalı bir daire, fiyatı iki yüz kırk bin avro ; Birikimini ve gelirini belirt: altmış bin avro birikim, düzenli maaş ; Faiz oranını ve vadeyi sor: sabit mi değişken mi, on beş yıl ; Aylık ödemeyi sor ve bütçenle karşılaştır ; Gerekli belgeleri ve süreyi sor
+chunks: I'm thinking of buying… = … almayı düşünüyorum ; I've saved up… = … biriktirdim ; Is the rate fixed or variable? = Faiz sabit mi değişken mi? ; What would the monthly payment be? = Aylık ödeme ne kadar olur? ; What documents do I need? = Hangi belgelere ihtiyacım var?
+T: Good morning. How can I help you today? | Günaydın. Bugün size nasıl yardımcı olabilirim?
+Y: Good morning. I'm thinking of buying a bigger flat for my family, and I'd like some information about a mortgage. | Günaydın. Ailem için daha büyük bir daire almayı düşünüyorum ve konut kredisi hakkında bilgi almak istiyorum.
+T: Of course. How much does the flat cost, and how much can you put down? | Tabii. Daire ne kadar ve ne kadar peşinat verebilirsiniz?
+Y: It's two hundred and forty thousand euros. I've saved up sixty thousand, so I need about a hundred and eighty. | İki yüz kırk bin avro. Altmış bin biriktirdim, yani yaklaşık yüz seksen bine ihtiyacım var.
+T: That's possible with your salary. We can offer a loan over fifteen or twenty years. | Maaşınızla bu mümkün. On beş ya da yirmi yıl vadeli kredi önerebiliriz.
+Y: Is the rate fixed or variable? I'm a bit nervous because interest rates have changed a lot recently. | Faiz sabit mi değişken mi? Son zamanlarda faiz oranları çok değiştiği için biraz tedirginim.
+T: We have both. The fixed rate is four point two per cent for fifteen years. | İkisi de var. On beş yıl için sabit faiz yüzde dört virgül iki.
+Y: I prefer fixed, then. What would the monthly payment be? And what documents do I need to bring? | O zaman sabiti tercih ederim. Aylık ödeme ne kadar olur? Bir de hangi belgeleri getirmem gerekiyor?
+### 3
+title: Danışmanın riskli yatırım teklifi
+brief: Bankanın yatırım danışmanı emeklilik birikimin için yüksek getirili ama yüksek ücretli ve riskli bir fon öneriyor. Kibar ama eleştirel sorular sor, riskleri ve maliyeti sorgula ve kararını kendin ver.
+role: a smooth investment adviser at your bank who earns commission on the fund and keeps stressing past returns
+ideas: Hedefini açıkla: on beş yıl sonrası için emeklilik, çocukların üniversitesi ; Geçmiş getirinin garanti olmadığını belirt ve riski sor ; Ücretleri sorgula: yıllık yüzde iki buçuk ücret uzun vadede getirinin büyük kısmını yer ; Çıkış koşullarını sor: erken çekim cezası ; Alternatif iste: düşük maliyetli endeks fonu ; Kararını erteleyeceğini ve belgeleri inceleyeceğini söyle
+chunks: Past performance is no guarantee = Geçmiş performans garanti değildir ; What's the downside? = Olumsuz tarafı ne? ; That eats into… = Bu …'i yiyip bitirir ; I'd like to see it in writing = Bunu yazılı olarak görmek isterim ; I'm going to sleep on it = Bunu bir düşüneyim
+T: For your pension, I'd recommend our Global Growth Fund. It returned eleven per cent last year. | Emekliliğiniz için Küresel Büyüme Fonumuzu öneririm. Geçen yıl yüzde on bir getiri sağladı.
+Y: Eleven per cent sounds impressive, but past performance is no guarantee. My goal is long-term, for retirement and my children's university, so I can't afford a big loss. What's the downside? | Yüzde on bir etkileyici görünüyor ama geçmiş performans garanti değildir. Hedefim uzun vadeli, emeklilik ve çocuklarımın üniversitesi için, o yüzden büyük bir kaybı göze alamam. Olumsuz tarafı ne?
+T: Of course, there's some risk. But over fifteen years, markets usually go up. | Elbette biraz risk var. Ama on beş yılda piyasalar genelde yükselir.
+Y: I understand. And what are the fees? I noticed a two and a half per cent annual charge in the brochure. | Anlıyorum. Peki ücretler ne? Broşürde yıllık yüzde iki buçuk bir ücret gördüm.
+T: Yes, but that covers active management by our experts. | Evet ama bu, uzmanlarımızın aktif yönetimini karşılıyor.
+Y: Over fifteen years, that eats into a huge share of the return. An index fund charges a fraction of that. And what happens if I need the money early? Is there a penalty? | On beş yılda bu, getirinin çok büyük bir kısmını yiyip bitirir. Bir endeks fonu bunun çok küçük bir kısmını alıyor. Peki parayı erken çekmem gerekirse ne olur? Ceza var mı?
+T: There's a small exit fee in the first five years. But honestly, this offer is only available until the end of the month. | İlk beş yıl küçük bir çıkış ücreti var. Ama açıkçası bu teklif sadece ay sonuna kadar geçerli.
+Y: Then I'd like to see it in writing, all the fees and the exit penalty, next to a cheap index fund. I'm going to sleep on it, deadline or not. | O zaman tüm ücretleri ve çıkış cezasını, ucuz bir endeks fonuyla yan yana yazılı olarak görmek isterim. Son tarih olsun ya da olmasın, bunu bir düşüneyim.
+## nature
+### 2
+title: Tatil dönüşü: kaplumbağa sahili
+brief: Tatilden döndün ve Kanadalı meslektaşına sahilde başınıza gelenleri anlatıyorsun: geceleri yuva yapan deniz kaplumbağaları, plajdaki kurallar ve bir gece yaşanan fırtına.
+role: the same Canadian colleague, who loves wildlife and wants to hear every detail of your holiday
+ideas: Tatilin genel olarak nasıl geçtiğini söyle: on gün, çok sıcak ama güzel ; Kaplumbağaları anlat: geceleri sahile yumurta bırakıyorlar ; Kuralları açıkla: akşam sekizden sonra plaj kapalı, şemsiye yok, ışık yok ; Fırtına gecesini anlat: elektrik kesildi, çocuklar korktu ; Bir sonraki planını söyle: gelecek yıl gönüllü olarak yavruların denize gidişini izlemek
+chunks: You'll never guess what we saw = Ne gördüğümüzü tahmin bile edemezsin ; It was an amazing experience = İnanılmaz bir deneyimdi ; You're not allowed to… = …'e izin yok ; In the middle of the night, … = Gecenin ortasında … ; Next time, I'd love to… = Bir dahaki sefere …'i çok isterim
+T: Welcome back! You look very relaxed. How was the coast? | Hoş geldin! Çok dinlenmiş görünüyorsun. Sahil nasıldı?
+Y: It was great, thanks, but very hot. And you'll never guess what we saw. Sea turtles on the beach! | Harikaydı, teşekkürler, ama çok sıcaktı. Ve ne gördüğümüzü tahmin bile edemezsin. Sahilde deniz kaplumbağaları!
+T: No way! I've only seen them on TV. What was it like? | Olamaz! Ben onları sadece televizyonda gördüm. Nasıldı?
+Y: It was an amazing experience. A huge turtle came out of the sea at night and dug a hole. | İnanılmaz bir deneyimdi. Gece kocaman bir kaplumbağa denizden çıktı ve bir çukur kazdı.
+T: Are tourists allowed on the beach at night? | Turistlerin gece sahile girmesine izin var mı?
+Y: Not really. After eight, you're not allowed to use torches or umbrellas there. Volunteers protect the nests. | Pek değil. Akşam sekizden sonra orada el feneri ya da şemsiye kullanmana izin yok. Gönüllüler yuvaları koruyor.
+T: Sounds like a perfect holiday. | Mükemmel bir tatil gibi görünüyor.
+Y: Mostly. In the middle of the night, there was a storm and the power went off. Next time, I'd love to volunteer. | Çoğunlukla. Gecenin ortasında bir fırtına çıktı ve elektrik kesildi. Bir dahaki sefere gönüllü olmayı çok isterim.
+### 3
+title: Sahile otel yapılmalı mı?
+brief: Tatil yaptığın sahile büyük bir otel kompleksi yapılması planlanıyor. Kanadalı meslektaşınla turizmin ekonomik faydaları ile doğayı koruma arasındaki dengeyi tartışıyor, nüanslı bir görüş sunuyorsun.
+role: the same Canadian colleague, a passionate environmentalist who thinks any new hotel on the coast is a disaster
+ideas: Haberi aktar: kaplumbağa sahilinin yanına beş yüz odalı bir otel planlanıyor ; İki tarafı da kabul et: bölgede iş yok, gençler şehre göç ediyor ; Doğaya etkisini anlat: ışık, gürültü ve kalabalık kaplumbağaları uzaklaştırır ; Kendi görüşünü belirt: yasaklamak yerine daha küçük ve kurallı bir turizm ; Somut koşullar öner: sahilden üç yüz metre uzaklık, gece aydınlatma yasağı, gelirin bir kısmı koruma programına ; Karşı tarafın fikrine nazikçe itiraz et ve ortak noktayı bul
+chunks: It's a tricky one = Zor bir mesele ; I'd play devil's advocate here = Burada şeytanın avukatlığını yapacağım ; It's not as black and white as… = … kadar siyah beyaz değil ; As long as there are strict conditions, … = Sıkı şartlar olduğu sürece … ; I think we can agree that… = Sanırım …'de anlaşabiliriz
+T: Did you hear they want to build a five-hundred-room hotel right next to your turtle beach? It's a disaster! | Tam da senin kaplumbağa sahilinin yanına beş yüz odalı bir otel yapmak istediklerini duydun mu? Tam bir felaket!
+Y: I did, and honestly, it's a tricky one. My heart says protect the beach, but there are hardly any jobs in that region, and young people are leaving for the cities. | Duydum ve açıkçası zor bir mesele. Kalbim sahili koru diyor ama o bölgede neredeyse hiç iş yok ve gençler şehirlere göç ediyor.
+T: So you'd sacrifice the turtles for a few waiter jobs? | Yani birkaç garsonluk işi için kaplumbağaları feda mı edersin?
+Y: Not at all. But I'd play devil's advocate here. Without any income, local people have no reason to protect the turtles. It's not as black and white as nature versus money. | Hiç de değil. Ama burada şeytanın avukatlığını yapacağım. Hiçbir gelir olmadan yerel halkın kaplumbağaları korumak için bir nedeni olmaz. Doğa ile para kadar siyah beyaz değil.
+T: But the lights and the crowds will scare the turtles away. That's well documented. | Ama ışıklar ve kalabalık kaplumbağaları kaçıracak. Bu iyi belgelenmiş bir şey.
+Y: You're right about that. As long as there are strict conditions, though, a smaller hotel could work: far from the sand, no beach lighting at night, and part of the profit funding volunteers. | Bu konuda haklısın. Ama sıkı şartlar olduğu sürece daha küçük bir otel işe yarayabilir: kumdan uzakta, geceleri sahile ışık yok ve kârın bir kısmı gönüllüleri finanse ediyor.
+T: And who would check that they keep their promises? | Peki sözlerini tuttuklarını kim kontrol edecek?
+Y: That's the weak point, I admit. It would need an independent body that can fine them. But I think we can agree that five hundred rooms on the beach is far too many. | Zayıf nokta bu, kabul ediyorum. Onları cezalandırabilecek bağımsız bir kurum gerekir. Ama sanırım sahilde beş yüz odanın çok fazla olduğunda anlaşabiliriz.

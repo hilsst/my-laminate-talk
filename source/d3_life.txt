@@ -1,0 +1,271 @@
+## intro | Introduction | Kendini ve uzmanlığını tanıt | life
+brief: Yeni bir uluslararası proje toplantısının başında kendini tanıtıyorsun: rolün, deneyimin, kompozit üretim ve analiz konusundaki uzmanlığın ve bu projeye ne katacağın.
+role: the project lead of a new international programme, friendly and curious about each team member's background
+### 1
+chunks: My name is… = Benim adım… ; I am a … engineer = Ben bir … mühendisiyim ; I work with… = …ile çalışıyorum ; I have … years of experience = … yıllık deneyimim var ; Nice to meet you all = Hepinizle tanıştığıma memnun oldum
+T: Welcome, everyone! Can you tell us a little about yourself? | Herkese hoş geldiniz! Bize biraz kendinden bahseder misin?
+Y: Of course. Hi everyone, my name is Kemal. | Tabii. Herkese merhaba, benim adım Kemal.
+T: Nice to meet you, Kemal. What do you do? | Tanıştığımıza memnun oldum Kemal. Ne iş yapıyorsun?
+Y: I am a mechanical engineer. I work with composite materials. | Ben bir makine mühendisiyim. Kompozit malzemelerle çalışıyorum.
+T: Where are you from? | Nerelisin?
+Y: I am from Turkey. I live in a big city near the sea. | Türkiye'denim. Denize yakın büyük bir şehirde yaşıyorum.
+T: How long have you worked in this area? | Bu alanda ne kadar zamandır çalışıyorsun?
+Y: I have fifteen years of experience. Nice to meet you all. | On beş yıllık deneyimim var. Hepinizle tanıştığıma memnun oldum.
+### 2
+chunks: I've been working with … for … = … yıldır … ile çalışıyorum ; both … and … = hem … hem … ; Most of my experience is with… = Deneyimimin çoğu … ile ; I'll be responsible for… = …'den sorumlu olacağım ; Feel free to ask me about… = Bana … hakkında sormaktan çekinmeyin
+T: Let's do a quick round of introductions. Would you like to start? | Hızlı bir tanışma turu yapalım. Başlamak ister misin?
+Y: Sure. I'm Kemal, and I'm a mechanical engineer at our company in Turkey. | Tabii. Ben Kemal, Türkiye'deki şirketimizde makine mühendisiyim.
+T: What's your background? | Geçmişin nedir?
+Y: I've been working with composite structures for about fifteen years, both on the analysis and the manufacturing side. | Yaklaşık on beş yıldır kompozit yapılarla çalışıyorum, hem analiz hem üretim tarafında.
+T: Interesting. Which industries? | İlginç. Hangi sektörlerde?
+Y: Most of my experience is with aircraft parts, but I've also worked on wind turbine blades and rail vehicles. | Deneyimimin çoğu uçak parçalarıyla ama rüzgar türbini kanatları ve raylı araçlar üzerinde de çalıştım.
+T: And what will you do in this team? | Peki bu ekipte ne yapacaksın?
+Y: I'll be responsible for the laminate design. Feel free to ask me about materials or processes at any time. | Laminat tasarımından sorumlu olacağım. Malzemeler ya da süreçler hakkında bana her zaman sormaktan çekinmeyin.
+### 3
+chunks: I'm a mechanical engineer by training = Eğitimim makine mühendisliği ; My focus is on… = Odak noktam… ; from concept to qualification = konseptten kalifikasyona kadar ; On this project, I'll be looking after… = Bu projede … konusundan sorumlu olacağım ; Feel free to reach out if… = … olursa bana ulaşmaktan çekinmeyin
+T: Welcome everyone. Let's do a round of introductions. Would you like to start and tell us a bit about your background? | Herkese hoş geldiniz. Bir tanışma turu yapalım. Başlayıp bize biraz geçmişinden bahsetmek ister misin?
+Y: Happy to. I'm Kemal. I'm a mechanical engineer by training, and I've spent about fifteen years working with composite structures. | Memnuniyetle. Ben Kemal. Eğitimim makine mühendisliği ve yaklaşık on beş yılımı kompozit yapılarla çalışarak geçirdim.
+T: Are you more on the analysis side or the production side? | Daha çok analiz tarafında mısın, üretim tarafında mı?
+Y: Both, really. My focus is on linking the two, so I usually follow a part from concept to qualification. | Aslında ikisi de. Odak noktam ikisini birbirine bağlamak, bu yüzden genelde bir parçayı konseptten kalifikasyona kadar takip ediyorum.
+T: That's a rare combination. What have you worked on recently? | Bu nadir bir kombinasyon. Son zamanlarda ne üzerinde çalıştın?
+Y: Mostly carbon-epoxy parts for aircraft, made by prepreg lay-up, RTM and filament winding, plus a few wind energy projects. | Çoğunlukla prepreg yatırma, RTM ve fitil sarma ile üretilen uçak için karbon-epoksi parçalar, artı birkaç rüzgar enerjisi projesi.
+T: Great. And what's your role going to be here? | Harika. Peki buradaki rolün ne olacak?
+Y: On this project, I'll be looking after the laminate design and the stress analysis of the primary structure. Feel free to reach out if anything is unclear. | Bu projede laminat tasarımı ve birincil yapının gerilme analizinden sorumlu olacağım. Herhangi bir şey belirsizse bana ulaşmaktan çekinmeyin.
+
+## coffee | Coffee break | Kahve molası: hafta sonu, aile, spor | life
+brief: Toplantı arasında yabancı bir meslektaşla kahve içiyorsun. Hafta sonun, ailen, hobilerin, spor ve hava durumu hakkında sohbet ediyorsun.
+role: a friendly colleague from the partner company in Germany who likes football, hiking and cooking
+### 1
+chunks: How was your weekend? = Hafta sonun nasıldı? ; I went to… = …'e gittim ; My kids love… = Çocuklarım …'i çok seviyor ; I like … very much = …'i çok severim ; What about you? = Ya sen?
+T: Good morning! Do you want a coffee or a tea? | Günaydın! Kahve mi çay mı istersin?
+Y: A coffee, please, with milk and no sugar. | Kahve lütfen, sütlü ve şekersiz.
+T: Here you are. How was your weekend? | Buyur. Hafta sonun nasıldı?
+Y: It was lovely. I went to the beach with my family. | Çok güzeldi. Ailemle sahile gittim.
+T: Nice! Was the weather good? | Güzel! Hava iyi miydi?
+Y: Yes, it was sunny and warm. My kids love swimming in the sea. | Evet, güneşli ve sıcaktı. Çocuklarım denizde yüzmeyi çok seviyor.
+T: I stayed at home and watched football. | Ben evde kaldım ve futbol izledim.
+Y: I like football very much too. Which team do you support? | Ben de futbolu çok severim. Hangi takımı tutuyorsun?
+### 2
+chunks: We had a great time = Çok güzel vakit geçirdik ; I'm not really into… = …'e pek ilgim yok ; In my free time, I… = Boş zamanımda … ; It reminds me of… = Bana …'i hatırlatıyor ; By the way, … = Bu arada…
+T: So, did you do anything nice at the weekend? | Hafta sonu güzel bir şey yaptın mı?
+Y: We had a great time, thanks. We drove to a small village in the mountains and had lunch by the river. | Çok güzel vakit geçirdik, teşekkürler. Dağlarda küçük bir köye arabayla gidip nehir kenarında öğle yemeği yedik.
+T: That sounds lovely. Do you go hiking often? | Kulağa çok hoş geliyor. Sık sık doğa yürüyüşüne gider misin?
+Y: Not as often as I'd like. In my free time, I usually cook or play tennis with my son. | İstediğim kadar sık değil. Boş zamanımda genelde yemek yaparım ya da oğlumla tenis oynarım.
+T: I love cooking too. What's your favourite dish? | Ben de yemek yapmayı severim. En sevdiğin yemek ne?
+Y: Probably a simple fish soup. It reminds me of my grandmother's kitchen. | Muhtemelen basit bir balık çorbası. Bana büyükannemin mutfağını hatırlatıyor.
+T: Did you see the match on Saturday? | Cumartesi maçı gördün mü?
+Y: I'm not really into football, to be honest. By the way, is the meeting still at ten? | Açıkçası futbola pek ilgim yok. Bu arada toplantı hâlâ onda mı?
+### 3
+chunks: I could do with… = …'e ihtiyacım var (kahve vb.) ; We ended up… = Sonunda … yaptık ; It was a nice change from… = …'den hoş bir değişiklikti ; I've been meaning to… = Bir süredir …'mek istiyordum ; Anyway, … = Neyse…
+T: Morning! You look like you could do with a coffee. Long night? | Günaydın! Bir kahveye ihtiyacın var gibi görünüyorsun. Uzun bir gece miydi?
+Y: I could definitely do with a coffee. My daughter had a school concert last night, and we got home quite late. | Kesinlikle bir kahveye ihtiyacım var. Kızımın dün akşam okulda bir konseri vardı ve eve oldukça geç döndük.
+T: Oh, how lovely. What does she play? | Ah ne güzel. Ne çalıyor?
+Y: The piano. She was nervous before the show, but she played beautifully, and I was really proud of her. | Piyano. Gösteriden önce gergindi ama çok güzel çaldı ve onunla gerçekten gurur duydum.
+T: And the rest of the weekend? Anything exciting? | Peki hafta sonunun geri kalanı? Heyecan verici bir şey?
+Y: We planned to go camping, but the weather was terrible, so we ended up visiting a museum instead. It was a nice change from screens. | Kampa gitmeyi planlamıştık ama hava berbattı, bu yüzden sonunda bir müzeyi ziyaret ettik. Ekranlardan hoş bir değişiklikti.
+T: Good choice. I've been meaning to take my kids to the science museum here. | İyi seçim. Bir süredir çocuklarımı buradaki bilim müzesine götürmek istiyordum.
+Y: You should. Anyway, we'd better go back in. I think they're about to start the next session. | Götürmelisin. Neyse, içeri dönsek iyi olur. Sanırım bir sonraki oturuma başlamak üzereler.
+
+## dinner | Client dinner | Müşteriyle akşam yemeği | life
+brief: Ziyarete gelen müşteriyle şehirde akşam yemeğindesin. Menü, yerel yemekler, şehrin tarihi, seyahat ve kültür hakkında sohbet ediyor, misafirperverlik gösteriyorsun.
+role: a visiting customer from the UK, curious about local food and culture, polite and a bit adventurous
+### 1
+chunks: Would you like…? = … ister misiniz? ; This is a traditional dish = Bu geleneksel bir yemek ; It's a bit spicy = Biraz acı ; Do you like…? = …'i sever misiniz? ; Enjoy your meal! = Afiyet olsun!
+T: What a beautiful restaurant! What do you recommend? | Ne güzel bir restoran! Ne önerirsiniz?
+Y: Would you like to try a traditional dish? | Geleneksel bir yemek denemek ister misiniz?
+T: Yes, please. What is it? | Evet, lütfen. Nedir?
+Y: It's lamb with rice and vegetables. It's a bit spicy. | Pilav ve sebzeli kuzu eti. Biraz acı.
+T: That's fine. I like spicy food. | Sorun değil. Acı yemeği severim.
+Y: Great. Do you like fish? The fish here is very fresh. | Harika. Balık sever misiniz? Buradaki balık çok taze.
+T: I love fish. Let's order some for the table. | Balığa bayılırım. Masa için biraz sipariş edelim.
+Y: Good idea. And for dessert, you must try the baklava. Enjoy your meal! | İyi fikir. Tatlı olarak da baklavayı mutlaka denemelisiniz. Afiyet olsun!
+### 2
+chunks: I'd recommend… = …'i öneririm ; It's made with… = … ile yapılıyor ; Have you ever been to…? = Hiç …'e gittiniz mi? ; It's famous for… = … ile ünlü ; This one's on us = Bu bizden
+T: Everything on the menu looks delicious. I don't know what to choose. | Menüdeki her şey lezzetli görünüyor. Ne seçeceğimi bilmiyorum.
+Y: I'd recommend the grilled fish. It's caught locally every morning. | Izgara balığı öneririm. Her sabah yerel olarak tutuluyor.
+T: And what's that dish the next table is having? | Peki yandaki masanın yediği o yemek ne?
+Y: That's a kind of meat pie. It's made with beef, onions and a thin pastry, and it's baked in a stone oven. | O bir tür etli börek. Dana eti, soğan ve ince hamurla yapılıyor ve taş fırında pişiriliyor.
+T: This city is wonderful. Is it very old? | Bu şehir harika. Çok eski mi?
+Y: Yes, it's more than two thousand years old. It's famous for its castle and its markets. | Evet, iki bin yıldan daha eski. Kalesi ve pazarlarıyla ünlü.
+T: Have you ever been to London? | Hiç Londra'ya gittiniz mi?
+Y: Only once, for a conference, but I'd love to go back with my wife. And please, put your wallet away. This one's on us. | Sadece bir kez, bir konferans için, ama eşimle tekrar gitmeyi çok isterim. Ve lütfen cüzdanınızı kaldırın. Bu bizden.
+### 3
+chunks: You can't leave without trying… = …'i denemeden gidemezsiniz ; It's an acquired taste = Zamanla sevilen bir tat ; The story goes that… = Rivayete göre… ; It's well worth a visit = Kesinlikle ziyaret etmeye değer ; I insist = Israr ediyorum
+T: I have to say, the view from here is spectacular. Thank you for bringing me. | Söylemeliyim ki buradan manzara muhteşem. Beni getirdiğiniz için teşekkürler.
+Y: It's a pleasure. You can't leave the city without trying the local fish, and this place is the best on the coast. | Rica ederim. Yerel balığı denemeden şehirden ayrılamazsınız ve burası kıyıdaki en iyi yer.
+T: What's this white drink everyone is having? | Herkesin içtiği bu beyaz içki ne?
+Y: That's rakı. It's an acquired taste, to be honest. It has a strong flavour of anise, so I'd suggest adding plenty of water and ice. | O rakı. Açıkçası zamanla sevilen bir tat. Güçlü bir anason aroması var, bu yüzden bol su ve buz eklemenizi öneririm.
+T: And that tower on the hill, is it historical? | Peki tepedeki o kule tarihi mi?
+Y: It is. The story goes that a princess was locked in it to protect her from a snake. It's well worth a visit if you have a free morning. | Evet. Rivayete göre bir prenses yılandan korunmak için oraya kapatılmış. Boş bir sabahınız varsa kesinlikle ziyaret etmeye değer.
+T: I'd love to. Now, please let me pay for dinner. You've been so generous. | Çok isterim. Şimdi lütfen akşam yemeğini ben ödeyeyim. Çok cömert davrandınız.
+Y: Absolutely not, you're our guest. I insist. You can return the favour when we visit you in Bristol. | Asla, siz bizim misafirimizsiniz. Israr ediyorum. Bristol'a geldiğimizde iyiliğinizi karşılık olarak yaparsınız.
+
+## travel | Business trip | İş seyahati: havaalanı, otel, taksi | life
+brief: Bir tedarikçiyi ziyaret etmek için yurt dışındasın. Uçuş gecikti, otelde rezervasyon sorunu var ve taksiyle fabrikaya gitmen gerekiyor. Kendi işini hallet.
+role: different people you meet on the trip: an airline agent, a hotel receptionist and a taxi driver, all helpful but busy
+### 1
+chunks: My flight is late = Uçuşum gecikti ; I have a reservation = Rezervasyonum var ; How much is it? = Ne kadar? ; Can you take me to…? = Beni …'e götürebilir misiniz? ; Where is…? = … nerede?
+T: Good evening. Can I help you? | İyi akşamlar. Yardımcı olabilir miyim?
+Y: Yes, please. I have a reservation. My name is Kemal. | Evet, lütfen. Rezervasyonum var. Adım Kemal.
+T: Sorry, I can't find your name. | Üzgünüm, adınızı bulamıyorum.
+Y: My flight was late. I booked a room for two nights. | Uçuşum gecikti. İki gecelik bir oda ayırttım.
+T: Ah, here it is. Room three hundred and twelve. | Ah, işte burada. Üç yüz on iki numaralı oda.
+Y: Thank you. Where is the lift? | Teşekkürler. Asansör nerede?
+T: Just behind you. Breakfast is from seven. | Hemen arkanızda. Kahvaltı yedide başlıyor.
+Y: Great. Can you call a taxi for me at eight tomorrow? | Harika. Yarın sabah sekizde benim için bir taksi çağırabilir misiniz?
+### 2
+chunks: I'm afraid… = Korkarım… ; Is there any chance…? = … ihtimali var mı? ; I'd like to change… = …'i değiştirmek istiyorum ; How long does it take to get to…? = …'e gitmek ne kadar sürer? ; Could I have a receipt? = Fiş alabilir miyim?
+T: I'm afraid your connecting flight has been cancelled because of the storm. | Korkarım aktarmalı uçuşunuz fırtına nedeniyle iptal edildi.
+Y: Oh no. Is there any chance of getting on another flight tonight? | Olamaz. Bu gece başka bir uçuşa binme ihtimali var mı?
+T: The next one leaves at six tomorrow morning. I can give you a hotel voucher. | Bir sonraki yarın sabah altıda kalkıyor. Size bir otel kuponu verebilirim.
+Y: OK, that will have to do. I'd like to change my seat to the aisle, please. | Tamam, idare etmek zorunda. Koltuğumu koridor tarafına değiştirmek istiyorum, lütfen.
+T: Done. Where are you travelling to? | Tamamdır. Nereye seyahat ediyorsunuz?
+Y: To Toulouse, for a supplier visit. How long does it take to get from the airport to the city centre? | Toulouse'a, bir tedarikçi ziyareti için. Havaalanından şehir merkezine gitmek ne kadar sürer?
+T: About twenty minutes by taxi, a bit more by tram. | Taksiyle yaklaşık yirmi dakika, tramvayla biraz daha fazla.
+Y: Perfect. And could I have a receipt for the voucher, please? I need it for my expenses. | Mükemmel. Kupon için bir fiş alabilir miyim, lütfen? Masraflarım için gerekiyor.
+### 3
+chunks: There seems to be a mix-up with… = … konusunda bir karışıklık var gibi görünüyor ; I was told that… = Bana … söylendi ; Would it be possible to…? = … mümkün olur mu? ; I'm in a bit of a rush = Biraz acelem var ; Keep the change = Üstü kalsın
+T: I'm sorry, sir, but we don't seem to have a booking under your name. | Üzgünüm efendim, ama adınıza bir rezervasyon görünmüyor.
+Y: There seems to be a mix-up somewhere. I was told by our travel agency that the booking was confirmed last week. | Bir yerde bir karışıklık var gibi görünüyor. Seyahat acentemiz rezervasyonun geçen hafta onaylandığını söyledi.
+T: Let me check again. Could it be under your company's name? | Tekrar kontrol edeyim. Şirketinizin adına olabilir mi?
+Y: Possibly. Would it be possible to search for the company name, or I can show you the confirmation email on my phone. | Olabilir. Şirket adıyla aramanız mümkün mü, ya da onay e-postasını telefonumda gösterebilirim.
+T: Found it. It was booked for next week by mistake, but we have a room available tonight. | Buldum. Yanlışlıkla gelecek haftaya ayrılmış ama bu gece müsait bir odamız var.
+Y: That's a relief. Thank you for sorting it out so quickly. I'm in a bit of a rush, actually. I've got a meeting at the factory at nine. | Bu bir rahatlama. Bu kadar çabuk çözdüğünüz için teşekkürler. Aslında biraz acelem var. Fabrikada dokuzda bir toplantım var.
+T: Your taxi is waiting outside. The traffic is heavy at this hour, so allow forty minutes. | Taksiniz dışarıda bekliyor. Bu saatte trafik yoğun, bu yüzden kırk dakika ayırın.
+Y: Thanks. Driver, could you take the motorway? It's usually quicker. Here's thirty euros. Keep the change. | Teşekkürler. Şoför bey, otoyolu kullanabilir misiniz? Genelde daha hızlı. İşte otuz avro. Üstü kalsın.
+
+## videocall | Video call | Video konferansta teknik sorunlar | life
+brief: Yurt dışındaki bir ekiple video konferansta bağlantı, ses, ekran paylaşımı sorunları yaşanıyor. Sorunları nazikçe belirt, çözüm öner ve toplantıyı yönet.
+role: a colleague in the US joining the call from home, with a weak internet connection and a noisy background
+### 1
+chunks: Can you hear me? = Beni duyabiliyor musunuz? ; You are on mute = Sesiniz kapalı ; I can't see your screen = Ekranınızı göremiyorum ; Can you say that again? = Tekrar söyler misiniz? ; Let's start = Başlayalım
+T: Hello? Hello? Is anyone there? | Alo? Alo? Kimse var mı?
+Y: Yes, I'm here. Can you hear me? | Evet, buradayım. Beni duyabiliyor musunuz?
+T: Yes, now I can. Sorry, my internet is slow today. | Evet, şimdi duyabiliyorum. Üzgünüm, bugün internetim yavaş.
+Y: No problem. I can't see your screen yet. | Sorun değil. Henüz ekranınızı göremiyorum.
+T: Wait a moment. Can you see it now? | Bir dakika. Şimdi görebiliyor musunuz?
+Y: Yes, thanks. Sorry, can you say that again? Your voice is very quiet. | Evet, teşekkürler. Pardon, tekrar söyler misiniz? Sesiniz çok kısık.
+T: Is this better? | Böyle daha iyi mi?
+Y: Much better. OK, let's start. | Çok daha iyi. Tamam, başlayalım.
+### 2
+chunks: You're breaking up = Sesiniz kesik kesik geliyor ; Could you turn on your camera? = Kameranızı açabilir misiniz? ; Can everyone see my screen? = Herkes ekranımı görebiliyor mu? ; I'll send the link again = Bağlantıyı tekrar göndereceğim ; Let's take it offline = Bunu toplantı dışında konuşalım
+T: Sorry I'm late, I couldn't find the link. | Geç kaldığım için üzgünüm, bağlantıyı bulamadım.
+Y: No worries. I'll send the link again in the chat so the others can join. | Önemli değil. Diğerleri katılabilsin diye bağlantıyı sohbete tekrar göndereceğim.
+T: Thanks. So, as I was saying, the drawings are almost... | Teşekkürler. Diyordum ki, çizimler neredeyse...
+Y: Sorry, you're breaking up. Could you turn off your camera? That might help the connection. | Pardon, sesiniz kesik kesik geliyor. Kameranızı kapatabilir misiniz? Bu bağlantıya yardımcı olabilir.
+T: Is that better? I can hear my dog barking too, sorry about the noise. | Böyle daha iyi mi? Köpeğimin havladığını da duyuyorum, gürültü için üzgünüm.
+Y: Much better, and don't worry about the dog. Can everyone see my screen with the schedule? | Çok daha iyi ve köpek için endişelenmeyin. Herkes takvimin olduğu ekranımı görebiliyor mu?
+T: Yes. I have a question about the second line, though. It might take a while. | Evet. Ama ikinci satırla ilgili bir sorum var. Biraz zaman alabilir.
+Y: Good question, but we're short of time. Let's take it offline, and I'll call you after the meeting. | Güzel soru ama zamanımız kısıtlı. Bunu toplantı dışında konuşalım, toplantıdan sonra sizi arayacağım.
+### 3
+chunks: You froze for a second = Bir saniyeliğine donup kaldınız ; I think there's a bit of a lag = Sanırım biraz gecikme var ; Let me just share my screen = İzin verin ekranımı paylaşayım ; Could you mute when you're not speaking? = Konuşmadığınızda sesinizi kapatabilir misiniz? ; In the interest of time, … = Zamanı verimli kullanmak adına…
+T: Hi, can you hear me? I think my headset is playing up again. | Merhaba, beni duyabiliyor musunuz? Sanırım kulaklığım yine sorun çıkarıyor.
+Y: I can hear you now, but you froze for a second. I think there's a bit of a lag on your side. | Şimdi duyabiliyorum ama bir saniyeliğine donup kaldınız. Sanırım sizin tarafta biraz gecikme var.
+T: Sorry, the whole neighbourhood is working from home today, so the network is overloaded. | Üzgünüm, bugün bütün mahalle evden çalışıyor, bu yüzden ağ aşırı yüklü.
+Y: Understood. Could everyone mute when they're not speaking? There's quite a lot of background noise. | Anlaşıldı. Herkes konuşmadığı zaman sesini kapatabilir mi? Epey arka plan gürültüsü var.
+T: Shall I share the updated drawings? | Güncellenmiş çizimleri paylaşayım mı?
+Y: Let me just share my screen instead, since your connection is unstable. Can you all see the latest version? | Bağlantınız kararsız olduğu için izin verin onun yerine ben ekranımı paylaşayım. Hepiniz son sürümü görebiliyor musunuz?
+T: Yes, but I'd like to discuss every comment in detail. | Evet, ama her yorumu ayrıntılı tartışmak istiyorum.
+Y: In the interest of time, let's focus on the three critical comments today and handle the rest by email. | Zamanı verimli kullanmak adına bugün üç kritik yoruma odaklanalım ve gerisini e-postayla halledelim.
+
+## sick | Health | Hastalık ve iş planı: işe gelemiyorum | life
+brief: Sabah hasta uyandın ve önemli bir toplantı var. Yöneticini arayıp durumu anlatıyorsun, belirtilerinden bahsediyorsun ve işlerin nasıl devredileceğini planlıyorsun.
+role: your line manager, caring but worried about tomorrow's customer meeting
+### 1
+chunks: I don't feel well = Kendimi iyi hissetmiyorum ; I have a headache = Başım ağrıyor ; I can't come in today = Bugün gelemiyorum ; I will see a doctor = Doktora gideceğim ; I can work from home = Evden çalışabilirim
+T: Good morning. Are you OK? You sound terrible. | Günaydın. İyi misin? Sesin berbat geliyor.
+Y: I don't feel well. I have a bad cold. | Kendimi iyi hissetmiyorum. Kötü bir soğuk algınlığım var.
+T: Oh no. Do you have a fever? | Olamaz. Ateşin var mı?
+Y: Yes, a small fever, and I have a headache. | Evet, hafif bir ateşim var ve başım ağrıyor.
+T: Then stay in bed today. | O zaman bugün yataktan çıkma.
+Y: Thank you. I can't come in today. I will see a doctor this afternoon. | Teşekkürler. Bugün gelemiyorum. Bu öğleden sonra doktora gideceğim.
+T: What about the meeting with the customer? | Peki müşteriyle toplantı?
+Y: My colleague Ayşe can lead it. I can answer emails from home. | Meslektaşım Ayşe yönetebilir. Ben evden e-postalara cevap verebilirim.
+### 2
+chunks: I've come down with… = …'e yakalandım ; I'd rather not spread it = Bulaştırmak istemem ; I've asked … to cover = …'den yerime bakmasını istedim ; All the files are on… = Bütün dosyalar …'de ; I'll keep an eye on my email = E-postalarıma göz kulak olacağım
+T: Hi, I got your message. What's wrong? | Merhaba, mesajını aldım. Neyin var?
+Y: I've come down with the flu. I woke up with a high temperature and a sore throat. | Grip oldum. Yüksek ateş ve boğaz ağrısıyla uyandım.
+T: I'm sorry to hear that. Could you still come for the meeting at eleven? | Bunu duyduğuma üzüldüm. Yine de saat on birdeki toplantıya gelebilir misin?
+Y: I'd rather not spread it to the whole team. I've asked Ayşe to cover the meeting for me. | Bütün ekibe bulaştırmak istemem. Ayşe'den toplantıda yerime bakmasını istedim.
+T: Does she have everything she needs? | İhtiyacı olan her şey onda var mı?
+Y: Yes, all the files are on the shared drive, and I sent her a short summary this morning. | Evet, bütün dosyalar ortak sürücüde ve bu sabah ona kısa bir özet gönderdim.
+T: Good. Take care of yourself and get some rest. | Güzel. Kendine iyi bak ve biraz dinlen.
+Y: Thanks. I'll keep an eye on my email in case there's anything urgent. | Teşekkürler. Acil bir şey olursa diye e-postalarıma göz kulak olacağım.
+### 3
+chunks: I'm feeling pretty rough = Kendimi epey kötü hissediyorum ; I don't want to risk… = …'i riske atmak istemem ; I've briefed … on… = …'e … hakkında bilgi verdim ; If push comes to shove, … = Zor durumda kalırsak… ; I should be back on my feet by… = …'e kadar ayağa kalkmış olurum
+T: Morning. I saw your text. How are you feeling? | Günaydın. Mesajını gördüm. Nasıl hissediyorsun?
+Y: Honestly, I'm feeling pretty rough. I've had a temperature all night, and my whole body aches. | Açıkçası kendimi epey kötü hissediyorum. Bütün gece ateşim vardı ve bütün vücudum ağrıyor.
+T: That doesn't sound good. Have you seen a doctor? | Hiç iyi görünmüyor. Doktora gittin mi?
+Y: I've got an appointment at two. In any case, I don't want to risk infecting anyone before the customer visit. | Saat ikide randevum var. Her durumda müşteri ziyaretinden önce kimseye bulaştırma riskine girmek istemem.
+T: Who's going to present the test results tomorrow? | Yarın test sonuçlarını kim sunacak?
+Y: I've briefed Ayşe on the key points, and the slides are finished. If push comes to shove, I can join by phone for the questions. | Ayşe'ye ana noktalar hakkında bilgi verdim ve slaytlar bitti. Zor durumda kalırsak sorular için telefonla katılabilirim.
+T: Let's not go that far. Just focus on getting better. | O kadar ileri gitmeyelim. Sen sadece iyileşmeye odaklan.
+Y: Thanks, I appreciate it. With a bit of luck, I should be back on my feet by Thursday. | Teşekkürler, minnettarım. Biraz şansla perşembeye kadar ayağa kalkmış olurum.
+
+## news | Small talk | Gündem sohbeti: ekonomi, enerji, çevre | life
+brief: Öğle yemeğinde yabancı meslektaşlarla haberler hakkında konuşuyorsun: enerji fiyatları, iklim, elektrikli araçlar ve kompozit geri dönüşümü. Görüşünü nazik ve dengeli ifade et.
+role: an engineer from the Netherlands who reads the news a lot and enjoys a friendly debate
+### 1
+chunks: Did you read about…? = … hakkında okudun mu? ; I think it's good = Bence iyi ; I'm not sure = Emin değilim ; Prices are going up = Fiyatlar artıyor ; It's a big problem = Büyük bir sorun
+T: Did you read the news about energy prices? | Enerji fiyatlarıyla ilgili haberleri okudun mu?
+Y: Yes. Prices are going up again. | Evet. Fiyatlar yine artıyor.
+T: It's bad for factories like ours. | Bizimki gibi fabrikalar için kötü.
+Y: I agree. Our electricity bill is very high. | Katılıyorum. Elektrik faturamız çok yüksek.
+T: Do you think electric cars are the answer? | Sence çözüm elektrikli arabalar mı?
+Y: I'm not sure. The batteries are still expensive. | Emin değilim. Piller hâlâ pahalı.
+T: And what about the climate? | Peki ya iklim?
+Y: It's a big problem. We must use less energy and recycle more. | Büyük bir sorun. Daha az enerji kullanmalı ve daha çok geri dönüştürmeliyiz.
+### 2
+chunks: From what I've read, … = Okuduklarıma göre… ; It's a good point, but… = Haklı bir nokta ama… ; In our industry, … = Bizim sektörümüzde… ; It's hard to say = Söylemek zor ; I hope so = Umarım öyledir
+T: Did you see that the government wants to ban new petrol cars by twenty thirty-five? | Hükümetin yirmi otuz beşe kadar yeni benzinli arabaları yasaklamak istediğini gördün mü?
+Y: Yes. From what I've read, many people think it's too early. | Evet. Okuduklarıma göre birçok insan bunun çok erken olduğunu düşünüyor.
+T: I think it's necessary. We can't wait any more with climate change. | Bence gerekli. İklim değişikliği konusunda daha fazla bekleyemeyiz.
+Y: It's a good point, but the electricity has to come from clean sources, otherwise we just move the pollution. | Haklı bir nokta ama elektriğin temiz kaynaklardan gelmesi lazım, yoksa kirliliği sadece başka yere taşırız.
+T: True. What about your industry? Are composites good for the environment? | Doğru. Peki sizin sektör? Kompozitler çevre için iyi mi?
+Y: In our industry, that's a hot topic. Lighter vehicles use less fuel, but composites are very difficult to recycle. | Bizim sektörümüzde bu güncel bir konu. Daha hafif araçlar daha az yakıt kullanıyor ama kompozitleri geri dönüştürmek çok zor.
+T: Will that change in the future? | Gelecekte bu değişecek mi?
+Y: It's hard to say. There are new resins that can be recycled, and I hope they become cheaper soon. | Söylemek zor. Geri dönüştürülebilen yeni reçineler var ve umarım yakında ucuzlarlar.
+### 3
+chunks: It's a double-edged sword = İki ucu keskin bir kılıç ; There's a lot of debate about… = … hakkında çok tartışma var ; I can see both sides = Her iki tarafı da anlayabiliyorum ; The jury's still out on… = … konusunda henüz karar verilmedi ; At the end of the day, … = Sonuçta…
+T: I read that the wind farm off the coast is cutting a thousand blades because nobody knows how to recycle them. | Kıyıdaki rüzgar santralinin bin kanadı kestiğini okudum çünkü kimse onları nasıl geri dönüştüreceğini bilmiyor.
+Y: Yes, it's a double-edged sword for us. Wind power is clean, but the old blades often end up in landfill. | Evet, bizim için iki ucu keskin bir kılıç. Rüzgar enerjisi temiz ama eski kanatlar genelde çöp sahasında son buluyor.
+T: Isn't there any technology to deal with them? | Bunlarla başa çıkacak bir teknoloji yok mu?
+Y: There are a few options, like grinding them into filler for cement, but there's a lot of debate about whether that really counts as recycling. | Onları çimento dolgusu olarak öğütmek gibi birkaç seçenek var ama bunun gerçekten geri dönüşüm sayılıp sayılmadığı konusunda çok tartışma var.
+T: Some people say we should stop using composites altogether. | Bazı insanlar kompozit kullanmayı tamamen bırakmamız gerektiğini söylüyor.
+Y: I can see both sides, but metals have a huge carbon footprint too. The jury's still out on which is better over the whole life of a product. | Her iki tarafı da anlayabiliyorum ama metallerin de büyük bir karbon ayak izi var. Bir ürünün tüm ömrü boyunca hangisinin daha iyi olduğu konusunda henüz karar verilmedi.
+T: So what's the solution, in your view? | Peki sence çözüm ne?
+Y: At the end of the day, I think we need to design for recycling from the start, using thermoplastics and recyclable resins wherever the loads allow it. | Sonuçta bence yükler izin verdiği her yerde termoplastik ve geri dönüştürülebilir reçineler kullanarak baştan geri dönüşüm için tasarım yapmamız gerekiyor.
+
+## event | Team event | Ekip etkinliği ve kutlama | life
+brief: Proje ekibinin başarılı teslimatını kutlamak için bir akşam etkinliği düzenleniyor. Organizasyonu, mekanı, aktiviteleri konuşuyor ve kısa bir teşekkür konuşması yapıyorsun.
+role: an enthusiastic HR colleague who is organising the event and wants your ideas
+### 1
+chunks: Let's have a party = Bir parti yapalım ; I think everyone will like… = Bence herkes …'i sever ; What time does it start? = Ne zaman başlıyor? ; Thank you all = Hepinize teşekkürler ; Well done! = Aferin! / Tebrikler!
+T: The project is finished! Let's have a party for the team. | Proje bitti! Ekip için bir parti yapalım.
+Y: Great idea! The team worked very hard. | Harika fikir! Ekip çok sıkı çalıştı.
+T: Where should we go? | Nereye gidelim?
+Y: I think everyone will like a restaurant with music. | Bence herkes müzikli bir restoranı sever.
+T: Good. Next Friday evening? | Güzel. Gelecek cuma akşamı?
+Y: Yes. What time does it start? | Evet. Ne zaman başlıyor?
+T: At seven. Will you say a few words? | Yedide. Birkaç söz söyler misin?
+Y: Of course. Thank you all. Well done, everyone! | Tabii. Hepinize teşekkürler. Herkesi tebrik ederim!
+### 2
+chunks: We should celebrate… = …'i kutlamalıyız ; How about…? = …'e ne dersin? ; It would be nice to invite… = …'i davet etmek güzel olur ; I'd like to say a big thank you to… = …'e kocaman bir teşekkür etmek isterim ; None of this would have been possible without… = … olmadan bunların hiçbiri mümkün olmazdı
+T: The customer signed off the last parts today. We should celebrate! | Müşteri bugün son parçaları onayladı. Kutlamalıyız!
+Y: Absolutely. The team has been under a lot of pressure for months. How about a dinner by the lake? | Kesinlikle. Ekip aylardır çok baskı altında. Göl kenarında bir akşam yemeğine ne dersin?
+T: Lovely. Should we include the people from the factory floor? | Çok güzel. Fabrika sahasındaki insanları da dahil edelim mi?
+Y: Definitely, and it would be nice to invite their partners too. | Kesinlikle, onların eşlerini de davet etmek güzel olur.
+T: Any ideas for activities? | Aktiviteler için fikrin var mı?
+Y: Maybe a short boat trip before dinner, and some live music afterwards. | Belki yemekten önce kısa bir tekne gezisi, sonrasında da canlı müzik.
+T: Perfect. And you'll give a short speech, right? | Mükemmel. Sen de kısa bir konuşma yaparsın, değil mi?
+Y: Sure. I'd like to say a big thank you to the technicians. None of this would have been possible without them. | Tabii. Teknisyenlere kocaman bir teşekkür etmek isterim. Onlar olmadan bunların hiçbiri mümkün olmazdı.
+### 3
+chunks: I'd like to raise a glass to… = …'e kadeh kaldırmak isterim ; Above and beyond = Beklenenin çok ötesinde ; When things got tough, … = İşler zorlaştığında… ; I'm genuinely proud of… = …'den gerçekten gurur duyuyorum ; Here's to… = …'e!
+T: Everyone's here. Would you like to say a few words before dinner? | Herkes burada. Yemekten önce birkaç söz söylemek ister misin?
+Y: Yes, thank you. Good evening, everyone. I'll keep this short, because I can see the food is ready. | Evet, teşekkürler. Herkese iyi akşamlar. Kısa tutacağım çünkü yemeğin hazır olduğunu görüyorum.
+T: Take your time! | Acele etme!
+Y: Eighteen months ago, many people said this delivery date was impossible. Today we delivered the last part, on time and within budget. | On sekiz ay önce birçok insan bu teslim tarihinin imkansız olduğunu söyledi. Bugün son parçayı zamanında ve bütçe dahilinde teslim ettik.
+T: Hear, hear! | Bravo!
+Y: When things got tough, and they often did, nobody gave up. Many of you went above and beyond, working weekends and nights without complaining. | İşler zorlaştığında, ki sık sık zorlaştı, kimse pes etmedi. Birçoğunuz şikayet etmeden hafta sonları ve geceleri çalışarak beklenenin çok ötesine geçtiniz.
+T: And the families deserve some credit too! | Aileler de takdiri hak ediyor!
+Y: Absolutely, and I'm genuinely proud of this team. So I'd like to raise a glass to all of you and your families. Here's to the next project! | Kesinlikle ve bu ekipten gerçekten gurur duyuyorum. Bu yüzden hepinize ve ailelerinize kadeh kaldırmak isterim. Bir sonraki projeye!

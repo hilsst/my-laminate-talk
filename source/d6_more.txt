@@ -1,0 +1,271 @@
+## complaint | Customer service | Müşteri şikayeti: hasarlı teslimat | more
+brief: Müşteri, gönderdiğiniz parçaların bir kısmının hasarlı geldiğini ve teslimatın geciktiğini söyleyerek kızgın bir şekilde arıyor. Özür dile, sorunu anla, çözüm ve telafi öner.
+role: an angry customer purchasing manager whose production line is waiting for your parts
+### 1
+chunks: I'm very sorry = Çok üzgünüm ; What happened? = Ne oldu? ; We will send new parts = Yeni parçalar göndereceğiz ; It will not happen again = Bir daha olmayacak ; Thank you for telling us = Bize bildirdiğiniz için teşekkürler
+T: Hello. I am not happy. Your parts arrived broken. | Merhaba. Memnun değilim. Parçalarınız kırık geldi.
+Y: I'm very sorry. How many parts are broken? | Çok üzgünüm. Kaç parça kırık?
+T: Five of the twenty. And they came two days late. | Yirmi parçanın beşi. Ve iki gün geç geldiler.
+Y: That is bad. Can you send me some photos? | Bu kötü. Bana birkaç fotoğraf gönderebilir misiniz?
+T: Yes. I will send them now. | Evet. Şimdi göndereceğim.
+Y: Thank you. We will send five new parts tomorrow. | Teşekkürler. Yarın beş yeni parça göndereceğiz.
+T: By express post, please. | Ekspres postayla lütfen.
+Y: Of course. Thank you for telling us. It will not happen again. | Tabii. Bize bildirdiğiniz için teşekkürler. Bir daha olmayacak.
+### 2
+chunks: I completely understand your frustration = Hayal kırıklığınızı tamamen anlıyorum ; Let me look into it = Bir bakayım ; free of charge = ücretsiz ; to make up for… = …'i telafi etmek ; I'll personally make sure that… = …'den bizzat emin olacağım
+T: This is the second time this year. Five panels are cracked, and my line has stopped. | Bu bu yıl ikinci kez oluyor. Beş panel çatlak ve hattım durdu.
+Y: I completely understand your frustration, and I apologise. Let me look into it straight away. | Hayal kırıklığınızı tamamen anlıyorum ve özür dilerim. Hemen bakayım.
+T: The boxes were wet and badly damaged when the lorry arrived. | Kamyon geldiğinde kutular ıslak ve fena halde hasarlıydı.
+Y: That suggests a problem with the packaging or the transport company. We'll replace the five panels free of charge. | Bu ambalaj ya da nakliye şirketiyle ilgili bir sorun olduğunu gösteriyor. Beş paneli ücretsiz olarak değiştireceğiz.
+T: How quickly? Every day we lose money. | Ne kadar çabuk? Her gün para kaybediyoruz.
+Y: We have spare panels in stock, so we can send them by courier today. You should receive them tomorrow morning. | Stokta yedek panellerimiz var, bu yüzden bugün kuryeyle gönderebiliriz. Yarın sabah almanız gerekir.
+T: And what about the delay costs? | Peki gecikme maliyetleri?
+Y: To make up for the trouble, we'll cover the transport costs. I'll personally make sure that the packaging is checked before every shipment. | Yaşattığımız sorunu telafi etmek için nakliye masraflarını karşılayacağız. Her sevkiyattan önce ambalajın kontrol edilmesinden bizzat emin olacağım.
+### 3
+chunks: There's no excuse for… = …'in mazereti yok ; I take full responsibility = Tüm sorumluluğu üstleniyorum ; As a gesture of goodwill, … = İyi niyet göstergesi olarak… ; We've identified the cause = Sebebi tespit ettik ; to rebuild your trust = güveninizi yeniden kazanmak
+T: Frankly, I'm running out of patience. This is the second damaged delivery, and my director wants to know why we keep using you. | Açıkçası sabrım tükeniyor. Bu ikinci hasarlı teslimat ve müdürüm sizi neden kullanmaya devam ettiğimizi bilmek istiyor.
+Y: You have every right to be annoyed. There's no excuse for this, and I take full responsibility on behalf of our team. | Kızmakta sonuna kadar haklısınız. Bunun mazereti yok ve ekibimiz adına tüm sorumluluğu üstleniyorum.
+T: Apologies don't restart my production line. | Özürler üretim hattımı yeniden çalıştırmıyor.
+Y: Understood. We've already identified the cause: the new transport company stored the boxes outside in the rain overnight. | Anlaşıldı. Sebebi zaten tespit ettik: yeni nakliye şirketi kutuları gece boyunca yağmurda dışarıda tutmuş.
+T: So what are you doing about it? | Peki bu konuda ne yapıyorsunuz?
+Y: Replacement panels are on a courier van now, and we've switched back to our previous carrier with waterproof containers. | Yedek paneller şu an bir kurye minibüsünde ve su geçirmez konteynerlerle önceki taşıyıcımıza geri döndük.
+T: And the cost of our downtime? | Peki duruş süremizin maliyeti?
+Y: As a gesture of goodwill, we'll credit ten per cent of this order. I know we need to rebuild your trust, so I'll send you a written report and a corrective action plan by Friday. | İyi niyet göstergesi olarak bu siparişin yüzde onunu alacak kaydedeceğiz. Güveninizi yeniden kazanmamız gerektiğini biliyorum, bu yüzden cumaya kadar size yazılı bir rapor ve düzeltici faaliyet planı göndereceğim.
+
+## conference | Presentation | Konferans sunumu ve soru-cevap | more
+brief: Uluslararası bir kompozit konferansında araştırma sonuçlarını sunuyorsun. Sunumu açıyor, ana bulguları anlatıyor ve dinleyicilerin zor sorularını yanıtlıyorsun.
+role: a professor in the audience who asks sharp but fair questions about the method and the statistics
+### 1
+chunks: Good morning, everyone = Herkese günaydın ; Today I will talk about… = Bugün … hakkında konuşacağım ; This chart shows… = Bu grafik … gösteriyor ; Thank you for listening = Dinlediğiniz için teşekkürler ; That's a good question = Bu iyi bir soru
+T: Please start when you are ready. | Hazır olduğunuzda lütfen başlayın.
+Y: Good morning, everyone. Today I will talk about recycled carbon fibre. | Herkese günaydın. Bugün geri dönüştürülmüş karbon elyaf hakkında konuşacağım.
+T: Thank you. What did you test? | Teşekkürler. Neyi test ettiniz?
+Y: We tested forty samples. This chart shows the results. | Kırk numune test ettik. Bu grafik sonuçları gösteriyor.
+T: Is the recycled material strong? | Geri dönüştürülmüş malzeme dayanıklı mı?
+Y: Yes. It is about eighty per cent as strong as new material. | Evet. Yeni malzemenin yaklaşık yüzde seksen dayanıklılığında.
+T: Is it cheaper? | Daha ucuz mu?
+Y: That's a good question. Yes, it is about half the price. Thank you for listening. | Bu iyi bir soru. Evet, yaklaşık yarı fiyatına. Dinlediğiniz için teşekkürler.
+### 2
+chunks: I'd like to begin by… = …'erek başlamak istiyorum ; As you can see from this graph, … = Bu grafikten görebileceğiniz gibi… ; Our main finding is that… = Ana bulgumuz… ; To sum up, … = Özetlemek gerekirse… ; I'm happy to take questions = Soruları memnuniyetle alırım
+T: Welcome, and thank you for coming such a long way. The floor is yours. | Hoş geldiniz ve bu kadar uzun yoldan geldiğiniz için teşekkürler. Söz sizde.
+Y: Thank you. I'd like to begin by explaining why recycled fibre matters for our industry and for the environment. | Teşekkürler. Geri dönüştürülmüş elyafın sektörümüz ve çevre için neden önemli olduğunu açıklayarak başlamak istiyorum.
+T: Please go on. | Lütfen devam edin.
+Y: We tested three types of recycled fibre in a laboratory. As you can see from this graph, the stiffness is almost unchanged. | Laboratuvarda üç tür geri dönüştürülmüş elyafı test ettik. Bu grafikten görebileceğiniz gibi rijitlik neredeyse değişmemiş.
+T: And the strength? | Peki dayanım?
+Y: Our main finding is that the strength drops by about twenty per cent, mainly because the fibres are shorter. | Ana bulgumuz, dayanımın büyük ölçüde lifler daha kısa olduğu için yaklaşık yüzde yirmi düştüğü.
+T: Interesting. Where could it be used? | İlginç. Nerede kullanılabilir?
+Y: To sum up, it's ideal for parts that are not safety-critical, like interior panels. I'm happy to take questions now. | Özetlemek gerekirse, iç paneller gibi güvenlik açısından kritik olmayan parçalar için ideal. Şimdi soruları memnuniyetle alırım.
+### 3
+chunks: I'd like to draw your attention to… = Dikkatinizi …'e çekmek isterim ; The data clearly indicates… = Veriler açıkça … gösteriyor ; That's beyond the scope of this study = Bu, çalışmanın kapsamı dışında ; It's a fair challenge = Haklı bir itiraz ; We're planning to publish… = … yayımlamayı planlıyoruz
+T: Thank you for a fascinating talk. I have a question about your method. How many batches did you test? | Büyüleyici konuşma için teşekkürler. Yönteminizle ilgili bir sorum var. Kaç parti test ettiniz?
+Y: Thank you. We tested five batches from two different recycling processes, with eight specimens each, so forty in total. | Teşekkürler. İki farklı geri dönüşüm sürecinden beş parti, her birinden sekiz numune, toplamda kırk tane test ettik.
+T: With such a small sample, can you really claim the difference between the processes is significant? | Bu kadar küçük bir örneklemle süreçler arasındaki farkın anlamlı olduğunu gerçekten iddia edebilir misiniz?
+Y: It's a fair challenge. The data clearly indicates a trend, but I'd agree that we need more specimens before drawing firm statistical conclusions. | Haklı bir itiraz. Veriler açıkça bir eğilim gösteriyor ama kesin istatistiksel sonuçlar çıkarmadan önce daha fazla numuneye ihtiyacımız olduğuna katılıyorum.
+T: Did you look at fatigue performance? | Yorulma performansına baktınız mı?
+Y: Not yet, I'm afraid. That's beyond the scope of this study, but it's the obvious next step. I'd like to draw your attention to the last slide, which outlines our future work. | Korkarım henüz değil. Bu, çalışmanın kapsamı dışında ama bariz bir sonraki adım. Dikkatinizi gelecekteki çalışmamızı özetleyen son slayta çekmek isterim.
+T: Will the full data set be available to other researchers? | Tam veri seti diğer araştırmacılara açık olacak mı?
+Y: Yes. We're planning to publish the paper in an open-access journal next year, together with all the raw data. | Evet. Makaleyi gelecek yıl tüm ham verilerle birlikte açık erişimli bir dergide yayımlamayı planlıyoruz.
+
+## negotiation | Purchasing | Tedarikçiyle fiyat pazarlığı | more
+brief: Prepreg tedarikçisiyle yıllık sözleşmeyi pazarlık ediyorsun. Fiyat, miktar indirimi, ödeme vadesi, teslim süresi ve kalite garantisi konusunda anlaşmaya çalışıyorsun.
+role: a sales manager at a material supplier who is friendly but tough, and tries to protect the profit margin
+### 1
+chunks: The price is too high = Fiyat çok yüksek ; Can you give us a discount? = Bize indirim yapabilir misiniz? ; We buy a lot = Çok alıyoruz ; We can pay in… = …'de ödeyebiliriz ; Do we have a deal? = Anlaştık mı?
+T: Here is our new price for next year. | İşte gelecek yıl için yeni fiyatımız.
+Y: Thank you. But the price is too high. | Teşekkürler. Ama fiyat çok yüksek.
+T: Our costs went up a lot. | Maliyetlerimiz çok arttı.
+Y: I understand. But we buy a lot from you. Can you give us a discount? | Anlıyorum. Ama sizden çok alıyoruz. Bize indirim yapabilir misiniz?
+T: Maybe five per cent. | Belki yüzde beş.
+Y: We need ten per cent. We can pay in thirty days. | Yüzde ona ihtiyacımız var. Otuz günde ödeyebiliriz.
+T: OK. Eight per cent, and you pay in thirty days. | Tamam. Yüzde sekiz ve otuz günde ödüyorsunuz.
+Y: That's fine. Do we have a deal? | Uygun. Anlaştık mı?
+### 2
+chunks: We were hoping for… = … umuyorduk ; If you could…, we could… = Siz … yapabilirseniz biz de … yapabiliriz ; That's our best offer = Bu en iyi teklifimiz ; in return = karşılığında ; Let's meet in the middle = Ortada buluşalım
+T: As you know, raw material costs have risen, so we're increasing prices by eight per cent. | Bildiğiniz gibi hammadde maliyetleri arttı, bu yüzden fiyatları yüzde sekiz artırıyoruz.
+Y: I understand, but we were hoping for a stable price. Our customers won't accept higher costs. | Anlıyorum ama sabit bir fiyat umuyorduk. Müşterilerimiz daha yüksek maliyetleri kabul etmeyecek.
+T: Eight per cent is already lower than what our competitors are asking. | Yüzde sekiz zaten rakiplerimizin istediğinden daha düşük.
+Y: If you could keep the increase to three per cent, we could commit to a two-year contract. | Artışı yüzde üçte tutabilirseniz iki yıllık bir sözleşmeye bağlanabiliriz.
+T: Two years is interesting. What volume are we talking about? | İki yıl ilginç. Hangi hacimden bahsediyoruz?
+Y: About twelve thousand square metres a year, and in return we'd want delivery within four weeks. | Yılda yaklaşık on iki bin metrekare ve karşılığında dört hafta içinde teslimat isteriz.
+T: Five per cent is really our best offer. | Yüzde beş gerçekten en iyi teklifimiz.
+Y: Let's meet in the middle: four per cent, with sixty-day payment terms and a quality guarantee in the contract. | Ortada buluşalım: yüzde dört, altmış günlük ödeme vadesi ve sözleşmede kalite garantisiyle.
+### 3
+chunks: I'll be frank with you = Size açık konuşacağım ; That would be a deal-breaker for us = Bu bizim için anlaşmayı bozar ; Is there any flexibility on…? = … konusunda esneklik var mı? ; We'd be willing to… provided that… = … şartıyla … yapmaya hazırız ; Let's put that in writing = Bunu yazıya dökelim
+T: I'll be frank with you. Our energy and fibre costs have gone through the roof, and an eight per cent increase is the minimum we can live with. | Size açık konuşacağım. Enerji ve elyaf maliyetlerimiz tavan yaptı ve yüzde sekiz artış katlanabileceğimiz en düşük rakam.
+Y: I appreciate your honesty. In the same spirit, eight per cent would be a deal-breaker for us. We'd have to start qualifying a second supplier. | Dürüstlüğünüz için teşekkürler. Aynı açıklıkla söyleyeyim, yüzde sekiz bizim için anlaşmayı bozar. İkinci bir tedarikçiyi kalifiye etmeye başlamamız gerekir.
+T: Qualification takes a year at least. Are you sure that's realistic? | Kalifikasyon en az bir yıl sürer. Bunun gerçekçi olduğundan emin misiniz?
+Y: It's expensive, but we've done it before. Is there any flexibility on price if we increase the volume or extend the contract? | Pahalı ama daha önce yaptık. Hacmi artırır ya da sözleşmeyi uzatırsak fiyat konusunda esneklik var mı?
+T: There might be. What exactly are you proposing? | Olabilir. Tam olarak ne öneriyorsunuz?
+Y: We'd be willing to sign for three years and take all our carbon prepreg from you, provided that the increase stays at four per cent and is fixed for the whole period. | Artış yüzde dörtte kalır ve tüm dönem boyunca sabit olursa üç yıl için imzalamaya ve tüm karbon prepregimizi sizden almaya hazırız.
+T: Three years and exclusivity... I'd need my director's approval, but I think we can work with that. | Üç yıl ve münhasırlık... Müdürümün onayına ihtiyacım olur ama sanırım bununla çalışabiliriz.
+Y: Excellent. Let's put that in writing today, including the delivery times and the penalty for late shipments, and get it signed by the end of the month. | Mükemmel. Teslim süreleri ve geç sevkiyat cezası dahil bunu bugün yazıya dökelim ve ay sonuna kadar imzalayalım.
+
+## weather | Small talk | Hava durumu ve doğal afetler | more
+brief: Farklı ülkelerden meslektaşlarla mevsimler, hava durumu, iklim değişikliği ve sel, deprem gibi doğal afetlerin işe etkisi hakkında konuşuyorsun.
+role: a colleague from Norway who finds hot weather difficult and is curious about earthquakes
+### 1
+chunks: It's very hot today = Bugün çok sıcak ; It's going to rain = Yağmur yağacak ; I like winter = Kışı severim ; Take an umbrella = Şemsiye al ; In my country, … = Benim ülkemde…
+T: It is very hot today! | Bugün çok sıcak!
+Y: Yes, it's thirty-five degrees. Summer here is very hot. | Evet, otuz beş derece. Burada yaz çok sıcak.
+T: In Norway, it is cold now. There is snow. | Norveç'te şimdi soğuk. Kar var.
+Y: I like snow. In my city, it snows only once or twice a year. | Karı severim. Benim şehrimde yılda sadece bir ya da iki kez kar yağar.
+T: What is the weather like tomorrow? | Yarın hava nasıl?
+Y: It's going to rain in the afternoon. Take an umbrella. | Öğleden sonra yağmur yağacak. Şemsiye al.
+T: Which season do you like best? | En çok hangi mevsimi seversin?
+Y: I like autumn best. It is not too hot and not too cold. | En çok sonbaharı severim. Ne çok sıcak ne çok soğuk.
+### 2
+chunks: It's unusually … for this time of year = Yılın bu zamanı için alışılmadık derecede … ; The forecast says… = Hava tahmini … diyor ; We had a terrible storm = Korkunç bir fırtına yaşadık ; The roads were flooded = Yollar sular altında kaldı ; It affects… = …'i etkiliyor
+T: It's unusually warm for November, isn't it? | Kasım için alışılmadık derecede sıcak, değil mi?
+Y: Yes, it is. The forecast says it will stay sunny until the weekend, and then the temperature will drop quickly. | Evet. Hava tahmini hafta sonuna kadar güneşli kalacağını, sonra sıcaklığın hızla düşeceğini söylüyor.
+T: Last month you had floods here, didn't you? I saw it on the news. | Geçen ay burada sel oldu, değil mi? Haberlerde gördüm.
+Y: That's right. We had a terrible storm, and the roads near the factory were flooded for two days. | Doğru. Korkunç bir fırtına yaşadık ve fabrikanın yakınındaki yollar iki gün sular altında kaldı.
+T: Did it affect production? | Üretimi etkiledi mi?
+Y: Yes. Half of the workers couldn't come in, and a delivery of resin was delayed. | Evet. İşçilerin yarısı gelemedi ve bir reçine teslimatı gecikti.
+T: In Norway, we worry more about ice in winter. | Norveç'te biz daha çok kışın buzdan endişe ederiz.
+Y: Here, the biggest risk is earthquakes. All new buildings must follow strict rules, and we have regular safety drills. | Burada en büyük risk depremler. Bütün yeni binalar katı kurallara uymak zorunda ve düzenli güvenlik tatbikatları yapıyoruz.
+### 3
+chunks: The weather has been all over the place = Hava çok değişken ; It's becoming the norm = Normal hale geliyor ; to be on the safe side = ne olur ne olmaz diye ; We were lucky to get away with… = … ile atlattığımız için şanslıydık ; a contingency plan = acil durum planı
+T: The weather has been all over the place this year. Snow in April, then a heatwave in June. | Bu yıl hava çok değişkendi. Nisanda kar, sonra haziranda sıcak hava dalgası.
+Y: Extreme weather is becoming the norm, unfortunately. Last summer the temperature in our lay-up room went above the limit for the prepreg. | Ne yazık ki aşırı hava normal hale geliyor. Geçen yaz yatırma odamızdaki sıcaklık prepreg için sınırın üstüne çıktı.
+T: What did you do? | Ne yaptınız?
+Y: We stopped production for two afternoons, and we've since installed a second air conditioning unit, just to be on the safe side. | İki öğleden sonra üretimi durdurduk ve o zamandan beri ne olur ne olmaz diye ikinci bir klima ünitesi taktık.
+T: And what about earthquakes? Do you have a plan for that? | Peki depremler? Bunun için bir planınız var mı?
+Y: We do. The autoclave is anchored to the floor, and we have a contingency plan that includes back-up data storage and a second site for critical tools. | Var. Otoklav zemine sabitlenmiş ve yedek veri depolama ile kritik kalıplar için ikinci bir tesisi içeren bir acil durum planımız var.
+T: Have you ever had to use it? | Hiç kullanmak zorunda kaldınız mı?
+Y: Only once, after a small earthquake a few years ago. There was no serious damage, so we were lucky to get away with a few cracks in the walls. | Sadece bir kez, birkaç yıl önceki küçük bir depremden sonra. Ciddi bir hasar yoktu, bu yüzden duvarlardaki birkaç çatlakla atlattığımız için şanslıydık.
+
+## music | Free time | Spor maçları, müzik ve festivaller | more
+brief: Meslektaşlarla hafta sonu izlediğin maç, takımlar, sevdiğin müzik grupları, çaldığın enstrüman ve gideceğin festival hakkında konuşuyorsun.
+role: a colleague from Brazil who is passionate about football and plays guitar in a band
+### 1
+chunks: Did you watch the match? = Maçı izledin mi? ; Our team won / lost = Takımımız kazandı / kaybetti ; I play the… = … çalıyorum ; My favourite band is… = En sevdiğim grup… ; Let's go together = Birlikte gidelim
+T: Did you watch the match last night? | Dün akşam maçı izledin mi?
+Y: Yes! Our team won two to one. | Evet! Takımımız iki bir kazandı.
+T: Who scored the goals? | Golleri kim attı?
+Y: Our captain scored both goals. He is a great player. | Kaptanımız iki golü de attı. Harika bir oyuncu.
+T: I play the guitar in a band. | Ben bir grupta gitar çalıyorum.
+Y: Really? I play the piano a little. | Gerçekten mi? Ben biraz piyano çalıyorum.
+T: There is a music festival in June. | Haziranda bir müzik festivali var.
+Y: My favourite band is playing there. Let's go together! | En sevdiğim grup orada çalıyor. Birlikte gidelim!
+### 2
+chunks: It was a close game = Çekişmeli bir maçtı ; I've supported them since… = …'den beri onları tutuyorum ; We've been practising for… = … süredir prova yapıyoruz ; to get tickets = bilet bulmak ; The atmosphere was amazing = Atmosfer harikaydı
+T: What a game on Saturday! Were you at the stadium? | Cumartesi ne maçtı ama! Stadyumda mıydın?
+Y: I was. It was a close game until the last minute, and the atmosphere was amazing. Fifty thousand fans singing together. | Oradaydım. Son dakikaya kadar çekişmeli bir maçtı ve atmosfer harikaydı. Elli bin taraftar birlikte şarkı söylüyordu.
+T: Have you always supported the same club? | Hep aynı kulübü mü tuttun?
+Y: I've supported them since I was a boy. My father took me to my first match when I was seven. | Çocukluğumdan beri onları tutuyorum. Babam beni yedi yaşındayken ilk maçıma götürdü.
+T: My band has a concert next month. We've been practising for weeks. | Grubumuzun gelecek ay bir konseri var. Haftalardır prova yapıyoruz.
+Y: That's great! What kind of music do you play? | Harika! Ne tür müzik çalıyorsunuz?
+T: A mix of rock and Brazilian folk. You should come. | Rock ve Brezilya halk müziğinin bir karışımı. Gelmelisin.
+Y: I'd love to. Tell me where to get tickets, and I'll bring my wife and some friends from work. | Çok isterim. Bileti nereden alacağımı söyle, eşimi ve işten birkaç arkadaşımı getireceğim.
+### 3
+chunks: It went right down to the wire = Son ana kadar çekişmeli geçti ; They really pulled it off = Gerçekten başardılar ; I'm a bit rusty = Biraz paslandım ; It's a great way to unwind = Rahatlamak için harika bir yol ; I wouldn't miss it for the world = Dünyalar verseler kaçırmam
+T: Did you see the final? I couldn't sleep afterwards. | Finali gördün mü? Sonrasında uyuyamadım.
+Y: Of course! It went right down to the wire. When they equalised in the ninetieth minute, the whole neighbourhood was shouting. | Tabii! Son ana kadar çekişmeli geçti. Doksanıncı dakikada eşitlediklerinde bütün mahalle bağırıyordu.
+T: And then they won on penalties. Incredible. | Sonra da penaltılarla kazandılar. İnanılmaz.
+Y: Nobody expected them to win the league this year, with such a young team, but they really pulled it off. | Bu kadar genç bir takımla bu yıl ligi kazanmalarını kimse beklemiyordu ama gerçekten başardılar.
+T: By the way, we need a keyboard player for the festival. Didn't you say you play the piano? | Bu arada festival için bir klavyeciye ihtiyacımız var. Piyano çaldığını söylememiş miydin?
+Y: I used to play, but I'm a bit rusty. I haven't practised seriously since university. | Eskiden çalardım ama biraz paslandım. Üniversiteden beri ciddi şekilde çalışmadım.
+T: Come to one rehearsal and see how it goes. It's just for fun. | Bir provaya gel ve nasıl gittiğine bak. Sadece eğlence için.
+Y: Why not? After a week of meetings, playing music is a great way to unwind. And if you play at the festival, I wouldn't miss it for the world. | Neden olmasın? Bir haftalık toplantıdan sonra müzik çalmak rahatlamak için harika bir yol. Festivalde çalarsanız da dünyalar verseler kaçırmam.
+
+## garden | Daily life | Hayvanlar, bahçe ve köy hayatı | more
+brief: Hafta sonlarını köydeki bahçede geçiriyorsun. Bir meslektaşınla evcil hayvanlar, çiftlik hayvanları, sebze yetiştirme ve şehir ile köy hayatının farkları hakkında konuşuyorsun.
+role: a colleague who grew up on a farm in Ireland and loves animals and gardening
+### 1
+chunks: I have a dog / cat = Bir köpeğim / kedim var ; We grow… = … yetiştiriyoruz ; My parents live in a village = Annem babam bir köyde yaşıyor ; They have chickens = Tavukları var ; I like working in the garden = Bahçede çalışmayı severim
+T: Do you have any pets? | Evcil hayvanın var mı?
+Y: Yes, I have a dog. He is big and brown. | Evet, bir köpeğim var. Büyük ve kahverengi.
+T: I grew up on a farm. We had cows and sheep. | Ben bir çiftlikte büyüdüm. İneklerimiz ve koyunlarımız vardı.
+Y: My parents live in a village. They have chickens. | Annem babam bir köyde yaşıyor. Tavukları var.
+T: Do they have a garden? | Bahçeleri var mı?
+Y: Yes. We grow tomatoes, potatoes and beans. | Evet. Domates, patates ve fasulye yetiştiriyoruz.
+T: That sounds nice. | Kulağa güzel geliyor.
+Y: I like working in the garden. It is quiet, and the air is clean. | Bahçede çalışmayı severim. Sakin ve hava temiz.
+### 2
+chunks: It's very rewarding = Çok tatmin edici ; We had a problem with… = … ile sorun yaşadık ; to pick the fruit = meyveleri toplamak ; It's a completely different pace of life = Tamamen farklı bir yaşam temposu ; I wouldn't swap it for… = Onu …'e değişmem
+T: You always look relaxed on Mondays. What do you do at the weekend? | Pazartesileri hep rahat görünüyorsun. Hafta sonu ne yapıyorsun?
+Y: We have a small garden in my parents' village. Growing our own vegetables is very rewarding. | Annemlerin köyünde küçük bir bahçemiz var. Kendi sebzelerimizi yetiştirmek çok tatmin edici.
+T: Do you have any fruit trees? | Meyve ağaçlarınız var mı?
+Y: Yes, apple, cherry and lemon trees. In June, the children help us pick the fruit. | Evet, elma, kiraz ve limon ağaçları. Haziranda çocuklar meyveleri toplamamıza yardım ediyor.
+T: Do you have problems with insects or birds? | Böceklerle ya da kuşlarla sorun yaşıyor musunuz?
+Y: Last year we had a problem with bees in the roof, and a fox killed two of our chickens. | Geçen yıl çatıda arılarla sorun yaşadık ve bir tilki iki tavuğumuzu öldürdü.
+T: Would you ever move to the countryside permanently? | Hiç kalıcı olarak kırsala taşınır mısın?
+Y: Maybe after I retire. It's a completely different pace of life. I wouldn't swap our weekends there for anything. | Belki emekli olduktan sonra. Tamamen farklı bir yaşam temposu. Oradaki hafta sonlarımızı hiçbir şeye değişmem.
+### 3
+chunks: I've got green fingers = Bahçe işlerinde eliyim yatkın ; It's a lot more work than it looks = Göründüğünden çok daha fazla iş ; from scratch = sıfırdan ; It keeps me grounded = Ayaklarımı yere bastırıyor ; I can't wait to… = …'mek için sabırsızlanıyorum
+T: I hear you've started keeping bees. How did that happen? | Arıcılığa başladığını duydum. Bu nasıl oldu?
+Y: A neighbour in the village gave me an old hive, and I thought, why not? I'm not sure I have green fingers, but I'm learning fast. | Köydeki bir komşum bana eski bir kovan verdi ve neden olmasın diye düşündüm. Bahçe işlerinde elimin yatkın olduğundan emin değilim ama hızlı öğreniyorum.
+T: Isn't it dangerous? I was stung so many times as a child on the farm. | Tehlikeli değil mi? Çocukken çiftlikte çok kez sokuldum.
+Y: You wear a suit and use smoke to keep them calm. Honestly, it's a lot more work than it looks, especially in spring. | Bir giysi giyip onları sakin tutmak için duman kullanıyorsun. Açıkçası göründüğünden çok daha fazla iş, özellikle baharda.
+T: Did you build the garden yourself? | Bahçeyi kendin mi yaptın?
+Y: Mostly, yes. When we bought the land, it was just stones and dry grass, so we built everything from scratch, including a small wooden shed. | Çoğunlukla evet. Araziyi aldığımızda sadece taş ve kuru ottan ibaretti, bu yüzden küçük bir ahşap kulübe dahil her şeyi sıfırdan yaptık.
+T: It sounds like a perfect balance to engineering. | Mühendisliğe mükemmel bir denge gibi görünüyor.
+Y: It is. Working with soil, plants and animals keeps me grounded. Next year we'll have our first honey, and I can't wait to taste it. | Öyle. Toprakla, bitkilerle ve hayvanlarla çalışmak ayaklarımı yere bastırıyor. Gelecek yıl ilk balımız olacak ve tatmak için sabırsızlanıyorum.
+
+## office | Workplace | Ofis taşınması ve çalışma ortamı | more
+brief: Mühendislik ekibi yeni bir binaya taşınıyor. Tesis yöneticisiyle yerleşim planını, masaları, toplantı odalarını, gürültüyü, güvenliği ve taşınma takvimini konuşuyorsun.
+role: the facilities manager who is organising the move and has a tight budget and many people to keep happy
+### 1
+chunks: We need more space = Daha fazla alana ihtiyacımız var ; Where will we sit? = Nerede oturacağız? ; Is there a meeting room? = Toplantı odası var mı? ; It is too noisy = Çok gürültülü ; When do we move? = Ne zaman taşınıyoruz?
+T: Next month your team moves to the new building. | Gelecek ay ekibiniz yeni binaya taşınıyor.
+Y: Good. We need more space. When do we move? | Güzel. Daha fazla alana ihtiyacımız var. Ne zaman taşınıyoruz?
+T: On the fifteenth. You will be on the second floor. | On beşinde. İkinci katta olacaksınız.
+Y: Where will we sit? Near the windows? | Nerede oturacağız? Pencerelerin yanında mı?
+T: Yes. There are twenty desks for your team. | Evet. Ekibiniz için yirmi masa var.
+Y: Is there a meeting room? | Toplantı odası var mı?
+T: There are two small meeting rooms and a kitchen. | İki küçük toplantı odası ve bir mutfak var.
+Y: Great. But the old office was too noisy. Is the new one quiet? | Harika. Ama eski ofis çok gürültülüydü. Yenisi sessiz mi?
+### 2
+chunks: Would it be possible to…? = … mümkün olur mu? ; We'll need somewhere to… = …'mek için bir yere ihtiyacımız olacak ; It's important that… = …'mesi önemli ; Who should we contact if…? = … olursa kiminle iletişime geçmeliyiz? ; to pack everything = her şeyi toplamak
+T: Here's the floor plan for the new office. What do you think? | İşte yeni ofisin kat planı. Ne düşünüyorsun?
+Y: It looks good, but would it be possible to put the engineers away from the entrance? People walking past all day can be distracting. | İyi görünüyor ama mühendisleri girişten uzağa koymak mümkün olur mu? Bütün gün yanından geçen insanlar dikkat dağıtıcı olabiliyor.
+T: I can move you to the corner by the windows. | Sizi pencerelerin yanındaki köşeye taşıyabilirim.
+Y: Perfect. We'll also need somewhere to store large drawings and samples, like a few tall cupboards. | Mükemmel. Büyük çizimleri ve numuneleri saklamak için bir yere de ihtiyacımız olacak, birkaç uzun dolap gibi.
+T: No problem. And for security, everyone will need a new card to open the doors. | Sorun değil. Güvenlik için de herkesin kapıları açmak için yeni bir karta ihtiyacı olacak.
+Y: It's important that the cards work from the first day. Who should we contact if someone's card doesn't work? | Kartların ilk günden çalışması önemli. Birinin kartı çalışmazsa kiminle iletişime geçmeliyiz?
+T: The security desk in the main hall. They're there twenty-four hours a day. | Ana holdeki güvenlik masası. Günün yirmi dört saati oradalar.
+Y: Thanks. I'll ask everyone to pack everything into boxes by Thursday, and we'll label each box with our names. | Teşekkürler. Herkesten perşembeye kadar her şeyi kutulara toplamasını isteyeceğim ve her kutuyu isimlerimizle etiketleyeceğiz.
+### 3
+chunks: It's a step up from… = …'e göre bir adım ileri ; open-plan = açık ofis ; to strike a balance between… = … arasında denge kurmak ; It would go a long way towards… = …'e büyük katkı sağlar ; teething problems = başlangıç sorunları
+T: Overall, how do you feel about the new office now that you've seen it? | Gördüğüne göre yeni ofis hakkında genel olarak ne düşünüyorsun?
+Y: It's a real step up from the old building. The light is wonderful, and the kitchen is much nicer. | Eski binaya göre gerçekten bir adım ileri. Işık harika ve mutfak çok daha güzel.
+T: I sense a "but" coming. | Bir "ama" geleceğini sezinliyorum.
+Y: Only a small one. The open-plan layout is great for teamwork, but engineers sometimes need silence to concentrate on complex calculations. | Sadece küçük bir tane. Açık ofis düzeni ekip çalışması için harika ama mühendislerin bazen karmaşık hesaplara konsantre olmak için sessizliğe ihtiyacı var.
+T: What would you suggest, within our budget? | Bütçemiz dahilinde ne önerirsin?
+Y: We need to strike a balance between collaboration and concentration. Two or three small quiet rooms would go a long way towards solving the problem. | İş birliği ile konsantrasyon arasında denge kurmamız gerekiyor. İki ya da üç küçük sessiz oda sorunu çözmeye büyük katkı sağlar.
+T: I could convert the storage room next to the stairs. | Merdivenlerin yanındaki depo odasını dönüştürebilirim.
+Y: That would be ideal. And I'm sure there will be some teething problems in the first weeks, with the heating, the printers and so on, so a quick weekly check-in with you would help. | Bu ideal olur. Eminim ilk haftalarda ısıtma, yazıcılar ve benzeri konularda bazı başlangıç sorunları olacak, bu yüzden seninle kısa bir haftalık görüşme yardımcı olur.
+
+## clothes | Daily life | Kıyafet, görünüm ve iş giyimi | more
+brief: Önemli bir müşteri toplantısı ve bir düğün öncesi bir meslektaşınla ne giyeceğinizi, iş kıyafet kurallarını, modayı ve insanların görünüşünü konuşuyorsunuz.
+role: a stylish colleague from Milan who has strong opinions about fashion and dress codes
+### 1
+chunks: What should I wear? = Ne giymeliyim? ; a white shirt = beyaz bir gömlek ; It's too formal = Çok resmi ; You look nice = Güzel görünüyorsun ; I need new shoes = Yeni ayakkabıya ihtiyacım var
+T: Tomorrow we meet the customer. What will you wear? | Yarın müşteriyle görüşüyoruz. Ne giyeceksin?
+Y: I don't know. What should I wear? | Bilmiyorum. Ne giymeliyim?
+T: A dark suit and a white shirt. | Koyu renk takım elbise ve beyaz bir gömlek.
+Y: And a tie? I think it's too formal. | Peki kravat? Bence çok resmi.
+T: No tie is fine. | Kravatsız da olur.
+Y: OK. But I need new shoes. My old shoes are brown. | Tamam. Ama yeni ayakkabıya ihtiyacım var. Eski ayakkabılarım kahverengi.
+T: Black shoes are better with a dark suit. | Koyu takım elbiseyle siyah ayakkabı daha iyi.
+Y: Thank you. You always look nice. | Teşekkürler. Sen hep güzel görünüyorsun.
+### 2
+chunks: What's the dress code? = Kıyafet kuralı ne? ; smart casual = şık ama rahat ; It suits you = Sana yakışıyor ; It's a bit too tight = Biraz fazla dar ; I'm not very fashionable = Pek modaya uygun değilim
+T: What's the dress code for the conference dinner? | Konferans akşam yemeğinin kıyafet kuralı ne?
+Y: The invitation says smart casual, so trousers and a jacket, but no tie. | Davetiye şık ama rahat diyor, yani pantolon ve ceket ama kravat yok.
+T: What about jeans? | Peki kot pantolon?
+Y: Dark jeans with a nice shirt are probably fine, but I'd avoid trainers and T-shirts. | Güzel bir gömlekle koyu kot pantolon muhtemelen olur ama spor ayakkabı ve tişörtten kaçınırdım.
+T: I bought this jacket yesterday. What do you think? | Bu ceketi dün aldım. Ne düşünüyorsun?
+Y: It suits you. The colour is great, although it looks a bit too tight around the shoulders. | Sana yakışıyor. Rengi harika, gerçi omuzlarda biraz fazla dar görünüyor.
+T: You're right. I'll change it for a bigger size. | Haklısın. Daha büyük bir bedenle değiştireceğim.
+Y: I'm not very fashionable myself. My wife usually chooses my clothes for important events. | Ben pek modaya uygun değilim. Önemli etkinlikler için kıyafetlerimi genelde eşim seçer.
+### 3
+chunks: You can't go wrong with… = … ile yanlış yapamazsın ; It's better to be overdressed than underdressed = Fazla şık olmak, yetersiz şık olmaktan iyidir ; to make a good first impression = iyi bir ilk izlenim bırakmak ; It's more about … than … = …'den çok … ile ilgili ; to dress for the occasion = duruma uygun giyinmek
+T: You're seeing the Japanese delegation tomorrow. Have you thought about what to wear? | Yarın Japon heyetiyle görüşüyorsun. Ne giyeceğini düşündün mü?
+Y: I have. I think you can't go wrong with a navy suit and a plain white shirt. It's classic and safe. | Düşündüm. Bence lacivert bir takım elbise ve sade beyaz bir gömlekle yanlış yapamazsın. Klasik ve güvenli.
+T: Our factory staff wear jeans every day. Isn't a suit a bit much? | Fabrika çalışanlarımız her gün kot giyiyor. Takım elbise biraz fazla değil mi?
+Y: Perhaps, but it's better to be overdressed than underdressed, especially when you want to make a good first impression with a new customer. | Belki ama özellikle yeni bir müşteride iyi bir ilk izlenim bırakmak istediğinde fazla şık olmak yetersiz şık olmaktan iyidir.
+T: In Milan, people judge you by your shoes. | Milano'da insanları ayakkabılarına göre yargılarlar.
+Y: I believe it! Though personally, I think it's more about looking neat and confident than following the latest fashion. | Buna inanırım! Ama şahsen bence son modayı takip etmekten çok düzgün ve kendinden emin görünmekle ilgili.
+T: And for the factory tour? | Peki fabrika turu için?
+Y: That's different. Everyone, including the guests, will have to wear safety boots, a helmet and a visitor jacket, so you dress for the occasion and accept looking a bit silly. | O farklı. Misafirler dahil herkes güvenlik botu, kask ve ziyaretçi yeleği giymek zorunda olacak, yani duruma uygun giyiniyorsun ve biraz komik görünmeyi kabul ediyorsun.

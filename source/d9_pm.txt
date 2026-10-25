@@ -1,0 +1,110 @@
+## pm_quote | Quotation | Müşteriye teklif hazırlama: fiyat ve teslim süresi | pm
+brief: Program yöneticisiyle, bir müşterinin istediği 200 adet karbon kapak paneli için teklif hazırlıyorsun. Birim fiyatı, kalıp maliyetini, teslim süresini ve varsayımlarını anlat.
+role: a programme manager who wants a competitive but safe quote and must send it to the customer by Friday
+### 1
+ideas: Talebi söyle: müşteri 200 karbon kapak paneli istiyor ; Fiyatı söyle: parça başına 450 avro ; Kalıbı söyle: fiyata dahil değil, 30.000 avro ; Teslim süresini söyle: ilk parçalar için 12 hafta
+chunks: The customer wants… = Müşteri … istiyor ; The price per part is… = Parça başına fiyat… ; The tool costs… = Kalıp … tutuyor ; We need … weeks = … haftaya ihtiyacımız var ; That's my estimate = Bu benim tahminim
+T: Hi Kemal. Do you have the numbers for the quote? | Merhaba Kemal. Teklif için rakamlar hazır mı?
+Y: Yes. The customer wants two hundred cover panels. | Evet. Müşteri iki yüz kapak paneli istiyor.
+T: What is the price for one panel? | Bir panelin fiyatı ne?
+Y: The price per part is four hundred and fifty euros. | Parça başına fiyat dört yüz elli avro.
+T: Is the tool in that price? | Kalıp bu fiyata dahil mi?
+Y: No. The tool costs thirty thousand euros. | Hayır. Kalıp otuz bin avro tutuyor.
+T: And when can we deliver? | Peki ne zaman teslim edebiliriz?
+Y: We need twelve weeks for the first parts. That's my estimate. | İlk parçalar için on iki haftaya ihtiyacımız var. Bu benim tahminim.
+### 2
+ideas: Talebi özetle: iki yıl boyunca 200 panel ; Birim fiyatı açıkla: 450 avro, malzeme, işçilik ve UT dahil ; Kalıbı açıkla: ayrı kalem, 30.000 avro, müşteri öder ; Teslim süresini söyle: siparişten itibaren 12 hafta ; Varsayımları belirt: yüzde 5 hurda oranı, bugünkü prepreg fiyatı
+chunks: over two years = iki yıl boyunca ; That includes… = Buna … dahil ; as a separate item = ayrı bir kalem olarak ; from order = siparişten itibaren ; This is based on… = Bu … esas alınarak hesaplandı
+T: The customer needs the quote by Friday. Where are we with the price? | Müşteri teklifi cumaya kadar istiyor. Fiyatta neredeyiz?
+Y: They want two hundred panels over two years, and I calculated four hundred and fifty euros per part. | İki yıl boyunca iki yüz panel istiyorlar ve parça başına dört yüz elli avro hesapladım.
+T: What's in that number? | O rakamın içinde ne var?
+Y: That includes material, labour and ultrasonic inspection, but not the tool. | Buna malzeme, işçilik ve ultrasonik muayene dahil ama kalıp değil.
+T: How do we show the tool? | Kalıbı nasıl göstereceğiz?
+Y: As a separate item: thirty thousand euros, paid by the customer. | Ayrı bir kalem olarak: otuz bin avro, müşteri tarafından ödenecek.
+T: And the delivery time? | Ya teslim süresi?
+Y: Twelve weeks from order for the first parts. This is based on a five per cent scrap rate and today's prepreg price. | İlk parçalar için siparişten itibaren on iki hafta. Bu, yüzde beş hurda oranı ve bugünkü prepreg fiyatı esas alınarak hesaplandı.
+### 3
+ideas: Fiyat yapısını açıkla: panel başına 450 avro, malzeme yaklaşık yüzde 40, kalıp ayrı kalem olarak 30.000 avro ; Rekabet konusunu tart: 420'ye inebiliriz ama hurda yüzde 5'i aşarsa zarar riski var ; Teslim süresini açıkla: kalıp sekiz hafta, ilk parçalar ilk parça muayenesi dahil 12 hafta ; Riski belirt: prepreg fiyatı sadece 90 gün geçerli ; Öneride bulun: fiyat ayarlama maddesi ekle
+chunks: The way I've built it up is… = Ben bunu şöyle oluşturdum… ; We could go down to… but… = …'e kadar inebiliriz ama… ; leave us exposed = bizi riske atmak ; The lead time is driven by… = Teslim süresini … belirliyor ; I'd strongly recommend… = …'i şiddetle tavsiye ederim
+T: I have to send the quote to the customer on Friday. Can you walk me through your numbers? | Teklifi cuma günü müşteriye göndermem gerekiyor. Rakamlarını bana anlatır mısın?
+Y: Sure. The way I've built it up is four hundred and fifty euros per panel, with material at about forty per cent, and the tool at thirty thousand as a separate item. | Tabii. Ben bunu şöyle oluşturdum: panel başına dört yüz elli avro, malzeme yaklaşık yüzde kırk ve kalıp ayrı bir kalem olarak otuz bin.
+T: I suspect the competition will be cheaper. Is there any room to move? | Rakiplerin daha ucuz olacağından şüpheleniyorum. Hareket alanımız var mı?
+Y: We could go down to four hundred and twenty, but that would leave us exposed if the scrap rate goes above five per cent. | Dört yüz yirmiye kadar inebiliriz ama hurda oranı yüzde beşin üstüne çıkarsa bu bizi riske atar.
+T: Understood. What lead time can we commit to? | Anlaşıldı. Hangi teslim süresini taahhüt edebiliriz?
+Y: The lead time is driven by the tool: it takes eight weeks to build, so first parts come twelve weeks from order, including first article inspection. | Teslim süresini kalıp belirliyor: yapımı sekiz hafta sürüyor, yani ilk parçalar ilk parça muayenesi dahil siparişten on iki hafta sonra geliyor.
+T: Anything else I should know before I send it? | Göndermeden önce bilmem gereken başka bir şey var mı?
+Y: The prepreg price is only valid for ninety days, so I'd strongly recommend a price adjustment clause for anything ordered after that. | Prepreg fiyatı sadece doksan gün geçerli, bu yüzden bundan sonra verilen siparişler için bir fiyat ayarlama maddesini şiddetle tavsiye ederim.
+
+## pm_kickoff | Kick-off | Proje başlangıç toplantısı: takvim ve kilometre taşları | pm
+brief: Yeni bir karbon flap kaplaması projesinin başlangıç toplantısındasın. Program yöneticisine teknik kapsamı, ana kilometre taşlarını, kritik bağımlılıkları ve ekipten neye ihtiyacın olduğunu anlat.
+role: a programme manager who is building the master schedule and wants clear milestones, owners and dependencies
+### 1
+ideas: Projeyi söyle: yeni bir karbon flap kaplaması ; İlk adımı söyle: tasarım şubat sonuna kadar biter ; Diğer tarihleri söyle: kalıp nisanda, ilk parça haziranda ; İhtiyacını söyle: iki teknisyen ve bir gerilme mühendisi
+chunks: First, we… = Önce … ; by the end of… = …sonuna kadar ; After that, … = Ondan sonra… ; The first part is in… = İlk parça …'de ; I need… = …'e ihtiyacım var
+T: Welcome, everyone. Kemal, can you tell us the plan? | Herkese hoş geldiniz. Kemal, bize planı anlatabilir misin?
+Y: Yes. We are making a new carbon flap skin. | Evet. Yeni bir karbon flap kaplaması yapıyoruz.
+T: What is the first step? | İlk adım ne?
+Y: First, we finish the design by the end of February. | Önce tasarımı şubat sonuna kadar bitiriyoruz.
+T: And then? | Sonra?
+Y: After that, the tool comes in April. The first part is in June. | Ondan sonra kalıp nisanda geliyor. İlk parça haziranda.
+T: What do you need from us? | Bizden neye ihtiyacın var?
+Y: I need two technicians and one stress engineer. | İki teknisyene ve bir gerilme mühendisine ihtiyacım var.
+### 2
+ideas: Projenin amacını söyle: yılda 60 set hızında karbon flap kaplaması ; Kilometre taşlarını sırala: şubat sonu tasarım donması, nisan kalıp, haziran ilk parça ; Kritik bağımlılığı açıkla: kalıp siparişi tasarım donmasını bekliyor ; Kaynak ihtiyacını belirt: iki teknisyen ve tam zamanlı bir gerilme mühendisi ; Toplantı düzenini öner: her salı kısa takvim toplantısı
+chunks: The aim of the project is… = Projenin amacı… ; The key milestones are… = Ana kilometre taşları… ; depends on… = …'e bağlı ; full-time = tam zamanlı ; I'd suggest a short meeting every… = Her … kısa bir toplantı öneririm
+T: Welcome to the kick-off. Kemal, can you give us the technical picture? | Başlangıç toplantısına hoş geldiniz. Kemal, bize teknik tabloyu verebilir misin?
+Y: Of course. The aim of the project is a new carbon flap skin, at a rate of sixty sets a year. | Tabii. Projenin amacı yılda altmış set hızında yeni bir karbon flap kaplaması.
+T: What are the main dates? | Ana tarihler neler?
+Y: The key milestones are design freeze at the end of February, tool delivery in April and first part in June. | Ana kilometre taşları şubat sonunda tasarım donması, nisanda kalıp teslimi ve haziranda ilk parça.
+T: Is there anything that could hold us up? | Bizi geciktirebilecek bir şey var mı?
+Y: Yes. The tool order depends on the design freeze, so a late design moves everything. | Evet. Kalıp siparişi tasarım donmasına bağlı, bu yüzden geç kalan bir tasarım her şeyi kaydırır.
+T: OK. What resources do you need? | Tamam. Hangi kaynaklara ihtiyacın var?
+Y: Two technicians and one stress engineer full-time. I'd suggest a short meeting every Tuesday to check the schedule. | İki teknisyen ve tam zamanlı bir gerilme mühendisi. Takvimi kontrol etmek için her salı kısa bir toplantı öneririm.
+### 3
+ideas: Kapsamı çerçevele: otoklavda kürlenen karbon prepreg flap kaplaması, yılda 60 set ; Kilometre taşlarını geriye doğru anlat: eylülde kalifikasyon, haziranda ilk parça, nisanda kalıp, şubat sonunda tasarım donması ; Kritik yolu açıkla: invar kalıp on hafta, tampon süre yok, tasarımdaki her gün kayması ilk parçayı kaydırır ; Dış bağımlılığı belirt: yeni prepreg müşterinin onaylı listesinde değil ; Sahiplik ve kaynak iste: her kilometre taşının sahibi olsun, ilk günden tam zamanlı gerilme mühendisi
+chunks: In a nutshell, … = Özetle… ; Working backwards from… = …'den geriye doğru hesaplarsak ; There's very little float = Çok az tampon süre var ; One dependency I'd flag is… = Belirtmek istediğim bir bağımlılık… ; Each milestone needs a clear owner = Her kilometre taşının net bir sahibi olmalı
+T: Thanks for coming. Kemal, before we build the master schedule, can you set the scene technically? | Geldiğiniz için teşekkürler. Kemal, ana takvimi oluşturmadan önce teknik çerçeveyi çizebilir misin?
+Y: In a nutshell, we're developing a carbon prepreg flap skin, cured in the autoclave, for a rate of sixty shipsets a year. | Özetle, yılda altmış uçak seti hızı için otoklavda kürlenen karbon prepreg bir flap kaplaması geliştiriyoruz.
+T: What are the dates that really matter? | Gerçekten önemli olan tarihler neler?
+Y: Working backwards from qualification in September, we need first part in June, the tool in April and design freeze by the end of February. | Eylüldeki kalifikasyondan geriye doğru hesaplarsak, haziranda ilk parça, nisanda kalıp ve şubat sonuna kadar tasarım donması gerekiyor.
+T: How tight is that? | Bu ne kadar sıkı?
+Y: Very. The invar tool takes ten weeks, so there's very little float: every day we lose on the design freeze moves first part by a day. | Çok. İnvar kalıp on hafta sürüyor, bu yüzden çok az tampon süre var: tasarım donmasında kaybettiğimiz her gün ilk parçayı bir gün kaydırıyor.
+T: Any external dependencies I should put on the plan? | Plana koymam gereken dış bağımlılıklar var mı?
+Y: One dependency I'd flag is the new prepreg, which isn't on the customer's approved list yet. Also, each milestone needs a clear owner, starting with a full-time stress engineer. | Belirtmek istediğim bir bağımlılık yeni prepreg, çünkü henüz müşterinin onaylı listesinde değil. Ayrıca her kilometre taşının net bir sahibi olmalı, tam zamanlı bir gerilme mühendisinden başlayarak.
+
+## pm_risk | Risk review | Risk listesi: olasılık, etki ve önlemler | pm
+brief: Aylık risk toplantısında program yöneticisiyle risk listesini gözden geçiriyorsun. En önemli teknik riskleri, olasılıklarını, etkilerini, önlemlerini ve sorumlularını anlat.
+role: a programme manager who keeps the risk register and needs scores, owners and actions he can report upward
+### 1
+ideas: Konuyu söyle: iki ana teknik risk var ; Birinci riski söyle: tek bir prepreg tedarikçisi, durursa üretim durur ; Önlemi söyle: stokta daha fazla malzeme tut ; İkinci riski ve önlemi söyle: kalın bölgede porozite, önce test panelleri
+chunks: The biggest risk is… = En büyük risk… ; If it happens, … = Eğer olursa… ; We can… = …yapabiliriz ; The chance is… = İhtimali… ; I will own it = Bundan ben sorumlu olacağım
+T: Let's look at the risks. What is the biggest one? | Risklere bakalım. En büyüğü ne?
+Y: The biggest risk is the prepreg. We have only one supplier. | En büyük risk prepreg. Tek bir tedarikçimiz var.
+T: What happens if they stop? | Durursa ne olur?
+Y: If it happens, we stop production. We can keep more material in stock. | Eğer olursa üretimi durdururuz. Stokta daha fazla malzeme tutabiliriz.
+T: OK. What is the second risk? | Tamam. İkinci risk ne?
+Y: Porosity in the thick area of the part. The chance is medium. | Parçanın kalın bölgesinde porozite. İhtimali orta.
+T: Who will look at that? | Buna kim bakacak?
+Y: I will own it. We will make test panels first. | Bundan ben sorumlu olacağım. Önce test panelleri yapacağız.
+### 2
+ideas: Konuyu başlat: üç teknik risk var ; Tedarik riskini anlat: tek kaynak prepreg, olasılık düşük, etki yüksek ; Önlemi söyle: üç aylık stok ; Porozite riskini anlat: 12 mm kalın bölge, orta risk, ilk parçadan önce deneme panelleri ; Test riskini anlat: sıcak-nemli basma testi, marj küçük, erken kupon testi, aksiyon sende
+chunks: The probability is low, but the impact is high = Olasılık düşük ama etki yüksek ; To reduce the risk, … = Riski azaltmak için… ; I'd score it as… = Bunu … olarak puanlardım ; at an early stage = erken bir aşamada ; I'll take the action = Aksiyonu ben alacağım
+T: Let's go through the risk register. Which technical risks are top of your list? | Risk listesinin üzerinden geçelim. Listenin başında hangi teknik riskler var?
+Y: There are three. The first is the prepreg, because we have a single supplier. The probability is low, but the impact is high. | Üç tane var. Birincisi prepreg, çünkü tek bir tedarikçimiz var. Olasılık düşük ama etki yüksek.
+T: What can we do about it? | Bununla ilgili ne yapabiliriz?
+Y: To reduce the risk, we can keep three months of material in stock. | Riski azaltmak için stokta üç aylık malzeme tutabiliriz.
+T: Fine. And the second one? | Peki. İkincisi?
+Y: Porosity in the twelve-millimetre thick area. I'd score it as medium, so we'll make trial panels before the first part. | On iki milimetre kalınlıktaki bölgede porozite. Bunu orta olarak puanlardım, bu yüzden ilk parçadan önce deneme panelleri yapacağız.
+T: And the last one? | Ya sonuncusu?
+Y: The hot-wet compression test, because the margin is small. We can test coupons at an early stage, and I'll take the action. | Sıcak-nemli basma testi, çünkü marj küçük. Kuponları erken bir aşamada test edebiliriz ve aksiyonu ben alacağım.
+### 3
+ideas: Çerçeve çiz: listede yirmi madde var ama üçü gerçekten önemli ; Tedarik riskini puanla: tek kaynak prepreg, olasılığı düşük ama etkisi yüksek ; Önlemi ve maliyetini anlat: üç aylık stok yaklaşık 25.000 avro bağlıyor, gelecek yıl ikinci kaynak kalifikasyonu ; Porozite riskini anlat: 12 mm rampa, orta, deneme panelleri ve ara vakumlama ; En kaygı verici riski açıkla: sıcak-nemli basma testi, ince marj, başarısız olursa kalifikasyon üç ay kayar ; Dinleyiciden ne istediğini söyle: erken kupon testleri için 8.000 avro
+chunks: Out of everything on the register, … = Listedeki her şeyin içinden… ; It's low likelihood but high impact = Olasılığı düşük ama etkisi yüksek ; As mitigation, … = Önlem olarak… ; The one that keeps me awake is… = Beni asıl düşündüren… ; I'd rather spend … now than… = …mektense şimdi … harcamayı tercih ederim
+T: We've got twenty items on the register, but I only have ten minutes. What really matters? | Listede yirmi madde var ama sadece on dakikam var. Gerçekten önemli olan ne?
+Y: Out of everything on the register, three risks really matter, and the first is supply: our prepreg is single-source. It's low likelihood but high impact. | Listedeki her şeyin içinden üç risk gerçekten önemli ve ilki tedarik: prepregimiz tek kaynaklı. Olasılığı düşük ama etkisi yüksek.
+T: What's the mitigation, and what does it cost? | Önlem ne ve neye mal oluyor?
+Y: As mitigation, we hold three months of stock, which ties up about twenty-five thousand euros, and we start qualifying a second source next year. | Önlem olarak üç aylık stok tutuyoruz, bu da yaklaşık yirmi beş bin avroyu bağlıyor, ve gelecek yıl ikinci bir kaynağı kalifiye etmeye başlıyoruz.
+T: And the other two? | Ya diğer ikisi?
+Y: Porosity in the twelve-millimetre ramp is medium, and we'll handle it with trial panels and intermediate debulks. The one that keeps me awake is the hot-wet compression test, where our margin is thin. | On iki milimetrelik rampa bölgesindeki porozite orta seviyede, deneme panelleri ve ara vakumlamalarla yöneteceğiz. Beni asıl düşündüren sıcak-nemli basma testi, orada marjımız ince.
+T: What happens if that test fails? | O test başarısız olursa ne olur?
+Y: Qualification slips by at least three months. That's why I'd rather spend eight thousand euros on early coupon tests now than find out in September. | Kalifikasyon en az üç ay kayar. Bu yüzden eylülde öğrenmektense şimdi erken kupon testlerine sekiz bin avro harcamayı tercih ederim.

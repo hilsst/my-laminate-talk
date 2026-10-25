@@ -1,0 +1,209 @@
+## rtm
+### 2
+title: Kalıp tedarikçisiyle RTM kalıbı görüşmesi
+brief: Program yöneticisi küçük bir denemeye onay verdi. Şimdi kalıp tedarikçisini arıyorsun: RTM kalıbının fiyatını, teslim süresini, ısıtmasını ve enjeksiyon noktalarını sorup netleştirmen gerekiyor.
+role: a sales engineer at a tooling company who wants a clear specification and a firm order
+ideas: Durumu söyle: braket için RTM deneme kalıbına onay aldınız ; Kalıbın özelliklerini anlat: çelik, iki parçalı, entegre ısıtma, bir giriş ve iki çıkış noktası ; Teklifi değerlendir: 38.000 euro ve on hafta teslim, bütçe 30.000 euro ; Pazarlık et: alüminyum deneme kalıbı veya ısıtmasız seçenek sor ; Sonraki adımı belirt: cuma günü çizimleri ve sipariş kararını göndereceksin
+chunks: I'm calling about… = …hakkında arıyorum ; What's the lead time? = Teslim süresi ne kadar? ; That's a bit over our budget = Bu bütçemizin biraz üzerinde ; Is there a cheaper option? = Daha ucuz bir seçenek var mı? ; I'll get back to you by… = …e kadar size dönüş yapacağım
+T: Good morning, Kemal. I got your email about the RTM tool. How can I help? | Günaydın Kemal. RTM kalıbıyla ilgili e-postanı aldım. Nasıl yardımcı olabilirim?
+Y: I'm calling about the bracket tool. We need a steel, two-part tool with built-in heating. | Braket kalıbı hakkında arıyorum. Entegre ısıtmalı, iki parçalı çelik bir kalıba ihtiyacımız var.
+T: OK. Where do you want the injection point and the vents? | Tamam. Enjeksiyon noktasını ve havalandırmaları nereye istiyorsunuz?
+Y: One inlet in the centre and two vents at the far ends, because the resin must flow to the corners. | Ortada bir giriş, uç kısımlarda iki çıkış, çünkü reçinenin köşelere kadar akması gerekiyor.
+T: Fine. Our price for that is thirty-eight thousand euros. | Peki. Bunun için fiyatımız otuz sekiz bin euro.
+Y: That's a bit over our budget. We have thirty thousand. Is there a cheaper option for the trial? | Bu bütçemizin biraz üzerinde. Otuz binimiz var. Deneme için daha ucuz bir seçenek var mı?
+T: We could make it in aluminium, but it won't last more than two hundred shots. | Alüminyumdan yapabiliriz ama iki yüz basımdan fazla dayanmaz.
+Y: That's enough for the trial. What's the lead time? I'll get back to you by Friday with the drawings. | Deneme için bu yeterli. Teslim süresi ne kadar? Cuma gününe kadar çizimlerle size dönüş yapacağım.
+### 3
+title: Deneme sonuçları ve müşteriyi ikna
+brief: Alüminyum kalıpla ilk on deneme parçası basıldı. İlk parçalarda kuru bölgeler vardı ama düzeltildi. Şimdi müşterinin baş mühendisine sonuçları sunuyor ve onaylı bir süreci değiştirmenin riskine karşı onu ikna etmeye çalışıyorsun.
+role: the customer's chief engineer who is sceptical about changing a process that is already qualified and flying
+ideas: Sonuçları özetle: on parçadan ilk ikisinde kuru bölge vardı, havalandırma değişince son sekiz parça temiz çıktı ; Kaliteyi kanıtla: UT temiz, porozite yüzde birin altında, lif oranı yüzde 58 ; Riski kabul et: onaylı bir süreci değiştirmek yeniden yeterlilik gerektirir ; Planı öner: tam yeterlilik yerine eşdeğerlik testleri ve ilk ürün muayenesi ; Faydayı vurgula: çevrim süresi dokuz saatten iki saate, parça başı maliyet yüzde 30 daha düşük ; Müşteriden ne istediğini söyle: eşdeğerlik test planına prensip onayı
+chunks: I'll be upfront about… = …konusunda açık konuşacağım ; Once we sorted out… = …'i çözdükten sonra ; I take your point, but… = Haklısınız, ama… ; rather than a full requalification = tam bir yeniden yeterlilik yerine ; What I'm asking for is… = Sizden istediğim…
+T: Kemal, our bracket has been flying for six years without a single issue. Why should we touch the process now? | Kemal, braketimiz altı yıldır tek bir sorun olmadan uçuyor. Süreci neden şimdi değiştirelim?
+Y: Because the autoclave is our bottleneck. RTM cuts the cycle from nine hours to two and the part cost by roughly thirty percent. | Çünkü otoklav darboğazımız. RTM çevrimi dokuz saatten iki saate, parça maliyetini de yaklaşık yüzde otuz düşürüyor.
+T: Fine, but what did the trial parts actually look like? | Peki ama deneme parçaları gerçekte nasıldı?
+Y: I'll be upfront about it. The first two shots had dry spots near the flange. Once we sorted out the vent position, the last eight came out clean. | Bu konuda açık konuşacağım. İlk iki basımda flanş yakınında kuru bölgeler vardı. Havalandırma yerini çözdükten sonra son sekiz parça temiz çıktı.
+T: Clean according to what? | Neye göre temiz?
+Y: Full UT scan with no indications, porosity under one percent from micrographs, and a fibre volume of fifty-eight percent, which matches the prepreg part. | Hiç bulgu olmayan tam UT taraması, mikrograflara göre yüzde birin altında porozite ve prepreg parçayla aynı olan yüzde elli sekiz lif oranı.
+T: It's still a different material and process. That means a full qualification, and we don't have the budget for that. | Yine de farklı bir malzeme ve süreç. Bu tam yeterlilik demek ve bunun için bütçemiz yok.
+Y: I take your point, but we can show equivalence rather than a full requalification. What I'm asking for is agreement in principle on a reduced coupon programme and a first article inspection. | Haklısınız, ama tam bir yeniden yeterlilik yerine eşdeğerlik gösterebiliriz. Sizden istediğim, azaltılmış bir numune programına ve ilk ürün muayenesine prensipte onay.
+
+## delam
+### 2
+title: Laminasyon atölyesinde kök neden araştırması
+brief: Müşteriye rapor sözü verdin. Şimdi laminasyon atölyesi şefiyle konuşup delaminasyonun kök nedenini araştırıyorsun: hangi vardiya, hangi operatör, koruyucu film nasıl kontrol ediliyor, bunları sorman gerekiyor.
+role: the lay-up shop supervisor who is proud of his team and a bit defensive
+ideas: Amacını söyle: suçlu aramıyorsun, kök nedeni buluyorsun ; Bulguyu anlat: kesitte katmanlar arasında koruyucu film parçası çıktı ; Sorularını sor: hangi vardiya, film kontrolü nasıl yapılıyor ; Asıl sorunu belirt: kontrol listesinde film sayımı yok, yeni operatör eğitimi eksik ; Önlem öner: renkli film, katman başına film sayımı ve imza
+chunks: I'm not here to blame anyone = Kimseyi suçlamak için burada değilim ; We cut a section and found… = Kesit aldık ve …bulduk ; Can you walk me through…? = Bana …'i adım adım anlatır mısın? ; So what you're saying is… = Yani diyorsun ki… ; How about if we…? = …yapsak nasıl olur?
+T: Kemal, I heard about the panel. My guys are careful, you know. | Kemal, paneli duydum. Benim adamlarım dikkatlidir, biliyorsun.
+Y: I know. I'm not here to blame anyone. I just want to find the root cause. | Biliyorum. Kimseyi suçlamak için burada değilim. Sadece kök nedeni bulmak istiyorum.
+T: OK. What did you find? | Tamam. Ne buldunuz?
+Y: We cut a section and found a small piece of backing film between ply six and ply seven. | Kesit aldık ve altıncı ile yedinci katman arasında küçük bir koruyucu film parçası bulduk.
+T: Really? That panel was laid up on the night shift, by our new operator. | Gerçekten mi? O panel gece vardiyasında yeni operatörümüz tarafından serildi.
+Y: Can you walk me through how you check that all the film is removed? | Tüm filmin çıkarıldığını nasıl kontrol ettiğinizi bana adım adım anlatır mısın?
+T: They look at it, but there's no line for it on the checklist. | Bakıyorlar ama kontrol listesinde bunun için bir satır yok.
+Y: So what you're saying is the check depends on memory. How about if we use coloured film and count it for every ply? | Yani diyorsun ki kontrol hafızaya bağlı. Renkli film kullanıp her katmanda saysak nasıl olur?
+### 3
+title: Müşteriye 8D raporu ve tamir önerisi
+brief: Kök neden bulundu ve düzeltici faaliyetler başladı. Şimdi müşterinin kalite müdürüne 8D raporunu sunuyorsun. Hasarlı paneli hurdaya ayırmak yerine onaylı bir tamirle kurtarmayı ve muayene kapsamını makul tutmayı savunuyorsun.
+role: the customer's quality manager who wants proof that the fix works and is reluctant to accept a repaired part
+ideas: Kök nedeni özetle: altıncı ve yedinci katman arasında kalmış koruyucu film, kontrol listesinde açık ; Düzeltici faaliyetleri anlat: renkli film, katman başına sayım, operatör yeniden eğitimi ; Kapsamı açıkla: aynı dönemdeki on dört panel UT ile tarandı, başka bulgu yok ; Tamiri savun: kusur kenarda ve tamir sınırları içinde, analizle desteklendi ; Taviz ver: üç ay boyunca yüzde yüz UT muayenesini kabul et ; Müşteriden iste: tamir için sapma onayı ve yeni bir hurdaya ayırma yerine birlikte karar
+chunks: To cut a long story short, … = Uzun lafın kısası… ; We've ruled out… = …'i ihtimal dışı bıraktık ; It falls well within… = …'in rahatça içinde kalıyor ; I'd be happy to… = …memnuniyetle yaparım ; Would you be willing to…? = …'e razı olur musunuz?
+T: I've read your 8D. Before we talk about repairs, how sure are you about the root cause? | 8D raporunuzu okudum. Tamirden bahsetmeden önce kök nedenden ne kadar eminsiniz?
+Y: To cut a long story short, very sure. The micrograph shows backing film between plies six and seven, and we've ruled out resin and cure issues with DSC. | Uzun lafın kısası, çok eminiz. Mikrograf altıncı ve yedinci katman arasında koruyucu film gösteriyor, reçine ve kür sorunlarını da DSC ile ihtimal dışı bıraktık.
+T: And the other panels from that period? | Peki o dönemdeki diğer paneller?
+Y: We scanned all fourteen panels laid up that month, with no further indications. The gap was a missing step on the checklist, which is now closed. | O ay serilen on dört panelin hepsini taradık, başka bulgu yok. Açık, kontrol listesindeki eksik bir adımdı ve artık kapatıldı.
+T: I'm still not comfortable putting a repaired panel on an aircraft. | Tamirli bir paneli uçağa takmak konusunda hâlâ içim rahat değil.
+Y: I understand. But the defect is at the edge, outside the main load path, and it falls well within the structural repair manual limits. Our analysis shows a positive margin after repair. | Anlıyorum. Ama kusur kenarda, ana yük yolunun dışında ve yapısal tamir el kitabı sınırlarının rahatça içinde kalıyor. Analizimiz tamirden sonra pozitif marj gösteriyor.
+T: Then I want one hundred percent UT on every panel for the next six months. | O zaman önümüzdeki altı ay her panelde yüzde yüz UT istiyorum.
+Y: I'd be happy to do full UT, but six months is a lot of extra capacity. Would you be willing to start with three months and review the data together? | Tam UT'yi memnuniyetle yaparız ama altı ay çok fazla ek kapasite demek. Üç ayla başlayıp verileri birlikte gözden geçirmeye razı olur musunuz?
+
+## clt
+### 2
+title: Üretim mühendisiyle yeni katman dizilimi
+brief: Direktör iki ek katmana onay verdi. Şimdi üretim mühendisiyle konuşuyorsun: o, ek ±45 katmanların serim süresini, kesim planını ve kalınlık geçişlerini dert ediyor. Tasarımı açıklayıp ortak bir çözüm bulman gerekiyor.
+role: a manufacturing engineer who worries about lay-up time, ply cutting and thickness steps in the tool
+ideas: Değişikliği söyle: burulma için iki ek ±45 katman, dizilimin ortasına yakın ; Nedenini açıkla: burulma yükünde marj yüzde 4'tü, şimdi yüzde 22 ; Endişeyi dinle: serim süresi ve kalınlık geçişi ; Çözüm öner: katmanları kademeli bitir, 1'e 20 eğimle ; Sonraki adımı belirt: güncel çizimi çarşamba göndereceksin
+chunks: The idea is to… = Amaç şu… ; That's why… = Bu yüzden… ; I see your point. = Ne demek istediğini anlıyorum. ; What if we…? = …yapsak ne olur? ; Let's agree on… = …üzerinde anlaşalım
+T: Kemal, I saw the new lay-up. Two extra plies means more work for us. | Kemal, yeni dizilimi gördüm. İki ek katman bizim için daha fazla iş demek.
+Y: I know. The idea is to add two plus and minus forty-five plies, because the part is weak in torsion. | Biliyorum. Amaç artı eksi kırk beşlik iki katman eklemek, çünkü parça burulmada zayıf.
+T: How much does it really help? | Gerçekten ne kadar faydası var?
+Y: The margin goes from four percent to twenty-two percent. That's why the director approved it. | Marj yüzde dörtten yüzde yirmi ikiye çıkıyor. Bu yüzden direktör onayladı.
+T: OK, but the plies stop at the flange. That gives a big step in thickness. | Tamam ama katmanlar flanşta bitiyor. Bu da kalınlıkta büyük bir basamak yaratıyor.
+Y: I see your point. What if we drop them one by one, with a one-to-twenty slope? | Ne demek istediğini anlıyorum. Onları birer birer, yirmide bir eğimle bitirsek ne olur?
+T: That works. It adds about twenty minutes of lay-up time per part. | Bu olur. Parça başına yaklaşık yirmi dakika serim süresi ekliyor.
+Y: That's acceptable. Let's agree on that, and I'll send the updated drawing on Wednesday. | Bu kabul edilebilir. Bunun üzerinde anlaşalım, güncel çizimi çarşamba gönderirim.
+### 3
+title: Müşteri analiz incelemesinde savunma
+brief: Yeni dizilimin analizi müşterinin tasarım incelemesine geldi. Müşterinin kıdemli yapısal analisti Tsai-Wu kriterini, etkileşim terimini ve sıcak-nemli düşürme katsayılarını sorguluyor. Analizini savunman, sınırlarını dürüstçe kabul etmen ve bir doğrulama testi önermen gerekiyor.
+role: the customer's senior stress engineer who challenges the failure criterion and the knock-down factors
+ideas: Yöntemi özetle: klasik laminasyon teorisi, katman bazında Tsai-Wu, en kritik yük durumu burulma ; Eleştiriyi kabul et: Tsai-Wu etkileşim terimi belirsiz, tek başına güvenilmez ; Savunmanı yap: Hashin ve maksimum gerinim kriterleriyle de kontrol edildi, en kötü sonuç alındı ; Düşürme katsayılarını açıkla: sıcak-nemli için yüzde 20, açık delik için ayrıca ; Marjı yorumla: en kötü durumda bile yüzde 14 pozitif marj ; Öner: bir alt bileşen burulma testiyle analizi doğrulayalım
+chunks: To be fair, … = Hakkını vermek gerekirse… ; We cross-checked it against… = Bunu …ile çapraz kontrol ettik ; Even in the worst case, … = En kötü durumda bile… ; I'd rather not rely on… = …'e güvenmek istemem ; The way I see it, … = Bana kalırsa…
+T: Your whole conclusion rests on Tsai-Wu. You know how sensitive it is to the interaction term. | Tüm sonucunuz Tsai-Wu'ya dayanıyor. Etkileşim terimine ne kadar hassas olduğunu biliyorsunuz.
+Y: To be fair, that's a valid concern. I'd rather not rely on one criterion, so we cross-checked it against Hashin and maximum strain and kept the lowest margin. | Hakkını vermek gerekirse bu haklı bir endişe. Tek bir kritere güvenmek istemem, bu yüzden Hashin ve maksimum gerinimle çapraz kontrol edip en düşük marjı aldık.
+T: Which one was critical? | Hangisi kritikti?
+Y: Maximum strain, in the plus forty-five plies under torsion. Tsai-Wu was actually less conservative by about six percent. | Burulma altında artı kırk beşlik katmanlarda maksimum gerinim. Tsai-Wu aslında yaklaşık yüzde altı daha az muhafazakârdı.
+T: And the environmental knock-downs? Your allowables look optimistic to me. | Peki çevresel düşürme katsayıları? İzin verilen değerleriniz bana iyimser görünüyor.
+Y: We took twenty percent off for hot-wet and applied open-hole values separately. Even in the worst case, the margin is still fourteen percent positive. | Sıcak-nemli için yüzde yirmi düşürdük ve açık delik değerlerini ayrıca uyguladık. En kötü durumda bile marj hâlâ yüzde on dört pozitif.
+T: Analysis is analysis. I'd want to see it on a real part. | Analiz analizdir. Bunu gerçek bir parçada görmek isterim.
+Y: The way I see it, that's the right call. I'd propose a sub-component torsion test with strain gauges at the critical location, so we can correlate the model before the drawing is frozen. | Bana kalırsa doğru karar bu. Kritik bölgede gerinim ölçerli bir alt bileşen burulma testi öneririm, böylece çizim dondurulmadan modeli doğrulayabiliriz.
+
+## cure
+### 2
+title: Otoklav operatörüyle kür verilerini inceleme
+brief: Tedarikçi kendi testinde Tg'nin 181 derece çıktığını söyledi. Şimdi otoklav operatörüyle o partinin termokupl kayıtlarına bakıyorsun. Bu kez soran sensin: parçanın gerçekte hangi sıcaklıkta ne kadar kaldığını anlaman gerekiyor.
+role: an experienced autoclave operator who is sure the cycle was run correctly
+ideas: Durumu söyle: tedarikçinin ölçümü 181 derece, sorun bizim tarafta olabilir ; Kayıtları sor: hava sıcaklığı ve parça termokuplları ; Bulguyu anlat: en geride kalan termokupl 180 dereceye 40 dakika geç ulaştı ; Nedeni açıkla: kalıp kalın çelik, bu parti için yük de fazlaydı ; Öneride bulun: çevrimi en geride kalan termokupla göre kontrol et
+chunks: I'm not saying you did anything wrong = Yanlış bir şey yaptın demiyorum ; Can you pull up…? = …'i açabilir misin? ; Look at this one. = Şuna bak. ; It only reached… = Sadece …'e ulaştı ; From now on, … = Bundan sonra…
+T: The cycle was perfect, Kemal. I ran it exactly like the spec. | Çevrim kusursuzdu Kemal. Tam spesifikasyondaki gibi çalıştırdım.
+Y: I'm not saying you did anything wrong. But the supplier measured 181 degrees, so the problem may be on our side. | Yanlış bir şey yaptın demiyorum. Ama tedarikçi 181 derece ölçtü, yani sorun bizim tarafta olabilir.
+T: OK. What do you want to see? | Tamam. Neyi görmek istiyorsun?
+Y: Can you pull up the thermocouple data, not just the air temperature? | Sadece hava sıcaklığını değil, termokupl verilerini de açabilir misin?
+T: Sure. Here are all six thermocouples. | Tabii. İşte altı termokuplun hepsi.
+Y: Look at this one, under the thick steel tool. It only reached 180 degrees forty minutes late. | Şuna bak, kalın çelik kalıbın altındaki. 180 dereceye kırk dakika geç ulaştı.
+T: Yes, the load was full that day. We had three big tools inside. | Evet, o gün yük tamdı. İçeride üç büyük kalıp vardı.
+Y: So that part had a short dwell. From now on, let's control the cycle on the lagging thermocouple. | Demek o parçanın bekleme süresi kısa kalmış. Bundan sonra çevrimi en geride kalan termokupla göre kontrol edelim.
+### 3
+title: Tedarikçiyle sorumluluk ve maliyet pazarlığı
+brief: Analiz tamamlandı: sorun hem otoklavdaki ısı gecikmesinden hem de partinin biraz düşük reaktivitesinden kaynaklanıyor. Şimdi tedarikçinin müşteri sorumlusuyla toplantıdasın. Etkilenen parçaların son kür maliyetini paylaşmayı ve gelecekte her partiyle DSC verisi göndermelerini kabul ettirmen gerekiyor.
+role: the supplier's key account manager who wants to protect the relationship but avoid paying for anything
+ideas: Ortak tabloyu çiz: iki faktör var, bizim ısı gecikmemiz ve partinin düşük reaktivitesi ; Kanıtı göster: DSC'de yüzde 6 kalıntı kür, önceki partilerde yüzde 2 ; Kendi payını kabul et: çevrim artık en geride kalan termokupla göre kontrol ediliyor ; Maliyeti açıkla: 46 parçaya son kür, toplam 9.000 euro ; Teklif yap: maliyeti yarı yarıya paylaşalım ; Talebini belirt: her partiyle DSC verisi ve partiye özel uygunluk sertifikası
+chunks: Let's be clear, … = Açık olalım… ; There's fault on both sides = Her iki tarafın da payı var ; It's within spec, but… = Spesifikasyon içinde, ama… ; Meet us halfway = Ortada buluşun ; Going forward, … = Bundan sonra…
+T: Kemal, our batch passed every release test. I don't see why we should pay for anything. | Kemal, partimiz tüm sevk testlerini geçti. Neden bir şey ödememiz gerektiğini anlamıyorum.
+Y: Let's be clear, I'm not blaming you alone. There's fault on both sides. Our tool lag shortened the dwell, and we've already fixed that. | Açık olalım, sadece sizi suçlamıyorum. Her iki tarafın da payı var. Kalıp gecikmemiz bekleme süresini kısalttı ve bunu zaten düzelttik.
+T: So where exactly is our part in this? | Peki bizim payımız tam olarak nerede?
+Y: The DSC shows six percent residual cure on your batch, against two percent on the previous five. It's within spec, but it left us with no safety margin. | DSC sizin partinizde yüzde altı kalıntı kür gösteriyor, önceki beş partide yüzde ikiydi. Spesifikasyon içinde, ama bize hiç güvenlik payı bırakmadı.
+T: What are you asking for, in numbers? | Rakamlarla ne istiyorsunuz?
+Y: We have forty-six parts that need a post-cure. That's about nine thousand euros in oven time and inspection. I'd like you to meet us halfway on that. | Son kür gerektiren kırk altı parçamız var. Bu fırın süresi ve muayeneyle yaklaşık dokuz bin euro. Bunda ortada buluşmanızı istiyorum.
+T: I'll have to check with my manager, but fifty-fifty might be possible. | Müdürüme danışmam lazım ama yarı yarıya mümkün olabilir.
+Y: Thank you. Going forward, we'd also like DSC data with every batch, so that we can spot a slow batch before it reaches the autoclave. | Teşekkürler. Bundan sonra her partiyle DSC verisi de istiyoruz, böylece yavaş bir partiyi otoklava girmeden fark edebiliriz.
+
+## testplan
+### 2
+title: Test laboratuvarıyla iş planlama
+brief: Sertifikasyon uzmanı test planını prensipte kabul etti. Şimdi dış test laboratuvarının proje yöneticisiyle konuşuyorsun: numune şartlandırma süresini, test fikstürlerini, otorite tanıklığını ve fiyatı netleştirip takvimi oturtman gerekiyor.
+role: a project manager at an external test laboratory who is busy and needs exact numbers
+ideas: İşi tanımla: yaklaşık 300 numune, çekme, basma ve kesme ; Şartlandırmayı açıkla: sıcak-nemli numuneler 70 derece ve yüzde 85 nemde ; Süreyi sor: nem dengesine ulaşmak ne kadar sürer ; Tanıklığı belirt: otorite bazı testleri yerinde izlemek istiyor ; Fiyatı ve takvimi netleştir: teklifi ve başlangıç tarihini iste
+chunks: We're looking at about… = Yaklaşık …'den bahsediyoruz ; until they reach equilibrium = dengeye ulaşana kadar ; Could you give me a rough idea of…? = …hakkında kabaca bir fikir verebilir misiniz? ; The authority wants to witness… = Otorite …'e tanıklık etmek istiyor ; Can you put that in writing? = Bunu yazılı olarak verebilir misiniz?
+T: Hi Kemal. So, how big is this job? | Merhaba Kemal. Peki bu iş ne kadar büyük?
+Y: We're looking at about three hundred coupons. Tension, compression and in-plane shear, from three batches. | Yaklaşık üç yüz numuneden bahsediyoruz. Üç partiden çekme, basma ve düzlem içi kesme.
+T: Any environmental conditioning? | Çevresel şartlandırma var mı?
+Y: Yes. A third of them are hot-wet, so they go in the chamber at 70 degrees and 85 percent humidity until they reach equilibrium. | Evet. Üçte biri sıcak-nemli, yani dengeye ulaşana kadar 70 derece ve yüzde 85 nemde kabine girecekler.
+T: That can take six to eight weeks for that thickness. | O kalınlık için bu altı ila sekiz hafta sürebilir.
+Y: OK. Could you give me a rough idea of the price? Also, the authority wants to witness some of the tests. | Tamam. Fiyat hakkında kabaca bir fikir verebilir misiniz? Ayrıca otorite bazı testlere tanıklık etmek istiyor.
+T: No problem. Roughly forty-five thousand euros, and we can start on the third of March. | Sorun değil. Kabaca kırk beş bin euro, üç martta başlayabiliriz.
+Y: That sounds fine. Can you put that in writing, with the witness dates in the plan? | Kulağa iyi geliyor. Bunu tanıklık tarihleri de planda olacak şekilde yazılı olarak verebilir misiniz?
+### 3
+title: Beklenmeyen sonuçları otoriteye sunmak
+brief: Testler bitti ama sıcak-nemli basma sonuçlarında bir panelden gelen altı numune çok düşük çıktı ve izin verilen değeri aşağı çekiyor. Sertifikasyon uzmanına durumu açıkça sunuyor, bu numuneleri geçersiz saymanın teknik gerekçesini savunuyor ve yeniden test öneriyorsun.
+role: the certification specialist from the authority who is careful and will not accept removing data without a solid reason
+ideas: Sonucu açıkça söyle: bir panelden altı sıcak-nemli basma numunesi ortalamadan yüzde 18 düşük ; Kanıtı göster: kırılma modu uçta ezilme, standarda göre geçersiz kırılma ; Kök nedeni açıkla: fikstür hizalaması bozuk, gerinim ölçerler yüzde 15 bükülme gösteriyor ; Neyi yapmadığını belirt: veriyi gizlemiyorsun, hepsi raporda ; Öner: aynı panelden yedek numunelerle yeniden test, otorite tanıklığında ; Riski kabul et: yeni sonuçlar da düşükse daha düşük değeri kullanacaksınız
+chunks: I want to be transparent about… = …konusunda şeffaf olmak istiyorum ; The failure mode tells us… = Kırılma modu bize …gösteriyor ; It's not a material issue, it's… = Bu bir malzeme sorunu değil, … ; I'm not asking you to simply… = Sizden sadece …istemiyorum ; If the retest confirms…, we'll… = Yeniden test …'i doğrularsa …
+T: I've seen the hot-wet compression data. Six results are well below the rest. What happened? | Sıcak-nemli basma verilerini gördüm. Altı sonuç diğerlerinin çok altında. Ne oldu?
+Y: I want to be transparent about this. All six come from one panel, and they're about eighteen percent below the mean, which pulls the B-basis value down significantly. | Bu konuda şeffaf olmak istiyorum. Altısı da tek bir panelden geliyor ve ortalamanın yaklaşık yüzde on sekiz altında, bu da B-tabanlı değeri ciddi şekilde aşağı çekiyor.
+T: So you want to remove them. That's exactly what makes me nervous. | Yani onları çıkarmak istiyorsunuz. Beni tedirgin eden de tam olarak bu.
+Y: The failure mode tells us a lot. They all failed by end crushing, which the test standard defines as an invalid failure. The other specimens failed in the gauge section. | Kırılma modu bize çok şey gösteriyor. Hepsi uçta ezilmeyle kırıldı ve test standardı bunu geçersiz kırılma olarak tanımlıyor. Diğer numuneler ölçüm bölgesinde kırıldı.
+T: And why would one panel crush at the ends? | Peki neden tek bir panel uçlarda ezilsin?
+Y: It's not a material issue, it's the set-up. The back-to-back strain gauges show fifteen percent bending, so the fixture was misaligned for that series. | Bu bir malzeme sorunu değil, kurulumla ilgili. Karşılıklı gerinim ölçerler yüzde on beş bükülme gösteriyor, yani o seride fikstür hizasızdı.
+T: I'll need more than gauge data to accept that. | Bunu kabul etmek için gerinim verisinden fazlasına ihtiyacım olacak.
+Y: I'm not asking you to simply delete them. Everything stays in the report. We'd retest spare coupons from the same panel with your witness, and if the retest confirms the low values, we'll use them. | Sizden onları sadece silmenizi istemiyorum. Her şey raporda kalıyor. Aynı panelin yedek numunelerini sizin tanıklığınızda yeniden test ederiz, yeniden test düşük değerleri doğrularsa onları kullanırız.
+
+## audit
+### 2
+title: Denetim kapanış toplantısı
+brief: Fabrika turu bitti ve kapanış toplantısındasın. Tedarikçinin kalite müdürüne bulgularını sunuyorsun: prepreg açık kalma süresi takibi eksik, iki operatörün eğitimi süresi dolmuş, hafta sonu dondurucu kayıtları boş. Düzeltici faaliyetlerde ve tarihlerde anlaşman gerekiyor.
+role: the supplier's quality manager who accepts some findings but argues about others
+ideas: Olumlu başla: temiz oda ve kesim alanı çok iyi ; Birinci bulguyu söyle: prepreg rulolarında açık kalma süresi kaydı yok ; İkinci bulguyu söyle: iki operatörün sertifikası geçen ay dolmuş ; Üçüncü bulguyu söyle: hafta sonları dondurucu sıcaklığı kaydedilmiyor ; Düzeltici faaliyet ve tarih iste: 30 gün içinde yazılı plan
+chunks: Overall, … = Genel olarak… ; I have three findings = Üç bulgum var ; That's a major finding = Bu büyük bir bulgu ; I understand, but… = Anlıyorum, ama… ; within thirty days = otuz gün içinde
+T: So, Kemal, what's your overall impression? | Evet Kemal, genel izlenimin nedir?
+Y: Overall, it's positive. The clean room and the cutting area are very good. But I have three findings. | Genel olarak olumlu. Temiz oda ve kesim alanı çok iyi. Ama üç bulgum var.
+T: OK, go ahead. | Tamam, buyur.
+Y: First, there's no out-time record on the prepreg rolls. You can't prove how long they were outside the freezer. | Birincisi, prepreg rulolarında açık kalma süresi kaydı yok. Dondurucunun dışında ne kadar kaldıklarını kanıtlayamazsınız.
+T: The operators know the limit. It's thirty days. | Operatörler limiti biliyor. Otuz gün.
+Y: I understand, but if it's not written down, it didn't happen. That's a major finding. | Anlıyorum, ama yazılı değilse olmamış sayılır. Bu büyük bir bulgu.
+T: Fair enough. And the other two? | Haklısın. Diğer ikisi?
+Y: Two operators' training expired last month, and there are no freezer readings at weekends. I need a written action plan within thirty days. | İki operatörün eğitim süresi geçen ay dolmuş ve hafta sonları dondurucu ölçümü yok. Otuz gün içinde yazılı bir eylem planı istiyorum.
+### 3
+title: Tedarikçi onayı için yönetime öneri
+brief: Tedarikçi eylem planını gönderdi ama hepsi henüz uygulanmadı. Satın alma direktörü bu tedarikçinin yüzde 15 daha ucuz olduğu için hemen tam onay istiyor. Ona koşullu onay önerini savunman ve riskleri iş diliyle anlatman gerekiyor.
+role: the procurement director who wants the cheaper supplier approved quickly to hit the savings target
+ideas: Önerini baştan söyle: tam onay değil, koşullu onay ; Ne düzeldiğini anlat: dondurucu kaydı otomatik, eğitimler yenilendi ; Neyin açık kaldığını belirt: açık kalma süresi takibi için sistem henüz çalışmıyor ; Riski iş diliyle açıkla: süresi geçmiş prepreg tüm partinin hurdası ve müşteri şikâyeti demek ; Uzlaşma öner: düşük riskli parçalarla başla, üç ay sonra yeniden denetim ; Direktörden iste: tasarruf hedefini bir çeyrek kaydırmayı kabul etmesi
+chunks: My recommendation is… = Önerim… ; to be on the safe side = işi garantiye almak için ; It's a calculated risk = Hesaplanmış bir risk ; The last thing we want is… = İsteyeceğimiz son şey… ; I'd suggest we phase it in = Bunu kademeli olarak devreye almayı öneririm
+T: Kemal, they're fifteen percent cheaper than our current supplier. Why can't we just approve them? | Kemal, şu anki tedarikçimizden yüzde on beş daha ucuzlar. Neden onları onaylayamıyoruz?
+Y: My recommendation is a conditional approval, not a full one. They've closed two of the three findings, but the most important one is still open. | Önerim tam değil, koşullu bir onay. Üç bulgunun ikisini kapattılar ama en önemlisi hâlâ açık.
+T: Which one is that, in plain words? | Hangisi o, sade bir dille?
+Y: They still can't track how long the prepreg has been out of the freezer. If they use expired material, the resin won't flow properly and we get porosity in the parts. | Prepregin dondurucunun dışında ne kadar kaldığını hâlâ takip edemiyorlar. Süresi geçmiş malzeme kullanırlarsa reçine düzgün akmaz ve parçalarda porozite oluşur.
+T: But we inspect everything anyway. Isn't that enough? | Ama zaten her şeyi muayene ediyoruz. Bu yeterli değil mi?
+Y: UT finds the defect, but by then the part is scrap. The last thing we want is a whole batch rejected on the customer's line, which would wipe out the saving very quickly. | UT kusuru bulur ama o zaman parça zaten hurdadır. İsteyeceğimiz son şey müşterinin hattında bütün bir partinin reddedilmesi, bu da tasarrufu çok hızlı silip süpürür.
+T: So what do you propose? I have a savings target to hit. | Peki ne öneriyorsun? Tutturmam gereken bir tasarruf hedefi var.
+Y: I'd suggest we phase it in. They start with simple fairings, which is a calculated risk, and we re-audit in three months. To be on the safe side, the savings target moves back one quarter. | Bunu kademeli olarak devreye almayı öneririm. Basit kaportalarla başlarlar, bu hesaplanmış bir risk, üç ay sonra yeniden denetleriz. İşi garantiye almak için tasarruf hedefi bir çeyrek geri kayar.
+
+## safety
+### 2
+title: İş güvenliği uzmanına olay bildirimi
+brief: İki hafta sonra yeni teknisyenin ellerinde kızarıklık ve kaşıntı başladı; eldivenlerini yanlış çıkarıyormuş. İş güvenliği uzmanına olayı bildiriyorsun: ne olduğunu, ne zaman başladığını, hemen ne yaptığınızı ve önerini anlatman gerekiyor.
+role: the company's health and safety officer who needs exact facts for the incident report
+ideas: Olayı söyle: teknisyenin ellerinde iki gündür kızarıklık ve kaşıntı var ; Nedenini açıkla: eldiveni yanlış çıkarıyor, reçine bileğe değiyor ; Hemen yapılanı anlat: reçine işinden alındı, revire gönderildi ; Asıl sorunu belirt: eldivenler ince lateks, reçineye dayanıklı değil ; Öneride bulun: nitril eldiven, eldiven çıkarma eğitimi ve uzun kollu önlük
+chunks: I'd like to report… = …bildirmek istiyorum ; It started about … ago = Yaklaşık … önce başladı ; As a precaution, … = Önlem olarak… ; The real problem is… = Asıl sorun… ; I'd recommend… = …öneririm
+T: Hi Kemal. You said you have something to report? | Merhaba Kemal. Bildirecek bir şeyin olduğunu söylemiştin?
+Y: Yes. I'd like to report a skin problem. One of the new technicians has red, itchy hands. | Evet. Bir cilt sorununu bildirmek istiyorum. Yeni teknisyenlerden birinin elleri kızarık ve kaşınıyor.
+T: When did it start? | Ne zaman başladı?
+Y: It started about two days ago. He takes his gloves off the wrong way, so resin touches his wrists. | Yaklaşık iki gün önce başladı. Eldivenlerini yanlış çıkarıyor, bu yüzden reçine bileklerine değiyor.
+T: What have you done so far? | Şu ana kadar ne yaptınız?
+Y: As a precaution, we took him off resin work and sent him to the medical room this morning. | Önlem olarak onu reçine işinden aldık ve bu sabah revire gönderdik.
+T: Good. Was he wearing the right gloves? | İyi. Doğru eldivenleri mi takıyordu?
+Y: The real problem is the thin latex gloves. They're not resistant to epoxy. I'd recommend nitrile gloves and a short training on taking them off. | Asıl sorun ince lateks eldivenler. Epoksiye dayanıklı değiller. Nitril eldiven ve onları çıkarma konusunda kısa bir eğitim öneririm.
+### 3
+title: Toz emme sistemi için yatırım ikna
+brief: Olay incelemesinde başka bir risk de ortaya çıktı: kenar kesme ve zımparalama istasyonunda karbon tozu için yerel emme yok. Üretim müdürünü 18.000 euroluk bir toz emme sistemi ve iki günlük duruşa ikna etmen gerekiyor; o ise bütçe ve teslimat baskısı altında.
+role: the production manager who is under pressure on output and budget and sees safety spending as a cost
+ideas: Durumu söyle: kesme istasyonunda yerel emme yok, ölçülen toz sınırın yakınında ; Riski açıkla: karbon tozu solunum için zararlı ve iletken, elektrik panolarına zarar verebilir ; Maliyeti ver: 18.000 euro ve iki günlük kurulum ; Karşı argümanı yanıtla: maskeler yeterli değil, toz tüm atölyeye yayılıyor ; Uzlaşma öner: kurulumu planlı bakım duruşuna denk getir ; Kararı iste: bu ay onay ver
+chunks: I wouldn't raise this if… = …olmasa bunu gündeme getirmezdim ; It's not just about… = Mesele sadece … değil ; We're close to the limit = Sınıra yakınız ; If we time it with… = Bunu …'e denk getirirsek ; I need a decision by… = …'e kadar bir karar lazım
+T: Kemal, eighteen thousand euros and two days of downtime? We're already behind on deliveries. | Kemal, on sekiz bin euro ve iki gün duruş mu? Teslimatlarda zaten gerideyiz.
+Y: I wouldn't raise this if it weren't serious. The air sampling at the trimming station came back at eighty percent of the exposure limit. We're close to the limit. | Ciddi olmasa bunu gündeme getirmezdim. Kenar kesme istasyonundaki hava ölçümü maruziyet sınırının yüzde sekseninde çıktı. Sınıra yakınız.
+T: But the guys wear masks. Isn't that enough? | Ama çocuklar maske takıyor. Bu yeterli değil mi?
+Y: It's not just about the operator. Without extraction, the fine dust spreads over the whole shop, and carbon dust is conductive, so it can get into electrical cabinets and cause short circuits. | Mesele sadece operatör değil. Emme olmadan ince toz tüm atölyeye yayılıyor ve karbon tozu iletken, yani elektrik panolarına girip kısa devreye yol açabilir.
+T: I still can't stop the line for two days this month. | Yine de bu ay hattı iki gün durduramam.
+Y: You won't have to. If we time it with the planned maintenance shutdown on the twenty-fourth, the installation costs us no extra production time at all. | Durdurmak zorunda kalmayacaksınız. Bunu ayın yirmi dördündeki planlı bakım duruşuna denk getirirsek, kurulum bize hiç ek üretim süresi kaybettirmez.
+T: And the money? It's not in my budget. | Peki para? Bütçemde yok.
+Y: I've spoken to HSE and they can fund half from the safety budget. But the supplier needs three weeks to deliver, so I need a decision by Friday to make the shutdown. | İş güvenliği birimiyle konuştum, yarısını güvenlik bütçesinden karşılayabilirler. Ama tedarikçinin teslimat için üç haftaya ihtiyacı var, bu yüzden duruşa yetişmek için cumaya kadar bir karar lazım.
