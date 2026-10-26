@@ -62,18 +62,12 @@ rep('''  if(c==="session_expired") return "Oturum süresi dolmuş. claude.ai'ye 
   if(c==="upstream") return "Claude şu an yoğun. Birkaç saniye sonra tekrar gönder.";
   if(c==="too_large") return "Mesaj çok uzun. Kısaltıp tekrar gönder.";''')
 
-# --- phrase chips: the ones taken from the partner's reply sit under the reply, not under the learner's message ---
-rep('''- Pick 1-2 useful chunks (multi-word phrases) from your recast or reply that the learner should reuse, each with a short Turkish gloss.''',
-'''- Pick 1-2 useful chunks (multi-word phrases) from your recast, suggestion or reply that the learner should reuse, each with a short Turkish gloss. Mark where each comes from: "from": "recast" for your recast or suggestion, "from": "reply" for your own reply.''')
-rep('''"chunks": [{"en": string, "tr": string}]}`;''', '''"chunks": [{"en": string, "tr": string, "from": "recast" | "reply"}]}`;''')
-rep('''    const chunks=Array.isArray(out?.chunks)?out.chunks:[];
-    const mine=''', '''    const allChunks=Array.isArray(out?.chunks)?out.chunks:[];
-    const chunks=allChunks.filter(c=>c?.from!=="reply"), replyChunks=allChunks.filter(c=>c?.from==="reply");
-    const mine=''')
-rep('''    addMsg("them",reply);
-    turns.push({role:"assistant",content:reply});''', '''    const rb=addMsg("them",reply); if(replyChunks.length) rb.parentElement.append(chunkRow(replyChunks));
-    turns.push({role:"assistant",content:reply});''')
-rep('''    chunks.forEach(c=>c?.en&&savePhrase(''', '''    allChunks.forEach(c=>c?.en&&savePhrase(''')
+# --- meeting: no phrase chips under either message (Kemal 2026-10-26: the natural version already shows it);
+#     the phrases are still saved to "İfadelerim" ---
+rep('''    if(mine&&sug&&out?.understood!==true){mine.append(suggestBox(sug));if(chunks.length)mine.append(chunkRow(chunks,true))}
+    else if(mine&&out?.recast){mine.append(recastBox(String(out.recast)));if(chunks.length)mine.append(chunkRow(chunks,true))}''',
+'''    if(mine&&sug&&out?.understood!==true) mine.append(suggestBox(sug));
+    else if(mine&&out?.recast) mine.append(recastBox(String(out.recast)));''')
 
 # --- name and badge, so the personal copy is never mistaken for the shared app ---
 rep('<b id="accName">Laminate Talk</b>', '<b id="accName">Laminate Talk</b> <span style="background:#5b3cc4;color:#fff;border-radius:6px;padding:1px 6px;font-size:.75em">KİŞİSEL</span>')

@@ -1162,10 +1162,10 @@ Rules:
 - Never explain grammar. Instead give a "recast": the learner's last message rewritten as a fluent speaker at this level would say it, keeping their meaning and content. If it was already natural, recast can be an empty string.
 - If the learner's last message is meaningless, random letters, unrelated to your question, or too broken to understand: do NOT move the conversation on. Set "understood" to false. In "reply", stay in role and say briefly that you didn't follow, then ask the same question again in simpler words. Put "" in "recast". In "suggest", write a good answer the learner could give to your previous question, as a fluent speaker at this level would say it, using the facts from the scenario brief (invent plausible details if needed).
 - If the message is understandable, set "understood" to true and "suggest" to "".
-- Pick 1-2 useful chunks (multi-word phrases) from your recast, suggestion or reply that the learner should reuse, each with a short Turkish gloss. Mark where each comes from: "from": "recast" for your recast or suggestion, "from": "reply" for your own reply.
+- Pick 1-2 useful chunks (multi-word phrases) from your recast or reply that the learner should reuse, each with a short Turkish gloss.
 - Use correct composite and business terminology where relevant.${targetLine()}
 
-Reply with only JSON: {"understood": boolean, "reply": string, "recast": string, "suggest": string, "chunks": [{"en": string, "tr": string, "from": "recast" | "reply"}]}`;
+Reply with only JSON: {"understood": boolean, "reply": string, "recast": string, "suggest": string, "chunks": [{"en": string, "tr": string}]}`;
 }
 function addMsg(who,text){
   const m=document.createElement("div"); m.className="msg "+(who==="me"?"me":"them");
@@ -1198,16 +1198,15 @@ $("#send").onclick=async()=>{
     const out=await sample.json([{role:"user",content:rules()},{role:"assistant",content:"Understood. I'll stay in role and reply in JSON."},...recent],{cache:false,modelTier:"quick",signal:ctl.signal});
     const reply=String(out?.reply||"").trim()||"Could you say a bit more about that?";
     pending.parentElement.remove();
-    const allChunks=Array.isArray(out?.chunks)?out.chunks:[];
-    const chunks=allChunks.filter(c=>c?.from!=="reply"), replyChunks=allChunks.filter(c=>c?.from==="reply");
+    const chunks=Array.isArray(out?.chunks)?out.chunks:[];
     const mine=[...document.querySelectorAll(".msg.me")].pop();
     const sug=String(out?.suggest||"").trim();
-    if(mine&&sug&&out?.understood!==true){mine.append(suggestBox(sug));if(chunks.length)mine.append(chunkRow(chunks,true))}
-    else if(mine&&out?.recast){mine.append(recastBox(String(out.recast)));if(chunks.length)mine.append(chunkRow(chunks,true))}
-    const rb=addMsg("them",reply); if(replyChunks.length) rb.parentElement.append(chunkRow(replyChunks));
+    if(mine&&sug&&out?.understood!==true) mine.append(suggestBox(sug));
+    else if(mine&&out?.recast) mine.append(recastBox(String(out.recast)));
+    addMsg("them",reply);
     turns.push({role:"assistant",content:reply});
     meet(oxIn(reply+" "+String(out?.recast||"")+" "+sug));
-    allChunks.forEach(c=>c?.en&&savePhrase(String(c.en),String(c.tr||"")));
+    chunks.forEach(c=>c?.en&&savePhrase(String(c.en),String(c.tr||"")));
     if($("#speakBack").checked) play(reply,"t");
   }catch(e){
     turns.pop(); pending.textContent=errCopy(e)||"Durduruldu."; pending.parentElement.querySelector(".who").textContent="Not";
